@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI News Blog ქართულად</title>
+  <meta name="description" content="Agentic Brew-ის news, twitter, github, reddit, youtube, product hunt, skill, blog, paper და event feed-ებიდან ქართული AI digest." />
+  <style>
+    @font-face {
+      font-family: 'Noto Sans Georgian';
+      src: url('fonts/noto-sans-georgian.woff2') format('woff2');
+      font-display: swap;
+      font-weight: 100 900;
+    }
+    :root {
+      --bg: #0e1118;
+      --panel: #141826;
+      --panel-2: #181d2c;
+      --text: #e6edf7;
+      --muted: #95a1b5;
+      --border: #262c3e;
+      --blue: #4f8ef7;
+      --violet: #8b5cf6;
+      --green: #22c55e;
+      --amber: #f59e0b;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'Noto Sans Georgian', system-ui, sans-serif;
+      background:
+        radial-gradient(circle at top, rgba(79,142,247,.18), transparent 26%),
+        radial-gradient(circle at 80% 0%, rgba(139,92,246,.10), transparent 20%),
+        var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    a { color: inherit; }
+    .topbar {
+      position: sticky; top: 0; z-index: 30;
+      background: rgba(14,17,24,.84);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(38,44,62,.8);
+    }
+    .topbar-inner {
+      max-width: 1200px; margin: 0 auto; padding: 14px 20px;
+      display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    }
+    .back { text-decoration: none; color: var(--muted); white-space: nowrap; }
+    .back:hover { color: #c6d5ff; }
+    .badge {
+      padding: 7px 12px; border-radius: 999px; font-size: .82rem; font-weight: 800;
+      border: 1px solid rgba(79,142,247,.3); background: rgba(79,142,247,.13); color: #b5cffd;
+    }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 26px 20px 72px; }
+    .hero {
+      border: 1px solid rgba(255,255,255,.08); border-radius: 28px; overflow: hidden;
+      background:
+        linear-gradient(180deg, rgba(24,29,44,.98), rgba(19,23,35,.96)),
+        radial-gradient(circle at top left, rgba(79,142,247,.16), transparent 34%);
+      box-shadow: 0 24px 60px rgba(0,0,0,.30);
+    }
+    .hero-inner { padding: 36px; display: grid; gap: 24px; grid-template-columns: 1.18fr .82fr; }
+    .deep-dive {
+      margin-top: 22px;
+      border: 1px solid rgba(79,142,247,.22);
+      border-radius: 20px;
+      background: linear-gradient(180deg, rgba(79,142,247,.10), rgba(24,29,44,.96));
+      overflow: hidden;
+      box-shadow: 0 14px 40px rgba(0,0,0,.22);
+    }
+    .deep-dive-inner {
+      padding: 22px 24px;
+      display: grid;
+      gap: 14px;
+    }
+    .deep-dive-head { display: flex; justify-content: space-between; gap: 16px; align-items: start; flex-wrap: wrap; }
+    .deep-dive-title { margin: 0; font-size: 1.25rem; line-height: 1.25; }
+    .deep-dive-label { color: #b5cffd; font-size: .8rem; letter-spacing: .14em; text-transform: uppercase; font-weight: 800; }
+    .deep-dive-grid { display: grid; gap: 12px; grid-template-columns: 1fr; }
+    .deep-dive-box {
+      border: 1px solid rgba(255,255,255,.08); border-radius: 16px; padding: 18px 20px;
+      background: rgba(255,255,255,.03);
+    }
+    .deep-dive-box h4 { margin: 0 0 8px; font-size: 1rem; }
+    .deep-dive-box p { margin: 0; color: #dce4f1; font-size: 1.02rem; max-width: 68ch; }
+    .deep-dive-original {
+      border: 1px solid rgba(255,255,255,.06); border-radius: 14px; padding: 4px 16px;
+      background: rgba(255,255,255,.015);
+    }
+    .deep-dive-original summary {
+      cursor: pointer; padding: 12px 0; color: var(--muted); font-size: .88rem; font-weight: 700;
+      list-style: none;
+    }
+    .deep-dive-original summary::-webkit-details-marker { display: none; }
+    .deep-dive-original summary::before { content: '▸ '; }
+    .deep-dive-original[open] summary::before { content: '▾ '; }
+    .deep-dive-original p { color: var(--muted); font-size: .92rem; max-width: 68ch; padding-bottom: 14px; }
+    .eyebrow { margin: 0 0 10px; color: #b5cffd; font-size: .76rem; letter-spacing: .16em; text-transform: uppercase; font-weight: 800; }
+    h1 { margin: 0 0 16px; font-size: clamp(2.25rem, 4.8vw, 4.2rem); line-height: 1.04; letter-spacing: -0.03em; }
+    .lead { margin: 0; color: #d6dfed; max-width: 76ch; font-size: 1.03rem; }
+    .hero-panel {
+      border: 1px solid rgba(255,255,255,.08); border-radius: 18px; padding: 18px;
+      background: rgba(255,255,255,.03);
+    }
+    .stats { display: grid; gap: 10px; grid-template-columns: repeat(2, minmax(0,1fr)); margin-top: 16px; }
+    .stat { border: 1px solid rgba(255,255,255,.07); border-radius: 14px; padding: 14px; background: rgba(255,255,255,.03); }
+    .stat .k { color: var(--muted); font-size: .8rem; margin-bottom: 4px; }
+    .stat .v { font-weight: 800; font-size: 1rem; }
+    .controls {
+      margin-top: 18px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+    }
+    .chip-btn {
+      border: 1px solid var(--border); background: #171c29; color: #d9e2f2;
+      border-radius: 999px; padding: 9px 14px; font: inherit; cursor: pointer;
+    }
+    .chip-btn.active, .chip-btn:hover { border-color: rgba(79,142,247,.45); background: rgba(79,142,247,.14); color: #b9d1ff; }
+    .search {
+      margin-left: auto; flex: 1 1 280px; max-width: 440px;
+      border-radius: 12px; border: 1px solid var(--border); background: #10141d; color: var(--text);
+      padding: 11px 14px; font: inherit;
+    }
+    .search::placeholder { color: #687285; }
+    .section { margin-top: 28px; }
+    .section-head { display: flex; justify-content: space-between; align-items: end; gap: 16px; margin-bottom: 14px; }
+    .section-title { margin: 0; font-size: 1.3rem; }
+    .section-sub { color: var(--muted); font-size: .9rem; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 16px; }
+    .grid.one { grid-template-columns: 1fr; }
+    .card {
+      border: 1px solid rgba(255,255,255,.08); border-radius: 20px; overflow: hidden; background: linear-gradient(180deg, rgba(24,29,44,.96), rgba(19,23,35,.98));
+      box-shadow: 0 12px 36px rgba(0,0,0,.18); cursor: pointer; transition: transform .18s ease, border-color .18s ease, box-shadow .18s ease;
+    }
+    .card:hover { transform: translateY(-2px); border-color: rgba(79,142,247,.35); box-shadow: 0 18px 42px rgba(0,0,0,.26); }
+    .card.featured { grid-column: 1 / -1; background: linear-gradient(180deg, rgba(79,142,247,.14), rgba(24,29,44,.98)); }
+    .card-top { padding: 18px 18px 0; display: flex; gap: 12px; align-items: flex-start; }
+    .rank {
+      width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; flex-shrink: 0;
+      font-weight: 900; color: white; background: linear-gradient(135deg, var(--blue), var(--violet));
+    }
+    .headline { margin: 0; font-size: 1.08rem; line-height: 1.35; }
+    .source-pill {
+      display: inline-flex; align-items: center; gap: 6px; padding: 5px 11px; border-radius: 999px;
+      font-size: .72rem; font-weight: 800; margin-bottom: 8px; letter-spacing: .03em;
+    }
+    .summary {
+      margin: 12px 0 0; padding: 0 18px 18px; color: #d7deea;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .meta { padding: 0 18px 18px; display: flex; justify-content: space-between; gap: 10px; align-items: center; flex-wrap: wrap; }
+    .source-line { color: var(--muted); font-size: .84rem; }
+    .readmore {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 10px 14px; border-radius: 12px;
+      border: 1px solid var(--border); background: #171c29; font-weight: 800; text-decoration: none;
+    }
+    .readmore:hover { border-color: rgba(79,142,247,.45); color: #b9d1ff; }
+    .feed-strip {
+      display: flex; gap: 10px; flex-wrap: wrap; margin-top: 18px;
+    }
+    .feed-chip {
+      border: 1px solid var(--border); background: #151a27; border-radius: 999px; padding: 8px 12px; font-size: .9rem;
+      color: #d9e2f2; text-decoration: none;
+    }
+    .feed-chip:hover { border-color: rgba(79,142,247,.45); color: #b9d1ff; }
+    .empty {
+      margin-top: 22px; padding: 18px; border: 1px dashed var(--border); border-radius: 14px; color: #cdd7e7; background: rgba(255,255,255,.02);
+    }
+    .modal {
+      position: fixed; inset: 0; background: rgba(2,6,23,.72); display: none; align-items: center; justify-content: center;
+      padding: 18px; z-index: 100;
+    }
+    .modal.open { display: flex; }
+    .modal-card {
+      width: min(100%, 900px); max-height: 92vh; overflow: auto;
+      background: #121725; border: 1px solid rgba(255,255,255,.08); border-radius: 22px; box-shadow: 0 26px 80px rgba(0,0,0,.48);
+    }
+    .modal-head {
+      position: sticky; top: 0; display: flex; justify-content: space-between; gap: 12px; align-items: center; padding: 18px 20px;
+      border-bottom: 1px solid rgba(255,255,255,.07); background: rgba(18,23,37,.96); backdrop-filter: blur(10px);
+    }
+    .close {
+      border: 1px solid var(--border); background: #171c29; color: var(--text); border-radius: 10px; padding: 8px 12px; cursor: pointer;
+    }
+    .modal-body { padding: 20px; }
+    .detail-title { margin: 0 0 10px; font-size: clamp(1.3rem, 2.8vw, 2rem); }
+    .detail-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; color: var(--muted); font-size: .9rem; }
+    .detail-content { color: #dce4f1; white-space: pre-wrap; }
+    .detail-box {
+      margin-top: 16px; padding: 16px; border-radius: 16px; border: 1px solid rgba(255,255,255,.08); background: rgba(255,255,255,.03);
+    }
+    .detail-actions { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none;
+      border-radius: 12px; padding: 10px 14px; font-weight: 800; border: 1px solid var(--border); background: #171c29; color: var(--text);
+    }
+    .btn.primary { background: rgba(79,142,247,.15); border-color: rgba(79,142,247,.35); color: #bfd4ff; }
+    .footer-note { margin-top: 28px; color: var(--muted); font-size: .92rem; }
+    @media (max-width: 920px) {
+      .hero-inner { grid-template-columns: 1fr; }
+      .grid { grid-template-columns: 1fr; }
+      .search { margin-left: 0; max-width: none; width: 100%; }
+    }
+    @media (max-width: 640px) {
+      .wrap { padding: 18px 14px 60px; }
+      .hero-inner { padding: 20px; }
+      .topbar-inner { padding-left: 14px; padding-right: 14px; }
+      .stats { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <span class="badge">Agentic Brew · 10 feed digest</span>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="hero-inner">
+        <div>
+          <p class="eyebrow">Daily AI digest</p>
+          <h1>დღის AI ბლოგი ქართულად</h1>
+          <p class="lead">
+            ეს გვერდი აერთიანებს Agentic Brew-ის news, twitter, github, reddit, youtube, product hunt, skill, blog, paper და event წყაროებს.
+            ზედა ბარათები არის დღის მთავარი ამბები, ქვემოთ კი თითოეული წყაროს ცალკე სექციაა.
+          </p>
+          <div class="controls">
+            <button class="chip-btn active" data-filter="all">ყველა</button>
+            <button class="chip-btn" data-filter="news">ნიუსი</button>
+            <button class="chip-btn" data-filter="twitter">ტვიტერი</button>
+            <button class="chip-btn" data-filter="github">გიტჰაბი</button>
+            <button class="chip-btn" data-filter="reddit">რედიტი</button>
+            <button class="chip-btn" data-filter="youtube">იუთუბი</button>
+            <button class="chip-btn" data-filter="product_hunt">Product Hunt</button>
+            <button class="chip-btn" data-filter="skill">Skills</button>
+            <button class="chip-btn" data-filter="blog">ბლოგი</button>
+            <button class="chip-btn" data-filter="paper">კვლევა</button>
+            <button class="chip-btn" data-filter="event">ივენთი</button>
+            <input class="search" id="searchInput" placeholder="ძებნა სათაურში, შინაარსში ან წყაროში…" />
+          </div>
+          <div class="feed-strip" id="feedStrip"></div>
+        </div>
+        <aside class="hero-panel">
+          <p class="eyebrow">დღის სურათი</p>
+          <div class="stats">
+            <div class="stat"><div class="k">featured</div><div class="v" id="statFeatured">10 ამბავი</div></div>
+            <div class="stat"><div class="k">წყაროები</div><div class="v">10 feed</div></div>
+            <div class="stat"><div class="k">სულ loaded</div><div class="v" id="statTotal">—</div></div>
+            <div class="stat"><div class="k">ბოლო განახლება</div><div class="v" id="statUpdated">—</div></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <h2 class="section-title">დღის მთავარი ამბები</h2>
+          <div class="section-sub">მოკლე, წასაკითხი და ქართული — სრულად იხსნება click-ით.</div>
+        </div>
+      </div>
+      <div id="deepDive"></div>
+      <div id="featuredGrid" class="grid" style="margin-top: 18px;"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-head">
+        <div>
+          <h2 class="section-title">ყველა სექცია ცალ-ცალკე</h2>
+          <div class="section-sub">news / twitter / github / reddit / youtube / product hunt / skill / blog / paper / event</div>
+        </div>
+      </div>
+      <div id="sectionArea"></div>
+    </section>
+
+    <div class="empty" id="emptyState" style="display:none;">შესაბამისი შედეგი ვერ მოიძებნა.</div>
+    <div class="footer-note">თუ გინდა, შემდეგში ამ გვერდს ავტომატურ daily refresh-ს, ახალი sources-ის რანგირებას და Obsidian note export-საც დავუმატებ.</div>
+  </main>
+
+  <div class="modal" id="detailModal" aria-hidden="true">
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+      <div class="modal-head">
+        <div id="detailSource"> </div>
+        <button class="close" id="closeModal">დახურვა</button>
+      </div>
+      <div class="modal-body">
+        <h2 class="detail-title" id="detailTitle"></h2>
+        <div class="detail-meta" id="detailMeta"></div>
+        <div class="detail-box">
+          <div class="detail-content" id="detailContent"></div>
+        </div>
+        <div class="detail-box">
+          <strong>English original</strong>
+          <div class="detail-content" id="detailOriginal"></div>
+        </div>
+        <div class="detail-actions">
+          <a class="btn primary" id="sourceLink" target="_blank" rel="noreferrer">წყაროზე გადასვლა ↗</a>
+          <button class="btn" id="copySummary">ქართულ ტექსტის კოპირება</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      const state = { items: [], featured: [], sections: {}, filter: 'all', query: '' };
+      const featuredGrid = document.getElementById('featuredGrid');
+      const deepDive = document.getElementById('deepDive');
+      const sectionArea = document.getElementById('sectionArea');
+      const empty = document.getElementById('emptyState');
+      const feedStrip = document.getElementById('feedStrip');
+      const statFeatured = document.getElementById('statFeatured');
+      const statTotal = document.getElementById('statTotal');
+      const statUpdated = document.getElementById('statUpdated');
+      const search = document.getElementById('searchInput');
+      const modal = document.getElementById('detailModal');
+
+      const closeModal = document.getElementById('closeModal');
+      const detailTitle = document.getElementById('detailTitle');
+      const detailContent = document.getElementById('detailContent');
+      const detailOriginal = document.getElementById('detailOriginal');
+      const detailMeta = document.getElementById('detailMeta');
+      const detailSource = document.getElementById('detailSource');
+      const sourceLink = document.getElementById('sourceLink');
+      const copySummary = document.getElementById('copySummary');
+      const sourceNames = {
+        news: 'ნიუსი', twitter: 'ტვიტერი', github: 'გიტჰაბი', reddit: 'რედიტი', youtube: 'იუთუბი',
+        product_hunt: 'Product Hunt', skill: 'Skills', blog: 'ბლოგი', paper: 'კვლევა', event: 'ივენთი'
+      };
+      const sourceStyles = {
+        news: ['rgba(79,142,247,.14)', 'rgba(79,142,247,.35)', '#b9d1ff'],
+        twitter: ['rgba(139,92,246,.14)', 'rgba(139,92,246,.35)', '#dfc7ff'],
+        github: ['rgba(34,197,94,.14)', 'rgba(34,197,94,.35)', '#a8f0c1'],
+        reddit: ['rgba(245,158,11,.14)', 'rgba(245,158,11,.35)', '#ffd9a0'],
+        youtube: ['rgba(239,68,68,.14)', 'rgba(239,68,68,.35)', '#ffc0c0'],
+        product_hunt: ['rgba(255,115,89,.14)', 'rgba(255,115,89,.35)', '#ffd0c7'],
+        skill: ['rgba(14,165,233,.14)', 'rgba(14,165,233,.35)', '#b8e9ff'],
+        blog: ['rgba(168,85,247,.14)', 'rgba(168,85,247,.35)', '#e3c7ff'],
+        paper: ['rgba(20,184,166,.14)', 'rgba(20,184,166,.35)', '#bcf4eb'],
+        event: ['rgba(244,114,182,.14)', 'rgba(244,114,182,.35)', '#ffd1e8']
+      };
+
+      function esc(s) {
+        return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+      }
+      function matches(item) {
+        if (state.filter !== 'all' && item.feed !== state.filter) return false;
+        const hay = [item.title_ka, item.excerpt_ka, item.description_ka, item.title_en, item.description_en, item.source_label].join(' ').toLowerCase();
+        return !state.query || hay.includes(state.query);
+      }
+      function renderDeepDive() {
+        const item = state.featured.find(matches) || state.featured.find(Boolean);
+        if (!item) {
+          deepDive.innerHTML = '';
+          return;
+        }
+        const short = item.description_ka || item.excerpt_ka || item.description_en || item.excerpt_en || '';
+        const original = item.description_en || item.excerpt_en || '';
+        deepDive.innerHTML = `
+          <div class="deep-dive">
+            <div class="deep-dive-inner">
+              <div class="deep-dive-head">
+                <div>
+                  <div class="deep-dive-label">დღის მთავარი მოკლე ანალიტიკა</div>
+                  <h3 class="deep-dive-title">${esc(item.title_ka || item.title_en)}</h3>
+                </div>
+                <div class="source-pill" style="margin:0;">${esc(sourceNames[item.feed] || item.feed)}</div>
+              </div>
+              <div class="deep-dive-grid">
+                <div class="deep-dive-box">
+                  <p>${esc(short)}</p>
+                </div>
+                ${original ? `
+                <details class="deep-dive-original">
+                  <summary>ორიგინალი ტექსტი ინგლისურად</summary>
+                  <p>${esc(original)}</p>
+                </details>` : ''}
+              </div>
+              <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:space-between;">
+                <div style="color: var(--muted); font-size: .9rem;">${esc(item.pub_date || '')}</div>
+                <a class="readmore" href="${esc(item.link || '#')}" target="_blank" rel="noreferrer">წყაროზე გადასვლა →</a>
+              </div>
+            </div>
+          </div>
+        `;
+      }
+      function openDetail(item) {
+        detailTitle.textContent = item.title_ka || item.title_en;
+        detailContent.textContent = item.description_ka || item.excerpt_ka || item.description_en || item.excerpt_en || '';
+        detailOriginal.textContent = item.description_en || item.excerpt_en || '';
+        detailMeta.innerHTML = `
+          <span>${esc(item.pub_date || '')}</span>
+          <span>•</span>
+          <span>${esc(sourceNames[item.feed] || item.feed)}</span>
+          <span>•</span>
+          <span>${esc((item.categories || []).join(', '))}</span>
+        `;
+        detailSource.textContent = sourceNames[item.feed] || item.feed;
+        sourceLink.href = item.link || '#';
+        copySummary.onclick = async () => {
+          const text = `${item.title_ka || item.title_en}\n\n${item.description_ka || item.excerpt_ka || ''}\n\nSource: ${item.link || ''}`;
+          try { await navigator.clipboard.writeText(text); copySummary.textContent = 'დაკოპირდა'; setTimeout(() => copySummary.textContent = 'ქართულ ტექსტის კოპირება', 1200); } catch (e) {}
+        };
+        modal.classList.add('open');
+        modal.setAttribute('aria-hidden', 'false');
+      }
+      function closeDetail() {
+        modal.classList.remove('open');
+        modal.setAttribute('aria-hidden', 'true');
+      }
+      function card(item, idx, featured=false) {
+        const styles = sourceStyles[item.feed] || ['rgba(255,255,255,.08)', 'rgba(255,255,255,.18)', '#fff'];
+        return `
+          <article class="card ${featured ? 'featured' : ''}" data-feed="${esc(item.feed)}" data-uid="${esc(item.uid || '')}">
+            <div class="card-top">
+              <div class="rank">${idx + 1}</div>
+              <div>
+                <div class="source-pill" style="background:${styles[0]};border:1px solid ${styles[1]};color:${styles[2]}">${esc(sourceNames[item.feed] || item.feed)}</div>
+                <h3 class="headline">${esc(item.title_ka || item.title_en)}</h3>
+              </div>
+            </div>
+            <p class="summary">${esc(item.excerpt_ka || item.description_ka || item.excerpt_en || item.description_en || '')}</p>
+            <div class="meta">
+              <div class="source-line">${esc(item.pub_date || '')}</div>
+              <a class="readmore" href="javascript:void(0)">სრულად წაიკითხე →</a>
+            </div>
+          </article>
+        `;
+      }
+      function renderFeatured() {
+        const items = state.featured.filter(matches);
+        statFeatured.textContent = `${items.length} ამბავი`;
+        featuredGrid.innerHTML = items.map((item, idx) => card(item, idx, idx === 0)).join('');
+      }
+      function renderSections() {
+        const feeds = Object.keys(state.sections);
+        let html = '';
+        let visibleCount = 0;
+        feeds.forEach(feed => {
+          const items = (state.sections[feed] || []).filter(matches);
+          if (!items.length) return;
+          visibleCount += items.length;
+          html += `
+            <section class="section">
+              <div class="section-head">
+                <div>
+                  <h3 class="section-title">${esc(sourceNames[feed] || feed)}</h3>
+                  <div class="section-sub">${esc(feed)} feed · ${items.length} item</div>
+                </div>
+              </div>
+              <div class="grid ${feed === 'event' || feed === 'product_hunt' ? 'one' : ''}">
+                ${items.map((item, idx) => card(item, idx, false)).join('')}
+              </div>
+            </section>
+          `;
+        });
+        sectionArea.innerHTML = html;
+        empty.style.display = visibleCount ? 'none' : 'block';
+      }
+      function renderFeedStrip() {
+        const allFeeds = Object.keys(state.sections);
+        feedStrip.innerHTML = allFeeds.map(feed => `<a class="feed-chip" href="#" data-feed-link="${esc(feed)}">${esc(sourceNames[feed] || feed)} (${(state.sections[feed] || []).length})</a>`).join('');
+        feedStrip.querySelectorAll('[data-feed-link]').forEach(el => {
+          el.addEventListener('click', e => {
+            e.preventDefault();
+            state.filter = el.dataset.feedLink;
+            document.querySelectorAll('.chip-btn').forEach(x => x.classList.remove('active'));
+            const btn = document.querySelector(`.chip-btn[data-filter="${state.filter}"]`);
+            if (btn) btn.classList.add('active');
+            renderDeepDive();
+            renderFeatured();
+            renderSections();
+          });
+        });
+      }
+      document.querySelectorAll('.chip-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.chip-btn').forEach(x => x.classList.remove('active'));
+          btn.classList.add('active');
+          state.filter = btn.dataset.filter;
+          renderDeepDive();
+          renderFeatured();
+          renderSections();
+        });
+      });
+      search.addEventListener('input', () => {
+        state.query = search.value.trim().toLowerCase();
+        renderDeepDive();
+        renderFeatured();
+        renderSections();
+      });
+      featuredGrid.addEventListener('click', e => {
+        const cardEl = e.target.closest('.card');
+        if (!cardEl) return;
+        const uid = cardEl.dataset.uid;
+        const item = [...state.featured, ...Object.values(state.sections).flat()].find(x => x.uid === uid);
+        if (item) openDetail(item);
+      });
+      sectionArea.addEventListener('click', e => {
+        const cardEl = e.target.closest('.card');
+        if (!cardEl) return;
+        const uid = cardEl.dataset.uid;
+        const item = [...state.featured, ...Object.values(state.sections).flat()].find(x => x.uid === uid);
+        if (item) openDetail(item);
+      });
+      closeModal.addEventListener('click', closeDetail);
+      modal.addEventListener('click', e => { if (e.target === modal) closeDetail(); });
+      window.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
+
+      fetch('ai-news.json', { cache: 'no-store' })
+        .then(r => r.json())
+        .then(data => {
+          state.featured = data.featured || [];
+          state.sections = data.sections || {};
+          state.items = data.all || [];
+          statUpdated.textContent = new Date(data.generated_at).toLocaleString('ka-GE', { dateStyle: 'medium', timeStyle: 'short' });
+          statTotal.textContent = `${state.items.length} item`;
+          renderFeedStrip();
+          renderDeepDive();
+          renderFeatured();
+          renderSections();
+        })
+        .catch(() => {
+          featuredGrid.innerHTML = '<div class="empty" style="grid-column:1/-1;">AI news JSON ვერ ჩაიტვირთა.</div>';
+        });
+    })();
+  </script>
+</body>
+</html>
