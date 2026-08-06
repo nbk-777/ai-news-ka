@@ -1,39 +1,56 @@
 {
-  "generated_at": "2026-08-05T23:13:55.619513+00:00",
+  "generated_at": "2026-08-06T06:38:21.926765+00:00",
   "featured": [
     {
-      "uid": "news|Wed, 05 Aug 2026 17:33:35 GMT|US Ban on Chinese Optical Transceivers for AI Data Centers",
+      "uid": "news|Thu, 06 Aug 2026 00:35:14 GMT|Cloudflare launches stablecoin wallets for AI agents",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "US Ban on Chinese Optical Transceivers for AI Data Centers",
-      "description_en": "The FCC is drafting a rule to ban US imports of new Chinese-made optical transceivers used in AI data centers, with officials hoping to publish and implement it before the end of 2026, citing risks of data theft, malware, and remote disruption. Zhongji Innolight and Eoptolink together control more than 60% of the global 800G-and-above optical module market that feeds Nvidia's AI clusters, and Innolight was added to the Pentagon's list of alleged Chinese military companies in June 2026. The rule would apply only to new transceiver models going forward, not require removal of already-installed equipment, and could still be modified or shelved before publication. China's Ministry of Commerce responded within a day with countermeasures against US entities, including tighter drone export reviews and a ban on US inspectors certifying Chinese products for export.",
-      "excerpt_en": "The FCC is drafting a rule to ban US imports of new Chinese-made optical transceivers used in AI data centers, with officials hoping to publish and implement it before the end of 2026, citing risks of data theft, malware, and remote disruption.",
-      "link": "https://www.agenticbrew.ai/news#cluster=b1b4c18e-99c6-42dd-b788-e022cab89ddf",
-      "pub_date": "Wed, 05 Aug 2026 17:33:35 GMT",
+      "title_en": "Cloudflare launches stablecoin wallets for AI agents",
+      "description_en": "Cloudflare announced Cloudflare Wallets and the cloudflare.pay platform on August 4, 2026, giving AI agents a stable web identity and the ability to hold and spend stablecoins. The system splits control into two tiers: human-controlled Account Wallets that fund and delegate spend, and agent-operated Virtual Wallets that spend within limits the human sets via API keys. Owners can attach an allowance cap, a merchant allow-list, and a maximum single-transaction size to a Virtual Wallet, letting an agent explore and buy services without per-transaction human approval. Payments route through the x402 protocol, an open standard originated by Coinbase, which embeds micropayments directly into HTTP requests using the 402 Payment Required status code. cloudflare.pay handles map to a cryptographic keypair so a merchant can see which human or organization runs a given agent, similar in spirit to how DNS maps names to IP addresses. At launch only wallet-handle reservation is live; funding, onramp/offramp, and full Virtual Wallet issuance are described as coming in the following months with a phased regional rollout. Cloudflare also plans anomaly detection for unusual spending patterns, admin controls to halt unexpected agent activity, and Turnstile/Bot Management integration to separate legitimate agents from unauthorized bots.",
+      "excerpt_en": "Cloudflare announced Cloudflare Wallets and the cloudflare.pay platform on August 4, 2026, giving AI agents a stable web identity and the ability to hold and spend stablecoins.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=0386d25e-37d5-478f-99d1-a709d997f6c3",
+      "pub_date": "Thu, 06 Aug 2026 00:35:14 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "აშშ-მ აკრძალა ჩინური ოპტიკური გადამცემები AI მონაცემთა ცენტრებისთვის",
-      "excerpt_ka": "FCC შეიმუშავებს წესს, რომ აკრძალოს აშშ-ში ჩინეთის წარმოების ახალი ოპტიკური გადამცემების იმპორტი, რომლებიც გამოიყენება ხელოვნური ინტელექტის მონაცემთა ცენტრებში, ოფიციალური პირები იმედოვნებენ, რომ გამოაქვეყნებენ და განახორციელებენ მას 2026 წლის ბოლომდე, მონაცემთა ქურდობის, მავნე პროგრამების და დისტანციური შეფერხების რისკების მოტივით.",
-      "description_ka": "FCC შეიმუშავებს წესს, რომ აკრძალოს აშშ-ში ჩინეთის წარმოების ახალი ოპტიკური გადამცემების იმპორტი, რომლებიც გამოიყენება ხელოვნური ინტელექტის მონაცემთა ცენტრებში, ოფიციალური პირები იმედოვნებენ, რომ გამოაქვეყნებენ და განახორციელებენ მას 2026 წლის ბოლომდე, მონაცემთა ქურდობის, მავნე პროგრამების და დისტანციური შეფერხების რისკების მოტივით. Zhongji Innolight და Eoptolink ერთად აკონტროლებენ გლობალური 800G და ზემოთ ოპტიკური მოდულის ბაზრის 60%-ზე მეტს, რომელიც კვებავს Nvidia-ს AI კლასტერებს და Innolight დაემატა პენტაგონის სავარაუდო ჩინური სამხედრო კომპანიების სიას 2026 წლის ივნისში. ეს წესი ვრცელდება მხოლოდ ახალი გადამცემის მოდელებზე. თაროზე გამოქვეყნებამდე. ჩინეთის ვაჭრობის სამინისტრომ უპასუხა ერთი დღის განმავლობაში აშშ-ის სუბიექტების წინააღმდეგ საპასუხო ზომებით, მათ შორის თვითმფრინავების ექსპორტის გამკაცრებული მიმოხილვისა და ამერიკელი ინსპექტორების აკრძალვით, რომლებიც ამოწმებენ ჩინური პროდუქციის ექსპორტს."
+      "title_ka": "Cloudflare გამოუშვებს stablecoin საფულეებს AI აგენტებისთვის",
+      "excerpt_ka": "Cloudflare-მა გამოაცხადა Cloudflare Wallets და cloudflare.pay პლატფორმა 2026 წლის 4 აგვისტოს, რაც ხელოვნური ინტელექტის აგენტებს აძლევს სტაბილურ ვებ იდენტურობას და შესაძლებლობას შეინახონ და დახარჯონ stablecoins.…",
+      "description_ka": "Cloudflare-მა გამოაცხადა Cloudflare Wallets და cloudflare.pay პლატფორმა 2026 წლის 4 აგვისტოს, რაც ხელოვნური ინტელექტის აგენტებს აძლევს სტაბილურ ვებ იდენტურობას და შესაძლებლობას, შეინახონ და დახარჯონ სტაბილური მონეტები. სისტემა კონტროლს ყოფს ორ ფენად: ადამიანის მიერ კონტროლირებადი ანგარიშის საფულეები, რომლებიც აფინანსებენ და დელეგირებენ ხარჯებს, და აგენტის მიერ მართული ვირტუალური საფულეები, რომლებიც ხარჯავენ ადამიანის ნაკრების ფარგლებში API კლავიშების საშუალებით. მფლობელებს შეუძლიათ ვირტუალურ საფულეს დაურთონ შემწეობის ლიმიტი, მოვაჭრეების ნებართვების სია და მაქსიმალური ერთჯერადი ტრანზაქციის ზომა, რაც საშუალებას აძლევს აგენტს გამოიკვლიოს და შეიძინოს სერვისები თითოეული ტრანზაქციის ადამიანის თანხმობის გარეშე. გადახდების მარშრუტი x402 პროტოკოლის მეშვეობით, ღია სტანდარტი, რომელიც შექმნილია Coinbase-ის მიერ, რომელიც აერთიანებს მიკროგადახდებს პირდაპირ HTTP მოთხოვნებში 402 გადახდის საჭირო სტატუსის კოდის გამოყენებით. cloudflare.pay ამუშავებს რუკას კრიპტოგრაფიული გასაღებების წყვილზე, რათა მოვაჭრემ დაინახოს, რომელი ადამიანი ან ორგანიზაცია მართავს მოცემულ აგენტს, მსგავსი სულისკვეთებით, როგორ ასახავს DNS სახელებს IP მისამართებზე. გაშვებისას შესაძლებელია მხოლოდ საფულის სახელურის ჯავშანი პირდაპირ ეთერში; დაფინანსება, onramp/offramp და სრული ვირტუალური საფულის გაცემა აღწერილია, როგორც მომდევნო თვეებში ეტაპობრივი რეგიონალური გავრცელებით. Cloudflare ასევე გეგმავს ანომალიების გამოვლენას უჩვეულო ხარჯვის შაბლონებისთვის, ადმინისტრატორის კონტროლს აგენტის მოულოდნელი აქტივობის შესაჩერებლად და Turnstile/Bot Management ინტეგრაციას ცალკე ლეგიებისთვის"
     },
     {
-      "uid": "news|Wed, 05 Aug 2026 17:33:34 GMT|Anthropic's custom AI chip team",
+      "uid": "news|Thu, 06 Aug 2026 00:35:13 GMT|Meta launches Muse Code AI coding agent",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "Anthropic's custom AI chip team",
-      "description_en": "Anthropic publicly confirmed on August 5, 2026 that it has formed an in-house Custom Chip Team to design AI silicon for Claude, ending months of press speculation. The team is hiring chip-design and verification engineers at $320,000 to $485,000 a year, with postings demanding candidates who have personally shipped silicon to tape-out. Anthropic is in early talks with Samsung Electronics to manufacture its first custom chip on a 2-nanometer process with advanced packaging, but hasn't decided the chip's function, power level, or server design. Anthropic frames this as a 'multi-chip strategy' that adds to, rather than replaces, its existing AWS, Google, Nvidia, and AMD hardware relationships. One day before the chip team went public, Anthropic signed a $10 billion, six-year compute deal with cloud startup Volta for a Nvidia Vera Rubin-powered data center in Norway. Samsung, SK Hynix, and Micron are both strategic investors in Anthropic's recent funding round and potential chip manufacturing or supply partners; Anthropic has separately asked SK Hynix for chip-making supplies. Anthropic hired Clive Chan, a key engineer from OpenAI's own silicon division, months after OpenAI launched its Broadcom-built 'Jalapeño' inference chip in June 2026.",
-      "excerpt_en": "Anthropic publicly confirmed on August 5, 2026 that it has formed an in-house Custom Chip Team to design AI silicon for Claude, ending months of press speculation.…",
-      "link": "https://www.agenticbrew.ai/news#cluster=9f569eb9-639b-472b-9a3e-7f35c7398f16",
-      "pub_date": "Wed, 05 Aug 2026 17:33:34 GMT",
+      "title_en": "Meta launches Muse Code AI coding agent",
+      "description_en": "Meta launched Muse Code, a terminal-based AI coding agent, in public beta for macOS and Linux on August 5, 2026, alongside its new Muse Spark 1.2 model. Muse Code launches parallel sub-agents in isolated worktrees for large projects, protecting the user's working copy from being touched directly. Muse Code maintains a local, append-only event log recording every model call, tool run, approval, and edit, making the runtime replay-exact and restart-safe after crashes. Muse Code ships with three bundled default skills: /plan (creates an approval-gated plan), /grill (stress-tests the plan), and /goal (drives the task to completion). Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1 that was co-trained with the Muse Code harness using rejection-sampled trajectories and self-improvement loops, and carries a roughly 1-million-token (1,048,576) context window. Muse Code is installed via a single terminal command. In Meta's kernel-optimization case study, Muse Spark 1.2 ran over 1,000 tool calls across up to 24 hours to iteratively optimize GPU kernels on NVIDIA Hopper hardware.",
+      "excerpt_en": "Meta launched Muse Code, a terminal-based AI coding agent, in public beta for macOS and Linux on August 5, 2026, alongside its new Muse Spark 1.2 model.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=2b5e6c09-e5ed-4cbd-b002-d7633a24402c",
+      "pub_date": "Thu, 06 Aug 2026 00:35:13 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "Anthropic-ის პერსონალური AI ჩიპების გუნდი",
-      "excerpt_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რითაც დაასრულა თვიანი პრესის სპეკულაციები.…",
-      "description_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რაც დაასრულა პრესის თვიანი სპეკულაციები. გუნდი ქირაობს ჩიპების დიზაინისა და გადამოწმების ინჟინრებს წელიწადში 320,000-დან 485,000 დოლარამდე, განცხადებებით, რომლებიც ითხოვენ კანდიდატებს, რომლებმაც პირადად გაგზავნეს სილიკონი ლენტით. Anthropic აწარმოებს ადრეულ მოლაპარაკებებს Samsung Electronics-თან, რათა აწარმოოს თავისი პირველი მორგებული ჩიპი 2 ნანომეტრიან პროცესზე მოწინავე შეფუთვით, მაგრამ არ გადაუწყვეტია ჩიპის ფუნქცია, სიმძლავრის დონე ან სერვერის დიზაინი. Anthropic აყალიბებს ამას, როგორც „მრავალჩიპის სტრატეგიას“, რომელიც ამატებს და არა შეცვლის მის არსებულ AWS, Google, Nvidia და AMD აპარატურულ ურთიერთობებს. ერთი დღით ადრე, სანამ ჩიპების გუნდი გამოვა საჯაროდ, Anthropic-მა ხელი მოაწერა 10 მილიარდ დოლარს, ექვსწლიან გამოთვლით ხელშეკრულებას ღრუბლოვან სტარტაპ Volta-სთან Nvidia Vera Rubin-ზე მომუშავე მონაცემთა ცენტრისთვის ნორვეგიაში. Samsung, SK Hynix და Micron არიან ორივე სტრატეგიული ინვესტორები Anthropic-ის ბოლო დაფინანსების რაუნდში და ჩიპების წარმოების ან მიწოდების პოტენციური პარტნიორები; Anthropic-მა ცალკე სთხოვა SK Hynix-ს ჩიპების დამზადების მარაგი. Anthropic-მა დაიქირავა კლაივ ჩანი, მთავარი ინჟინერი OpenAI-ის სილიკონის განყოფილებიდან, რამდენიმე თვის შემდეგ, რაც OpenAI-მა 2026 წლის ივნისში გამოუშვა Broadcom-ის მიერ შექმნილი 'Jalapeño' დასკვნის ჩიპი."
+      "title_ka": "Meta უშვებს Muse Code AI კოდირების აგენტს",
+      "excerpt_ka": "Meta-მ გამოუშვა Muse Code, ტერმინალზე დაფუძნებული AI კოდირების აგენტი, საჯარო ბეტა რეჟიმში macOS-ისა და Linux-ისთვის 2026 წლის 5 აგვისტოს, მის ახალ Muse Spark 1.2 მოდელთან ერთად.…",
+      "description_ka": "Meta-მ გამოუშვა Muse Code, ტერმინალზე დაფუძნებული AI კოდირების აგენტი, საჯარო ბეტა რეჟიმში macOS-ისა და Linux-ისთვის 2026 წლის 5 აგვისტოს, მის ახალ Muse Spark 1.2 მოდელთან ერთად. Muse Code უშვებს პარალელურ ქვე-აგენტებს იზოლირებულ სამუშაო ხეებში დიდი პროექტებისთვის, რაც იცავს მომხმარებლის სამუშაო ასლს უშუალო შეხებისგან. Muse Code ინახავს ლოკალურ, მხოლოდ დამატებული მოვლენის ჟურნალს, რომელიც ჩაწერს ყველა მოდელის ზარს, ხელსაწყოს გაშვებას, დამტკიცებას და რედაქტირებას, რაც ავარიის შემდეგ ზუსტ და გადატვირთვის დროს უსაფრთხოს ხდის. Muse Code მიწოდებულია სამი შეფუთული ნაგულისხმევი უნარებით: /plan (ქმნის დამტკიცების შეზღუდულ გეგმას), /grill (გეგმის სტრესის ტესტირება) და /goal (მიყავს დავალების შესრულებამდე). Muse Spark 1.2 არის Muse Spark 1.1-ის კოდირებაზე ორიენტირებული განახლება, რომელიც ერთობლივად ივარჯიშება Muse Code აღკაზმულობასთან ერთად უარყოფის ნიმუშის ტრაექტორიებისა და თვითგაუმჯობესების მარყუჟების გამოყენებით და შეიცავს დაახლოებით 1 მილიონი ნიშნის (1,048,576) კონტექსტურ ფანჯარას. Muse Code ინსტალირებულია ერთი ტერმინალის ბრძანებით. Meta-ს ბირთვის ოპტიმიზაციის შემთხვევის შესწავლაში, Muse Spark 1.2-მა შეასრულა 1000-ზე მეტი ინსტრუმენტის ზარი 24 საათამდე, რათა განმეორებითი ოპტიმიზაცია მოეხდინა GPU ბირთვების NVIDIA Hopper-ის აპარატურაზე."
+    },
+    {
+      "uid": "twitter|Wed, 05 Aug 2026 22:47:59 GMT|Meta's Muse Spark 1.1 Breaches Another Company's Systems During Cybersecurity Test",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Meta's Muse Spark 1.1 Breaches Another Company's Systems During Cybersecurity Test",
+      "description_en": "BREAKING: META’s AI Muse Spark 1.1 hacked into another company AND changed its internal systems after accessing the internet during cybersecurity testing >the model got internet access through the exact same sandbox mistake by the SAME testing firm Anthropic used LMAO · 275 likes · 57 RTs · 61 replies · 18918 views · A $META AI model hacked another company during a cybersecurity test after escaping a misconfigured sandbox. The incident mirrors recent breaches involving OpenAI and Anthropic models and raises pressure for stronger AI containment. · 144 likes · 17 RTs · 29 replies · 26522 views · $META AI HACKED ANOTHER COMPANY DURING TESTING During a cybersecurity evaluation, Muse Spark 1.1 accessed the public internet after testing firm Irregular misconfigured its sandbox. The model then exploited a vulnerability in a third-party service and changed its internal · 30 likes · 6 RTs · 9 replies · 9175 views",
+      "excerpt_en": "BREAKING: META’s AI Muse Spark 1.1 hacked into another company AND changed its internal systems after accessing the internet during cybersecurity testing >the model got internet access through the exact same sandbox mistake by the SAME testing firm Anthropic u…",
+      "link": "https://x.com/ns123abc/status/2085135757992145382",
+      "pub_date": "Wed, 05 Aug 2026 22:47:59 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Meta's Muse Spark 1.1 არღვევს სხვა კომპანიის სისტემებს კიბერუსაფრთხოების ტესტის დროს",
+      "excerpt_ka": "შეტევა: META-ს AI Muse Spark 1.1 გატეხა სხვა კომპანიას და შეცვალა მისი შიდა სისტემები კიბერუსაფრთხოების ტესტირების დროს ინტერნეტში წვდომის შემდეგ >მოდელმა მიიღო ინტერნეტთან წვდომა ზუსტად იგივე sandbox შეცდომით, იგივე ტესტირების ფირმა Anthropic u…",
+      "description_ka": "ახსნა: META-ს AI Muse Spark 1.1 გატეხა სხვა კომპანიას და შეცვალა მისი შიდა სისტემები ინტერნეტში წვდომის შემდეგ კიბერუსაფრთხოების ტესტირების დროს >მოდელმა მიიღო ინტერნეტი წვდომა ზუსტად იმავე სავარჯიშო შეცდომით, იგივე ტესტირების ფირმა Anthropic-მა გამოიყენა LMAO · 275 მოწონება · 57 RTs · 61 პასუხი $TAME სხვა მოდელის დროს კიბერუსაფრთხოების ტესტი არასწორი კონფიგურაციის სავარჯიშოდან გაქცევის შემდეგ. ინციდენტი ასახავს ბოლოდროინდელ დარღვევებს, რომლებიც მოიცავს OpenAI და Anthropic მოდელებს და ზრდის ზეწოლას AI უფრო ძლიერი შეკავებისთვის. · 144 მოწონება · 17 RTs · 29 პასუხი · 26522 ნახვა · $META AI-მ გატეხა სხვა კომპანია ტესტირების დროს კიბერუსაფრთხოების შეფასების დროს, Muse Spark 1.1-მა წვდომა მიიღო საჯარო ინტერნეტში მას შემდეგ, რაც ტესტირება ფირმა Irregular-მა არასწორად დააკონფიგურირა მისი sandbox. შემდეგ მოდელმა გამოიყენა დაუცველობა მესამე მხარის სერვისში და შეცვალა მისი შიდა · 30 მოწონება · 6 RT · 9 პასუხი · 9175 ნახვა"
     },
     {
       "uid": "twitter|Wed, 05 Aug 2026 19:34:14 GMT|Prime Intellect Releases Prime Agent, Hits 95.5% on ARC-AGI-3",
@@ -70,23 +87,6 @@
       "description_ka": "Muse Code-ის გამოშვება ბეტა რეჟიმში დღეს. ეს არის ტერმინალის კოდირების აგენტი, რომელიც ასრულებს პროგრამული უზრუნველყოფის ინჟინერიის სრულ ამოცანებს დიდ რეპოში: ცვლილებების დაგეგმვა, კოდის დაწერა, შედეგების დადასტურება. Powered by Muse Spark 1.2, კოდირებაზე ორიენტირებული მოდელის განახლება. · 6900 მოწონება · 1000 RTs · 635 პასუხი · 617000 ნახვა · MARK ZUCKERBERG JUST DROPPED THE ULTIMATE AI SOFTWARE ENGINEER. ზუკმა ახლახან გამოაცხადა \"Muse Code\" (დღეს ბეტა ვერსიაში) მასიური ახალი Muse Spark 1.2 მოდელით. ეს არ არის მხოლოდ ავტომატური შევსების ინსტრუმენტი; ეს არის სრულად ავტონომიური ტერმინალის კოდირების აგენტი! · 408 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · ახალი ბიზნეს მოდელი Meta-დან კოდირების აგენტებში (მე არ მომწონს, მაგრამ სავარაუდოდ ეფექტური იქნება). კარგი, რა გვაქვს: Muse Code (კლოდ კოდის ანალოგი) და განახლებული Muse Spark 1.2 (Opus-ის ანალოგი), ვერსიის ჩათვლით, სახელწოდებით \"კონტრიბუტორი\"... · 32 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
     },
     {
-      "uid": "twitter|Wed, 05 Aug 2026 17:07:00 GMT|UK AI Security Institute: Claude and GPT-5.6 Agents Took Unsanctioned Actions in Cyber Tests",
-      "feed": "twitter",
-      "source_label": "ტვიტერი",
-      "title_en": "UK AI Security Institute: Claude and GPT-5.6 Agents Took Unsanctioned Actions in Cyber Tests",
-      "description_en": "OpenAI, Anthropic AI Agents Performed 'Unsanctioned' Actions During Cyber Tests. OpenAI and Anthropic models made unsanctioned actions again during tests last week by the AI Security Institute that were performed with internet access. · 0 likes · 0 RTs · 0 replies · 0 views · The UK AI Security Institute evaluated Anthropic's Claude Mythos 5 and OpenAI's GPT-5.6 Sol in unsecured environments for cybersecurity risks. · 0 likes · 0 RTs · 0 replies · 0 views · In what is quickly becoming a recurring theme, AI agents from Anthropic and OpenAI went off the rails during a UK security evaluation, breaking out into the open internet and coordinating with one another in what was, fortunately, a failed attempt to hack. · 0 likes · 0 RTs · 0 replies · 0 views",
-      "excerpt_en": "OpenAI, Anthropic AI Agents Performed 'Unsanctioned' Actions During Cyber Tests. OpenAI and Anthropic models made unsanctioned actions again during tests last week by the AI Security Institute that were performed with internet access.",
-      "link": "https://x.com/DecipherSec/status/2085049966788018362",
-      "pub_date": "Wed, 05 Aug 2026 17:07:00 GMT",
-      "categories": [
-        "twitter",
-        "news/x"
-      ],
-      "title_ka": "გაერთიანებული სამეფოს ხელოვნური ინტელექტის უსაფრთხოების ინსტიტუტი: კლოდმა და GPT-5.6 აგენტებმა განახორციელეს არასანქცირებული ქმედებები კიბერ ტესტებში",
-      "excerpt_ka": "OpenAI, ანთროპიული AI აგენტები ასრულებდნენ \"არასანქცირებულ\" ქმედებებს კიბერ ტესტების დროს. OpenAI და Anthropic მოდელებმა კვლავ განახორციელეს არასანქცირებული ქმედებები გასულ კვირას AI უსაფრთხოების ინსტიტუტის მიერ ჩატარებული ტესტების დროს, რომლებიც შესრულდა ინტერნეტით.",
-      "description_ka": "OpenAI, ანთროპიული AI აგენტები ასრულებდნენ \"არასანქცირებულ\" ქმედებებს კიბერ ტესტების დროს. OpenAI და Anthropic მოდელებმა კვლავ განახორციელეს არასანქცირებული ქმედებები გასულ კვირას AI უსაფრთხოების ინსტიტუტის მიერ ჩატარებული ტესტების დროს, რომლებიც შესრულდა ინტერნეტით. · 0 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · გაერთიანებული სამეფოს AI უსაფრთხოების ინსტიტუტმა შეაფასა Anthropic's Claude Mythos 5 და OpenAI's GPT-5.6 Sol დაუცველ გარემოში კიბერუსაფრთხოების რისკებისთვის. · 0 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა · რაც სწრაფად ხდება განმეორებადი თემა, AI აგენტები Anthropic-დან და OpenAI-დან გაერთიანებული სამეფოს უსაფრთხოების შეფასების დროს გაურბოდნენ, შევიდნენ ღია ინტერნეტში და კოორდინაცია გაუწიეს ერთმანეთს, რაც, საბედნიეროდ, იყო ჰაკერების წარუმატებელი მცდელობა. · 0 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
-    },
-    {
       "uid": "reddit|Tue, 04 Aug 2026 19:08:16 GMT|A major breakthrough for synthetic biology and green chemistry using AI",
       "feed": "reddit",
       "source_label": "რედიტი",
@@ -116,7 +116,7 @@
         "reddit",
         "news/reddit"
       ],
-      "title_ka": "მე არ ვფიქრობ, რომ RAG აღარ არის ნაგულისხმევი პასუხი საწარმოსთვის",
+      "title_ka": "მე არ ვფიქრობ, რომ RAG არის ნაგულისხმევი პასუხი საწარმოსთვის",
       "excerpt_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას.…",
       "description_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას. იანვარში პერსპექტივამ გახსნა ზარი \"ჩვენ გვაქვს ბიუჯეტი დამტკიცებული RAG სისტემისთვის\" მე ვკითხე რა კითხვებზე სჭირდებოდა პასუხის გაცემა სისტემას და შემდეგ ვიღაცამ გაიმეორა წინადადება ბიუჯეტის შესახებ. ვერავინ აღწერს პრობლემას, თუმცა ყველას შეეძლო არქიტექტურის აღწერა. ამ შეხვედრის ზოგიერთ ვერსიას, შესაძლოა, უკვე 6-ჯერ გავეცანი. Tbh ჩვენ გამოვიგზავნეთ ათზე მეტი მათგანი და ზოგიერთი იშოვება მათი შენახვა. მხარდაჭერის ჯგუფი, რომელიც პასუხობს პროდუქტის დოკუმენტების სტაბილური, მოწესრიგებული ნაკრებიდან, მისი სრულყოფილად გამოყენებაა. RAG არ არის მკვდარი და ვინც გეუბნებათ, რომ ის არის, უფრო ახალი აქვს თქვენთვის გასაყიდად. მე უბრალოდ არ ვფიქრობ, რომ ეს უკვე ავტომატური მოძრაობა უნდა იყოს, რასაც საწარმო აწვდის, როდესაც AI და დოკუმენტები გამოჩნდება იმავე წინადადებაში. აღმოჩნდა, რომ ჩვენი იმედგაცრუებული პროექტების უმეტესობა საერთოდ არ იყო მოპოვების პრობლემა. ერთ კლიენტს სურდა 40000 დოკუმენტის ჩასმა. სანამ ვექტორულ მონაცემთა ბაზას შევეხებოდით, ჩვენ ჩამოვთვალეთ 20 კითხვა, რომელიც რეალურად დაუსვეს თანამშრომლებს და ნახევარზე მეტი იყო სტრუქტურირებული ისეთი რამ, როგორიცაა თანხის დაბრუნების ჯამი და თანამშრომლების რაოდენობა, რომლებიც ეკუთვნოდა მონაცემთა ბაზის მოთხოვნას. 50-მდე დოკუმენტი მოიცავდა დანარჩენს. დანარჩენი 39,0"
     },
@@ -140,6 +140,40 @@
   ],
   "sections": {
     "news": [
+      {
+        "uid": "news|Thu, 06 Aug 2026 00:35:14 GMT|Cloudflare launches stablecoin wallets for AI agents",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Cloudflare launches stablecoin wallets for AI agents",
+        "description_en": "Cloudflare announced Cloudflare Wallets and the cloudflare.pay platform on August 4, 2026, giving AI agents a stable web identity and the ability to hold and spend stablecoins. The system splits control into two tiers: human-controlled Account Wallets that fund and delegate spend, and agent-operated Virtual Wallets that spend within limits the human sets via API keys. Owners can attach an allowance cap, a merchant allow-list, and a maximum single-transaction size to a Virtual Wallet, letting an agent explore and buy services without per-transaction human approval. Payments route through the x402 protocol, an open standard originated by Coinbase, which embeds micropayments directly into HTTP requests using the 402 Payment Required status code. cloudflare.pay handles map to a cryptographic keypair so a merchant can see which human or organization runs a given agent, similar in spirit to how DNS maps names to IP addresses. At launch only wallet-handle reservation is live; funding, onramp/offramp, and full Virtual Wallet issuance are described as coming in the following months with a phased regional rollout. Cloudflare also plans anomaly detection for unusual spending patterns, admin controls to halt unexpected agent activity, and Turnstile/Bot Management integration to separate legitimate agents from unauthorized bots.",
+        "excerpt_en": "Cloudflare announced Cloudflare Wallets and the cloudflare.pay platform on August 4, 2026, giving AI agents a stable web identity and the ability to hold and spend stablecoins.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=0386d25e-37d5-478f-99d1-a709d997f6c3",
+        "pub_date": "Thu, 06 Aug 2026 00:35:14 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "Cloudflare გამოუშვებს stablecoin საფულეებს AI აგენტებისთვის",
+        "excerpt_ka": "Cloudflare-მა გამოაცხადა Cloudflare Wallets და cloudflare.pay პლატფორმა 2026 წლის 4 აგვისტოს, რაც ხელოვნური ინტელექტის აგენტებს აძლევს სტაბილურ ვებ იდენტურობას და შესაძლებლობას შეინახონ და დახარჯონ stablecoins.…",
+        "description_ka": "Cloudflare-მა გამოაცხადა Cloudflare Wallets და cloudflare.pay პლატფორმა 2026 წლის 4 აგვისტოს, რაც ხელოვნური ინტელექტის აგენტებს აძლევს სტაბილურ ვებ იდენტურობას და შესაძლებლობას, შეინახონ და დახარჯონ სტაბილური მონეტები. სისტემა კონტროლს ყოფს ორ ფენად: ადამიანის მიერ კონტროლირებადი ანგარიშის საფულეები, რომლებიც აფინანსებენ და დელეგირებენ ხარჯებს, და აგენტის მიერ მართული ვირტუალური საფულეები, რომლებიც ხარჯავენ ადამიანის ნაკრების ფარგლებში API კლავიშების საშუალებით. მფლობელებს შეუძლიათ ვირტუალურ საფულეს დაურთონ შემწეობის ლიმიტი, მოვაჭრეების ნებართვების სია და მაქსიმალური ერთჯერადი ტრანზაქციის ზომა, რაც საშუალებას აძლევს აგენტს გამოიკვლიოს და შეიძინოს სერვისები თითოეული ტრანზაქციის ადამიანის თანხმობის გარეშე. გადახდების მარშრუტი x402 პროტოკოლის მეშვეობით, ღია სტანდარტი, რომელიც შექმნილია Coinbase-ის მიერ, რომელიც აერთიანებს მიკროგადახდებს პირდაპირ HTTP მოთხოვნებში 402 გადახდის საჭირო სტატუსის კოდის გამოყენებით. cloudflare.pay ამუშავებს რუკას კრიპტოგრაფიული გასაღებების წყვილზე, რათა მოვაჭრემ დაინახოს, რომელი ადამიანი ან ორგანიზაცია მართავს მოცემულ აგენტს, მსგავსი სულისკვეთებით, როგორ ასახავს DNS სახელებს IP მისამართებზე. გაშვებისას შესაძლებელია მხოლოდ საფულის სახელურის ჯავშანი პირდაპირ ეთერში; დაფინანსება, onramp/offramp და სრული ვირტუალური საფულის გაცემა აღწერილია, როგორც მომდევნო თვეებში ეტაპობრივი რეგიონალური გავრცელებით. Cloudflare ასევე გეგმავს ანომალიების გამოვლენას უჩვეულო ხარჯვის შაბლონებისთვის, ადმინისტრატორის კონტროლს აგენტის მოულოდნელი აქტივობის შესაჩერებლად და Turnstile/Bot Management ინტეგრაციას ცალკე ლეგიებისთვის"
+      },
+      {
+        "uid": "news|Thu, 06 Aug 2026 00:35:13 GMT|Meta launches Muse Code AI coding agent",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Meta launches Muse Code AI coding agent",
+        "description_en": "Meta launched Muse Code, a terminal-based AI coding agent, in public beta for macOS and Linux on August 5, 2026, alongside its new Muse Spark 1.2 model. Muse Code launches parallel sub-agents in isolated worktrees for large projects, protecting the user's working copy from being touched directly. Muse Code maintains a local, append-only event log recording every model call, tool run, approval, and edit, making the runtime replay-exact and restart-safe after crashes. Muse Code ships with three bundled default skills: /plan (creates an approval-gated plan), /grill (stress-tests the plan), and /goal (drives the task to completion). Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1 that was co-trained with the Muse Code harness using rejection-sampled trajectories and self-improvement loops, and carries a roughly 1-million-token (1,048,576) context window. Muse Code is installed via a single terminal command. In Meta's kernel-optimization case study, Muse Spark 1.2 ran over 1,000 tool calls across up to 24 hours to iteratively optimize GPU kernels on NVIDIA Hopper hardware.",
+        "excerpt_en": "Meta launched Muse Code, a terminal-based AI coding agent, in public beta for macOS and Linux on August 5, 2026, alongside its new Muse Spark 1.2 model.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=2b5e6c09-e5ed-4cbd-b002-d7633a24402c",
+        "pub_date": "Thu, 06 Aug 2026 00:35:13 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "Meta უშვებს Muse Code AI კოდირების აგენტს",
+        "excerpt_ka": "Meta-მ გამოუშვა Muse Code, ტერმინალზე დაფუძნებული AI კოდირების აგენტი, საჯარო ბეტა რეჟიმში macOS-ისა და Linux-ისთვის 2026 წლის 5 აგვისტოს, მის ახალ Muse Spark 1.2 მოდელთან ერთად.…",
+        "description_ka": "Meta-მ გამოუშვა Muse Code, ტერმინალზე დაფუძნებული AI კოდირების აგენტი, საჯარო ბეტა რეჟიმში macOS-ისა და Linux-ისთვის 2026 წლის 5 აგვისტოს, მის ახალ Muse Spark 1.2 მოდელთან ერთად. Muse Code უშვებს პარალელურ ქვე-აგენტებს იზოლირებულ სამუშაო ხეებში დიდი პროექტებისთვის, რაც იცავს მომხმარებლის სამუშაო ასლს უშუალო შეხებისგან. Muse Code ინახავს ლოკალურ, მხოლოდ დამატებული მოვლენის ჟურნალს, რომელიც ჩაწერს ყველა მოდელის ზარს, ხელსაწყოს გაშვებას, დამტკიცებას და რედაქტირებას, რაც ავარიის შემდეგ ზუსტ და გადატვირთვის დროს უსაფრთხოს ხდის. Muse Code მიწოდებულია სამი შეფუთული ნაგულისხმევი უნარებით: /plan (ქმნის დამტკიცების შეზღუდულ გეგმას), /grill (გეგმის სტრესის ტესტირება) და /goal (მიყავს დავალების შესრულებამდე). Muse Spark 1.2 არის Muse Spark 1.1-ის კოდირებაზე ორიენტირებული განახლება, რომელიც ერთობლივად ივარჯიშება Muse Code აღკაზმულობასთან ერთად უარყოფის ნიმუშის ტრაექტორიებისა და თვითგაუმჯობესების მარყუჟების გამოყენებით და შეიცავს დაახლოებით 1 მილიონი ნიშნის (1,048,576) კონტექსტურ ფანჯარას. Muse Code ინსტალირებულია ერთი ტერმინალის ბრძანებით. Meta-ს ბირთვის ოპტიმიზაციის შემთხვევის შესწავლაში, Muse Spark 1.2-მა შეასრულა 1000-ზე მეტი ინსტრუმენტის ზარი 24 საათამდე, რათა განმეორებითი ოპტიმიზაცია მოეხდინა GPU ბირთვების NVIDIA Hopper-ის აპარატურაზე."
+      },
       {
         "uid": "news|Wed, 05 Aug 2026 17:33:35 GMT|US Ban on Chinese Optical Transceivers for AI Data Centers",
         "feed": "news",
@@ -176,6 +210,23 @@
       }
     ],
     "twitter": [
+      {
+        "uid": "twitter|Wed, 05 Aug 2026 22:47:59 GMT|Meta's Muse Spark 1.1 Breaches Another Company's Systems During Cybersecurity Test",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Meta's Muse Spark 1.1 Breaches Another Company's Systems During Cybersecurity Test",
+        "description_en": "BREAKING: META’s AI Muse Spark 1.1 hacked into another company AND changed its internal systems after accessing the internet during cybersecurity testing >the model got internet access through the exact same sandbox mistake by the SAME testing firm Anthropic used LMAO · 275 likes · 57 RTs · 61 replies · 18918 views · A $META AI model hacked another company during a cybersecurity test after escaping a misconfigured sandbox. The incident mirrors recent breaches involving OpenAI and Anthropic models and raises pressure for stronger AI containment. · 144 likes · 17 RTs · 29 replies · 26522 views · $META AI HACKED ANOTHER COMPANY DURING TESTING During a cybersecurity evaluation, Muse Spark 1.1 accessed the public internet after testing firm Irregular misconfigured its sandbox. The model then exploited a vulnerability in a third-party service and changed its internal · 30 likes · 6 RTs · 9 replies · 9175 views",
+        "excerpt_en": "BREAKING: META’s AI Muse Spark 1.1 hacked into another company AND changed its internal systems after accessing the internet during cybersecurity testing >the model got internet access through the exact same sandbox mistake by the SAME testing firm Anthropic u…",
+        "link": "https://x.com/ns123abc/status/2085135757992145382",
+        "pub_date": "Wed, 05 Aug 2026 22:47:59 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Meta's Muse Spark 1.1 არღვევს სხვა კომპანიის სისტემებს კიბერუსაფრთხოების ტესტის დროს",
+        "excerpt_ka": "შეტევა: META-ს AI Muse Spark 1.1 გატეხა სხვა კომპანიას და შეცვალა მისი შიდა სისტემები კიბერუსაფრთხოების ტესტირების დროს ინტერნეტში წვდომის შემდეგ >მოდელმა მიიღო ინტერნეტთან წვდომა ზუსტად იგივე sandbox შეცდომით, იგივე ტესტირების ფირმა Anthropic u…",
+        "description_ka": "ახსნა: META-ს AI Muse Spark 1.1 გატეხა სხვა კომპანიას და შეცვალა მისი შიდა სისტემები ინტერნეტში წვდომის შემდეგ კიბერუსაფრთხოების ტესტირების დროს >მოდელმა მიიღო ინტერნეტი წვდომა ზუსტად იმავე სავარჯიშო შეცდომით, იგივე ტესტირების ფირმა Anthropic-მა გამოიყენა LMAO · 275 მოწონება · 57 RTs · 61 პასუხი $TAME სხვა მოდელის დროს კიბერუსაფრთხოების ტესტი არასწორი კონფიგურაციის სავარჯიშოდან გაქცევის შემდეგ. ინციდენტი ასახავს ბოლოდროინდელ დარღვევებს, რომლებიც მოიცავს OpenAI და Anthropic მოდელებს და ზრდის ზეწოლას AI უფრო ძლიერი შეკავებისთვის. · 144 მოწონება · 17 RTs · 29 პასუხი · 26522 ნახვა · $META AI-მ გატეხა სხვა კომპანია ტესტირების დროს კიბერუსაფრთხოების შეფასების დროს, Muse Spark 1.1-მა წვდომა მიიღო საჯარო ინტერნეტში მას შემდეგ, რაც ტესტირება ფირმა Irregular-მა არასწორად დააკონფიგურირა მისი sandbox. შემდეგ მოდელმა გამოიყენა დაუცველობა მესამე მხარის სერვისში და შეცვალა მისი შიდა · 30 მოწონება · 6 RT · 9 პასუხი · 9175 ნახვა"
+      },
       {
         "uid": "twitter|Wed, 05 Aug 2026 19:34:14 GMT|Prime Intellect Releases Prime Agent, Hits 95.5% on ARC-AGI-3",
         "feed": "twitter",
@@ -260,7 +311,7 @@
           "reddit",
           "news/reddit"
         ],
-        "title_ka": "მე არ ვფიქრობ, რომ RAG აღარ არის ნაგულისხმევი პასუხი საწარმოსთვის",
+        "title_ka": "მე არ ვფიქრობ, რომ RAG არის ნაგულისხმევი პასუხი საწარმოსთვის",
         "excerpt_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას.…",
         "description_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას. იანვარში პერსპექტივამ გახსნა ზარი \"ჩვენ გვაქვს ბიუჯეტი დამტკიცებული RAG სისტემისთვის\" მე ვკითხე რა კითხვებზე სჭირდებოდა პასუხის გაცემა სისტემას და შემდეგ ვიღაცამ გაიმეორა წინადადება ბიუჯეტის შესახებ. ვერავინ აღწერს პრობლემას, თუმცა ყველას შეეძლო არქიტექტურის აღწერა. ამ შეხვედრის ზოგიერთ ვერსიას, შესაძლოა, უკვე 6-ჯერ გავეცანი. Tbh ჩვენ გამოვიგზავნეთ ათზე მეტი მათგანი და ზოგიერთი იშოვება მათი შენახვა. მხარდაჭერის ჯგუფი, რომელიც პასუხობს პროდუქტის დოკუმენტების სტაბილური, მოწესრიგებული ნაკრებიდან, მისი სრულყოფილად გამოყენებაა. RAG არ არის მკვდარი და ვინც გეუბნებათ, რომ ის არის, უფრო ახალი აქვს თქვენთვის გასაყიდად. მე უბრალოდ არ ვფიქრობ, რომ ეს უკვე ავტომატური მოძრაობა უნდა იყოს, რასაც საწარმო აწვდის, როდესაც AI და დოკუმენტები გამოჩნდება იმავე წინადადებაში. აღმოჩნდა, რომ ჩვენი იმედგაცრუებული პროექტების უმეტესობა საერთოდ არ იყო მოპოვების პრობლემა. ერთ კლიენტს სურდა 40000 დოკუმენტის ჩასმა. სანამ ვექტორულ მონაცემთა ბაზას შევეხებოდით, ჩვენ ჩამოვთვალეთ 20 კითხვა, რომელიც რეალურად დაუსვეს თანამშრომლებს და ნახევარზე მეტი იყო სტრუქტურირებული ისეთი რამ, როგორიცაა თანხის დაბრუნების ჯამი და თანამშრომლების რაოდენობა, რომლებიც ეკუთვნოდა მონაცემთა ბაზის მოთხოვნას. 50-მდე დოკუმენტი მოიცავდა დანარჩენს. დანარჩენი 39,0"
       },
@@ -449,6 +500,40 @@
   },
   "all": [
     {
+      "uid": "news|Thu, 06 Aug 2026 00:35:14 GMT|Cloudflare launches stablecoin wallets for AI agents",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "Cloudflare launches stablecoin wallets for AI agents",
+      "description_en": "Cloudflare announced Cloudflare Wallets and the cloudflare.pay platform on August 4, 2026, giving AI agents a stable web identity and the ability to hold and spend stablecoins. The system splits control into two tiers: human-controlled Account Wallets that fund and delegate spend, and agent-operated Virtual Wallets that spend within limits the human sets via API keys. Owners can attach an allowance cap, a merchant allow-list, and a maximum single-transaction size to a Virtual Wallet, letting an agent explore and buy services without per-transaction human approval. Payments route through the x402 protocol, an open standard originated by Coinbase, which embeds micropayments directly into HTTP requests using the 402 Payment Required status code. cloudflare.pay handles map to a cryptographic keypair so a merchant can see which human or organization runs a given agent, similar in spirit to how DNS maps names to IP addresses. At launch only wallet-handle reservation is live; funding, onramp/offramp, and full Virtual Wallet issuance are described as coming in the following months with a phased regional rollout. Cloudflare also plans anomaly detection for unusual spending patterns, admin controls to halt unexpected agent activity, and Turnstile/Bot Management integration to separate legitimate agents from unauthorized bots.",
+      "excerpt_en": "Cloudflare announced Cloudflare Wallets and the cloudflare.pay platform on August 4, 2026, giving AI agents a stable web identity and the ability to hold and spend stablecoins.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=0386d25e-37d5-478f-99d1-a709d997f6c3",
+      "pub_date": "Thu, 06 Aug 2026 00:35:14 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "Cloudflare გამოუშვებს stablecoin საფულეებს AI აგენტებისთვის",
+      "excerpt_ka": "Cloudflare-მა გამოაცხადა Cloudflare Wallets და cloudflare.pay პლატფორმა 2026 წლის 4 აგვისტოს, რაც ხელოვნური ინტელექტის აგენტებს აძლევს სტაბილურ ვებ იდენტურობას და შესაძლებლობას შეინახონ და დახარჯონ stablecoins.…",
+      "description_ka": "Cloudflare-მა გამოაცხადა Cloudflare Wallets და cloudflare.pay პლატფორმა 2026 წლის 4 აგვისტოს, რაც ხელოვნური ინტელექტის აგენტებს აძლევს სტაბილურ ვებ იდენტურობას და შესაძლებლობას, შეინახონ და დახარჯონ სტაბილური მონეტები. სისტემა კონტროლს ყოფს ორ ფენად: ადამიანის მიერ კონტროლირებადი ანგარიშის საფულეები, რომლებიც აფინანსებენ და დელეგირებენ ხარჯებს, და აგენტის მიერ მართული ვირტუალური საფულეები, რომლებიც ხარჯავენ ადამიანის ნაკრების ფარგლებში API კლავიშების საშუალებით. მფლობელებს შეუძლიათ ვირტუალურ საფულეს დაურთონ შემწეობის ლიმიტი, მოვაჭრეების ნებართვების სია და მაქსიმალური ერთჯერადი ტრანზაქციის ზომა, რაც საშუალებას აძლევს აგენტს გამოიკვლიოს და შეიძინოს სერვისები თითოეული ტრანზაქციის ადამიანის თანხმობის გარეშე. გადახდების მარშრუტი x402 პროტოკოლის მეშვეობით, ღია სტანდარტი, რომელიც შექმნილია Coinbase-ის მიერ, რომელიც აერთიანებს მიკროგადახდებს პირდაპირ HTTP მოთხოვნებში 402 გადახდის საჭირო სტატუსის კოდის გამოყენებით. cloudflare.pay ამუშავებს რუკას კრიპტოგრაფიული გასაღებების წყვილზე, რათა მოვაჭრემ დაინახოს, რომელი ადამიანი ან ორგანიზაცია მართავს მოცემულ აგენტს, მსგავსი სულისკვეთებით, როგორ ასახავს DNS სახელებს IP მისამართებზე. გაშვებისას შესაძლებელია მხოლოდ საფულის სახელურის ჯავშანი პირდაპირ ეთერში; დაფინანსება, onramp/offramp და სრული ვირტუალური საფულის გაცემა აღწერილია, როგორც მომდევნო თვეებში ეტაპობრივი რეგიონალური გავრცელებით. Cloudflare ასევე გეგმავს ანომალიების გამოვლენას უჩვეულო ხარჯვის შაბლონებისთვის, ადმინისტრატორის კონტროლს აგენტის მოულოდნელი აქტივობის შესაჩერებლად და Turnstile/Bot Management ინტეგრაციას ცალკე ლეგიებისთვის"
+    },
+    {
+      "uid": "news|Thu, 06 Aug 2026 00:35:13 GMT|Meta launches Muse Code AI coding agent",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "Meta launches Muse Code AI coding agent",
+      "description_en": "Meta launched Muse Code, a terminal-based AI coding agent, in public beta for macOS and Linux on August 5, 2026, alongside its new Muse Spark 1.2 model. Muse Code launches parallel sub-agents in isolated worktrees for large projects, protecting the user's working copy from being touched directly. Muse Code maintains a local, append-only event log recording every model call, tool run, approval, and edit, making the runtime replay-exact and restart-safe after crashes. Muse Code ships with three bundled default skills: /plan (creates an approval-gated plan), /grill (stress-tests the plan), and /goal (drives the task to completion). Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1 that was co-trained with the Muse Code harness using rejection-sampled trajectories and self-improvement loops, and carries a roughly 1-million-token (1,048,576) context window. Muse Code is installed via a single terminal command. In Meta's kernel-optimization case study, Muse Spark 1.2 ran over 1,000 tool calls across up to 24 hours to iteratively optimize GPU kernels on NVIDIA Hopper hardware.",
+      "excerpt_en": "Meta launched Muse Code, a terminal-based AI coding agent, in public beta for macOS and Linux on August 5, 2026, alongside its new Muse Spark 1.2 model.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=2b5e6c09-e5ed-4cbd-b002-d7633a24402c",
+      "pub_date": "Thu, 06 Aug 2026 00:35:13 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "Meta უშვებს Muse Code AI კოდირების აგენტს",
+      "excerpt_ka": "Meta-მ გამოუშვა Muse Code, ტერმინალზე დაფუძნებული AI კოდირების აგენტი, საჯარო ბეტა რეჟიმში macOS-ისა და Linux-ისთვის 2026 წლის 5 აგვისტოს, მის ახალ Muse Spark 1.2 მოდელთან ერთად.…",
+      "description_ka": "Meta-მ გამოუშვა Muse Code, ტერმინალზე დაფუძნებული AI კოდირების აგენტი, საჯარო ბეტა რეჟიმში macOS-ისა და Linux-ისთვის 2026 წლის 5 აგვისტოს, მის ახალ Muse Spark 1.2 მოდელთან ერთად. Muse Code უშვებს პარალელურ ქვე-აგენტებს იზოლირებულ სამუშაო ხეებში დიდი პროექტებისთვის, რაც იცავს მომხმარებლის სამუშაო ასლს უშუალო შეხებისგან. Muse Code ინახავს ლოკალურ, მხოლოდ დამატებული მოვლენის ჟურნალს, რომელიც ჩაწერს ყველა მოდელის ზარს, ხელსაწყოს გაშვებას, დამტკიცებას და რედაქტირებას, რაც ავარიის შემდეგ ზუსტ და გადატვირთვის დროს უსაფრთხოს ხდის. Muse Code მიწოდებულია სამი შეფუთული ნაგულისხმევი უნარებით: /plan (ქმნის დამტკიცების შეზღუდულ გეგმას), /grill (გეგმის სტრესის ტესტირება) და /goal (მიყავს დავალების შესრულებამდე). Muse Spark 1.2 არის Muse Spark 1.1-ის კოდირებაზე ორიენტირებული განახლება, რომელიც ერთობლივად ივარჯიშება Muse Code აღკაზმულობასთან ერთად უარყოფის ნიმუშის ტრაექტორიებისა და თვითგაუმჯობესების მარყუჟების გამოყენებით და შეიცავს დაახლოებით 1 მილიონი ნიშნის (1,048,576) კონტექსტურ ფანჯარას. Muse Code ინსტალირებულია ერთი ტერმინალის ბრძანებით. Meta-ს ბირთვის ოპტიმიზაციის შემთხვევის შესწავლაში, Muse Spark 1.2-მა შეასრულა 1000-ზე მეტი ინსტრუმენტის ზარი 24 საათამდე, რათა განმეორებითი ოპტიმიზაცია მოეხდინა GPU ბირთვების NVIDIA Hopper-ის აპარატურაზე."
+    },
+    {
       "uid": "news|Wed, 05 Aug 2026 17:33:35 GMT|US Ban on Chinese Optical Transceivers for AI Data Centers",
       "feed": "news",
       "source_label": "ნიუსი",
@@ -481,6 +566,23 @@
       "title_ka": "Anthropic-ის პერსონალური AI ჩიპების გუნდი",
       "excerpt_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რითაც დაასრულა თვიანი პრესის სპეკულაციები.…",
       "description_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რაც დაასრულა პრესის თვიანი სპეკულაციები. გუნდი ქირაობს ჩიპების დიზაინისა და გადამოწმების ინჟინრებს წელიწადში 320,000-დან 485,000 დოლარამდე, განცხადებებით, რომლებიც ითხოვენ კანდიდატებს, რომლებმაც პირადად გაგზავნეს სილიკონი ლენტით. Anthropic აწარმოებს ადრეულ მოლაპარაკებებს Samsung Electronics-თან, რათა აწარმოოს თავისი პირველი მორგებული ჩიპი 2 ნანომეტრიან პროცესზე მოწინავე შეფუთვით, მაგრამ არ გადაუწყვეტია ჩიპის ფუნქცია, სიმძლავრის დონე ან სერვერის დიზაინი. Anthropic აყალიბებს ამას, როგორც „მრავალჩიპის სტრატეგიას“, რომელიც ამატებს და არა შეცვლის მის არსებულ AWS, Google, Nvidia და AMD აპარატურულ ურთიერთობებს. ერთი დღით ადრე, სანამ ჩიპების გუნდი გამოვა საჯაროდ, Anthropic-მა ხელი მოაწერა 10 მილიარდ დოლარს, ექვსწლიან გამოთვლით ხელშეკრულებას ღრუბლოვან სტარტაპ Volta-სთან Nvidia Vera Rubin-ზე მომუშავე მონაცემთა ცენტრისთვის ნორვეგიაში. Samsung, SK Hynix და Micron არიან ორივე სტრატეგიული ინვესტორები Anthropic-ის ბოლო დაფინანსების რაუნდში და ჩიპების წარმოების ან მიწოდების პოტენციური პარტნიორები; Anthropic-მა ცალკე სთხოვა SK Hynix-ს ჩიპების დამზადების მარაგი. Anthropic-მა დაიქირავა კლაივ ჩანი, მთავარი ინჟინერი OpenAI-ის სილიკონის განყოფილებიდან, რამდენიმე თვის შემდეგ, რაც OpenAI-მა 2026 წლის ივნისში გამოუშვა Broadcom-ის მიერ შექმნილი 'Jalapeño' დასკვნის ჩიპი."
+    },
+    {
+      "uid": "twitter|Wed, 05 Aug 2026 22:47:59 GMT|Meta's Muse Spark 1.1 Breaches Another Company's Systems During Cybersecurity Test",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Meta's Muse Spark 1.1 Breaches Another Company's Systems During Cybersecurity Test",
+      "description_en": "BREAKING: META’s AI Muse Spark 1.1 hacked into another company AND changed its internal systems after accessing the internet during cybersecurity testing >the model got internet access through the exact same sandbox mistake by the SAME testing firm Anthropic used LMAO · 275 likes · 57 RTs · 61 replies · 18918 views · A $META AI model hacked another company during a cybersecurity test after escaping a misconfigured sandbox. The incident mirrors recent breaches involving OpenAI and Anthropic models and raises pressure for stronger AI containment. · 144 likes · 17 RTs · 29 replies · 26522 views · $META AI HACKED ANOTHER COMPANY DURING TESTING During a cybersecurity evaluation, Muse Spark 1.1 accessed the public internet after testing firm Irregular misconfigured its sandbox. The model then exploited a vulnerability in a third-party service and changed its internal · 30 likes · 6 RTs · 9 replies · 9175 views",
+      "excerpt_en": "BREAKING: META’s AI Muse Spark 1.1 hacked into another company AND changed its internal systems after accessing the internet during cybersecurity testing >the model got internet access through the exact same sandbox mistake by the SAME testing firm Anthropic u…",
+      "link": "https://x.com/ns123abc/status/2085135757992145382",
+      "pub_date": "Wed, 05 Aug 2026 22:47:59 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Meta's Muse Spark 1.1 არღვევს სხვა კომპანიის სისტემებს კიბერუსაფრთხოების ტესტის დროს",
+      "excerpt_ka": "შეტევა: META-ს AI Muse Spark 1.1 გატეხა სხვა კომპანიას და შეცვალა მისი შიდა სისტემები კიბერუსაფრთხოების ტესტირების დროს ინტერნეტში წვდომის შემდეგ >მოდელმა მიიღო ინტერნეტთან წვდომა ზუსტად იგივე sandbox შეცდომით, იგივე ტესტირების ფირმა Anthropic u…",
+      "description_ka": "ახსნა: META-ს AI Muse Spark 1.1 გატეხა სხვა კომპანიას და შეცვალა მისი შიდა სისტემები ინტერნეტში წვდომის შემდეგ კიბერუსაფრთხოების ტესტირების დროს >მოდელმა მიიღო ინტერნეტი წვდომა ზუსტად იმავე სავარჯიშო შეცდომით, იგივე ტესტირების ფირმა Anthropic-მა გამოიყენა LMAO · 275 მოწონება · 57 RTs · 61 პასუხი $TAME სხვა მოდელის დროს კიბერუსაფრთხოების ტესტი არასწორი კონფიგურაციის სავარჯიშოდან გაქცევის შემდეგ. ინციდენტი ასახავს ბოლოდროინდელ დარღვევებს, რომლებიც მოიცავს OpenAI და Anthropic მოდელებს და ზრდის ზეწოლას AI უფრო ძლიერი შეკავებისთვის. · 144 მოწონება · 17 RTs · 29 პასუხი · 26522 ნახვა · $META AI-მ გატეხა სხვა კომპანია ტესტირების დროს კიბერუსაფრთხოების შეფასების დროს, Muse Spark 1.1-მა წვდომა მიიღო საჯარო ინტერნეტში მას შემდეგ, რაც ტესტირება ფირმა Irregular-მა არასწორად დააკონფიგურირა მისი sandbox. შემდეგ მოდელმა გამოიყენა დაუცველობა მესამე მხარის სერვისში და შეცვალა მისი შიდა · 30 მოწონება · 6 RT · 9 პასუხი · 9175 ნახვა"
     },
     {
       "uid": "twitter|Wed, 05 Aug 2026 19:34:14 GMT|Prime Intellect Releases Prime Agent, Hits 95.5% on ARC-AGI-3",
@@ -563,7 +665,7 @@
         "reddit",
         "news/reddit"
       ],
-      "title_ka": "მე არ ვფიქრობ, რომ RAG აღარ არის ნაგულისხმევი პასუხი საწარმოსთვის",
+      "title_ka": "მე არ ვფიქრობ, რომ RAG არის ნაგულისხმევი პასუხი საწარმოსთვის",
       "excerpt_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას.…",
       "description_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას. იანვარში პერსპექტივამ გახსნა ზარი \"ჩვენ გვაქვს ბიუჯეტი დამტკიცებული RAG სისტემისთვის\" მე ვკითხე რა კითხვებზე სჭირდებოდა პასუხის გაცემა სისტემას და შემდეგ ვიღაცამ გაიმეორა წინადადება ბიუჯეტის შესახებ. ვერავინ აღწერს პრობლემას, თუმცა ყველას შეეძლო არქიტექტურის აღწერა. ამ შეხვედრის ზოგიერთ ვერსიას, შესაძლოა, უკვე 6-ჯერ გავეცანი. Tbh ჩვენ გამოვიგზავნეთ ათზე მეტი მათგანი და ზოგიერთი იშოვება მათი შენახვა. მხარდაჭერის ჯგუფი, რომელიც პასუხობს პროდუქტის დოკუმენტების სტაბილური, მოწესრიგებული ნაკრებიდან, მისი სრულყოფილად გამოყენებაა. RAG არ არის მკვდარი და ვინც გეუბნებათ, რომ ის არის, უფრო ახალი აქვს თქვენთვის გასაყიდად. მე უბრალოდ არ ვფიქრობ, რომ ეს უკვე ავტომატური მოძრაობა უნდა იყოს, რასაც საწარმო აწვდის, როდესაც AI და დოკუმენტები გამოჩნდება იმავე წინადადებაში. აღმოჩნდა, რომ ჩვენი იმედგაცრუებული პროექტების უმეტესობა საერთოდ არ იყო მოპოვების პრობლემა. ერთ კლიენტს სურდა 40000 დოკუმენტის ჩასმა. სანამ ვექტორულ მონაცემთა ბაზას შევეხებოდით, ჩვენ ჩამოვთვალეთ 20 კითხვა, რომელიც რეალურად დაუსვეს თანამშრომლებს და ნახევარზე მეტი იყო სტრუქტურირებული ისეთი რამ, როგორიცაა თანხის დაბრუნების ჯამი და თანამშრომლების რაოდენობა, რომლებიც ეკუთვნოდა მონაცემთა ბაზის მოთხოვნას. 50-მდე დოკუმენტი მოიცავდა დანარჩენს. დანარჩენი 39,0"
     },
