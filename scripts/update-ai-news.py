@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import difflib
 import html
 import json
 import os
 import re
+import shutil
 import time
 import urllib.error
 import urllib.parse
@@ -233,8 +235,24 @@ def dedup_near_duplicates(all_items):
     return kept_uids, dropped_uids
 
 
-def main():
-    json_path = os.path.join(BASE, 'ai-news.json')
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(description='Fetch, translate, and dedup AI-news feed items.')
+    parser.add_argument(
+        '--out',
+        default=os.path.join(BASE, 'ai-news.json'),
+        help='Path to write ai-news.json (default: %(default)s)',
+    )
+    parser.add_argument(
+        '--backup',
+        action='store_true',
+        help='Before overwriting --out, copy the existing file to a timestamped .bak-<UTC timestamp> path',
+    )
+    return parser.parse_args(argv)
+
+
+def main(argv=None):
+    args = parse_args(argv)
+    json_path = args.out
     existing_sections = {}
     if os.path.exists(json_path):
         try:
@@ -298,7 +316,11 @@ def main():
         },
     }
 
-    with open(os.path.join(BASE, 'ai-news.json'), 'w', encoding='utf-8') as f:
+    if args.backup and os.path.exists(json_path):
+        stamp = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+        shutil.copy2(json_path, f'{json_path}.bak-{stamp}')
+
+    with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write('\n')
 
