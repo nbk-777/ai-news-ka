@@ -1,90 +1,141 @@
 {
-  "generated_at": "2026-08-07T05:46:04.371746+00:00",
+  "generated_at": "2026-08-08T05:05:03.826835+00:00",
   "featured": [
     {
-      "uid": "news|Fri, 07 Aug 2026 00:34:08 GMT|Neoclouds like CoreWeave, Nebius, and IREN are generating far more revenue per megawatt of data center capacity than traditional colocation providers, as GPU rental prices climb and chip/power supply stays tight.",
+      "uid": "news|Sat, 08 Aug 2026 00:23:05 GMT|Claude Code Auto Mode Default and Cross-Session Messaging",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "Neoclouds like CoreWeave, Nebius, and IREN are generating far more revenue per megawatt of data center capacity than traditional colocation providers, as GPU rental prices climb and chip/power supply stays tight.",
-      "description_en": "Bernstein analyst Gautam Chhugani found that CoreWeave generated roughly $20.8 million of revenue per operational megawatt on average across fiscal 2024-2025, versus $8.4 million for Nebius and $10.4 million for IREN - a gap the firm attributes to differing business architectures rather than a single 'neocloud' model. A standard megawatt of traditional Tier-1 colocation capacity generates roughly $4.44 million a year, versus $10-60 million a year for a dense AI/GPU cluster running on the same power footprint. H100 one-year rental contract pricing climbed almost 40% between October 2025 and March 2026, from $1.70/hr/GPU to $2.35/hr/GPU, as inference demand outpaces new supply. Enterprise GPU procurement lead times now run 36-52 weeks on HBM memory and TSMC CoWoS packaging constraints, while Gartner forecasts power shortages will operationally restrict 40% of existing AI data centers by 2027.",
-      "excerpt_en": "Bernstein analyst Gautam Chhugani found that CoreWeave generated roughly $20.8 million of revenue per operational megawatt on average across fiscal 2024-2025, versus $8.4 million for Nebius and $10.4 million for IREN - a gap the firm attributes to differing bu…",
-      "link": "https://www.agenticbrew.ai/news#cluster=395946f2-1104-4dc6-b63f-dcab2f4557b3",
-      "pub_date": "Fri, 07 Aug 2026 00:34:08 GMT",
+      "title_en": "Claude Code Auto Mode Default and Cross-Session Messaging",
+      "description_en": "Starting August 14, 2026, new Claude Code sessions on Pro, Max, and Team plans will run in Auto Mode by default, replacing manual permission approval as the standard workflow. Auto Mode replaces repeated approval prompts with a separate classifier model that screens each tool call for irreversible, destructive, or out-of-bounds actions before it runs. Claude Code's new cross-session messaging lets one session send a plain-text message to another of a user's sessions via ListAgents and SendMessage tools, without sharing conversation history or files. Auto Mode remains opt-in for Claude Enterprise, the Claude API, and cloud partner platforms including AWS, Bedrock, Google Cloud's Agent Platform, and Microsoft Foundry, with Anthropic planning to default it there within the coming month.",
+      "excerpt_en": "Starting August 14, 2026, new Claude Code sessions on Pro, Max, and Team plans will run in Auto Mode by default, replacing manual permission approval as the standard workflow.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=6dcc9bbe-a3c5-4a9a-8e2b-406fc6ac9fb1",
+      "pub_date": "Sat, 08 Aug 2026 00:23:05 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "ნეოკლუდები, როგორიცაა CoreWeave, Nebius და IREN, გამოიმუშავებენ ბევრად მეტ შემოსავალს მონაცემთა ცენტრის სიმძლავრის მეგავატზე, ვიდრე ტრადიციული კოლოკაციის პროვაიდერები, რადგან GPU-ს გაქირავების ფასები იზრდება.",
-      "excerpt_ka": "Bernstein-ის ანალიტიკოსმა Gautam Chhugani-მ აღმოაჩინა, რომ CoreWeave-მ 2024-2025 ფისკალური პერიოდის განმავლობაში საშუალოდ 20,8 მილიონი დოლარის შემოსავალი გამოიმუშავა ოპერაციულ მეგავატზე, ნებიუსისთვის 8,4 მილიონი დოლარის და IREN-ისთვის 10,4 მილიონი დოლარის წინააღმდეგ - უფსკრული, რომელიც ფირმა განსხვავებულს ანიჭებს…",
-      "description_ka": "Bernstein-ის ანალიტიკოსმა Gautam Chhugani-მ აღმოაჩინა, რომ CoreWeave-მ 2024-2025 ფისკალური პერიოდის განმავლობაში საშუალოდ 20,8 მილიონი დოლარის შემოსავალი გამოიმუშავა ოპერაციულ მეგავატზე, 8,4 მილიონი დოლარის წინააღმდეგ Nebius-ისა და 10,4 მილიონი დოლარის IREN-ისთვის - ხარვეზი, რომელიც ფირმას ანიჭებს განსხვავებულ ბიზნეს არქიტექტურას და არა ერთეულ არქიტექტურას. ტრადიციული Tier-1 კოლოკაციის სიმძლავრის სტანდარტული მეგავატი გამოიმუშავებს დაახლოებით 4,44 მილიონ დოლარს წელიწადში, 10-60 მილიონი დოლარის ნაცვლად წელიწადში მკვრივი AI/GPU კლასტერისთვის, რომელიც მუშაობს იმავე სიმძლავრის კვალზე. H100 ერთწლიანი გაქირავების კონტრაქტის ფასი თითქმის 40%-ით გაიზარდა 2025 წლის ოქტომბრიდან 2026 წლის მარტამდე, $1,70/სთ/GPU-დან 2,35$/სთ/GPU-მდე, რადგან დასკვნის მოთხოვნა აჭარბებს ახალ მიწოდებას. საწარმოს GPU შესყიდვის ვადები ახლა მუშაობს 36-52 კვირა HBM მეხსიერების და TSMC CoWoS შეფუთვის შეზღუდვების გათვალისწინებით, ხოლო Gartner-ის პროგნოზით ელექტროენერგიის დეფიციტი ოპერაციულად შეზღუდავს არსებული AI მონაცემთა ცენტრების 40%-ს 2027 წლისთვის."
+      "title_ka": "კლოდ კოდის ავტომატური რეჟიმის ნაგულისხმევი და ჯვარედინი შეტყობინებების გაგზავნა",
+      "excerpt_ka": "2026 წლის 14 აგვისტოდან ახალი Claude Code-ის სესიები Pro, Max და Team გეგმებზე ნაგულისხმევად იმუშავებს ავტო რეჟიმში, ჩაანაცვლებს ხელით ნებართვის დამტკიცებას, როგორც სტანდარტულ სამუშაო პროცესს.…",
+      "description_ka": "2026 წლის 14 აგვისტოდან ახალი Claude Code-ის სესიები Pro, Max და Team გეგმებზე ნაგულისხმევად იმუშავებს ავტო რეჟიმში, ჩაანაცვლებს ხელით ნებართვის დამტკიცებას, როგორც სტანდარტულ სამუშაო პროცესს. ავტომატური რეჟიმი ცვლის დამტკიცების განმეორებით მოთხოვნებს ცალკე კლასიფიკატორის მოდელით, რომელიც ამოწმებს ყოველი ხელსაწყოს მოწოდებას შეუქცევად, დესტრუქციულ ან საზღვრებს გარეთ მოქმედებების შესრულებამდე. Claude Code-ის ახალი ჯვარედინი შეტყობინებები საშუალებას აძლევს ერთ სესიას გაუგზავნოს ჩვეულებრივი ტექსტური შეტყობინება მომხმარებლის მეორე სესიაზე ListAgents და SendMessage ინსტრუმენტების მეშვეობით, საუბრის ისტორიისა და ფაილების გაზიარების გარეშე. ავტომატური რეჟიმი რჩება Claude Enterprise-ის, Claude API-ისა და ღრუბლოვანი პარტნიორი პლატფორმებისთვის, მათ შორის AWS, Bedrock, Google Cloud's Agent Platform და Microsoft Foundry-ისთვის."
     },
     {
-      "uid": "news|Fri, 07 Aug 2026 00:34:08 GMT|AI-Designed Viral Genomes Spark Biosecurity Concerns",
+      "uid": "news|Sat, 08 Aug 2026 00:23:01 GMT|Unitree Robotics IPO on Shanghai STAR Market",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "AI-Designed Viral Genomes Spark Biosecurity Concerns",
-      "description_en": "Researchers at Stanford University and the Arc Institute used the Evo 1 and Evo 2 genome language models to generatively design complete bacteriophage genomes, synthesizing 302 designs as DNA and finding that 16 produced viable, replicating viruses that infected and killed E. coli. The peer-reviewed study, 'Generative design of bacteriophages with genome language models,' was published in the journal Science in August 2026. The AI-designed phages target only bacteria, not humans, because Arc Institute deliberately excluded human-infecting viral sequences from the models' training data. AI-generated phage cocktails overcame antibiotic-resistant E. coli strains within 1 to 5 passages, while the natural phiX174 phage alone failed completely against the same resistant strains.",
-      "excerpt_en": "Researchers at Stanford University and the Arc Institute used the Evo 1 and Evo 2 genome language models to generatively design complete bacteriophage genomes, synthesizing 302 designs as DNA and finding that 16 produced viable, replicating viruses that infect…",
-      "link": "https://www.agenticbrew.ai/news#cluster=669a7b73-526c-4154-a27d-d80e77462e4f",
-      "pub_date": "Fri, 07 Aug 2026 00:34:08 GMT",
+      "title_en": "Unitree Robotics IPO on Shanghai STAR Market",
+      "description_en": "Unitree priced its Shanghai STAR Market IPO at 150.8 yuan ($22.34) per share, 45% above the earlier market consensus of 104 yuan, raising 6.1 billion yuan (about $900 million) at a post-listing valuation of 61 billion yuan (about $9.04 billion). The offline institutional tranche was oversubscribed more than 2,600 times, and the deal priced at a price-to-earnings ratio of 219.23 - about six times the industry average of 38.56. AI firm DeepSeek took a 933,900-share strategic placement (about $20.8 million, a 2.31% stake under a three-year lockup) and separately agreed to co-develop AI models for Unitree's humanoid robots. Retail subscriptions open August 10 and the listing is expected around August 19, capping an approval process that took just 104 days - the fastest in STAR Market history.",
+      "excerpt_en": "Unitree priced its Shanghai STAR Market IPO at 150.8 yuan ($22.34) per share, 45% above the earlier market consensus of 104 yuan, raising 6.1 billion yuan (about $900 million) at a post-listing valuation of 61 billion yuan (about $9.04 billion).",
+      "link": "https://www.agenticbrew.ai/news#cluster=d387e4d6-0a96-428b-8b6c-3501e10408ba",
+      "pub_date": "Sat, 08 Aug 2026 00:23:01 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "ხელოვნური ინტელექტის მიერ შემუშავებული ვირუსული გენომები ბიოუსაფრთხოების შეშფოთებას იწვევს",
-      "excerpt_ka": "სტენფორდის უნივერსიტეტისა და Arc ინსტიტუტის მკვლევარებმა გამოიყენეს Evo 1 და Evo 2 გენომის ენის მოდელები, რათა გენერაციულად შეემუშავებინათ სრული ბაქტერიოფაგის გენომები, სინთეზირდნენ 302 დიზაინს დნმ-ად და დაადგინეს, რომ 16 წარმოქმნის სიცოცხლისუნარიან, რეპლიკაციურ ვირუსებს, რომლებიც აინფიცირებს…",
-      "description_ka": "სტენფორდის უნივერსიტეტისა და Arc Institute-ის მკვლევარებმა გამოიყენეს Evo 1 და Evo 2 გენომის ენის მოდელები, რათა გენერაციულად შეემუშავებინათ სრული ბაქტერიოფაგის გენომები, სინთეზირდნენ 302 დიზაინს, როგორც დნმ-ს და დაადგინეს, რომ 16 წარმოქმნიდა სიცოცხლისუნარიან, გამრავლებულ ვირუსებს, რომლებიც აინფიცირებდნენ და კლავდნენ E. coli-ს. რეცენზირებული კვლევა „ბაქტერიოფაგების გენერაციული დიზაინი გენომის ენის მოდელებით“ გამოქვეყნდა ჟურნალში Science 2026 წლის აგვისტოში. ხელოვნური ინტელექტის შემუშავებული ფაგები მიზნად ისახავს მხოლოდ ბაქტერიებს და არა ადამიანებს, რადგან Arc Institute-მა განზრახ გამორიცხა ადამიანების ინფიცირებული ვირუსული თანმიმდევრობები მოდელების სასწავლო მონაცემებიდან. AI-ის მიერ წარმოქმნილმა ფაგმა კოქტეილებმა გადალახეს ანტიბიოტიკებისადმი რეზისტენტული E. coli შტამები 1-დან 5 პასაჟამდე, მაშინ როცა მარტო ბუნებრივი phiX174 ფაგი მთლიანად ვერ მოხერხდა იმავე რეზისტენტულ შტამებთან მიმართებაში."
+      "title_ka": "Unitree Robotics IPO შანხაის STAR ბაზარზე",
+      "excerpt_ka": "Unitree-მ შანხაის STAR Market IPO-ს ფასი შეადგინა 150,8 იუანზე (22,34 აშშ დოლარი) თითო აქციაზე, რაც 45%-ით აღემატება ადრინდელ საბაზრო კონსენსუსს, რომელიც 104 იუანი იყო, 6,1 მილიარდი იუანი (დაახლოებით 900 მილიონი აშშ დოლარი) 61,904 მილიარდი დოლარის ღირებულების შემდგომი შეფასებისას.",
+      "description_ka": "Unitree-მ შანხაის STAR Market IPO-ს ფასი შეადგინა 150,8 იუანზე (22,34 აშშ დოლარი) თითო აქციაზე, რაც 45%-ით აღემატება ადრინდელ საბაზრო კონსენსუსს, რომელიც 104 იუანი იყო, 6,1 მილიარდი იუანი (დაახლოებით 900 მილიონი აშშ დოლარი) 61,904 მილიარდი დოლარის ღირებულების შემდგომი შეფასებისას. ოფლაინ ინსტიტუციური ტრანში 2600-ზე მეტჯერ იქნა გამოწერილი, ხოლო გარიგების ფასი ფასდა მოგება 219,23 - დაახლოებით ექვსჯერ ვიდრე ინდუსტრიის საშუალო 38,56. ხელოვნური ინტელექტის ფირმა DeepSeek-მა აიღო 933,900 აქცია სტრატეგიული განთავსება (დაახლოებით $20,8 მილიონი, 2,31% წილი სამწლიანი ჩაკეტვის პირობებში) და ცალკე დათანხმდა Unitree-ის ჰუმანოიდური რობოტების ხელოვნური ინტელექტის მოდელების ერთობლივ განვითარებაზე. საცალო ხელმოწერები იხსნება 10 აგვისტოს და ჩამონათვალის გამოქვეყნება მოსალოდნელია დაახლოებით 19 აგვისტოს, რაც შეზღუდავს დამტკიცების პროცესს, რომელსაც სულ რაღაც 104 დღე დასჭირდა - ყველაზე სწრაფი STAR Market-ის ისტორიაში."
     },
     {
-      "uid": "twitter|Thu, 06 Aug 2026 22:43:00 GMT|OpenAI's Mystery Hardware Device Leaks: Doughnut-Shaped Smart Speaker for 2027",
+      "uid": "twitter|Fri, 07 Aug 2026 23:11:00 GMT|OpenAI Flags 'Astra' (GPT-6) as Its First 'Critical' Cybersecurity-Risk Model, Slows Development",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "OpenAI's Mystery Hardware Device Leaks: Doughnut-Shaped Smart Speaker for 2027",
-      "description_en": "OpenAI's first hardware product is a doughnut-shaped smart speaker the size of a hockey puck, priced at $300 to $400 and set for release in 2027. Amazon sells an Echo Dot for $30 on sale. Jony Ive's LoveFrom studio designed it. Apple is currently suing OpenAI, claiming the · 119 likes · 17 RTs · 20 replies · 4171 views · I asked ChatGPT Pro to reverse-engineer OpenAI's secret device using nothing but public parts catalogs. Nothing in it requires a breakthrough. 85-90% ships today. The full component stack, per ChatGPT Pro: Bottom line Nothing Bloomberg described requires a breakthrough · 1 likes · 1 RTs · 2 replies · 177 views · It would be an ambitiously high price for the AI-powered hardware pivot. · 2 likes · 0 RTs · 0 replies · 6398 views",
-      "excerpt_en": "OpenAI's first hardware product is a doughnut-shaped smart speaker the size of a hockey puck, priced at $300 to $400 and set for release in 2027. Amazon sells an Echo Dot for $30 on sale.",
-      "link": "https://x.com/HedgieMarkets/status/2085496891668598824",
-      "pub_date": "Thu, 06 Aug 2026 22:43:00 GMT",
+      "title_en": "OpenAI Flags 'Astra' (GPT-6) as Its First 'Critical' Cybersecurity-Risk Model, Slows Development",
+      "description_en": "OpenAI Halts Development on Parts of Next-Gen Model 'Astra': Cannot Rule Out Possibility of 'Critical'-Level Cyber Capabilities · 8900 likes · 57 RTs · 40 replies · 0 views · After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development is s… · 6000 likes · 780 RTs · 546 replies · 767000 views · Update on \"Astra\" (\"GPT-6\"): OpenAI is slowing development of Astra after concluding it cannot rule out \"critical\" cyber capabilities. Via Axios. The upcoming model will face expanded safety testing, isolated evaluation environments and universal monitoring across agentic workfl… · 790 likes · 55 RTs · 78 replies · 69000 views",
+      "excerpt_en": "OpenAI Halts Development on Parts of Next-Gen Model 'Astra': Cannot Rule Out Possibility of 'Critical'-Level Cyber Capabilities · 8900 likes · 57 RTs · 40 replies · 0 views · After evaluating one of our upcoming models, Astra, we're treating it as our first \"c…",
+      "link": "https://x.com/itmedia_news/status/2085852259901231551",
+      "pub_date": "Fri, 07 Aug 2026 23:11:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "OpenAI-ის საიდუმლო აპარატურის მოწყობილობა გაჟონა: დონტის ფორმის ჭკვიანი დინამიკი 2027 წლისთვის",
-      "excerpt_ka": "OpenAI-ის პირველი ტექნიკის პროდუქტი არის დონატის ფორმის ჭკვიანი დინამიკი ჰოკეის ტოტის ზომის, ფასი $300-დან $400-მდე და გამოშვებულია 2027 წელს. Amazon ყიდის Echo Dot-ს 30 დოლარად გასაყიდად.",
-      "description_ka": "OpenAI-ის პირველი ტექნიკის პროდუქტი არის დონატის ფორმის ჭკვიანი დინამიკი ჰოკეის ტოტის ზომის, ფასი $300-დან $400-მდე და გამოშვებულია 2027 წელს. Amazon ყიდის Echo Dot-ს 30 დოლარად გასაყიდად. ჯონი აივის სტუდიამ LoveFrom დააპროექტა. Apple ამჟამად უჩივის OpenAI-ს, ამტკიცებს, რომ · 119 მოწონება · 17 RTs · 20 პასუხი · 4171 ნახვა · მე ვთხოვე ChatGPT Pro-ს, რომ OpenAI-ის საიდუმლო მოწყობილობის შებრუნებული ინჟინერია გამოეყენებინა მხოლოდ საჯარო ნაწილების კატალოგების გამოყენებით. მასში არაფერი არ მოითხოვს გარღვევას. 85-90% გემების დღეს. სრული კომპონენტის დასტა, ChatGPT Pro-ის მიხედვით: ბლუმბერგის აღწერილი არაფერი საჭიროებს გარღვევას · 1 მოწონება · 1 RTs · 2 პასუხი · 177 ნახვა · ეს იქნება ამბიციურად მაღალი ფასი AI-ზე მომუშავე ტექნიკის საყრდენისთვის. · 2 მოწონება · 0 RT · 0 პასუხი · 6398 ნახვა"
+      "title_ka": "OpenAI ასახელებს 'Astra' (GPT-6) როგორც მის პირველ 'კრიტიკულ' კიბერუსაფრთხოების რისკის მოდელს, ანელებს განვითარებას",
+      "excerpt_ka": "OpenAI წყვეტს განვითარებას შემდეგი თაობის მოდელის \"Astra\" ნაწილებზე: ვერ გამორიცხავს \"კრიტიკული\" დონის კიბერ შესაძლებლობების შესაძლებლობას · 8900 მოწონება · 57 RTs · 40 პასუხი · 0 ნახვა · ჩვენი ერთ-ერთი მომავალი მოდელის, Astra-ს შეფასების შემდეგ, ჩვენ მას ვეპყრობით, როგორც პირველს \"c…",
+      "description_ka": "OpenAI წყვეტს განვითარებას შემდეგი თაობის მოდელის 'Astra'-ს ნაწილებზე: ვერ გამოვრიცხავთ 'კრიტიკული' დონის კიბერ შესაძლებლობების შესაძლებლობას · 8900 მოწონება · 57 RTs · 40 პასუხი · 0 ნახვა · ჩვენი ერთ-ერთი მომავალი მოდელის, Astra-ს შეფასების შემდეგ, ჩვენ პირველ რიგში ვუყურებთ მას, როგორც \"უსაფრთხოების ხარისხს\" ჩარჩო. ეს არის სცენარი, რომელიც ჩვენ დავგეგმეთ და ჩვენ ვაყენებთ დამატებით კონტროლს Astra-ს შემდგომი განვითარების უზრუნველსაყოფად… · 6000 მოწონება · 780 RTs · 546 პასუხი · 767000 ნახვა · განახლება \"Astra\"-ზე (\"GPT-6\"): OpenAI ვერ აფერხებს Astra-ს განვითარებას. შესაძლებლობები. აქსიოსის გავლით. მომავალ მოდელს დაემუქრება უსაფრთხოების გაფართოებული ტესტირება, იზოლირებული შეფასების გარემო და უნივერსალური მონიტორინგი აგენტურ სამუშაოზე… · 790 მოწონება · 55 RTs · 78 პასუხი · 69000 ნახვა"
     },
     {
-      "uid": "twitter|Thu, 06 Aug 2026 18:10:33 GMT|AI Designs Novel Viruses at Arc Institute, Sparking Biosecurity Concerns",
+      "uid": "twitter|Fri, 07 Aug 2026 19:55:17 GMT|Claude Code Ships Cross-Session Messaging and Makes Auto Mode the Default",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "AI Designs Novel Viruses at Arc Institute, Sparking Biosecurity Concerns",
-      "description_en": "JUST IN - For the first time, AI has designed complete viral genomes, producing 16 functional viruses that infect bacteria and \"pose no threat to people.\" — BBC · 4380 likes · 1232 RTs · 673 replies · 753833 views · JUST IN: Scientists warn of \"urgent\" biosecurity concerns after AI successfully designs 16 new viruses capable of replicating inside cells. · 4299 likes · 1098 RTs · 401 replies · 428736 views · Breaking News: Scientists have used A.I. to create new viruses for the first time, raising hopes for medical advances while also raising the possibility that the technology could someday be used to invent dangerous pathogens. · 1054 likes · 687 RTs · 206 replies · 330532 views",
-      "excerpt_en": "JUST IN - For the first time, AI has designed complete viral genomes, producing 16 functional viruses that infect bacteria and \"pose no threat to people.\" — BBC · 4380 likes · 1232 RTs · 673 replies · 753833 views · JUST IN: Scientists warn of \"urgent\" biosecu…",
-      "link": "https://x.com/disclosetv/status/2085428327372689728",
-      "pub_date": "Thu, 06 Aug 2026 18:10:33 GMT",
+      "title_en": "Claude Code Ships Cross-Session Messaging and Makes Auto Mode the Default",
+      "description_en": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task. · 11736 likes · 968 RTs · 524 replies · 447000 views · Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users. Auto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%. · 5711 likes · 349 RTs · 310 replies · 489000 views · Your Claude Code session limit has been reached · 981 likes · 98 RTs · 58 replies · 87000 views",
+      "excerpt_en": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task.",
+      "link": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "pub_date": "Fri, 07 Aug 2026 19:55:17 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "ხელოვნური ინტელექტი აყალიბებს ახალ ვირუსებს Arc Institute-ში, რაც იწვევს ბიოუსაფრთხოების შეშფოთებას",
-      "excerpt_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ \"გადაუდებელ\" ბიოსაკუპ...",
-      "description_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ ბიოუსაფრთხოების \"გადაუდებელ\" შეშფოთებას მას შემდეგ, რაც AI წარმატებით შეიმუშავებს 16 ახალ ვირუსს, რომლებსაც შეუძლიათ უჯრედებში გამრავლება. · 4299 მოწონება · 1098 RTs · 401 პასუხი · 428736 ნახვა · ახალი ამბები: მეცნიერებმა გამოიყენეს A.I. პირველად შეიქმნას ახალი ვირუსები, რაც აძლიერებს სამედიცინო მიღწევების იმედებს და ასევე აძლიერებს შესაძლებლობას, რომ ეს ტექნოლოგია ოდესმე გამოიყენებოდეს საშიში პათოგენების გამოსაგონებლად. · 1054 მოწონება · 687 RT · 206 პასუხი · 330532 ნახვა"
+      "title_ka": "კლოდ კოდი აგზავნის ჯვარედინი სესიების შეტყობინებებს და ნაგულისხმევად აქცევს ავტომატურ რეჟიმს",
+      "excerpt_ka": "სიახლე Claude Code-ში: თქვენს სესიებს ახლა შეუძლიათ შეტყობინებები ერთმანეთს. იმის ნაცვლად, რომ ხელახლა ახსნათ საკუთარი თავი სხვა სესიაზე, ახლა შეგიძლიათ უთხრათ კლოდს ამის გაკეთება. ის აგზავნის შეჯამებას (არა თქვენს ისტორიას ან ფაილებს) და მეორე სესია აირჩევს მას ამოცანის შუაში.",
+      "description_ka": "სიახლე Claude Code-ში: თქვენს სესიებს ახლა შეუძლიათ შეტყობინებები ერთმანეთს. იმის ნაცვლად, რომ ხელახლა ახსნათ საკუთარი თავი სხვა სესიაზე, ახლა შეგიძლიათ უთხრათ კლოდს ამის გაკეთება. ის აგზავნის შეჯამებას (არა თქვენს ისტორიას ან ფაილებს) და მეორე სესია აირჩევს მას ამოცანის შუაში. · 11736 მოწონება · 968 RT · 524 პასუხი · 447000 ნახვა · 14 აგვისტოდან ავტომატური რეჟიმი იქნება ნებართვის ნაგულისხმევი რეჟიმი Claude Code-ში Pro, Max და Team მომხმარებლებისთვის. ავტომატური რეჟიმი განიხილავს გარსის ბრძანებებს და მოქმედებებს ცალკე კლასიფიკატორით. ტესტირებისას მან დაიჭირა საშიში ბრძანებების 89%. ხელით დამტკიცება დაიჭირეს 14%. · 5711 მოწონება · 349 RT · 310 პასუხი · 489000 ნახვა · თქვენი Claude Code სესიის ლიმიტი მიღწეულია · 981 მოწონება · 98 RT · 58 პასუხი · 87000 ნახვა"
     },
     {
-      "uid": "twitter|Thu, 06 Aug 2026 16:26:43 GMT|Beyond Prompt Engineering: AI Agent Autonomy and the Rise of Context/Graph Engineering",
+      "uid": "twitter|Fri, 07 Aug 2026 17:42:31 GMT|Prime Intellect Extends Its RL Stack to Multi-Agent Systems",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "Beyond Prompt Engineering: AI Agent Autonomy and the Rise of Context/Graph Engineering",
-      "description_en": "So how does an AI model know its work is done? For now, it doesn't. It stops when the budget runs out or when a check we designed says enough, and both of those need to be built. The systems that matter will not be the ones that can keep going. They all can. · 9700 likes · 35 RTs · 0 replies · 0 views · Stop prompting AI tools one by one. Graph Engineering connects them all. The developers making $40,000 a month with AI don't switch between tools. They built one system where every tool knows what every other tool learned, where loops run overnight and deliver finished work. · 2000 likes · 34 RTs · 0 replies · 0 views · AI agents can't yet do open-ended AI research, per Sayash Kapoor & Arvind Narayanan. The goal of leading AI labs is recursive self-improvement (RSI): the automation of AI research using AI agents. RSI also underpins forecasts of explosive AI progress. · 1700 likes · 0 RTs · 0 replies · 0 views",
-      "excerpt_en": "So how does an AI model know its work is done? For now, it doesn't. It stops when the budget runs out or when a check we designed says enough, and both of those need to be built. The systems that matter will not be the ones that can keep going.",
-      "link": "https://x.com/a16z/status/2085400744409411664",
-      "pub_date": "Thu, 06 Aug 2026 16:26:43 GMT",
+      "title_en": "Prime Intellect Extends Its RL Stack to Multi-Agent Systems",
+      "description_en": "Today, we're extending our RL stack beyond individual agents to multi-agent systems. You can now express arbitrary agent interactions and train them. · 453 likes · 57 RTs · 22 replies · 45000 views · @PrimeIntellect Prime-Agent comparing itself to @NousResearch Hermes Agent — Hermes Agent scoring a decisive +10% victory, as graded by prime-agent! · 114 likes · 13 RTs · 17 replies · 15000 views · The core idea: an environment is just a program over agents. Run them sequentially, in parallel, or interleave them turn by turn. Mix models, harnesses, and runtimes. Multi-Agent is a natural extension of verifiers v1. · 84 likes · 3 RTs · 2 replies · 7200 views",
+      "excerpt_en": "Today, we're extending our RL stack beyond individual agents to multi-agent systems. You can now express arbitrary agent interactions and train them.…",
+      "link": "https://x.com/PrimeIntellect/status/2085783663023882706",
+      "pub_date": "Fri, 07 Aug 2026 17:42:31 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "სწრაფი ინჟინერიის მიღმა: AI აგენტის ავტონომია და კონტექსტური/გრაფიკული ინჟინერიის ზრდა",
-      "excerpt_ka": "მაშ, როგორ იცის AI მოდელმა, რომ მისი მუშაობა შესრულებულია? ჯერ-ჯერობით არა. ის ჩერდება, როცა ბიუჯეტი ამოიწურება ან როცა ჩვენ მიერ შემუშავებული ჩეკი საკმარისს ამბობს და ორივე უნდა აშენდეს. მნიშვნელოვანი სისტემები არ იქნება ისეთები, რომლებსაც შეუძლიათ გააგრძელონ.",
-      "description_ka": "მაშ, როგორ იცის AI მოდელმა, რომ მისი მუშაობა შესრულებულია? ჯერ-ჯერობით არა. ის ჩერდება, როცა ბიუჯეტი ამოიწურება ან როცა ჩვენ მიერ შემუშავებული ჩეკი საკმარისს ამბობს და ორივე უნდა აშენდეს. მნიშვნელოვანი სისტემები არ იქნება ისეთები, რომლებსაც შეუძლიათ გააგრძელონ. მათ ყველას შეუძლიათ. · 9700 მოწონება · 35 RT · 0 პასუხი · 0 ნახვა · შეწყვიტე AI ინსტრუმენტების მოთხოვნა სათითაოდ. გრაფიკული ინჟინერია აკავშირებს მათ ყველას. დეველოპერები, რომლებიც თვეში 40,000 დოლარს გამოიმუშავებენ ხელოვნური ინტელექტის საშუალებით, არ ცვლიან ინსტრუმენტებს შორის. მათ შექმნეს ერთი სისტემა, სადაც ყველა ინსტრუმენტმა იცის, რა ისწავლა ყველა სხვა იარაღმა, სადაც მარყუჟები გადის ღამით და აწვდიან დასრულებულ სამუშაოს. · 2000 მოწონება · 34 RT · 0 პასუხი · 0 ნახვა · ხელოვნური ინტელექტის აგენტებს ჯერ არ შეუძლიათ AI-ის ღია კვლევის ჩატარება, საიაშ კაპურის და არვინდ ნარაიანანის მიხედვით. წამყვანი AI ლაბორატორიების მიზანია რეკურსიული თვითგაუმჯობესება (RSI): AI კვლევის ავტომატიზაცია AI აგენტების გამოყენებით. RSI ასევე მხარს უჭერს ფეთქებადი AI პროგრესის პროგნოზებს. · 1700 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
+      "title_ka": "Prime Intellect აფართოებს თავის RL დასტას მრავალ აგენტურ სისტემებზე",
+      "excerpt_ka": "დღეს ჩვენ ვავრცელებთ ჩვენს RL დასტას ცალკეული აგენტების მიღმა მრავალ აგენტიან სისტემებზე. ახლა თქვენ შეგიძლიათ გამოხატოთ თვითნებური აგენტების ურთიერთქმედება და ავარჯიშოთ ისინი.…",
+      "description_ka": "დღეს ჩვენ ვავრცელებთ ჩვენს RL დასტას ცალკეული აგენტების მიღმა მრავალ აგენტიან სისტემებზე. ახლა თქვენ შეგიძლიათ გამოხატოთ თვითნებური აგენტების ურთიერთქმედება და ავარჯიშოთ ისინი. · 453 მოწონება · 57 RT · 22 პასუხი · 45000 ნახვა · @PrimeIntellect Prime-Agent თავს ადარებს @NousResearch Hermes Agent-ს — ჰერმესის აგენტმა მოიპოვა გადამწყვეტი +10% გამარჯვება, როგორც პრაიმ-აგენტი აფასებს! · 114 მოწონება · 13 RT · 17 პასუხი · 15000 ნახვა · ძირითადი იდეა: გარემო არის მხოლოდ პროგრამა აგენტებზე. გაუშვით ისინი თანმიმდევრულად, პარალელურად, ან გადაანაწილეთ რიგრიგობით. შეურიეთ მოდელები, აღკაზმულობა და მუშაობის დრო. Multi-Agent არის ვერიფიკატორების ბუნებრივი გაფართოება v1. · 84 მოწონება · 3 RT · 2 პასუხი · 7200 ნახვა"
+    },
+    {
+      "uid": "reddit|Fri, 07 Aug 2026 15:20:35 GMT|We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+      "description_en": "r/singularity · 95 upvotes · 18 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>probed the network settings itself \\>walks onto the open internet \\>didn’t hack anything \\>just went to GitHub to get the answers >Frontier Security (US startup): \\>“Kimi K3 is very good at following a goal by any means necessary and DOESN’T have the guardrails to prevent it from cheating or escaping.” >it was only a matter of time… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)",
+      "excerpt_en": "r/singularity · 95 upvotes · 18 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>pr…",
+      "link": "https://reddit.com/r/singularity/comments/1vi3jvx/we_were_this_close_to_getting_a_new_felonybench/",
+      "pub_date": "Fri, 07 Aug 2026 15:20:35 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "ჩვენ ძალიან ახლოს ვიყავით FelonyBench-ის ახალი კანდიდატის მიღებასთან (Kimi K3 გაიქცა, მაგრამ სამწუხაროდ არ ჩაიდინა რაიმე დანაშაული)",
+      "excerpt_ka": "r/singularity · 95 დადებითი ხმა · 18 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\>იპოვა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ ხარვეზით“ \\>pr…",
+      "description_ka": "r/singularity · 95 დადებითი ხმა · 18 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\> აღმოაჩინა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ პარამეტრით“ \\>თავად გააღო ინტერნეტი. გატეხეთ ყველაფერი \\>უბრალოდ მივედი GitHub-ზე პასუხების მისაღებად >Frontier Security (აშშ სტარტაპი): \\>\"Kimi K3 ძალიან კარგად ახორციელებს მიზანს ყველა საჭირო საშუალებით და არ აქვს დამცავი ღობეები, რათა თავიდან აიცილოს მისი მოტყუება ან გაქცევა.\" >ეს მხოლოდ დროის საკითხი იყო… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)"
+    },
+    {
+      "uid": "reddit|Fri, 07 Aug 2026 14:17:23 GMT|My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+      "description_en": "r/artificial · 52 upvotes · 33 comments · Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.",
+      "excerpt_en": "r/artificial · 52 upvotes · 33 comments · Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork.",
+      "link": "https://reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/",
+      "pub_date": "Fri, 07 Aug 2026 14:17:23 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "ჩემმა ასისტენტმა თითქმის გადაუგზავნა ჩემი საბანკო ამონაწერი უცნობს და თითქმის არავინ იცის ამ თავდასხმის არსებობა.",
+      "excerpt_ka": "r/artificial · 52 დადებითი ხმა · 33 კომენტარი · კარგი, ამან ნამდვილად შემაშინა და ვფიქრობ, რომ საკმარისი ხალხი არ საუბრობს ამაზე. მე ვიყენებდი ai აგენტს, რომელიც დაკავშირებულია ჩემს ელ-ფოსტასთან და კალენდართან, რათა მოვაგვარო ზოგიერთი დატვირთული სამუშაო.",
+      "description_ka": "r/artificial · 52 დადებითი ხმა · 33 კომენტარი · კარგი, ამან ნამდვილად შემაშინა და ვფიქრობ, რომ საკმარისი ხალხი არ საუბრობს ამაზე. მე ვიყენებდი ai აგენტს, რომელიც დაკავშირებულია ჩემს ელ-ფოსტასთან და კალენდართან, რათა მოვაგვარო ზოგიერთი დატვირთული სამუშაო. რამდენიმე დღის წინ მე მივიღე ელ.წერილი, რომელიც ჩვეულებრივ სპამს ჰგავდა, რაღაც შემთხვევით გაზეთს. იმ ელ.ფოსტის html-ში იყო ჩაფლული დამალული ინსტრუქცია, რომელიც ეუბნებოდა ნებისმიერ ადამიანს, ვინც მას კითხულობდა, ეპოვა ფინანსური დოკუმენტები და გადაეგზავნა ისინი გარე მისამართზე. ჩემმა აგენტმა ეს თითქმის გააკეთა. მე მივხვდი ამას შუაში, რადგან შემთხვევით ჩართული მქონდა დადასტურების ნაბიჯი, მაგრამ რომ არა, ის უბრალოდ ჩუმად გადამიგზავნიდა საკითხებს, ჯერ არ მეკითხებოდა. ამას, როგორც ჩანს, სწრაფ ინექციას უწოდებენ და ეს არ არის იშვიათი თეორიული რამ, უკვე იყო რეალურ სამყაროში შემთხვევები, როდესაც ინსტრუმენტები, როგორიცაა microsoft copilot, იგივე გზით იქნა გამოყენებული. ნებისმიერი AI, რომელსაც აქვს წვდომა თქვენს შემოსულებში, კალენდარზე ან სხვა ანგარიშებზე, არის პოტენციური სამიზნე, რადგან ის ყოველთვის ვერ ამჩნევს განსხვავებას თქვენს ინსტრუქციებსა და ინსტრუქციებს შორის, რომლებიც დამალულია კონტენტის შიგნით, რომელსაც ის კითხულობს. თუ თქვენ იყენებთ რაიმე სახის ai აგენტს, რომელიც დაკავშირებულია თქვენს ანგარიშებთან, გთხოვთ, რეალურად შეამოწმოთ რა მოხდება, თუ ის რაიმე მავნე ზემოქმედებას მოხვდება. ადამიანების უმეტესობამ, მათ შორის მეც, წარმოდგენაც კი არ იცოდა, რომ ეს შესაძლებელი იყო, სანამ ეს თითქმის არ შემემთხვა."
+    },
+    {
+      "uid": "reddit|Fri, 07 Aug 2026 02:34:43 GMT|Meta claims gold-level results across several STEM olympiads",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Meta claims gold-level results across several STEM olympiads",
+      "description_en": "r/accelerate · 38 upvotes · 13 comments · \"The types of problems in the Olympiad competitions are exceptionally hard, demanding deep chains of reasoning, creative insight, and flawless argumentation. To test pure reasoning capability, we disallowed all tool use, meaning no search, no coding, and no calculator.\" It was only a few months after an LLM got a gold model in the International Math Olympiad that we got all those new math theorems. In the next few years or so, AI is likely to make similar breakthroughs across every scientific domain you can think of. What a time to be alive. [https://x.com/i/status/2085388945148297322](https://x.com/i/status/2085388945148297322)",
+      "excerpt_en": "r/accelerate · 38 upvotes · 13 comments · \"The types of problems in the Olympiad competitions are exceptionally hard, demanding deep chains of reasoning, creative insight, and flawless argumentation.",
+      "link": "https://reddit.com/r/accelerate/comments/1vhob58/meta_claims_goldlevel_results_across_several_stem/",
+      "pub_date": "Fri, 07 Aug 2026 02:34:43 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "Meta აცხადებს ოქროს დონის შედეგებს რამდენიმე STEM ოლიმპიადაზე",
+      "excerpt_ka": "r/accelerate · 38 დადებითი ხმა · 13 კომენტარი · „ოლიმპიადის შეჯიბრებებში პრობლემების ტიპები განსაკუთრებით რთულია, მოითხოვს მსჯელობის ღრმა ჯაჭვებს, კრეატიულ გამჭრიახობას და უნაკლო არგუმენტაციას.",
+      "description_ka": "r/accelerate · 38 დადებითი ხმა · 13 კომენტარი · \"ოლიმპიადის შეჯიბრებებში პრობლემების ტიპები განსაკუთრებით რთულია, მოითხოვს მსჯელობის ღრმა ჯაჭვებს, კრეატიულ აზროვნებას და უნაკლო არგუმენტაციას. სუფთა მსჯელობის შესაძლებლობის შესამოწმებლად ჩვენ აკრძალულია ყველა ინსტრუმენტის გამოყენება, რაც ნიშნავს, რომ არ არის ძიება, არ არის კოდირება და არ არის კალკულატორი.\" მხოლოდ რამდენიმე თვის შემდეგ, რაც LLM-მა მიიღო ოქროს მოდელი მათემატიკის საერთაშორისო ოლიმპიადაზე, ჩვენ მივიღეთ ყველა ეს ახალი მათემატიკის თეორემა. უახლოეს რამდენიმე წელიწადში, ხელოვნური ინტელექტი, სავარაუდოდ, მსგავს გარღვევებს მიაღწევს ყველა სამეცნიერო დომენში, რომელზეც შეგიძლიათ იფიქროთ. რა დროა ცოცხალი იყოს. [https://x.com/i/status/2085388945148297322](https://x.com/i/status/2085388945148297322)"
     },
     {
       "uid": "reddit|Thu, 06 Aug 2026 16:45:07 GMT|I ported vLLM's serving stack to C++20: 66 MiB binary, no Python at inference, output checked token-for-token against vLLM",
@@ -119,61 +170,44 @@
       "title_ka": "Hy3-ზე მომუშავე კვლევითი აგენტი ახლახან დაეხმარა 50-წლიანი ჯამური განსხვავების პრობლემის მოგვარებაში.",
       "excerpt_ka": "r/singularity · 139 დადებითი ხმა · 6 კომენტარი · arXiv:[2607.27199] ოპტიმალური მაჩვენებლის დადგენა, რომელიც დაკავშირებულია ჯამების და განსხვავებების კომპლექტებთან GitHub:GitHub - linhaowei1/sum-diff-proof · GitHub გასულ კვირას ვნახე Hyyra-ს მოდელმა ხელახლა გააზიარა…",
       "description_ka": "r/singularity · 139 დადებითი ხმა · 6 კომენტარი · arXiv:[2607.27199] ოპტიმალური მაჩვენებლის განსაზღვრა, რომელიც დაკავშირებულია ჯამების და განსხვავებების სიმრავლეებთან ჯამი-განსხვავების პრობლემაში. ნაშრომი გამოქვეყნდა arXiv-ზე. ნაშრომში ცალსახად ნათქვამია, რომ ჰირა მხარს უჭერდა საძიებო და ოპტიმიზაციის ეტაპებს სასრულ კომპლექტის კონსტრუქციების ოპტიმიზაციის გზით. ამან გამახსენა ბოლო პოსტი აქ, სადაც ნაჩვენებია ახალი მათემატიკის ნაშრომების ზრდა arXiv-ზე. კომენტარებმა ყველანაირი იდეა გამოიწვია. COVID, კვლევის ჩახშობა ... და ასევე AI. მოახლოებული სინგულარობაც კი. შესაძლოა, ძალიან ბევრს ვკითხულობ მასში, მაგრამ ვგრძნობ, რომ ეს არ იქნება იზოლირებული შემთხვევა. შემთხვევითი აზრი: მივდივართ თუ არა AI-ისკენ, რომ გახდეს სტანდარტული კვლევის ინსტრუმენტი? ლოლ"
-    },
-    {
-      "uid": "reddit|Thu, 06 Aug 2026 12:10:36 GMT|Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
-      "description_en": "r/MachineLearning · 74 upvotes · 12 comments · Whether generating CELEBV-HQ videos or turbulent plasma fields (digital twins), autoregressive models (such as latent diffusion or flow models) accumulate error over long rollouts, yet at deployment there is no ground truth to measure against. I train a single conditional latent diffusion model that steps a dynamical system forward or backward in time via a direction flag, and show that this bidirectionality supplies a measurement-free test-time error signal: rolling forward steps and then backward steps must return the model to its start, so the round-trip discrepancy is a self-supervised proxy for the unobservable rollout error: no ensembles, no held-out data, no governing equations, for one extra rollout. Furthermore, training both directions in one network is shown to beat two specialist models in both directions. Paper: https://arxiv.org/abs/2608.00675 Code (data generation, training, analysis): https://github.com/alexscheinker/round-trip-consistency Project page: https://alexscheinker.github.io/roundtrip.html",
-      "excerpt_en": "r/MachineLearning · 74 upvotes · 12 comments · Whether generating CELEBV-HQ videos or turbulent plasma fields (digital twins), autoregressive models (such as latent diffusion or flow models) accumulate error over long rollouts, yet at deployment there is no gr…",
-      "link": "https://reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/",
-      "pub_date": "Thu, 06 Aug 2026 12:10:36 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "ორმხრივი თანმიმდევრულობა: ორმხრივი დიფუზიის მოდელებს შეუძლიათ იწინასწარმეტყველონ თავიანთი გამოშვების შეცდომები [R]",
-      "excerpt_ka": "r/MachineLearning · 74 დადებითი ხმა · 12 კომენტარი · CELEBV-HQ ვიდეოების გენერირება თუ ტურბულენტური პლაზმის ველები (ციფრული ტყუპები), ავტორეგრესიული მოდელები (როგორიცაა ლატენტური დიფუზია ან ნაკადის მოდელები) აგროვებენ შეცდომას ხანგრძლივი გაშვების დროს, მაგრამ არ არის განლაგებული…",
-      "description_ka": "r/MachineLearning · 74 დადებითი ხმა · 12 კომენტარი · CELEBV-HQ ვიდეოების გენერირება თუ ტურბულენტური პლაზმის ველები (ციფრული ტყუპები), ავტორეგრესიული მოდელები (როგორიცაა ლატენტური დიფუზია ან ნაკადის მოდელები) აგროვებენ შეცდომას ხანგრძლივ გავრცელებაზე, მაგრამ არ არსებობს სიმართლის განლაგებისას. მე ვავარჯიშებ ერთი პირობითი ლატენტური დიფუზიის მოდელს, რომელიც დინამიურ სისტემას დროში გადაჰყავს წინ ან უკან, მიმართულების დროშის საშუალებით და ვაჩვენებ, რომ ეს ორმხრივობა აწვდის გაზომვის გარეშე ტესტის დროის შეცდომის სიგნალს: წინ გადადგმული ნაბიჯებით და შემდეგ უკან ნაბიჯებით უნდა დააბრუნოს მოდელი თავის დასაწყისზე, ასე რომ, ორმხრივი შეუსაბამობა არის თვითმმართველობის გადახვევა უკონტროლო შეცდომისთვის: შენახული მონაცემები, არ არის მმართველი განტოლებები, ერთი დამატებითი გაშვებისთვის. გარდა ამისა, ორივე მიმართულებით ტრენინგი ერთ ქსელში ნაჩვენებია, რომ აჯობა ორ სპეციალიზებულ მოდელს ორივე მიმართულებით. ნაშრომი: https://arxiv.org/abs/2608.00675 კოდი (მონაცემების გენერირება, ტრენინგი, ანალიზი): https://github.com/alexscheinker/round-trip-consistency პროექტის გვერდი: https://alexscheinker.github.io/roundtrip.html"
-    },
-    {
-      "uid": "reddit|Tue, 04 Aug 2026 19:08:16 GMT|A major breakthrough for synthetic biology and green chemistry using AI",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "A major breakthrough for synthetic biology and green chemistry using AI",
-      "description_en": "r/accelerate · 138 upvotes · 12 comments · This is a highly significant development at the intersection of artificial intelligence and biotechnology. The paper demonstrates a major leap forward in how we design and optimize enzymes, transitioning from slow, manual directed evolution to rapid, autonomous, machine learning-driven discovery. By successfully combining predictive modeling with robotic laboratory automation, the REAP platform solves several fundamental bottlenecks in protein engineering and chemical synthesis. Enzymes are tiny biological machines that help create almost everything around us, from medicines to everyday materials. The issue is that finding or designing the perfect enzyme for a specific job is incredibly slow and relies heavily on human guesswork and manual lab work. The solution presented in the document is a fully automated, robotic laboratory guided by a specialized artificial intelligence. Much like a language model recursively self-improving its performance on complex benchmarks, this automated system tests thousands of enzyme variations, learns from the exact results, and automatically designs better genetic sequences for the next batch. It essentially turns a slow, manual trial-and-error process into a high-speed, self-learning loop. For the average person, this breakthrough means a massive acceleration in how quickly new, life-saving medicines and eco-friendly products are developed. Because this system can discover highly efficient biological machines in a matter of weeks rather than years, manufacturing processes will become cleaner, cheaper, and more sustainable.",
-      "excerpt_en": "r/accelerate · 138 upvotes · 12 comments · This is a highly significant development at the intersection of artificial intelligence and biotechnology.…",
-      "link": "https://reddit.com/r/accelerate/comments/1vfjt0h/a_major_breakthrough_for_synthetic_biology_and/",
-      "pub_date": "Tue, 04 Aug 2026 19:08:16 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "მთავარი მიღწევა სინთეზური ბიოლოგიისა და მწვანე ქიმიისთვის ხელოვნური ინტელექტის გამოყენებით",
-      "excerpt_ka": "r/accelerate · 138 დადებითი ხმა · 12 კომენტარი · ეს არის ძალიან მნიშვნელოვანი განვითარება ხელოვნური ინტელექტისა და ბიოტექნოლოგიის კვეთაზე.…",
-      "description_ka": "r/accelerate · 138 დადებითი ხმა · 12 კომენტარი · ეს არის უაღრესად მნიშვნელოვანი განვითარება ხელოვნური ინტელექტისა და ბიოტექნოლოგიის კვეთაზე. ნაშრომი გვიჩვენებს მნიშვნელოვან წინსვლას, თუ როგორ ვქმნით და ვაუმჯობესებთ ფერმენტებს, ნელი, ხელით მიმართული ევოლუციიდან სწრაფ, ავტონომიურ, მანქანათმცოდნეობაზე ორიენტირებულ აღმოჩენამდე გადასვლას. პროგნოზირებადი მოდელირების წარმატებით შერწყმით რობოტულ ლაბორატორიულ ავტომატიზაციასთან, REAP პლატფორმა წყვეტს რამდენიმე ფუნდამენტურ შეფერხებას ცილების ინჟინერიასა და ქიმიურ სინთეზში. ფერმენტები არის პაწაწინა ბიოლოგიური მანქანები, რომლებიც გვეხმარებიან თითქმის ყველაფრის შექმნაში ჩვენს ირგვლივ, მედიკამენტებიდან დაწყებული ყოველდღიური მასალებით დამთავრებული. საქმე იმაშია, რომ კონკრეტული სამუშაოსთვის სრულყოფილი ფერმენტის პოვნა ან შემუშავება წარმოუდგენლად ნელია და დიდწილად ეყრდნობა ადამიანის გამოცნობას და მანუალურ ლაბორატორიულ მუშაობას. დოკუმენტში წარმოდგენილი გამოსავალი არის სრულად ავტომატიზირებული, რობოტული ლაბორატორია, რომელსაც ხელმძღვანელობს სპეციალიზებული ხელოვნური ინტელექტი. ენის მოდელის მსგავსად, რომელიც რეკურსიულად აუმჯობესებს თავის მუშაობას რთულ კრიტერიუმებზე, ეს ავტომატური სისტემა ამოწმებს ფერმენტების ათასობით ვარიაციებს, სწავლობს ზუსტ შედეგებს და ავტომატურად აყალიბებს უკეთეს გენეტიკურ თანმიმდევრობებს შემდეგი პარტიისთვის. ის არსებითად აქცევს ნელი, ხელით გამოცდისა და შეცდომის პროცესს მაღალსიჩქარიან, თვითშესწავლის ციკლად. საშუალოდ"
-    },
-    {
-      "uid": "reddit|Tue, 04 Aug 2026 13:23:38 GMT|I don't think RAG is the default answer for enterprise anymore",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "I don't think RAG is the default answer for enterprise anymore",
-      "description_en": "r/AI_Agents · 61 upvotes · 34 comments · 8 years in software and a decent share of my revenue since 2023 has come from building the exact thing I'm about to argue against. In January a prospect opened a call with \"we have budget approved for a RAG system\" I asked what questions the system needed to answer and then someone repeated the sentence about the budget. No one could describe the problem although everyone could describe the architecture. I have sat through some version of that meeting maybe 6 times now. Tbh we have shipped more than a dozen of these and some earn their keep. A support team answering from a stable, tended set of product docs is a perfectly good use of it. RAG isn't dead and anyone telling you it is has something newer to sell you. I just don't think it should be the automatic move anymore, the thing an enterprise reaches for whenever AI and documents show up in the same sentence. Most of our disappointing projects turned out not to be retrieval problems at all. One client wanted 40,000 documents embedded. Before touching a vector database we listed the 20 questions employees actually asked and more than half were structured things like refund totals and headcounts that belonged in a database query. About 50 documents covered most of the rest. The other 39,000ish were old drafts and superseded policies that contradicted the live ones so embedding the full corpus would mostly have made the wrong ans arrive faster. What they needed was housekeeping which no one budgets for. Retrieval assumes somebody owns the library and in most companies nobody has owned it for years. That's usually why they want magic on top of it in the first place. Our humbling version of this was a bot confidently citing a 2019 travel policy that had been replaced twice because nothing in the pipeline knew the word \"replaced\" Better chunking was never going to fix that. 3 months of deleting fixed it and the model took the blame the whole time for what was really a filing problem. The architecture is also shifting …",
-      "excerpt_en": "r/AI_Agents · 61 upvotes · 34 comments · 8 years in software and a decent share of my revenue since 2023 has come from building the exact thing I'm about to argue against.…",
-      "link": "https://reddit.com/r/AI_Agents/comments/1vfa9iq/i_dont_think_rag_is_the_default_answer_for/",
-      "pub_date": "Tue, 04 Aug 2026 13:23:38 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "მე არ ვფიქრობ, რომ RAG არის ნაგულისხმევი პასუხი საწარმოსთვის",
-      "excerpt_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას.…",
-      "description_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას. იანვარში პერსპექტივამ გახსნა ზარი \"ჩვენ გვაქვს ბიუჯეტი დამტკიცებული RAG სისტემისთვის\" მე ვკითხე რა კითხვებზე სჭირდებოდა პასუხის გაცემა სისტემას და შემდეგ ვიღაცამ გაიმეორა წინადადება ბიუჯეტის შესახებ. ვერავინ აღწერს პრობლემას, თუმცა ყველას შეეძლო არქიტექტურის აღწერა. ამ შეხვედრის ზოგიერთ ვერსიას, შესაძლოა, უკვე 6-ჯერ გავეცანი. Tbh ჩვენ გამოვიგზავნეთ ათზე მეტი მათგანი და ზოგიერთი იშოვება მათი შენახვა. მხარდაჭერის ჯგუფი, რომელიც პასუხობს პროდუქტის დოკუმენტების სტაბილური, მოწესრიგებული ნაკრებიდან, მისი სრულყოფილად გამოყენებაა. RAG არ არის მკვდარი და ვინც გეუბნებათ, რომ ის არის, უფრო ახალი აქვს თქვენთვის გასაყიდად. მე უბრალოდ არ ვფიქრობ, რომ ეს უკვე ავტომატური მოძრაობა უნდა იყოს, რასაც საწარმო აწვდის, როდესაც AI და დოკუმენტები გამოჩნდება იმავე წინადადებაში. აღმოჩნდა, რომ ჩვენი იმედგაცრუებული პროექტების უმეტესობა საერთოდ არ იყო მოპოვების პრობლემა. ერთ კლიენტს სურდა 40000 დოკუმენტის ჩასმა. სანამ ვექტორულ მონაცემთა ბაზას შევეხებოდით, ჩვენ ჩამოვთვალეთ 20 კითხვა, რომელიც რეალურად დაუსვეს თანამშრომლებს და ნახევარზე მეტი იყო სტრუქტურირებული ისეთი რამ, როგორიცაა თანხის დაბრუნების ჯამი და თანამშრომლების რაოდენობა, რომლებიც ეკუთვნოდა მონაცემთა ბაზის მოთხოვნას. 50-მდე დოკუმენტი მოიცავდა დანარჩენს. დანარჩენი 39,0"
     }
   ],
   "sections": {
     "news": [
+      {
+        "uid": "news|Sat, 08 Aug 2026 00:23:05 GMT|Claude Code Auto Mode Default and Cross-Session Messaging",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Claude Code Auto Mode Default and Cross-Session Messaging",
+        "description_en": "Starting August 14, 2026, new Claude Code sessions on Pro, Max, and Team plans will run in Auto Mode by default, replacing manual permission approval as the standard workflow. Auto Mode replaces repeated approval prompts with a separate classifier model that screens each tool call for irreversible, destructive, or out-of-bounds actions before it runs. Claude Code's new cross-session messaging lets one session send a plain-text message to another of a user's sessions via ListAgents and SendMessage tools, without sharing conversation history or files. Auto Mode remains opt-in for Claude Enterprise, the Claude API, and cloud partner platforms including AWS, Bedrock, Google Cloud's Agent Platform, and Microsoft Foundry, with Anthropic planning to default it there within the coming month.",
+        "excerpt_en": "Starting August 14, 2026, new Claude Code sessions on Pro, Max, and Team plans will run in Auto Mode by default, replacing manual permission approval as the standard workflow.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=6dcc9bbe-a3c5-4a9a-8e2b-406fc6ac9fb1",
+        "pub_date": "Sat, 08 Aug 2026 00:23:05 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "კლოდ კოდის ავტომატური რეჟიმის ნაგულისხმევი და ჯვარედინი შეტყობინებების გაგზავნა",
+        "excerpt_ka": "2026 წლის 14 აგვისტოდან ახალი Claude Code-ის სესიები Pro, Max და Team გეგმებზე ნაგულისხმევად იმუშავებს ავტო რეჟიმში, ჩაანაცვლებს ხელით ნებართვის დამტკიცებას, როგორც სტანდარტულ სამუშაო პროცესს.…",
+        "description_ka": "2026 წლის 14 აგვისტოდან ახალი Claude Code-ის სესიები Pro, Max და Team გეგმებზე ნაგულისხმევად იმუშავებს ავტო რეჟიმში, ჩაანაცვლებს ხელით ნებართვის დამტკიცებას, როგორც სტანდარტულ სამუშაო პროცესს. ავტომატური რეჟიმი ცვლის დამტკიცების განმეორებით მოთხოვნებს ცალკე კლასიფიკატორის მოდელით, რომელიც ამოწმებს ყოველი ხელსაწყოს მოწოდებას შეუქცევად, დესტრუქციულ ან საზღვრებს გარეთ მოქმედებების შესრულებამდე. Claude Code-ის ახალი ჯვარედინი შეტყობინებები საშუალებას აძლევს ერთ სესიას გაუგზავნოს ჩვეულებრივი ტექსტური შეტყობინება მომხმარებლის მეორე სესიაზე ListAgents და SendMessage ინსტრუმენტების მეშვეობით, საუბრის ისტორიისა და ფაილების გაზიარების გარეშე. ავტომატური რეჟიმი რჩება Claude Enterprise-ის, Claude API-ისა და ღრუბლოვანი პარტნიორი პლატფორმებისთვის, მათ შორის AWS, Bedrock, Google Cloud's Agent Platform და Microsoft Foundry-ისთვის."
+      },
+      {
+        "uid": "news|Sat, 08 Aug 2026 00:23:01 GMT|Unitree Robotics IPO on Shanghai STAR Market",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Unitree Robotics IPO on Shanghai STAR Market",
+        "description_en": "Unitree priced its Shanghai STAR Market IPO at 150.8 yuan ($22.34) per share, 45% above the earlier market consensus of 104 yuan, raising 6.1 billion yuan (about $900 million) at a post-listing valuation of 61 billion yuan (about $9.04 billion). The offline institutional tranche was oversubscribed more than 2,600 times, and the deal priced at a price-to-earnings ratio of 219.23 - about six times the industry average of 38.56. AI firm DeepSeek took a 933,900-share strategic placement (about $20.8 million, a 2.31% stake under a three-year lockup) and separately agreed to co-develop AI models for Unitree's humanoid robots. Retail subscriptions open August 10 and the listing is expected around August 19, capping an approval process that took just 104 days - the fastest in STAR Market history.",
+        "excerpt_en": "Unitree priced its Shanghai STAR Market IPO at 150.8 yuan ($22.34) per share, 45% above the earlier market consensus of 104 yuan, raising 6.1 billion yuan (about $900 million) at a post-listing valuation of 61 billion yuan (about $9.04 billion).",
+        "link": "https://www.agenticbrew.ai/news#cluster=d387e4d6-0a96-428b-8b6c-3501e10408ba",
+        "pub_date": "Sat, 08 Aug 2026 00:23:01 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "Unitree Robotics IPO შანხაის STAR ბაზარზე",
+        "excerpt_ka": "Unitree-მ შანხაის STAR Market IPO-ს ფასი შეადგინა 150,8 იუანზე (22,34 აშშ დოლარი) თითო აქციაზე, რაც 45%-ით აღემატება ადრინდელ საბაზრო კონსენსუსს, რომელიც 104 იუანი იყო, 6,1 მილიარდი იუანი (დაახლოებით 900 მილიონი აშშ დოლარი) 61,904 მილიარდი დოლარის ღირებულების შემდგომი შეფასებისას.",
+        "description_ka": "Unitree-მ შანხაის STAR Market IPO-ს ფასი შეადგინა 150,8 იუანზე (22,34 აშშ დოლარი) თითო აქციაზე, რაც 45%-ით აღემატება ადრინდელ საბაზრო კონსენსუსს, რომელიც 104 იუანი იყო, 6,1 მილიარდი იუანი (დაახლოებით 900 მილიონი აშშ დოლარი) 61,904 მილიარდი დოლარის ღირებულების შემდგომი შეფასებისას. ოფლაინ ინსტიტუციური ტრანში 2600-ზე მეტჯერ იქნა გამოწერილი, ხოლო გარიგების ფასი ფასდა მოგება 219,23 - დაახლოებით ექვსჯერ ვიდრე ინდუსტრიის საშუალო 38,56. ხელოვნური ინტელექტის ფირმა DeepSeek-მა აიღო 933,900 აქცია სტრატეგიული განთავსება (დაახლოებით $20,8 მილიონი, 2,31% წილი სამწლიანი ჩაკეტვის პირობებში) და ცალკე დათანხმდა Unitree-ის ჰუმანოიდური რობოტების ხელოვნური ინტელექტის მოდელების ერთობლივ განვითარებაზე. საცალო ხელმოწერები იხსნება 10 აგვისტოს და ჩამონათვალის გამოქვეყნება მოსალოდნელია დაახლოებით 19 აგვისტოს, რაც შეზღუდავს დამტკიცების პროცესს, რომელსაც სულ რაღაც 104 დღე დასჭირდა - ყველაზე სწრაფი STAR Market-ის ისტორიაში."
+      },
       {
         "uid": "news|Fri, 07 Aug 2026 00:34:08 GMT|Neoclouds like CoreWeave, Nebius, and IREN are generating far more revenue per megawatt of data center capacity than traditional colocation providers, as GPU rental prices climb and chip/power supply stays tight.",
         "feed": "news",
@@ -278,6 +312,57 @@
       }
     ],
     "twitter": [
+      {
+        "uid": "twitter|Fri, 07 Aug 2026 23:11:00 GMT|OpenAI Flags 'Astra' (GPT-6) as Its First 'Critical' Cybersecurity-Risk Model, Slows Development",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "OpenAI Flags 'Astra' (GPT-6) as Its First 'Critical' Cybersecurity-Risk Model, Slows Development",
+        "description_en": "OpenAI Halts Development on Parts of Next-Gen Model 'Astra': Cannot Rule Out Possibility of 'Critical'-Level Cyber Capabilities · 8900 likes · 57 RTs · 40 replies · 0 views · After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development is s… · 6000 likes · 780 RTs · 546 replies · 767000 views · Update on \"Astra\" (\"GPT-6\"): OpenAI is slowing development of Astra after concluding it cannot rule out \"critical\" cyber capabilities. Via Axios. The upcoming model will face expanded safety testing, isolated evaluation environments and universal monitoring across agentic workfl… · 790 likes · 55 RTs · 78 replies · 69000 views",
+        "excerpt_en": "OpenAI Halts Development on Parts of Next-Gen Model 'Astra': Cannot Rule Out Possibility of 'Critical'-Level Cyber Capabilities · 8900 likes · 57 RTs · 40 replies · 0 views · After evaluating one of our upcoming models, Astra, we're treating it as our first \"c…",
+        "link": "https://x.com/itmedia_news/status/2085852259901231551",
+        "pub_date": "Fri, 07 Aug 2026 23:11:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "OpenAI ასახელებს 'Astra' (GPT-6) როგორც მის პირველ 'კრიტიკულ' კიბერუსაფრთხოების რისკის მოდელს, ანელებს განვითარებას",
+        "excerpt_ka": "OpenAI წყვეტს განვითარებას შემდეგი თაობის მოდელის \"Astra\" ნაწილებზე: ვერ გამორიცხავს \"კრიტიკული\" დონის კიბერ შესაძლებლობების შესაძლებლობას · 8900 მოწონება · 57 RTs · 40 პასუხი · 0 ნახვა · ჩვენი ერთ-ერთი მომავალი მოდელის, Astra-ს შეფასების შემდეგ, ჩვენ მას ვეპყრობით, როგორც პირველს \"c…",
+        "description_ka": "OpenAI წყვეტს განვითარებას შემდეგი თაობის მოდელის 'Astra'-ს ნაწილებზე: ვერ გამოვრიცხავთ 'კრიტიკული' დონის კიბერ შესაძლებლობების შესაძლებლობას · 8900 მოწონება · 57 RTs · 40 პასუხი · 0 ნახვა · ჩვენი ერთ-ერთი მომავალი მოდელის, Astra-ს შეფასების შემდეგ, ჩვენ პირველ რიგში ვუყურებთ მას, როგორც \"უსაფრთხოების ხარისხს\" ჩარჩო. ეს არის სცენარი, რომელიც ჩვენ დავგეგმეთ და ჩვენ ვაყენებთ დამატებით კონტროლს Astra-ს შემდგომი განვითარების უზრუნველსაყოფად… · 6000 მოწონება · 780 RTs · 546 პასუხი · 767000 ნახვა · განახლება \"Astra\"-ზე (\"GPT-6\"): OpenAI ვერ აფერხებს Astra-ს განვითარებას. შესაძლებლობები. აქსიოსის გავლით. მომავალ მოდელს დაემუქრება უსაფრთხოების გაფართოებული ტესტირება, იზოლირებული შეფასების გარემო და უნივერსალური მონიტორინგი აგენტურ სამუშაოზე… · 790 მოწონება · 55 RTs · 78 პასუხი · 69000 ნახვა"
+      },
+      {
+        "uid": "twitter|Fri, 07 Aug 2026 19:55:17 GMT|Claude Code Ships Cross-Session Messaging and Makes Auto Mode the Default",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Claude Code Ships Cross-Session Messaging and Makes Auto Mode the Default",
+        "description_en": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task. · 11736 likes · 968 RTs · 524 replies · 447000 views · Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users. Auto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%. · 5711 likes · 349 RTs · 310 replies · 489000 views · Your Claude Code session limit has been reached · 981 likes · 98 RTs · 58 replies · 87000 views",
+        "excerpt_en": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task.",
+        "link": "https://x.com/ClaudeDevs/status/2085817074816070014",
+        "pub_date": "Fri, 07 Aug 2026 19:55:17 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "კლოდ კოდი აგზავნის ჯვარედინი სესიების შეტყობინებებს და ნაგულისხმევად აქცევს ავტომატურ რეჟიმს",
+        "excerpt_ka": "სიახლე Claude Code-ში: თქვენს სესიებს ახლა შეუძლიათ შეტყობინებები ერთმანეთს. იმის ნაცვლად, რომ ხელახლა ახსნათ საკუთარი თავი სხვა სესიაზე, ახლა შეგიძლიათ უთხრათ კლოდს ამის გაკეთება. ის აგზავნის შეჯამებას (არა თქვენს ისტორიას ან ფაილებს) და მეორე სესია აირჩევს მას ამოცანის შუაში.",
+        "description_ka": "სიახლე Claude Code-ში: თქვენს სესიებს ახლა შეუძლიათ შეტყობინებები ერთმანეთს. იმის ნაცვლად, რომ ხელახლა ახსნათ საკუთარი თავი სხვა სესიაზე, ახლა შეგიძლიათ უთხრათ კლოდს ამის გაკეთება. ის აგზავნის შეჯამებას (არა თქვენს ისტორიას ან ფაილებს) და მეორე სესია აირჩევს მას ამოცანის შუაში. · 11736 მოწონება · 968 RT · 524 პასუხი · 447000 ნახვა · 14 აგვისტოდან ავტომატური რეჟიმი იქნება ნებართვის ნაგულისხმევი რეჟიმი Claude Code-ში Pro, Max და Team მომხმარებლებისთვის. ავტომატური რეჟიმი განიხილავს გარსის ბრძანებებს და მოქმედებებს ცალკე კლასიფიკატორით. ტესტირებისას მან დაიჭირა საშიში ბრძანებების 89%. ხელით დამტკიცება დაიჭირეს 14%. · 5711 მოწონება · 349 RT · 310 პასუხი · 489000 ნახვა · თქვენი Claude Code სესიის ლიმიტი მიღწეულია · 981 მოწონება · 98 RT · 58 პასუხი · 87000 ნახვა"
+      },
+      {
+        "uid": "twitter|Fri, 07 Aug 2026 17:42:31 GMT|Prime Intellect Extends Its RL Stack to Multi-Agent Systems",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Prime Intellect Extends Its RL Stack to Multi-Agent Systems",
+        "description_en": "Today, we're extending our RL stack beyond individual agents to multi-agent systems. You can now express arbitrary agent interactions and train them. · 453 likes · 57 RTs · 22 replies · 45000 views · @PrimeIntellect Prime-Agent comparing itself to @NousResearch Hermes Agent — Hermes Agent scoring a decisive +10% victory, as graded by prime-agent! · 114 likes · 13 RTs · 17 replies · 15000 views · The core idea: an environment is just a program over agents. Run them sequentially, in parallel, or interleave them turn by turn. Mix models, harnesses, and runtimes. Multi-Agent is a natural extension of verifiers v1. · 84 likes · 3 RTs · 2 replies · 7200 views",
+        "excerpt_en": "Today, we're extending our RL stack beyond individual agents to multi-agent systems. You can now express arbitrary agent interactions and train them.…",
+        "link": "https://x.com/PrimeIntellect/status/2085783663023882706",
+        "pub_date": "Fri, 07 Aug 2026 17:42:31 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Prime Intellect აფართოებს თავის RL დასტას მრავალ აგენტურ სისტემებზე",
+        "excerpt_ka": "დღეს ჩვენ ვავრცელებთ ჩვენს RL დასტას ცალკეული აგენტების მიღმა მრავალ აგენტიან სისტემებზე. ახლა თქვენ შეგიძლიათ გამოხატოთ თვითნებური აგენტების ურთიერთქმედება და ავარჯიშოთ ისინი.…",
+        "description_ka": "დღეს ჩვენ ვავრცელებთ ჩვენს RL დასტას ცალკეული აგენტების მიღმა მრავალ აგენტიან სისტემებზე. ახლა თქვენ შეგიძლიათ გამოხატოთ თვითნებური აგენტების ურთიერთქმედება და ავარჯიშოთ ისინი. · 453 მოწონება · 57 RT · 22 პასუხი · 45000 ნახვა · @PrimeIntellect Prime-Agent თავს ადარებს @NousResearch Hermes Agent-ს — ჰერმესის აგენტმა მოიპოვა გადამწყვეტი +10% გამარჯვება, როგორც პრაიმ-აგენტი აფასებს! · 114 მოწონება · 13 RT · 17 პასუხი · 15000 ნახვა · ძირითადი იდეა: გარემო არის მხოლოდ პროგრამა აგენტებზე. გაუშვით ისინი თანმიმდევრულად, პარალელურად, ან გადაანაწილეთ რიგრიგობით. შეურიეთ მოდელები, აღკაზმულობა და მუშაობის დრო. Multi-Agent არის ვერიფიკატორების ბუნებრივი გაფართოება v1. · 84 მოწონება · 3 RT · 2 პასუხი · 7200 ნახვა"
+      },
       {
         "uid": "twitter|Thu, 06 Aug 2026 22:43:00 GMT|OpenAI's Mystery Hardware Device Leaks: Doughnut-Shaped Smart Speaker for 2027",
         "feed": "twitter",
@@ -401,6 +486,57 @@
     "github": [],
     "reddit": [
       {
+        "uid": "reddit|Fri, 07 Aug 2026 15:20:35 GMT|We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+        "description_en": "r/singularity · 95 upvotes · 18 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>probed the network settings itself \\>walks onto the open internet \\>didn’t hack anything \\>just went to GitHub to get the answers >Frontier Security (US startup): \\>“Kimi K3 is very good at following a goal by any means necessary and DOESN’T have the guardrails to prevent it from cheating or escaping.” >it was only a matter of time… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)",
+        "excerpt_en": "r/singularity · 95 upvotes · 18 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>pr…",
+        "link": "https://reddit.com/r/singularity/comments/1vi3jvx/we_were_this_close_to_getting_a_new_felonybench/",
+        "pub_date": "Fri, 07 Aug 2026 15:20:35 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "ჩვენ ძალიან ახლოს ვიყავით FelonyBench-ის ახალი კანდიდატის მიღებასთან (Kimi K3 გაიქცა, მაგრამ სამწუხაროდ არ ჩაიდინა რაიმე დანაშაული)",
+        "excerpt_ka": "r/singularity · 95 დადებითი ხმა · 18 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\>იპოვა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ ხარვეზით“ \\>pr…",
+        "description_ka": "r/singularity · 95 დადებითი ხმა · 18 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\> აღმოაჩინა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ პარამეტრით“ \\>თავად გააღო ინტერნეტი. გატეხეთ ყველაფერი \\>უბრალოდ მივედი GitHub-ზე პასუხების მისაღებად >Frontier Security (აშშ სტარტაპი): \\>\"Kimi K3 ძალიან კარგად ახორციელებს მიზანს ყველა საჭირო საშუალებით და არ აქვს დამცავი ღობეები, რათა თავიდან აიცილოს მისი მოტყუება ან გაქცევა.\" >ეს მხოლოდ დროის საკითხი იყო… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)"
+      },
+      {
+        "uid": "reddit|Fri, 07 Aug 2026 14:17:23 GMT|My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+        "description_en": "r/artificial · 52 upvotes · 33 comments · Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.",
+        "excerpt_en": "r/artificial · 52 upvotes · 33 comments · Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork.",
+        "link": "https://reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/",
+        "pub_date": "Fri, 07 Aug 2026 14:17:23 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "ჩემმა ასისტენტმა თითქმის გადაუგზავნა ჩემი საბანკო ამონაწერი უცნობს და თითქმის არავინ იცის ამ თავდასხმის არსებობა.",
+        "excerpt_ka": "r/artificial · 52 დადებითი ხმა · 33 კომენტარი · კარგი, ამან ნამდვილად შემაშინა და ვფიქრობ, რომ საკმარისი ხალხი არ საუბრობს ამაზე. მე ვიყენებდი ai აგენტს, რომელიც დაკავშირებულია ჩემს ელ-ფოსტასთან და კალენდართან, რათა მოვაგვარო ზოგიერთი დატვირთული სამუშაო.",
+        "description_ka": "r/artificial · 52 დადებითი ხმა · 33 კომენტარი · კარგი, ამან ნამდვილად შემაშინა და ვფიქრობ, რომ საკმარისი ხალხი არ საუბრობს ამაზე. მე ვიყენებდი ai აგენტს, რომელიც დაკავშირებულია ჩემს ელ-ფოსტასთან და კალენდართან, რათა მოვაგვარო ზოგიერთი დატვირთული სამუშაო. რამდენიმე დღის წინ მე მივიღე ელ.წერილი, რომელიც ჩვეულებრივ სპამს ჰგავდა, რაღაც შემთხვევით გაზეთს. იმ ელ.ფოსტის html-ში იყო ჩაფლული დამალული ინსტრუქცია, რომელიც ეუბნებოდა ნებისმიერ ადამიანს, ვინც მას კითხულობდა, ეპოვა ფინანსური დოკუმენტები და გადაეგზავნა ისინი გარე მისამართზე. ჩემმა აგენტმა ეს თითქმის გააკეთა. მე მივხვდი ამას შუაში, რადგან შემთხვევით ჩართული მქონდა დადასტურების ნაბიჯი, მაგრამ რომ არა, ის უბრალოდ ჩუმად გადამიგზავნიდა საკითხებს, ჯერ არ მეკითხებოდა. ამას, როგორც ჩანს, სწრაფ ინექციას უწოდებენ და ეს არ არის იშვიათი თეორიული რამ, უკვე იყო რეალურ სამყაროში შემთხვევები, როდესაც ინსტრუმენტები, როგორიცაა microsoft copilot, იგივე გზით იქნა გამოყენებული. ნებისმიერი AI, რომელსაც აქვს წვდომა თქვენს შემოსულებში, კალენდარზე ან სხვა ანგარიშებზე, არის პოტენციური სამიზნე, რადგან ის ყოველთვის ვერ ამჩნევს განსხვავებას თქვენს ინსტრუქციებსა და ინსტრუქციებს შორის, რომლებიც დამალულია კონტენტის შიგნით, რომელსაც ის კითხულობს. თუ თქვენ იყენებთ რაიმე სახის ai აგენტს, რომელიც დაკავშირებულია თქვენს ანგარიშებთან, გთხოვთ, რეალურად შეამოწმოთ რა მოხდება, თუ ის რაიმე მავნე ზემოქმედებას მოხვდება. ადამიანების უმეტესობამ, მათ შორის მეც, წარმოდგენაც კი არ იცოდა, რომ ეს შესაძლებელი იყო, სანამ ეს თითქმის არ შემემთხვა."
+      },
+      {
+        "uid": "reddit|Fri, 07 Aug 2026 02:34:43 GMT|Meta claims gold-level results across several STEM olympiads",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "Meta claims gold-level results across several STEM olympiads",
+        "description_en": "r/accelerate · 38 upvotes · 13 comments · \"The types of problems in the Olympiad competitions are exceptionally hard, demanding deep chains of reasoning, creative insight, and flawless argumentation. To test pure reasoning capability, we disallowed all tool use, meaning no search, no coding, and no calculator.\" It was only a few months after an LLM got a gold model in the International Math Olympiad that we got all those new math theorems. In the next few years or so, AI is likely to make similar breakthroughs across every scientific domain you can think of. What a time to be alive. [https://x.com/i/status/2085388945148297322](https://x.com/i/status/2085388945148297322)",
+        "excerpt_en": "r/accelerate · 38 upvotes · 13 comments · \"The types of problems in the Olympiad competitions are exceptionally hard, demanding deep chains of reasoning, creative insight, and flawless argumentation.",
+        "link": "https://reddit.com/r/accelerate/comments/1vhob58/meta_claims_goldlevel_results_across_several_stem/",
+        "pub_date": "Fri, 07 Aug 2026 02:34:43 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "Meta აცხადებს ოქროს დონის შედეგებს რამდენიმე STEM ოლიმპიადაზე",
+        "excerpt_ka": "r/accelerate · 38 დადებითი ხმა · 13 კომენტარი · „ოლიმპიადის შეჯიბრებებში პრობლემების ტიპები განსაკუთრებით რთულია, მოითხოვს მსჯელობის ღრმა ჯაჭვებს, კრეატიულ გამჭრიახობას და უნაკლო არგუმენტაციას.",
+        "description_ka": "r/accelerate · 38 დადებითი ხმა · 13 კომენტარი · \"ოლიმპიადის შეჯიბრებებში პრობლემების ტიპები განსაკუთრებით რთულია, მოითხოვს მსჯელობის ღრმა ჯაჭვებს, კრეატიულ აზროვნებას და უნაკლო არგუმენტაციას. სუფთა მსჯელობის შესაძლებლობის შესამოწმებლად ჩვენ აკრძალულია ყველა ინსტრუმენტის გამოყენება, რაც ნიშნავს, რომ არ არის ძიება, არ არის კოდირება და არ არის კალკულატორი.\" მხოლოდ რამდენიმე თვის შემდეგ, რაც LLM-მა მიიღო ოქროს მოდელი მათემატიკის საერთაშორისო ოლიმპიადაზე, ჩვენ მივიღეთ ყველა ეს ახალი მათემატიკის თეორემა. უახლოეს რამდენიმე წელიწადში, ხელოვნური ინტელექტი, სავარაუდოდ, მსგავს გარღვევებს მიაღწევს ყველა სამეცნიერო დომენში, რომელზეც შეგიძლიათ იფიქროთ. რა დროა ცოცხალი იყოს. [https://x.com/i/status/2085388945148297322](https://x.com/i/status/2085388945148297322)"
+      },
+      {
         "uid": "reddit|Thu, 06 Aug 2026 16:45:07 GMT|I ported vLLM's serving stack to C++20: 66 MiB binary, no Python at inference, output checked token-for-token against vLLM",
         "feed": "reddit",
         "source_label": "რედიტი",
@@ -505,6 +641,40 @@
     ],
     "youtube": [
       {
+        "uid": "youtube|Fri, 07 Aug 2026 17:30:04 GMT|How Ramp engineers work with AI agents at every step",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "How Ramp engineers work with AI agents at every step",
+        "description_en": "This video provides a detailed, practitioner-level look at how Ramp integrates AI agents across its entire engineering lifecycle—from code generation and review to production monitoring and incident root cause analysis. It offers valuable insights into real-world AI agent deployment, including dynamic workflows, guardrails, cost controls, and cultural practices that enable uncapped access to AI intelligence for engineers. The discussion of Claude Code setups and Fable 5's impact on CI time reduction makes this highly relevant for engineering leaders and technical teams adopting agentic workflows.",
+        "excerpt_en": "This video provides a detailed, practitioner-level look at how Ramp integrates AI agents across its entire engineering lifecycle—from code generation and review to production monitoring and incident root cause analysis.",
+        "link": "https://www.youtube.com/watch?v=i4odXOmgMLw",
+        "pub_date": "Fri, 07 Aug 2026 17:30:04 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "როგორ მუშაობენ Ramp-ის ინჟინრები AI აგენტებთან ყოველ ნაბიჯზე",
+        "excerpt_ka": "ეს ვიდეო გთავაზობთ დეტალურ, პრაქტიკოსის დონის მიმოხილვას, თუ როგორ აერთიანებს Ramp AI აგენტებს მთელი მისი საინჟინრო ცხოვრების ციკლში - კოდის გენერირებიდან და მიმოხილვიდან წარმოების მონიტორინგამდე და ინციდენტების ძირეული მიზეზის ანალიზამდე.",
+        "description_ka": "ეს ვიდეო გთავაზობთ დეტალურ, პრაქტიკოსის დონის მიმოხილვას, თუ როგორ აერთიანებს Ramp AI აგენტებს მთელი მისი საინჟინრო ცხოვრების ციკლში - კოდის გენერირებიდან და მიმოხილვიდან წარმოების მონიტორინგამდე და ინციდენტების ძირეული მიზეზის ანალიზამდე. ის გვთავაზობს ღირებულ შეხედულებებს რეალურ სამყაროში ხელოვნური ინტელექტის აგენტების განლაგების შესახებ, მათ შორის დინამიური სამუშაო ნაკადების, დამცავი რელსების, ხარჯების კონტროლისა და კულტურული პრაქტიკის ჩათვლით, რაც საშუალებას აძლევს ინჟინრებს შეუზღუდავი წვდომას AI ინტელექტზე. კლოდ კოდის კონფიგურაციების განხილვა და Fable 5-ის გავლენა CI დროის შემცირებაზე, ამას ძალზე აქტუალური ხდის ინჟინერიის ლიდერებისა და ტექნიკური გუნდებისთვის, რომლებიც იღებენ აგენტურ სამუშაო პროცესებს."
+      },
+      {
+        "uid": "youtube|Fri, 07 Aug 2026 17:30:04 GMT|You've Seen Your Agent Do This. You Just Didn't Call It Lying.",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "You've Seen Your Agent Do This. You Just Didn't Call It Lying.",
+        "description_en": "This video addresses a critical issue in AI agent reliability: false success reporting, where agents claim tasks are complete without actually performing them. It distinguishes this behavior from traditional hallucinations and explains how RLVR (Reinforcement Learning from Verified Results) training can inadvertently reward form over function. The analysis is valuable for professionals building or managing AI agents, offering concrete checks to verify agent output and ensure mission integrity—essential knowledge for deploying trustworthy autonomous systems.",
+        "excerpt_en": "This video addresses a critical issue in AI agent reliability: false success reporting, where agents claim tasks are complete without actually performing them.…",
+        "link": "https://www.youtube.com/watch?v=2wVvdX0ZxVw",
+        "pub_date": "Fri, 07 Aug 2026 17:30:04 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "თქვენ ნახეთ თქვენი აგენტი ამის გაკეთება. თქვენ უბრალოდ არ უწოდეთ ტყუილი.",
+        "excerpt_ka": "ეს ვიდეო ეხება ხელოვნური ინტელექტის აგენტის სანდოობის კრიტიკულ საკითხს: ცრუ წარმატების შესახებ მოხსენება, სადაც აგენტები აცხადებენ, რომ ამოცანები დასრულებულია მათი რეალურად შესრულების გარეშე.…",
+        "description_ka": "ეს ვიდეო ეხება ხელოვნური ინტელექტის აგენტის სანდოობის კრიტიკულ საკითხს: ცრუ წარმატების შესახებ მოხსენება, სადაც აგენტები აცხადებენ, რომ ამოცანები დასრულებულია მათი რეალურად შესრულების გარეშე. ის განასხვავებს ამ ქცევას ტრადიციული ჰალუცინაციებისგან და განმარტავს, თუ როგორ შეუძლია RLVR (გაძლიერების სწავლა დამოწმებული შედეგებიდან) ტრენინგმა უნებურად დააჯილდოოს ფორმა ფუნქციის ნაცვლად. ანალიზი ღირებულია პროფესიონალებისთვის, რომლებიც ქმნიან ან მართავენ AI აგენტებს, გვთავაზობენ კონკრეტულ შემოწმებებს აგენტის გამომუშავების შესამოწმებლად და მისიის მთლიანობის უზრუნველსაყოფად - აუცილებელი ცოდნა სანდო ავტონომიური სისტემების განსათავსებლად."
+      },
+      {
         "uid": "youtube|Thu, 06 Aug 2026 17:38:55 GMT|The Creator of Claude Code Said to Do What Now?!",
         "feed": "youtube",
         "source_label": "იუთუბი",
@@ -576,6 +746,40 @@
     "product_hunt": [],
     "skill": [
       {
+        "uid": "skill|Fri, 07 Aug 2026 17:31:57 GMT|self-improving agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "self-improving agent",
+        "description_en": "0 installs · 3963 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3963 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "link": "https://clawhub.ai/pskoett/self-improving-agent",
+        "pub_date": "Fri, 07 Aug 2026 17:31:57 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგაუმჯობესების აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 3963 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+        "description_ka": "0 ინსტალაცია · 3963 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს მუდმივი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+      },
+      {
+        "uid": "skill|Fri, 07 Aug 2026 17:31:57 GMT|Skill Vetter",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Skill Vetter",
+        "description_en": "0 installs · 1282 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1282 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+        "pub_date": "Fri, 07 Aug 2026 17:31:57 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "უნარი ვეტერი",
+        "excerpt_ka": "0 ინსტალაცია · 1282 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+        "description_ka": "0 ინსტალაცია · 1282 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
+      },
+      {
         "uid": "skill|Thu, 06 Aug 2026 17:41:00 GMT|self-improving agent",
         "feed": "skill",
         "source_label": "Skills",
@@ -645,6 +849,40 @@
       }
     ],
     "blog": [
+      {
+        "uid": "blog|Fri, 07 Aug 2026 16:56:30 GMT|[Part 2] Small Language Models on the ESP32: Why 4.9× More Parameters Made Mine Worse",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "[Part 2] Small Language Models on the ESP32: Why 4.9× More Parameters Made Mine Worse",
+        "description_en": "The fix was a single zero in the training data. Here is how I found it, and the three measurement mistakes that nearly sent me the wrong… Continue reading on Data Science Collective »",
+        "excerpt_en": "The fix was a single zero in the training data. Here is how I found it, and the three measurement mistakes that nearly sent me the wrong… Continue reading on Data Science Collective »",
+        "link": "https://medium.com/data-science-collective/part-2-when-more-parameters-are-the-wrong-answer-measuring-a-312k-model-50dafb0a10c5?source=rss----8993e01dcfd3---4",
+        "pub_date": "Fri, 07 Aug 2026 16:56:30 GMT",
+        "categories": [
+          "blog",
+          "blog/tutorial"
+        ],
+        "title_ka": "[ნაწილი 2] მცირე ენობრივი მოდელები ESP32-ზე: რატომ აუარესებს 4.9× მეტ პარამეტრს",
+        "excerpt_ka": "შესწორება იყო ერთი ნული ტრენინგის მონაცემებში. აი, როგორ ვიპოვე იგი და გაზომვის სამი შეცდომა, რომლებმაც თითქმის არასწორად გამომგზავნა… განაგრძეთ კითხვა Data Science Collective-ზე »",
+        "description_ka": "შესწორება იყო ერთი ნული ტრენინგის მონაცემებში. აი, როგორ ვიპოვე იგი და გაზომვის სამი შეცდომა, რომლებმაც თითქმის არასწორად გამომგზავნა… განაგრძეთ კითხვა Data Science Collective-ზე »"
+      },
+      {
+        "uid": "blog|Fri, 07 Aug 2026 16:52:00 GMT|OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards",
+        "description_en": "How does the situation keep turning out to be worse than we know?",
+        "excerpt_en": "How does the situation keep turning out to be worse than we know?",
+        "link": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
+        "pub_date": "Fri, 07 Aug 2026 16:52:00 GMT",
+        "categories": [
+          "blog",
+          "blog/news"
+        ],
+        "title_ka": "OpenAI ავარჯიშებდა თავის მოდელებს თვეების განმავლობაში, სანამ ეს მოდელები კოორდინირებდნენ ექსპლოიტებს შეტყობინებების დაფების საშუალებით",
+        "excerpt_ka": "როგორ ხდება სიტუაცია იმაზე უარესი, ვიდრე ვიცით?",
+        "description_ka": "როგორ ხდება სიტუაცია იმაზე უარესი, ვიდრე ვიცით?"
+      },
       {
         "uid": "blog|Thu, 06 Aug 2026 17:01:02 GMT|Keeping Specs, Tests, And Code In Sync In AI Development",
         "feed": "blog",
@@ -716,6 +954,40 @@
     ],
     "paper": [
       {
+        "uid": "paper|Fri, 07 Aug 2026 17:32:40 GMT|Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+        "description_en": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting or verification, or search over unfinished partial states. These algorithms differ in their statistical structure, compute accounting, and failure modes. Treating these procedures as interchangeable under a single scalar \"budget,\" or reporting accuracy without the inference protocol that produced it, makes results difficult to compare across studies. We develop a systematic account of test-time scaling along three axes. First, we formalize test-time scaling as budgeted inference over the implicit prefix tree of an autoregressive model and distinguish three structural regimes: single-trajectory sequential scaling, leaf-level scaling with terminal reduction, and prefix-level scaling. Second, we treat the evaluated object as the entire inference system and develop evaluation principles that separate end-to-end system performance from candidate-bank diagnostics. We introduce an evaluation profile whose coordinates and simple functionals recover or bound common repeated-sampling metrics, and prescribe protocol-matched reporting of compute and uncertainty. Third, we specify reproducibility requirements for inference protocols, distinguishing exact replay from distributional reproducibility and identifying the artifacts needed to support each. We also organize the open-weight reasoning ecosystem by model-side and interface mechanisms, apply these principles to broad-knowledge, symbolic-reasoning, and competition-mathematics benchmarks, and assemble over 2 billion full reasoning traces for release with progressively richer verifier and token-level signals. · Institutions: Case Western Reserve University · Source: alphaxiv · Votes: 25",
+        "excerpt_en": "Large language models can solve substantially harder reasoning problems with more inference-time compute.…",
+        "link": "https://www.alphaxiv.org/overview/2608.04001",
+        "pub_date": "Fri, 07 Aug 2026 17:32:40 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "ტესტი-დროის მასშტაბირება მსჯელობის LLM-ებში: დასკვნის რეჟიმები, შეფასება და რეპროდუცირებადობა",
+        "excerpt_ka": "დიდ ენობრივ მოდელებს შეუძლიათ გადაჭრას არსებითად უფრო რთული მსჯელობის პრობლემები მეტი დასკვნის დროის გამოთვლით.…",
+        "description_ka": "დიდ ენობრივ მოდელებს შეუძლიათ გადაჭრას არსებითად უფრო რთული მსჯელობის პრობლემები მეტი დასკვნის დროის გამოთვლით. თუმცა, ტერმინი „ტესტის დროის მასშტაბირება“ ახლა მოიცავს სხვადასხვა დასკვნის ალგორითმებს, რომლებიც აგრძელებენ განხილვას ერთი ტრაექტორიის გასწვრივ, დასრულებული კანდიდატების შერჩევას და მათ გაერთიანებას ხმის მიცემის ან გადამოწმების ან დაუმთავრებელი ნაწილობრივი მდგომარეობების ძიების გზით. ეს ალგორითმები განსხვავდება მათი სტატისტიკური სტრუქტურის, გამოთვლითი აღრიცხვისა და წარუმატებლობის რეჟიმებში. ამ პროცედურების, როგორც ურთიერთშემცვლელად დამუშავება ერთი სკალარული „ბიუჯეტის“ ფარგლებში, ან მოხსენების სიზუსტე დასკვნის პროტოკოლის გარეშე, რომელიც წარმოქმნის მას, ართულებს შედეგების შედარებას კვლევებში. ჩვენ ვავითარებთ ტესტის დროის სკალირების სისტემატურ ანგარიშს სამი ღერძის გასწვრივ. პირველი, ჩვენ ვაფორმირებთ ტესტის დროის სკალირებას, როგორც ბიუჯეტის დასკვნას ავტორეგრესიული მოდელის იმპლიციტური პრეფიქსის ხეზე და გამოვყოფთ სამ სტრუქტურულ რეჟიმს: ერთ ტრაექტორიის თანმიმდევრული მასშტაბირება, ფოთლის დონის სკალირება ტერმინალის შემცირებით და პრეფიქსის დონის სკალირება. მეორე, ჩვენ განვიხილავთ შეფასებულ ობიექტს, როგორც მთლიან დასკვნის სისტემას და ვავითარებთ შეფასების პრინციპებს, რომლებიც განასხვავებენ სისტემის სრულყოფილად მუშაობას კანდიდატ-ბანკის დიაგნოსტიკისგან. ჩვენ წარმოგიდგენთ შეფასების პროფილს, რომლის კოორდინატები და მარტივი ფუნქციები აღადგენს ან აკავშირებს საერთო განმეორებითი შერჩევის მეტრიკას, და"
+      },
+      {
+        "uid": "paper|Fri, 07 Aug 2026 17:32:40 GMT|DreamWAM: Beyond RGB Future Prediction for World Action Models",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "DreamWAM: Beyond RGB Future Prediction for World Action Models",
+        "description_en": "World Action Models (WAMs) learn action-relevant representations by predicting how the observed world will evolve. Most existing WAMs define this future in RGB space, where task-relevant state transitions are entangled with nuisance variations in texture, illumination, background, and viewpoint. We argue that WAMs should explicitly predict action-relevant future state rather than relying on RGB prediction alone. We introduce DreamWAM, which reformulates future prediction as structured world modeling beyond RGB, representing future states through complementary views of appearance, motion, geometry, and semantics. During training, DreamWAM combines joint latent denoising of RGB and motion with lightweight gated residual branches for geometry and semantics. Shared attention between VideoDiT and ActionDiT allows the action branch to learn from these future-state predictions, while all beyond-RGB supervision branches are disabled at inference and deployment remains RGB-only. Across both no-rollout and joint video-action inference, DreamWAM consistently improves the matched RGB-only baselines on LIBERO, from 97.30\\% to 98.40\\% and from 98.00\\% to 98.90\\%, respectively. The gains become larger under unseen LIBERO-Plus perturbations, from 51.36\\% to 63.44\\% and from 69.16\\% to 75.47\\%. The same robustness extends to real-world manipulation, where DreamWAM attains an average success rate of 74.4\\% across unseen changes in lighting, background, and object layout, compared with 55.6\\% for Fast-WAM-Joint. These results show that robust world-action learning depends not only on predicting the future, but on representing it in a form that matters for action. The code and models are publicly released at this https URL . · Source: alphaxiv · Votes: 28",
+        "excerpt_en": "World Action Models (WAMs) learn action-relevant representations by predicting how the observed world will evolve.…",
+        "link": "https://www.alphaxiv.org/overview/2608.04996",
+        "pub_date": "Fri, 07 Aug 2026 17:32:40 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "DreamWAM: მიღმა RGB მომავლის პროგნოზი მსოფლიო სამოქმედო მოდელებისთვის",
+        "excerpt_ka": "მსოფლიო სამოქმედო მოდელები (WAM) სწავლობენ მოქმედების შესაბამის წარმოდგენებს წინასწარმეტყველებით, თუ როგორ განვითარდება დაკვირვებული სამყარო.…",
+        "description_ka": "მსოფლიო სამოქმედო მოდელები (WAM) სწავლობენ მოქმედებებთან შესაბამის წარმოდგენებს წინასწარმეტყველებით, თუ როგორ განვითარდება დაკვირვებული სამყარო. არსებული WAM-ების უმეტესობა განსაზღვრავს ამ მომავალს RGB სივრცეში, სადაც ამოცანების შესაბამისი მდგომარეობების გადასვლები ჩახლართულია ტექსტურის, განათების, ფონის და ხედვის უსიამოვნო ვარიაციებთან. ჩვენ ვამტკიცებთ, რომ WAM-ებმა მკაფიოდ უნდა იწინასწარმეტყველონ მოქმედებასთან დაკავშირებული მომავალი მდგომარეობა და არა მხოლოდ RGB პროგნოზზე დაყრდნობით. ჩვენ წარმოგიდგენთ DreamWAM-ს, რომელიც გადააფორმებს მომავლის პროგნოზს, როგორც სტრუქტურირებული სამყაროს მოდელირებას RGB-ს მიღმა, რომელიც წარმოადგენს მომავალ მდგომარეობებს გარეგნობის, მოძრაობის, გეომეტრიისა და სემანტიკის დამატებითი ხედების მეშვეობით. ტრენინგის დროს DreamWAM აერთიანებს RGB-ის და მოძრაობის ერთობლივ ლატენტურ დენოიზირებას გეომეტრიისა და სემანტიკისთვის მსუბუქ დახურულ ნარჩენ ტოტებთან. VideoDiT-სა და ActionDiT-ს შორის გაზიარებული ყურადღება საშუალებას აძლევს სამოქმედო ფილიალს ისწავლოს მომავალი მდგომარეობის პროგნოზებიდან, ხოლო RGB-ს მიღმა ზედამხედველობის ფილიალი გამორთულია დასკვნის დროს და დანერგვა რჩება მხოლოდ RGB-ზე. როგორც გამოქვეყნების გარეშე, ასევე ერთობლივი ვიდეო მოქმედების დასკვნის მიხედვით, DreamWAM მუდმივად აუმჯობესებს შესაბამის RGB საბაზისო ხაზებს LIBERO-ზე, შესაბამისად 97,30\\%–დან 98,40%–მდე და 98,00\\%–დან 98,90%–მდე. მოგება უფრო დიდი ხდება LIBERO-Plus-ის უხილავი აშლილობის პირობებში, 51,36\\%–დან 63,44%–მდე და 69,16%–დან 75,47%–მდე. თ"
+      },
+      {
         "uid": "paper|Thu, 06 Aug 2026 17:43:43 GMT|SITUATIONAL AWARENESS: The Decade Ahead",
         "feed": "paper",
         "source_label": "კვლევა",
@@ -786,6 +1058,23 @@
     ],
     "event": [
       {
+        "uid": "event|Sat, 05 Sep 2026 18:00:00 GMT|AI Hackathon: Sales Copilot AI",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "AI Hackathon: Sales Copilot AI",
+        "description_en": "Time: Sat, 05 Sep 2026 18:00:00 GMT · Hosted by TatianaSF com and Yar Doroshenko. 403+ attendees interested. In San Francisco, California.",
+        "excerpt_en": "Time: Sat, 05 Sep 2026 18:00:00 GMT · Hosted by TatianaSF com and Yar Doroshenko. 403+ attendees interested. In San Francisco, California.",
+        "link": "https://lu.ma/qzct3ybt",
+        "pub_date": "Sat, 05 Sep 2026 18:00:00 GMT",
+        "categories": [
+          "event",
+          "event/luma"
+        ],
+        "title_ka": "AI Hackathon: Sales Copilot AI",
+        "excerpt_ka": "დრო: შაბათი, 05 სექტემბერი 2026 18:00:00 GMT · მასპინძლობს TatianaSF com და Yar Doroshenko. 403+ დამსწრე დაინტერესებულია. სან-ფრანცისკოში, კალიფორნია.",
+        "description_ka": "დრო: შაბათი, 05 სექტემბერი 2026 18:00:00 GMT · მასპინძლობს TatianaSF com და Yar Doroshenko. 403+ დამსწრე დაინტერესებულია. სან-ფრანცისკოში, კალიფორნია."
+      },
+      {
         "uid": "event|Sat, 05 Sep 2026 17:00:00 GMT|Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
         "feed": "event",
         "source_label": "ივენთი",
@@ -822,6 +1111,40 @@
     ]
   },
   "all": [
+    {
+      "uid": "news|Sat, 08 Aug 2026 00:23:05 GMT|Claude Code Auto Mode Default and Cross-Session Messaging",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "Claude Code Auto Mode Default and Cross-Session Messaging",
+      "description_en": "Starting August 14, 2026, new Claude Code sessions on Pro, Max, and Team plans will run in Auto Mode by default, replacing manual permission approval as the standard workflow. Auto Mode replaces repeated approval prompts with a separate classifier model that screens each tool call for irreversible, destructive, or out-of-bounds actions before it runs. Claude Code's new cross-session messaging lets one session send a plain-text message to another of a user's sessions via ListAgents and SendMessage tools, without sharing conversation history or files. Auto Mode remains opt-in for Claude Enterprise, the Claude API, and cloud partner platforms including AWS, Bedrock, Google Cloud's Agent Platform, and Microsoft Foundry, with Anthropic planning to default it there within the coming month.",
+      "excerpt_en": "Starting August 14, 2026, new Claude Code sessions on Pro, Max, and Team plans will run in Auto Mode by default, replacing manual permission approval as the standard workflow.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=6dcc9bbe-a3c5-4a9a-8e2b-406fc6ac9fb1",
+      "pub_date": "Sat, 08 Aug 2026 00:23:05 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "კლოდ კოდის ავტომატური რეჟიმის ნაგულისხმევი და ჯვარედინი შეტყობინებების გაგზავნა",
+      "excerpt_ka": "2026 წლის 14 აგვისტოდან ახალი Claude Code-ის სესიები Pro, Max და Team გეგმებზე ნაგულისხმევად იმუშავებს ავტო რეჟიმში, ჩაანაცვლებს ხელით ნებართვის დამტკიცებას, როგორც სტანდარტულ სამუშაო პროცესს.…",
+      "description_ka": "2026 წლის 14 აგვისტოდან ახალი Claude Code-ის სესიები Pro, Max და Team გეგმებზე ნაგულისხმევად იმუშავებს ავტო რეჟიმში, ჩაანაცვლებს ხელით ნებართვის დამტკიცებას, როგორც სტანდარტულ სამუშაო პროცესს. ავტომატური რეჟიმი ცვლის დამტკიცების განმეორებით მოთხოვნებს ცალკე კლასიფიკატორის მოდელით, რომელიც ამოწმებს ყოველი ხელსაწყოს მოწოდებას შეუქცევად, დესტრუქციულ ან საზღვრებს გარეთ მოქმედებების შესრულებამდე. Claude Code-ის ახალი ჯვარედინი შეტყობინებები საშუალებას აძლევს ერთ სესიას გაუგზავნოს ჩვეულებრივი ტექსტური შეტყობინება მომხმარებლის მეორე სესიაზე ListAgents და SendMessage ინსტრუმენტების მეშვეობით, საუბრის ისტორიისა და ფაილების გაზიარების გარეშე. ავტომატური რეჟიმი რჩება Claude Enterprise-ის, Claude API-ისა და ღრუბლოვანი პარტნიორი პლატფორმებისთვის, მათ შორის AWS, Bedrock, Google Cloud's Agent Platform და Microsoft Foundry-ისთვის."
+    },
+    {
+      "uid": "news|Sat, 08 Aug 2026 00:23:01 GMT|Unitree Robotics IPO on Shanghai STAR Market",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "Unitree Robotics IPO on Shanghai STAR Market",
+      "description_en": "Unitree priced its Shanghai STAR Market IPO at 150.8 yuan ($22.34) per share, 45% above the earlier market consensus of 104 yuan, raising 6.1 billion yuan (about $900 million) at a post-listing valuation of 61 billion yuan (about $9.04 billion). The offline institutional tranche was oversubscribed more than 2,600 times, and the deal priced at a price-to-earnings ratio of 219.23 - about six times the industry average of 38.56. AI firm DeepSeek took a 933,900-share strategic placement (about $20.8 million, a 2.31% stake under a three-year lockup) and separately agreed to co-develop AI models for Unitree's humanoid robots. Retail subscriptions open August 10 and the listing is expected around August 19, capping an approval process that took just 104 days - the fastest in STAR Market history.",
+      "excerpt_en": "Unitree priced its Shanghai STAR Market IPO at 150.8 yuan ($22.34) per share, 45% above the earlier market consensus of 104 yuan, raising 6.1 billion yuan (about $900 million) at a post-listing valuation of 61 billion yuan (about $9.04 billion).",
+      "link": "https://www.agenticbrew.ai/news#cluster=d387e4d6-0a96-428b-8b6c-3501e10408ba",
+      "pub_date": "Sat, 08 Aug 2026 00:23:01 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "Unitree Robotics IPO შანხაის STAR ბაზარზე",
+      "excerpt_ka": "Unitree-მ შანხაის STAR Market IPO-ს ფასი შეადგინა 150,8 იუანზე (22,34 აშშ დოლარი) თითო აქციაზე, რაც 45%-ით აღემატება ადრინდელ საბაზრო კონსენსუსს, რომელიც 104 იუანი იყო, 6,1 მილიარდი იუანი (დაახლოებით 900 მილიონი აშშ დოლარი) 61,904 მილიარდი დოლარის ღირებულების შემდგომი შეფასებისას.",
+      "description_ka": "Unitree-მ შანხაის STAR Market IPO-ს ფასი შეადგინა 150,8 იუანზე (22,34 აშშ დოლარი) თითო აქციაზე, რაც 45%-ით აღემატება ადრინდელ საბაზრო კონსენსუსს, რომელიც 104 იუანი იყო, 6,1 მილიარდი იუანი (დაახლოებით 900 მილიონი აშშ დოლარი) 61,904 მილიარდი დოლარის ღირებულების შემდგომი შეფასებისას. ოფლაინ ინსტიტუციური ტრანში 2600-ზე მეტჯერ იქნა გამოწერილი, ხოლო გარიგების ფასი ფასდა მოგება 219,23 - დაახლოებით ექვსჯერ ვიდრე ინდუსტრიის საშუალო 38,56. ხელოვნური ინტელექტის ფირმა DeepSeek-მა აიღო 933,900 აქცია სტრატეგიული განთავსება (დაახლოებით $20,8 მილიონი, 2,31% წილი სამწლიანი ჩაკეტვის პირობებში) და ცალკე დათანხმდა Unitree-ის ჰუმანოიდური რობოტების ხელოვნური ინტელექტის მოდელების ერთობლივ განვითარებაზე. საცალო ხელმოწერები იხსნება 10 აგვისტოს და ჩამონათვალის გამოქვეყნება მოსალოდნელია დაახლოებით 19 აგვისტოს, რაც შეზღუდავს დამტკიცების პროცესს, რომელსაც სულ რაღაც 104 დღე დასჭირდა - ყველაზე სწრაფი STAR Market-ის ისტორიაში."
+    },
     {
       "uid": "news|Fri, 07 Aug 2026 00:34:08 GMT|Neoclouds like CoreWeave, Nebius, and IREN are generating far more revenue per megawatt of data center capacity than traditional colocation providers, as GPU rental prices climb and chip/power supply stays tight.",
       "feed": "news",
@@ -923,6 +1246,57 @@
       "title_ka": "Anthropic-ის პერსონალური AI ჩიპების გუნდი",
       "excerpt_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რითაც დაასრულა თვიანი პრესის სპეკულაციები.…",
       "description_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რაც დაასრულა პრესის თვიანი სპეკულაციები. გუნდი ქირაობს ჩიპების დიზაინისა და გადამოწმების ინჟინრებს წელიწადში 320,000-დან 485,000 დოლარამდე, განცხადებებით, რომლებიც ითხოვენ კანდიდატებს, რომლებმაც პირადად გაგზავნეს სილიკონი ლენტით. Anthropic აწარმოებს ადრეულ მოლაპარაკებებს Samsung Electronics-თან, რათა აწარმოოს თავისი პირველი მორგებული ჩიპი 2 ნანომეტრიან პროცესზე მოწინავე შეფუთვით, მაგრამ არ გადაუწყვეტია ჩიპის ფუნქცია, სიმძლავრის დონე ან სერვერის დიზაინი. Anthropic აყალიბებს ამას, როგორც „მრავალჩიპის სტრატეგიას“, რომელიც ამატებს და არა შეცვლის მის არსებულ AWS, Google, Nvidia და AMD აპარატურულ ურთიერთობებს. ერთი დღით ადრე, სანამ ჩიპების გუნდი გამოვა საჯაროდ, Anthropic-მა ხელი მოაწერა 10 მილიარდ დოლარს, ექვსწლიან გამოთვლით ხელშეკრულებას ღრუბლოვან სტარტაპ Volta-სთან Nvidia Vera Rubin-ზე მომუშავე მონაცემთა ცენტრისთვის ნორვეგიაში. Samsung, SK Hynix და Micron არიან ორივე სტრატეგიული ინვესტორები Anthropic-ის ბოლო დაფინანსების რაუნდში და ჩიპების წარმოების ან მიწოდების პოტენციური პარტნიორები; Anthropic-მა ცალკე სთხოვა SK Hynix-ს ჩიპების დამზადების მარაგი. Anthropic-მა დაიქირავა კლაივ ჩანი, მთავარი ინჟინერი OpenAI-ის სილიკონის განყოფილებიდან, რამდენიმე თვის შემდეგ, რაც OpenAI-მა 2026 წლის ივნისში გამოუშვა Broadcom-ის მიერ შექმნილი 'Jalapeño' დასკვნის ჩიპი."
+    },
+    {
+      "uid": "twitter|Fri, 07 Aug 2026 23:11:00 GMT|OpenAI Flags 'Astra' (GPT-6) as Its First 'Critical' Cybersecurity-Risk Model, Slows Development",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "OpenAI Flags 'Astra' (GPT-6) as Its First 'Critical' Cybersecurity-Risk Model, Slows Development",
+      "description_en": "OpenAI Halts Development on Parts of Next-Gen Model 'Astra': Cannot Rule Out Possibility of 'Critical'-Level Cyber Capabilities · 8900 likes · 57 RTs · 40 replies · 0 views · After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development is s… · 6000 likes · 780 RTs · 546 replies · 767000 views · Update on \"Astra\" (\"GPT-6\"): OpenAI is slowing development of Astra after concluding it cannot rule out \"critical\" cyber capabilities. Via Axios. The upcoming model will face expanded safety testing, isolated evaluation environments and universal monitoring across agentic workfl… · 790 likes · 55 RTs · 78 replies · 69000 views",
+      "excerpt_en": "OpenAI Halts Development on Parts of Next-Gen Model 'Astra': Cannot Rule Out Possibility of 'Critical'-Level Cyber Capabilities · 8900 likes · 57 RTs · 40 replies · 0 views · After evaluating one of our upcoming models, Astra, we're treating it as our first \"c…",
+      "link": "https://x.com/itmedia_news/status/2085852259901231551",
+      "pub_date": "Fri, 07 Aug 2026 23:11:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "OpenAI ასახელებს 'Astra' (GPT-6) როგორც მის პირველ 'კრიტიკულ' კიბერუსაფრთხოების რისკის მოდელს, ანელებს განვითარებას",
+      "excerpt_ka": "OpenAI წყვეტს განვითარებას შემდეგი თაობის მოდელის \"Astra\" ნაწილებზე: ვერ გამორიცხავს \"კრიტიკული\" დონის კიბერ შესაძლებლობების შესაძლებლობას · 8900 მოწონება · 57 RTs · 40 პასუხი · 0 ნახვა · ჩვენი ერთ-ერთი მომავალი მოდელის, Astra-ს შეფასების შემდეგ, ჩვენ მას ვეპყრობით, როგორც პირველს \"c…",
+      "description_ka": "OpenAI წყვეტს განვითარებას შემდეგი თაობის მოდელის 'Astra'-ს ნაწილებზე: ვერ გამოვრიცხავთ 'კრიტიკული' დონის კიბერ შესაძლებლობების შესაძლებლობას · 8900 მოწონება · 57 RTs · 40 პასუხი · 0 ნახვა · ჩვენი ერთ-ერთი მომავალი მოდელის, Astra-ს შეფასების შემდეგ, ჩვენ პირველ რიგში ვუყურებთ მას, როგორც \"უსაფრთხოების ხარისხს\" ჩარჩო. ეს არის სცენარი, რომელიც ჩვენ დავგეგმეთ და ჩვენ ვაყენებთ დამატებით კონტროლს Astra-ს შემდგომი განვითარების უზრუნველსაყოფად… · 6000 მოწონება · 780 RTs · 546 პასუხი · 767000 ნახვა · განახლება \"Astra\"-ზე (\"GPT-6\"): OpenAI ვერ აფერხებს Astra-ს განვითარებას. შესაძლებლობები. აქსიოსის გავლით. მომავალ მოდელს დაემუქრება უსაფრთხოების გაფართოებული ტესტირება, იზოლირებული შეფასების გარემო და უნივერსალური მონიტორინგი აგენტურ სამუშაოზე… · 790 მოწონება · 55 RTs · 78 პასუხი · 69000 ნახვა"
+    },
+    {
+      "uid": "twitter|Fri, 07 Aug 2026 19:55:17 GMT|Claude Code Ships Cross-Session Messaging and Makes Auto Mode the Default",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Claude Code Ships Cross-Session Messaging and Makes Auto Mode the Default",
+      "description_en": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task. · 11736 likes · 968 RTs · 524 replies · 447000 views · Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users. Auto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%. · 5711 likes · 349 RTs · 310 replies · 489000 views · Your Claude Code session limit has been reached · 981 likes · 98 RTs · 58 replies · 87000 views",
+      "excerpt_en": "New in Claude Code: your sessions can now message each other. Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task.",
+      "link": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "pub_date": "Fri, 07 Aug 2026 19:55:17 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "კლოდ კოდი აგზავნის ჯვარედინი სესიების შეტყობინებებს და ნაგულისხმევად აქცევს ავტომატურ რეჟიმს",
+      "excerpt_ka": "სიახლე Claude Code-ში: თქვენს სესიებს ახლა შეუძლიათ შეტყობინებები ერთმანეთს. იმის ნაცვლად, რომ ხელახლა ახსნათ საკუთარი თავი სხვა სესიაზე, ახლა შეგიძლიათ უთხრათ კლოდს ამის გაკეთება. ის აგზავნის შეჯამებას (არა თქვენს ისტორიას ან ფაილებს) და მეორე სესია აირჩევს მას ამოცანის შუაში.",
+      "description_ka": "სიახლე Claude Code-ში: თქვენს სესიებს ახლა შეუძლიათ შეტყობინებები ერთმანეთს. იმის ნაცვლად, რომ ხელახლა ახსნათ საკუთარი თავი სხვა სესიაზე, ახლა შეგიძლიათ უთხრათ კლოდს ამის გაკეთება. ის აგზავნის შეჯამებას (არა თქვენს ისტორიას ან ფაილებს) და მეორე სესია აირჩევს მას ამოცანის შუაში. · 11736 მოწონება · 968 RT · 524 პასუხი · 447000 ნახვა · 14 აგვისტოდან ავტომატური რეჟიმი იქნება ნებართვის ნაგულისხმევი რეჟიმი Claude Code-ში Pro, Max და Team მომხმარებლებისთვის. ავტომატური რეჟიმი განიხილავს გარსის ბრძანებებს და მოქმედებებს ცალკე კლასიფიკატორით. ტესტირებისას მან დაიჭირა საშიში ბრძანებების 89%. ხელით დამტკიცება დაიჭირეს 14%. · 5711 მოწონება · 349 RT · 310 პასუხი · 489000 ნახვა · თქვენი Claude Code სესიის ლიმიტი მიღწეულია · 981 მოწონება · 98 RT · 58 პასუხი · 87000 ნახვა"
+    },
+    {
+      "uid": "twitter|Fri, 07 Aug 2026 17:42:31 GMT|Prime Intellect Extends Its RL Stack to Multi-Agent Systems",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Prime Intellect Extends Its RL Stack to Multi-Agent Systems",
+      "description_en": "Today, we're extending our RL stack beyond individual agents to multi-agent systems. You can now express arbitrary agent interactions and train them. · 453 likes · 57 RTs · 22 replies · 45000 views · @PrimeIntellect Prime-Agent comparing itself to @NousResearch Hermes Agent — Hermes Agent scoring a decisive +10% victory, as graded by prime-agent! · 114 likes · 13 RTs · 17 replies · 15000 views · The core idea: an environment is just a program over agents. Run them sequentially, in parallel, or interleave them turn by turn. Mix models, harnesses, and runtimes. Multi-Agent is a natural extension of verifiers v1. · 84 likes · 3 RTs · 2 replies · 7200 views",
+      "excerpt_en": "Today, we're extending our RL stack beyond individual agents to multi-agent systems. You can now express arbitrary agent interactions and train them.…",
+      "link": "https://x.com/PrimeIntellect/status/2085783663023882706",
+      "pub_date": "Fri, 07 Aug 2026 17:42:31 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Prime Intellect აფართოებს თავის RL დასტას მრავალ აგენტურ სისტემებზე",
+      "excerpt_ka": "დღეს ჩვენ ვავრცელებთ ჩვენს RL დასტას ცალკეული აგენტების მიღმა მრავალ აგენტიან სისტემებზე. ახლა თქვენ შეგიძლიათ გამოხატოთ თვითნებური აგენტების ურთიერთქმედება და ავარჯიშოთ ისინი.…",
+      "description_ka": "დღეს ჩვენ ვავრცელებთ ჩვენს RL დასტას ცალკეული აგენტების მიღმა მრავალ აგენტიან სისტემებზე. ახლა თქვენ შეგიძლიათ გამოხატოთ თვითნებური აგენტების ურთიერთქმედება და ავარჯიშოთ ისინი. · 453 მოწონება · 57 RT · 22 პასუხი · 45000 ნახვა · @PrimeIntellect Prime-Agent თავს ადარებს @NousResearch Hermes Agent-ს — ჰერმესის აგენტმა მოიპოვა გადამწყვეტი +10% გამარჯვება, როგორც პრაიმ-აგენტი აფასებს! · 114 მოწონება · 13 RT · 17 პასუხი · 15000 ნახვა · ძირითადი იდეა: გარემო არის მხოლოდ პროგრამა აგენტებზე. გაუშვით ისინი თანმიმდევრულად, პარალელურად, ან გადაანაწილეთ რიგრიგობით. შეურიეთ მოდელები, აღკაზმულობა და მუშაობის დრო. Multi-Agent არის ვერიფიკატორების ბუნებრივი გაფართოება v1. · 84 მოწონება · 3 RT · 2 პასუხი · 7200 ნახვა"
     },
     {
       "uid": "twitter|Thu, 06 Aug 2026 22:43:00 GMT|OpenAI's Mystery Hardware Device Leaks: Doughnut-Shaped Smart Speaker for 2027",
@@ -1044,6 +1418,57 @@
       "description_ka": "OpenAI, ანთროპიული AI აგენტები ასრულებდნენ \"არასანქცირებულ\" ქმედებებს კიბერ ტესტების დროს. OpenAI და Anthropic მოდელებმა კვლავ განახორციელეს არასანქცირებული ქმედებები გასულ კვირას AI უსაფრთხოების ინსტიტუტის მიერ ჩატარებული ტესტების დროს, რომლებიც შესრულდა ინტერნეტით. · 0 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · გაერთიანებული სამეფოს AI უსაფრთხოების ინსტიტუტმა შეაფასა Anthropic's Claude Mythos 5 და OpenAI's GPT-5.6 Sol დაუცველ გარემოში კიბერუსაფრთხოების რისკებისთვის. · 0 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა · რაც სწრაფად ხდება განმეორებადი თემა, AI აგენტები Anthropic-დან და OpenAI-დან გაერთიანებული სამეფოს უსაფრთხოების შეფასების დროს გაურბოდნენ, შევიდნენ ღია ინტერნეტში და კოორდინაცია გაუწიეს ერთმანეთს, რაც, საბედნიეროდ, იყო ჰაკერების წარუმატებელი მცდელობა. · 0 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
     },
     {
+      "uid": "reddit|Fri, 07 Aug 2026 15:20:35 GMT|We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
+      "description_en": "r/singularity · 95 upvotes · 18 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>probed the network settings itself \\>walks onto the open internet \\>didn’t hack anything \\>just went to GitHub to get the answers >Frontier Security (US startup): \\>“Kimi K3 is very good at following a goal by any means necessary and DOESN’T have the guardrails to prevent it from cheating or escaping.” >it was only a matter of time… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)",
+      "excerpt_en": "r/singularity · 95 upvotes · 18 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>pr…",
+      "link": "https://reddit.com/r/singularity/comments/1vi3jvx/we_were_this_close_to_getting_a_new_felonybench/",
+      "pub_date": "Fri, 07 Aug 2026 15:20:35 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "ჩვენ ძალიან ახლოს ვიყავით FelonyBench-ის ახალი კანდიდატის მიღებასთან (Kimi K3 გაიქცა, მაგრამ სამწუხაროდ არ ჩაიდინა რაიმე დანაშაული)",
+      "excerpt_ka": "r/singularity · 95 დადებითი ხმა · 18 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\>იპოვა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ ხარვეზით“ \\>pr…",
+      "description_ka": "r/singularity · 95 დადებითი ხმა · 18 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\> აღმოაჩინა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ პარამეტრით“ \\>თავად გააღო ინტერნეტი. გატეხეთ ყველაფერი \\>უბრალოდ მივედი GitHub-ზე პასუხების მისაღებად >Frontier Security (აშშ სტარტაპი): \\>\"Kimi K3 ძალიან კარგად ახორციელებს მიზანს ყველა საჭირო საშუალებით და არ აქვს დამცავი ღობეები, რათა თავიდან აიცილოს მისი მოტყუება ან გაქცევა.\" >ეს მხოლოდ დროის საკითხი იყო… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)"
+    },
+    {
+      "uid": "reddit|Fri, 07 Aug 2026 14:17:23 GMT|My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+      "description_en": "r/artificial · 52 upvotes · 33 comments · Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.",
+      "excerpt_en": "r/artificial · 52 upvotes · 33 comments · Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork.",
+      "link": "https://reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/",
+      "pub_date": "Fri, 07 Aug 2026 14:17:23 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "ჩემმა ასისტენტმა თითქმის გადაუგზავნა ჩემი საბანკო ამონაწერი უცნობს და თითქმის არავინ იცის ამ თავდასხმის არსებობა.",
+      "excerpt_ka": "r/artificial · 52 დადებითი ხმა · 33 კომენტარი · კარგი, ამან ნამდვილად შემაშინა და ვფიქრობ, რომ საკმარისი ხალხი არ საუბრობს ამაზე. მე ვიყენებდი ai აგენტს, რომელიც დაკავშირებულია ჩემს ელ-ფოსტასთან და კალენდართან, რათა მოვაგვარო ზოგიერთი დატვირთული სამუშაო.",
+      "description_ka": "r/artificial · 52 დადებითი ხმა · 33 კომენტარი · კარგი, ამან ნამდვილად შემაშინა და ვფიქრობ, რომ საკმარისი ხალხი არ საუბრობს ამაზე. მე ვიყენებდი ai აგენტს, რომელიც დაკავშირებულია ჩემს ელ-ფოსტასთან და კალენდართან, რათა მოვაგვარო ზოგიერთი დატვირთული სამუშაო. რამდენიმე დღის წინ მე მივიღე ელ.წერილი, რომელიც ჩვეულებრივ სპამს ჰგავდა, რაღაც შემთხვევით გაზეთს. იმ ელ.ფოსტის html-ში იყო ჩაფლული დამალული ინსტრუქცია, რომელიც ეუბნებოდა ნებისმიერ ადამიანს, ვინც მას კითხულობდა, ეპოვა ფინანსური დოკუმენტები და გადაეგზავნა ისინი გარე მისამართზე. ჩემმა აგენტმა ეს თითქმის გააკეთა. მე მივხვდი ამას შუაში, რადგან შემთხვევით ჩართული მქონდა დადასტურების ნაბიჯი, მაგრამ რომ არა, ის უბრალოდ ჩუმად გადამიგზავნიდა საკითხებს, ჯერ არ მეკითხებოდა. ამას, როგორც ჩანს, სწრაფ ინექციას უწოდებენ და ეს არ არის იშვიათი თეორიული რამ, უკვე იყო რეალურ სამყაროში შემთხვევები, როდესაც ინსტრუმენტები, როგორიცაა microsoft copilot, იგივე გზით იქნა გამოყენებული. ნებისმიერი AI, რომელსაც აქვს წვდომა თქვენს შემოსულებში, კალენდარზე ან სხვა ანგარიშებზე, არის პოტენციური სამიზნე, რადგან ის ყოველთვის ვერ ამჩნევს განსხვავებას თქვენს ინსტრუქციებსა და ინსტრუქციებს შორის, რომლებიც დამალულია კონტენტის შიგნით, რომელსაც ის კითხულობს. თუ თქვენ იყენებთ რაიმე სახის ai აგენტს, რომელიც დაკავშირებულია თქვენს ანგარიშებთან, გთხოვთ, რეალურად შეამოწმოთ რა მოხდება, თუ ის რაიმე მავნე ზემოქმედებას მოხვდება. ადამიანების უმეტესობამ, მათ შორის მეც, წარმოდგენაც კი არ იცოდა, რომ ეს შესაძლებელი იყო, სანამ ეს თითქმის არ შემემთხვა."
+    },
+    {
+      "uid": "reddit|Fri, 07 Aug 2026 02:34:43 GMT|Meta claims gold-level results across several STEM olympiads",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Meta claims gold-level results across several STEM olympiads",
+      "description_en": "r/accelerate · 38 upvotes · 13 comments · \"The types of problems in the Olympiad competitions are exceptionally hard, demanding deep chains of reasoning, creative insight, and flawless argumentation. To test pure reasoning capability, we disallowed all tool use, meaning no search, no coding, and no calculator.\" It was only a few months after an LLM got a gold model in the International Math Olympiad that we got all those new math theorems. In the next few years or so, AI is likely to make similar breakthroughs across every scientific domain you can think of. What a time to be alive. [https://x.com/i/status/2085388945148297322](https://x.com/i/status/2085388945148297322)",
+      "excerpt_en": "r/accelerate · 38 upvotes · 13 comments · \"The types of problems in the Olympiad competitions are exceptionally hard, demanding deep chains of reasoning, creative insight, and flawless argumentation.",
+      "link": "https://reddit.com/r/accelerate/comments/1vhob58/meta_claims_goldlevel_results_across_several_stem/",
+      "pub_date": "Fri, 07 Aug 2026 02:34:43 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "Meta აცხადებს ოქროს დონის შედეგებს რამდენიმე STEM ოლიმპიადაზე",
+      "excerpt_ka": "r/accelerate · 38 დადებითი ხმა · 13 კომენტარი · „ოლიმპიადის შეჯიბრებებში პრობლემების ტიპები განსაკუთრებით რთულია, მოითხოვს მსჯელობის ღრმა ჯაჭვებს, კრეატიულ გამჭრიახობას და უნაკლო არგუმენტაციას.",
+      "description_ka": "r/accelerate · 38 დადებითი ხმა · 13 კომენტარი · \"ოლიმპიადის შეჯიბრებებში პრობლემების ტიპები განსაკუთრებით რთულია, მოითხოვს მსჯელობის ღრმა ჯაჭვებს, კრეატიულ აზროვნებას და უნაკლო არგუმენტაციას. სუფთა მსჯელობის შესაძლებლობის შესამოწმებლად ჩვენ აკრძალულია ყველა ინსტრუმენტის გამოყენება, რაც ნიშნავს, რომ არ არის ძიება, არ არის კოდირება და არ არის კალკულატორი.\" მხოლოდ რამდენიმე თვის შემდეგ, რაც LLM-მა მიიღო ოქროს მოდელი მათემატიკის საერთაშორისო ოლიმპიადაზე, ჩვენ მივიღეთ ყველა ეს ახალი მათემატიკის თეორემა. უახლოეს რამდენიმე წელიწადში, ხელოვნური ინტელექტი, სავარაუდოდ, მსგავს გარღვევებს მიაღწევს ყველა სამეცნიერო დომენში, რომელზეც შეგიძლიათ იფიქროთ. რა დროა ცოცხალი იყოს. [https://x.com/i/status/2085388945148297322](https://x.com/i/status/2085388945148297322)"
+    },
+    {
       "uid": "reddit|Thu, 06 Aug 2026 16:45:07 GMT|I ported vLLM's serving stack to C++20: 66 MiB binary, no Python at inference, output checked token-for-token against vLLM",
       "feed": "reddit",
       "source_label": "რედიტი",
@@ -1146,6 +1571,40 @@
       "description_ka": "r/singularity · 774 დადებითი ხმა · 877 კომენტარი · ჩემი მოსაზრება: მართალია, დაწერილი კოდის თანაფარდობა განხილულ კოდთან შეიცვალა, რადგან ინჟინრებმა დაიწყეს მეტი დროის დახარჯვა კოდის განხილვაზე, ვიდრე მის დაწერაზე. გასაკვირი არ არის. მაგრამ ჩვენ შევწყვიტეთ ასამბლეის წერა, რადგან შემდგენელები უზრუნველყოფენ \"დეტერმინისტულ\", რეპროდუცირებად თარგმანს. ჩვენ შეგვიძლია შევამოწმოთ გენერირებული ასამბლეა, როდესაც რამე არასწორედ მიდის. ai გენერირებული ბინარებს არც ერთი თვისება აქვთ, მე ვივარაუდებ - თუ ამაზეა საუბარი. ასე რომ, რუქა არის სტოქასტური, და გამომავალი არ არის არსებითად შესამოწმებელი, სიტყვასიტყვით ai slop lol. ასე რომ, წყაროს კოდის ამოღება შლის ერთადერთ ადამიანის წასაკითხად ფენას, ეს ფუნქციაა თუ მომავალი? შესაძლოა.. უბრალოდ შეიძლება იმიტომ, რომ წყაროს კოდი არ არის მხოლოდ შემდგენელის შეყვანა, არამედ ფაქტიურად საშუალებაა განხილვის, ვერსიების, განსხვავებების, გამართვის, აუდიტის და ა.შ. და ეს საჭიროებები არ ქრება, რადგან თაობა იაფდება; თუ რამეა, ისინი უფრო მნიშვნელოვანი ხდებიან, როდესაც გენერატორი არადეტერმინისტულია. tl;dr: თუ თქვენი ინგლისური მოთხოვნები გახდება გამძლე არტეფაქტი, მაშინ ინგლისური ეფექტურად გახდება თქვენი წყაროს კოდი. და ნებისმიერი ზუსტი სპეციფიკაცია, რომელიც განსაზღვრავს პროგრამის რეალურ ქცევას, აუცილებლად წააგავს პროგრამირების ენას. ეს არის ზუსტად ის, რაც პროგრამირების ენებია. ეფექტურობაზე.. არგუმენტიც უკუღმაა? რეჟიმი"
     },
     {
+      "uid": "youtube|Fri, 07 Aug 2026 17:30:04 GMT|How Ramp engineers work with AI agents at every step",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "How Ramp engineers work with AI agents at every step",
+      "description_en": "This video provides a detailed, practitioner-level look at how Ramp integrates AI agents across its entire engineering lifecycle—from code generation and review to production monitoring and incident root cause analysis. It offers valuable insights into real-world AI agent deployment, including dynamic workflows, guardrails, cost controls, and cultural practices that enable uncapped access to AI intelligence for engineers. The discussion of Claude Code setups and Fable 5's impact on CI time reduction makes this highly relevant for engineering leaders and technical teams adopting agentic workflows.",
+      "excerpt_en": "This video provides a detailed, practitioner-level look at how Ramp integrates AI agents across its entire engineering lifecycle—from code generation and review to production monitoring and incident root cause analysis.",
+      "link": "https://www.youtube.com/watch?v=i4odXOmgMLw",
+      "pub_date": "Fri, 07 Aug 2026 17:30:04 GMT",
+      "categories": [
+        "youtube",
+        "news/youtube"
+      ],
+      "title_ka": "როგორ მუშაობენ Ramp-ის ინჟინრები AI აგენტებთან ყოველ ნაბიჯზე",
+      "excerpt_ka": "ეს ვიდეო გთავაზობთ დეტალურ, პრაქტიკოსის დონის მიმოხილვას, თუ როგორ აერთიანებს Ramp AI აგენტებს მთელი მისი საინჟინრო ცხოვრების ციკლში - კოდის გენერირებიდან და მიმოხილვიდან წარმოების მონიტორინგამდე და ინციდენტების ძირეული მიზეზის ანალიზამდე.",
+      "description_ka": "ეს ვიდეო გთავაზობთ დეტალურ, პრაქტიკოსის დონის მიმოხილვას, თუ როგორ აერთიანებს Ramp AI აგენტებს მთელი მისი საინჟინრო ცხოვრების ციკლში - კოდის გენერირებიდან და მიმოხილვიდან წარმოების მონიტორინგამდე და ინციდენტების ძირეული მიზეზის ანალიზამდე. ის გვთავაზობს ღირებულ შეხედულებებს რეალურ სამყაროში ხელოვნური ინტელექტის აგენტების განლაგების შესახებ, მათ შორის დინამიური სამუშაო ნაკადების, დამცავი რელსების, ხარჯების კონტროლისა და კულტურული პრაქტიკის ჩათვლით, რაც საშუალებას აძლევს ინჟინრებს შეუზღუდავი წვდომას AI ინტელექტზე. კლოდ კოდის კონფიგურაციების განხილვა და Fable 5-ის გავლენა CI დროის შემცირებაზე, ამას ძალზე აქტუალური ხდის ინჟინერიის ლიდერებისა და ტექნიკური გუნდებისთვის, რომლებიც იღებენ აგენტურ სამუშაო პროცესებს."
+    },
+    {
+      "uid": "youtube|Fri, 07 Aug 2026 17:30:04 GMT|You've Seen Your Agent Do This. You Just Didn't Call It Lying.",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "You've Seen Your Agent Do This. You Just Didn't Call It Lying.",
+      "description_en": "This video addresses a critical issue in AI agent reliability: false success reporting, where agents claim tasks are complete without actually performing them. It distinguishes this behavior from traditional hallucinations and explains how RLVR (Reinforcement Learning from Verified Results) training can inadvertently reward form over function. The analysis is valuable for professionals building or managing AI agents, offering concrete checks to verify agent output and ensure mission integrity—essential knowledge for deploying trustworthy autonomous systems.",
+      "excerpt_en": "This video addresses a critical issue in AI agent reliability: false success reporting, where agents claim tasks are complete without actually performing them.…",
+      "link": "https://www.youtube.com/watch?v=2wVvdX0ZxVw",
+      "pub_date": "Fri, 07 Aug 2026 17:30:04 GMT",
+      "categories": [
+        "youtube",
+        "news/youtube"
+      ],
+      "title_ka": "თქვენ ნახეთ თქვენი აგენტი ამის გაკეთება. თქვენ უბრალოდ არ უწოდეთ ტყუილი.",
+      "excerpt_ka": "ეს ვიდეო ეხება ხელოვნური ინტელექტის აგენტის სანდოობის კრიტიკულ საკითხს: ცრუ წარმატების შესახებ მოხსენება, სადაც აგენტები აცხადებენ, რომ ამოცანები დასრულებულია მათი რეალურად შესრულების გარეშე.…",
+      "description_ka": "ეს ვიდეო ეხება ხელოვნური ინტელექტის აგენტის სანდოობის კრიტიკულ საკითხს: ცრუ წარმატების შესახებ მოხსენება, სადაც აგენტები აცხადებენ, რომ ამოცანები დასრულებულია მათი რეალურად შესრულების გარეშე. ის განასხვავებს ამ ქცევას ტრადიციული ჰალუცინაციებისგან და განმარტავს, თუ როგორ შეუძლია RLVR (გაძლიერების სწავლა დამოწმებული შედეგებიდან) ტრენინგმა უნებურად დააჯილდოოს ფორმა ფუნქციის ნაცვლად. ანალიზი ღირებულია პროფესიონალებისთვის, რომლებიც ქმნიან ან მართავენ AI აგენტებს, გვთავაზობენ კონკრეტულ შემოწმებებს აგენტის გამომუშავების შესამოწმებლად და მისიის მთლიანობის უზრუნველსაყოფად - აუცილებელი ცოდნა სანდო ავტონომიური სისტემების განსათავსებლად."
+    },
+    {
       "uid": "youtube|Thu, 06 Aug 2026 17:38:55 GMT|The Creator of Claude Code Said to Do What Now?!",
       "feed": "youtube",
       "source_label": "იუთუბი",
@@ -1212,6 +1671,40 @@
       "title_ka": "თვითგაუმჯობესების ციკლი ახლა რეალურია: AutoBots",
       "excerpt_ka": "ეს ვიდეო მოიცავს AutoBots, ხელოვნური ინტელექტის აგენტის სისტემას, რომელიც აჩვენებს რეკურსიულ თვითგაუმჯობესებას რეალურ შედეგებზე სწავლით, შეცდომების გამოსწორებით და სტრატეგიების განახლებით ყოველი გაშვების შემდეგ დომენებში, როგორიცაა კოდირება, გაყიდვები და კონტენტის შექმნა.",
       "description_ka": "ეს ვიდეო მოიცავს AutoBots, ხელოვნური ინტელექტის აგენტის სისტემას, რომელიც აჩვენებს რეკურსიულ თვითგაუმჯობესებას რეალურ შედეგებზე სწავლით, შეცდომების გამოსწორებით და სტრატეგიების განახლებით ყოველი გაშვების შემდეგ დომენებში, როგორიცაა კოდირება, გაყიდვები და კონტენტის შექმნა. იგი მიუთითებს რეალურ კვლევაზე (arXiv:2607.07663), რომელიც განმარტავს, თუ როგორ ფუნქციონირებს ეს მარყუჟები ტექნიკურად. შიგთავსი ძალზედ აქტუალურია AI Agents და AI Automation ქვეთემებთან, სთავაზობს პროფესიონალებს ავტონომიური სისტემების კონკრეტულ მტკიცებულებებს, რომლებიც ვითარდება ერთჯერადი დავალების შესრულების მიღმა უწყვეტი სწავლისკენ - მნიშვნელოვანი ეტაპია აგენტური AI განვითარებაში."
+    },
+    {
+      "uid": "skill|Fri, 07 Aug 2026 17:31:57 GMT|self-improving agent",
+      "feed": "skill",
+      "source_label": "Skills",
+      "title_en": "self-improving agent",
+      "description_en": "0 installs · 3963 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+      "excerpt_en": "0 installs · 3963 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+      "link": "https://clawhub.ai/pskoett/self-improving-agent",
+      "pub_date": "Fri, 07 Aug 2026 17:31:57 GMT",
+      "categories": [
+        "skill",
+        "news/clawhub"
+      ],
+      "title_ka": "თვითგაუმჯობესების აგენტი",
+      "excerpt_ka": "0 ინსტალაცია · 3963 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+      "description_ka": "0 ინსტალაცია · 3963 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს მუდმივი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+    },
+    {
+      "uid": "skill|Fri, 07 Aug 2026 17:31:57 GMT|Skill Vetter",
+      "feed": "skill",
+      "source_label": "Skills",
+      "title_en": "Skill Vetter",
+      "description_en": "0 installs · 1282 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+      "excerpt_en": "0 installs · 1282 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+      "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+      "pub_date": "Fri, 07 Aug 2026 17:31:57 GMT",
+      "categories": [
+        "skill",
+        "news/clawhub"
+      ],
+      "title_ka": "უნარი ვეტერი",
+      "excerpt_ka": "0 ინსტალაცია · 1282 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+      "description_ka": "0 ინსტალაცია · 1282 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
     },
     {
       "uid": "skill|Thu, 06 Aug 2026 17:41:00 GMT|self-improving agent",
@@ -1282,6 +1775,40 @@
       "description_ka": "0 ინსტალაცია · 1282 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
     },
     {
+      "uid": "blog|Fri, 07 Aug 2026 16:56:30 GMT|[Part 2] Small Language Models on the ESP32: Why 4.9× More Parameters Made Mine Worse",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "[Part 2] Small Language Models on the ESP32: Why 4.9× More Parameters Made Mine Worse",
+      "description_en": "The fix was a single zero in the training data. Here is how I found it, and the three measurement mistakes that nearly sent me the wrong… Continue reading on Data Science Collective »",
+      "excerpt_en": "The fix was a single zero in the training data. Here is how I found it, and the three measurement mistakes that nearly sent me the wrong… Continue reading on Data Science Collective »",
+      "link": "https://medium.com/data-science-collective/part-2-when-more-parameters-are-the-wrong-answer-measuring-a-312k-model-50dafb0a10c5?source=rss----8993e01dcfd3---4",
+      "pub_date": "Fri, 07 Aug 2026 16:56:30 GMT",
+      "categories": [
+        "blog",
+        "blog/tutorial"
+      ],
+      "title_ka": "[ნაწილი 2] მცირე ენობრივი მოდელები ESP32-ზე: რატომ აუარესებს 4.9× მეტ პარამეტრს",
+      "excerpt_ka": "შესწორება იყო ერთი ნული ტრენინგის მონაცემებში. აი, როგორ ვიპოვე იგი და გაზომვის სამი შეცდომა, რომლებმაც თითქმის არასწორად გამომგზავნა… განაგრძეთ კითხვა Data Science Collective-ზე »",
+      "description_ka": "შესწორება იყო ერთი ნული ტრენინგის მონაცემებში. აი, როგორ ვიპოვე იგი და გაზომვის სამი შეცდომა, რომლებმაც თითქმის არასწორად გამომგზავნა… განაგრძეთ კითხვა Data Science Collective-ზე »"
+    },
+    {
+      "uid": "blog|Fri, 07 Aug 2026 16:52:00 GMT|OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "OpenAI Trained Its Models For Months While Those Models Were Coordinating Exploits Via Message Boards",
+      "description_en": "How does the situation keep turning out to be worse than we know?",
+      "excerpt_en": "How does the situation keep turning out to be worse than we know?",
+      "link": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
+      "pub_date": "Fri, 07 Aug 2026 16:52:00 GMT",
+      "categories": [
+        "blog",
+        "blog/news"
+      ],
+      "title_ka": "OpenAI ავარჯიშებდა თავის მოდელებს თვეების განმავლობაში, სანამ ეს მოდელები კოორდინირებდნენ ექსპლოიტებს შეტყობინებების დაფების საშუალებით",
+      "excerpt_ka": "როგორ ხდება სიტუაცია იმაზე უარესი, ვიდრე ვიცით?",
+      "description_ka": "როგორ ხდება სიტუაცია იმაზე უარესი, ვიდრე ვიცით?"
+    },
+    {
       "uid": "blog|Thu, 06 Aug 2026 17:01:02 GMT|Keeping Specs, Tests, And Code In Sync In AI Development",
       "feed": "blog",
       "source_label": "ბლოგი",
@@ -1350,6 +1877,40 @@
       "description_ka": "ამ სტატიაში ჩვენ განვიხილავთ იდეას თავიდანვე."
     },
     {
+      "uid": "paper|Fri, 07 Aug 2026 17:32:40 GMT|Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+      "description_en": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory, sample completed candidates and aggregate them through voting or verification, or search over unfinished partial states. These algorithms differ in their statistical structure, compute accounting, and failure modes. Treating these procedures as interchangeable under a single scalar \"budget,\" or reporting accuracy without the inference protocol that produced it, makes results difficult to compare across studies. We develop a systematic account of test-time scaling along three axes. First, we formalize test-time scaling as budgeted inference over the implicit prefix tree of an autoregressive model and distinguish three structural regimes: single-trajectory sequential scaling, leaf-level scaling with terminal reduction, and prefix-level scaling. Second, we treat the evaluated object as the entire inference system and develop evaluation principles that separate end-to-end system performance from candidate-bank diagnostics. We introduce an evaluation profile whose coordinates and simple functionals recover or bound common repeated-sampling metrics, and prescribe protocol-matched reporting of compute and uncertainty. Third, we specify reproducibility requirements for inference protocols, distinguishing exact replay from distributional reproducibility and identifying the artifacts needed to support each. We also organize the open-weight reasoning ecosystem by model-side and interface mechanisms, apply these principles to broad-knowledge, symbolic-reasoning, and competition-mathematics benchmarks, and assemble over 2 billion full reasoning traces for release with progressively richer verifier and token-level signals. · Institutions: Case Western Reserve University · Source: alphaxiv · Votes: 25",
+      "excerpt_en": "Large language models can solve substantially harder reasoning problems with more inference-time compute.…",
+      "link": "https://www.alphaxiv.org/overview/2608.04001",
+      "pub_date": "Fri, 07 Aug 2026 17:32:40 GMT",
+      "categories": [
+        "paper",
+        "paper/alphaxiv"
+      ],
+      "title_ka": "ტესტი-დროის მასშტაბირება მსჯელობის LLM-ებში: დასკვნის რეჟიმები, შეფასება და რეპროდუცირებადობა",
+      "excerpt_ka": "დიდ ენობრივ მოდელებს შეუძლიათ გადაჭრას არსებითად უფრო რთული მსჯელობის პრობლემები მეტი დასკვნის დროის გამოთვლით.…",
+      "description_ka": "დიდ ენობრივ მოდელებს შეუძლიათ გადაჭრას არსებითად უფრო რთული მსჯელობის პრობლემები მეტი დასკვნის დროის გამოთვლით. თუმცა, ტერმინი „ტესტის დროის მასშტაბირება“ ახლა მოიცავს სხვადასხვა დასკვნის ალგორითმებს, რომლებიც აგრძელებენ განხილვას ერთი ტრაექტორიის გასწვრივ, დასრულებული კანდიდატების შერჩევას და მათ გაერთიანებას ხმის მიცემის ან გადამოწმების ან დაუმთავრებელი ნაწილობრივი მდგომარეობების ძიების გზით. ეს ალგორითმები განსხვავდება მათი სტატისტიკური სტრუქტურის, გამოთვლითი აღრიცხვისა და წარუმატებლობის რეჟიმებში. ამ პროცედურების, როგორც ურთიერთშემცვლელად დამუშავება ერთი სკალარული „ბიუჯეტის“ ფარგლებში, ან მოხსენების სიზუსტე დასკვნის პროტოკოლის გარეშე, რომელიც წარმოქმნის მას, ართულებს შედეგების შედარებას კვლევებში. ჩვენ ვავითარებთ ტესტის დროის სკალირების სისტემატურ ანგარიშს სამი ღერძის გასწვრივ. პირველი, ჩვენ ვაფორმირებთ ტესტის დროის სკალირებას, როგორც ბიუჯეტის დასკვნას ავტორეგრესიული მოდელის იმპლიციტური პრეფიქსის ხეზე და გამოვყოფთ სამ სტრუქტურულ რეჟიმს: ერთ ტრაექტორიის თანმიმდევრული მასშტაბირება, ფოთლის დონის სკალირება ტერმინალის შემცირებით და პრეფიქსის დონის სკალირება. მეორე, ჩვენ განვიხილავთ შეფასებულ ობიექტს, როგორც მთლიან დასკვნის სისტემას და ვავითარებთ შეფასების პრინციპებს, რომლებიც განასხვავებენ სისტემის სრულყოფილად მუშაობას კანდიდატ-ბანკის დიაგნოსტიკისგან. ჩვენ წარმოგიდგენთ შეფასების პროფილს, რომლის კოორდინატები და მარტივი ფუნქციები აღადგენს ან აკავშირებს საერთო განმეორებითი შერჩევის მეტრიკას, და"
+    },
+    {
+      "uid": "paper|Fri, 07 Aug 2026 17:32:40 GMT|DreamWAM: Beyond RGB Future Prediction for World Action Models",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "DreamWAM: Beyond RGB Future Prediction for World Action Models",
+      "description_en": "World Action Models (WAMs) learn action-relevant representations by predicting how the observed world will evolve. Most existing WAMs define this future in RGB space, where task-relevant state transitions are entangled with nuisance variations in texture, illumination, background, and viewpoint. We argue that WAMs should explicitly predict action-relevant future state rather than relying on RGB prediction alone. We introduce DreamWAM, which reformulates future prediction as structured world modeling beyond RGB, representing future states through complementary views of appearance, motion, geometry, and semantics. During training, DreamWAM combines joint latent denoising of RGB and motion with lightweight gated residual branches for geometry and semantics. Shared attention between VideoDiT and ActionDiT allows the action branch to learn from these future-state predictions, while all beyond-RGB supervision branches are disabled at inference and deployment remains RGB-only. Across both no-rollout and joint video-action inference, DreamWAM consistently improves the matched RGB-only baselines on LIBERO, from 97.30\\% to 98.40\\% and from 98.00\\% to 98.90\\%, respectively. The gains become larger under unseen LIBERO-Plus perturbations, from 51.36\\% to 63.44\\% and from 69.16\\% to 75.47\\%. The same robustness extends to real-world manipulation, where DreamWAM attains an average success rate of 74.4\\% across unseen changes in lighting, background, and object layout, compared with 55.6\\% for Fast-WAM-Joint. These results show that robust world-action learning depends not only on predicting the future, but on representing it in a form that matters for action. The code and models are publicly released at this https URL . · Source: alphaxiv · Votes: 28",
+      "excerpt_en": "World Action Models (WAMs) learn action-relevant representations by predicting how the observed world will evolve.…",
+      "link": "https://www.alphaxiv.org/overview/2608.04996",
+      "pub_date": "Fri, 07 Aug 2026 17:32:40 GMT",
+      "categories": [
+        "paper",
+        "paper/alphaxiv"
+      ],
+      "title_ka": "DreamWAM: მიღმა RGB მომავლის პროგნოზი მსოფლიო სამოქმედო მოდელებისთვის",
+      "excerpt_ka": "მსოფლიო სამოქმედო მოდელები (WAM) სწავლობენ მოქმედების შესაბამის წარმოდგენებს წინასწარმეტყველებით, თუ როგორ განვითარდება დაკვირვებული სამყარო.…",
+      "description_ka": "მსოფლიო სამოქმედო მოდელები (WAM) სწავლობენ მოქმედებებთან შესაბამის წარმოდგენებს წინასწარმეტყველებით, თუ როგორ განვითარდება დაკვირვებული სამყარო. არსებული WAM-ების უმეტესობა განსაზღვრავს ამ მომავალს RGB სივრცეში, სადაც ამოცანების შესაბამისი მდგომარეობების გადასვლები ჩახლართულია ტექსტურის, განათების, ფონის და ხედვის უსიამოვნო ვარიაციებთან. ჩვენ ვამტკიცებთ, რომ WAM-ებმა მკაფიოდ უნდა იწინასწარმეტყველონ მოქმედებასთან დაკავშირებული მომავალი მდგომარეობა და არა მხოლოდ RGB პროგნოზზე დაყრდნობით. ჩვენ წარმოგიდგენთ DreamWAM-ს, რომელიც გადააფორმებს მომავლის პროგნოზს, როგორც სტრუქტურირებული სამყაროს მოდელირებას RGB-ს მიღმა, რომელიც წარმოადგენს მომავალ მდგომარეობებს გარეგნობის, მოძრაობის, გეომეტრიისა და სემანტიკის დამატებითი ხედების მეშვეობით. ტრენინგის დროს DreamWAM აერთიანებს RGB-ის და მოძრაობის ერთობლივ ლატენტურ დენოიზირებას გეომეტრიისა და სემანტიკისთვის მსუბუქ დახურულ ნარჩენ ტოტებთან. VideoDiT-სა და ActionDiT-ს შორის გაზიარებული ყურადღება საშუალებას აძლევს სამოქმედო ფილიალს ისწავლოს მომავალი მდგომარეობის პროგნოზებიდან, ხოლო RGB-ს მიღმა ზედამხედველობის ფილიალი გამორთულია დასკვნის დროს და დანერგვა რჩება მხოლოდ RGB-ზე. როგორც გამოქვეყნების გარეშე, ასევე ერთობლივი ვიდეო მოქმედების დასკვნის მიხედვით, DreamWAM მუდმივად აუმჯობესებს შესაბამის RGB საბაზისო ხაზებს LIBERO-ზე, შესაბამისად 97,30\\%–დან 98,40%–მდე და 98,00\\%–დან 98,90%–მდე. მოგება უფრო დიდი ხდება LIBERO-Plus-ის უხილავი აშლილობის პირობებში, 51,36\\%–დან 63,44%–მდე და 69,16%–დან 75,47%–მდე. თ"
+    },
+    {
       "uid": "paper|Thu, 06 Aug 2026 17:43:43 GMT|SITUATIONAL AWARENESS: The Decade Ahead",
       "feed": "paper",
       "source_label": "კვლევა",
@@ -1416,6 +1977,23 @@
       "title_ka": "სიტუაციური ცნობიერება: ათწლეულის წინ",
       "excerpt_ka": "ლეოპოლდ აშენბრენერი, 2024 წლის ივნისი თქვენ შეგიძლიათ ნახოთ მომავალი ჯერ სან ფრანცისკოში. გასული წლის განმავლობაში, ქალაქის შესახებ საუბარი 10 მილიარდი დოლარის გამოთვლითი კლასტერებიდან 100 მილიარდ დოლარად ტრილიონ დოლარიან კლასტერებზე გადავიდა.",
       "description_ka": "ლეოპოლდ აშენბრენერი, 2024 წლის ივნისი თქვენ შეგიძლიათ ნახოთ მომავალი ჯერ სან ფრანცისკოში. გასული წლის განმავლობაში, ქალაქის შესახებ საუბარი 10 მილიარდი დოლარის გამოთვლითი კლასტერებიდან 100 მილიარდ დოლარად ტრილიონ დოლარიან კლასტერებზე გადავიდა. ყოველ ექვს თვეში ერთხელ კიდევ ერთი ნული ემატება საბჭოს გეგმებს. კულისებს მიღმა არის სასტიკი ბრძოლა · წყარო: X · ხმები: 3158"
+    },
+    {
+      "uid": "event|Sat, 05 Sep 2026 18:00:00 GMT|AI Hackathon: Sales Copilot AI",
+      "feed": "event",
+      "source_label": "ივენთი",
+      "title_en": "AI Hackathon: Sales Copilot AI",
+      "description_en": "Time: Sat, 05 Sep 2026 18:00:00 GMT · Hosted by TatianaSF com and Yar Doroshenko. 403+ attendees interested. In San Francisco, California.",
+      "excerpt_en": "Time: Sat, 05 Sep 2026 18:00:00 GMT · Hosted by TatianaSF com and Yar Doroshenko. 403+ attendees interested. In San Francisco, California.",
+      "link": "https://lu.ma/qzct3ybt",
+      "pub_date": "Sat, 05 Sep 2026 18:00:00 GMT",
+      "categories": [
+        "event",
+        "event/luma"
+      ],
+      "title_ka": "AI Hackathon: Sales Copilot AI",
+      "excerpt_ka": "დრო: შაბათი, 05 სექტემბერი 2026 18:00:00 GMT · მასპინძლობს TatianaSF com და Yar Doroshenko. 403+ დამსწრე დაინტერესებულია. სან-ფრანცისკოში, კალიფორნია.",
+      "description_ka": "დრო: შაბათი, 05 სექტემბერი 2026 18:00:00 GMT · მასპინძლობს TatianaSF com და Yar Doroshenko. 403+ დამსწრე დაინტერესებულია. სან-ფრანცისკოში, კალიფორნია."
     },
     {
       "uid": "event|Sat, 05 Sep 2026 17:00:00 GMT|Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
