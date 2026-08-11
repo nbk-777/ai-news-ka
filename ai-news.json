@@ -1,90 +1,141 @@
 {
-  "generated_at": "2026-08-10T05:39:19.069076+00:00",
+  "generated_at": "2026-08-11T05:15:20.585198+00:00",
   "featured": [
     {
-      "uid": "news|Sun, 09 Aug 2026 17:13:13 GMT|Claude Code auto mode default",
+      "uid": "news|Mon, 10 Aug 2026 23:42:21 GMT|Amazon's Texas Gas Power Plant for AI Data Center",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "Claude Code auto mode default",
-      "description_en": "Starting August 14, 2026, auto mode becomes the default permission mode for new Claude Code sessions on Pro, Max, and Team plans, replacing per-action manual approval with a classifier that reviews each tool call. The classifier blocks tool calls judged irreversible, destructive, or aimed outside the user's environment; when it blocks something, Claude either finds a safer approach or asks the user directly. Anthropic has stopped charging Pro, Max, and Team plan users for the extra tokens the classifier consumes on every tool call, effective with the rollout. Auto mode remains opt-in on Claude Enterprise, the Claude API, AWS, Bedrock, Google Cloud's Agent Platform, and Microsoft Foundry, with a default switch planned there roughly a month later.",
-      "excerpt_en": "Starting August 14, 2026, auto mode becomes the default permission mode for new Claude Code sessions on Pro, Max, and Team plans, replacing per-action manual approval with a classifier that reviews each tool call.",
-      "link": "https://www.agenticbrew.ai/news#cluster=7bb4b774-3a38-4c46-a51b-3bd8b69ed565",
-      "pub_date": "Sun, 09 Aug 2026 17:13:13 GMT",
+      "title_en": "Amazon's Texas Gas Power Plant for AI Data Center",
+      "description_en": "Amazon confirmed it is backing GW Ranch, a 7.65-gigawatt natural gas plant with 35 turbines in Pecos County, Texas, built to power a dedicated off-grid AI data center campus. Texas has permitted the plant to emit up to 33 million tons of CO2 annually - more than double the output of the country's current largest polluting power plant. The facility will initially run entirely disconnected from the Texas grid, targeting first power by Q1 2027, with satellite imagery already showing land clearing underway. The project sits in tension with Amazon's 2019 Climate Pledge to eliminate emissions by 2040, as the company's overall emissions have risen for several consecutive years, up 16 percent most recently.",
+      "excerpt_en": "Amazon confirmed it is backing GW Ranch, a 7.65-gigawatt natural gas plant with 35 turbines in Pecos County, Texas, built to power a dedicated off-grid AI data center campus.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=8180032a-101f-468d-aec5-f13946df85fd",
+      "pub_date": "Mon, 10 Aug 2026 23:42:21 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "კლოდ კოდის ავტომატური რეჟიმი ნაგულისხმევი (Claude, Code)",
-      "excerpt_ka": "2026 წლის 14 აგვისტოდან, ავტომატური რეჟიმი ხდება ნაგულისხმევი ნებართვის რეჟიმი ახალი Claude Code სესიებისთვის Pro, Max და Team გეგმებზე, ჩაანაცვლებს თითო ქმედების ხელით დამტკიცებას კლასიფიკატორით, რომელიც განიხილავს თითოეულ ხელსაწყოს ზარს. (August, Starting)",
-      "description_ka": "2026 წლის 14 აგვისტოდან, ავტომატური რეჟიმი ხდება ნაგულისხმევი ნებართვის რეჟიმი ახალი Claude Code სესიებისთვის Pro, Max და Team გეგმებზე, ჩაანაცვლებს თითო ქმედების ხელით დამტკიცებას კლასიფიკატორით, რომელიც განიხილავს თითოეულ ხელსაწყოს ზარს. კლასიფიკატორი ბლოკავს ხელსაწყოს ზარებს, რომლებიც შეფასებულია შეუქცევადად, დესტრუქციულად ან მიმართულია მომხმარებლის გარემოს გარეთ; როდესაც ის რაღაცას ბლოკავს, კლოდ ან პოულობს უფრო უსაფრთხო მიდგომას, ან პირდაპირ ეკითხება მომხმარებელს. Anthropic-მა შეწყვიტა Pro, Max და Team გეგმის მომხმარებლების დარიცხვა დამატებითი ჟეტონებისთვის, რომლებსაც კლასიფიკატორი მოიხმარს ხელსაწყოს ყოველი გამოძახებისას, რაც ეფექტურია გაშვებით. ავტომატური რეჟიმი რჩება ჩართვა Claude Enterprise-ზე, Claude API-ზე, AWS-ზე, Bedrock-ზე, Google Cloud's Agent Platform-სა და Microsoft Foundry-ზე, ნაგულისხმევი გადართვა იგეგმება იქ დაახლოებით ერთი თვის შემდეგ. (August, Auto, Starting)"
+      "title_ka": "Amazon's Texas Gas Power Plant for AI Data Center",
+      "excerpt_ka": "ამაზონმა დაადასტურა, რომ მხარს უჭერს GW Ranch-ს, 7,65 გიგავატიანი ბუნებრივი აირის ქარხანას 35 ტურბინით პეკოს ოლქში, ტეხასის შტატში, რომელიც აშენებულია ქსელიდან გამოყოფილი AI მონაცემთა ცენტრის კამპუსისთვის. (Amazon, County, Pecos, Texas)",
+      "description_ka": "ამაზონმა დაადასტურა, რომ მხარს უჭერს GW Ranch-ს, 7,65 გიგავატიანი ბუნებრივი აირის ქარხანას 35 ტურბინით პეკოს ოლქში, ტეხასის შტატში, რომელიც აშენდა ქსელიდან გამოყოფილი AI მონაცემთა ცენტრის კამპუსისთვის. ტეხასმა დაუშვა ქარხანას ყოველწლიურად 33 მილიონ ტონამდე CO2 გამოყოფა - ორჯერ მეტი ვიდრე ქვეყნის ამჟამინდელი უდიდესი დამაბინძურებელი ელექტროსადგურის გამომუშავება. დაწესებულება თავდაპირველად მთლიანად გათიშული იქნება ტეხასის ქსელიდან, მიზნად ისახავს პირველ ელექტროენერგიას 2027 წლის კვარტალში, სატელიტური სურათებით უკვე ჩანს მიწის გაწმენდა. პროექტი დაძაბულობაშია ამაზონის 2019 წლის კლიმატის დაპირებასთან, რათა აღმოფხვრას ემისიები 2040 წლისთვის, რადგან კომპანიის საერთო ემისიები გაიზარდა რამდენიმე ზედიზედ რამდენიმე წლის განმავლობაში, ბოლო დროს 16 პროცენტით. (Amazon, Climate, County, Pecos, Pledge, Q1, Texas)"
     },
     {
-      "uid": "news|Sun, 09 Aug 2026 17:13:13 GMT|Demis Hassabis Steps Down as DeepMind CEO",
+      "uid": "news|Mon, 10 Aug 2026 23:42:21 GMT|OpenAI's $7 Billion Employee Share Buyback",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "Demis Hassabis Steps Down as DeepMind CEO",
-      "description_en": "Demis Hassabis is stepping down as CEO of Google DeepMind to become Chair of Google DeepMind and Chief Scientist of Alphabet, while continuing to lead Isomorphic Labs. Koray Kavukcuoglu, a 13-year DeepMind veteran now serving as CTO and Alphabet's chief AI architect, becomes SVP of Google DeepMind, taking over day-to-day operations - including Gemini model development, frontier AI research, and the Gemini app and developer teams - and reports directly to Sundar Pichai. Alphabet chief scientist Jeff Dean is leaving after 27 years to co-found Discovery Loop, a public benefit corporation with Sanjay Ghemawat, Oriol Vinyals and Quoc Le aimed at automating ML research and engineering, with Google as a founding investor. Alphabet shares fell roughly 4-5% on the announcement, even after the stock had rallied about 13% off a post-earnings low and was up about 86% over the trailing 12 months.",
-      "excerpt_en": "Demis Hassabis is stepping down as CEO of Google DeepMind to become Chair of Google DeepMind and Chief Scientist of Alphabet, while continuing to lead Isomorphic Labs.…",
-      "link": "https://www.agenticbrew.ai/news#cluster=acc467fe-c7cd-44d3-8a91-13955bec3c81",
-      "pub_date": "Sun, 09 Aug 2026 17:13:13 GMT",
+      "title_en": "OpenAI's $7 Billion Employee Share Buyback",
+      "description_en": "OpenAI completed a roughly $7 billion tender offer letting current and former employees sell shares, at a valuation of $852 billion. The buyback repurchased shares directly rather than tapping outside investors, and was priced at the same $852 billion valuation set by OpenAI's record $122 billion funding round in March 2026. It is OpenAI's third major employee liquidity event since late 2024, following a $1.5 billion SoftBank-backed tender in November 2024 and a $6.6 billion sale at a $500 billion valuation in October 2025. The sale follows OpenAI's confidential IPO filing in June 2026 and Sam Altman telling staff he expects the company to go public within the next year.",
+      "excerpt_en": "OpenAI completed a roughly $7 billion tender offer letting current and former employees sell shares, at a valuation of $852 billion.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=261f2312-9706-45b3-b182-65bf8595f7b9",
+      "pub_date": "Mon, 10 Aug 2026 23:42:21 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "Demis Hassabis Steps Down as DeepMind CEO",
-      "excerpt_ka": "დემის ჰასაბისი ტოვებს Google DeepMind-ის აღმასრულებელი დირექტორის თანამდებობას, რათა გახდეს Google DeepMind-ის თავმჯდომარე და ანბანის მთავარი მეცნიერი, ხოლო აგრძელებს Isomorphic Labs-ის ხელმძღვანელობას.… (Alphabet, CEO, Chair, Chief, Demis, Hassabis, Scientist)",
-      "description_ka": "დემის ჰასაბისი ტოვებს Google DeepMind-ის აღმასრულებელი დირექტორის თანამდებობას და გახდება Google DeepMind-ის თავმჯდომარე და Alphabet-ის მთავარი მეცნიერი, ხოლო აგრძელებს Isomorphic Labs-ის ხელმძღვანელობას. Koray Kavukcuoglu, 13 წლის DeepMind-ის ვეტერანი, რომელიც ახლა მუშაობს CTO-სა და Alphabet-ის AI არქიტექტორად, ხდება Google DeepMind-ის SVP, რომელიც განახორციელებს ყოველდღიურ ოპერაციებს - მათ შორის Gemini მოდელის შემუშავებას, სასაზღვრო AI კვლევას და Gemini-ის აპს და დეველოპერის გუნდებს - და უშუალოდ ანგარიშს უწევს Sundar Pichai-ს. Alphabet-ის მთავარი მეცნიერი ჯეფ დინი 27 წლის შემდეგ მიდის, რათა დააარსოს Discovery Loop, საზოგადოებრივი სარგებლის კორპორაცია Sanjay Ghemawat-თან, Oriol Vinyals-თან და Quoc Le-სთან ერთად, რომელიც მიზნად ისახავს ML კვლევისა და ინჟინერიის ავტომატიზაციას, Google-თან ერთად, როგორც დამფუძნებელი ინვესტორი. Alphabet-ის აქციები დაეცა დაახლოებით 4-5%-ით განცხადების შემდეგ, მაშინაც კი, მას შემდეგ რაც აქცია მოიმატა 13%-ით შემოსავლის შემდგომ დაბალ დონეზე და 86%-ით გაიზარდა ბოლო 12 თვის განმავლობაში. (CEO, Chair, Chief, Dean, Demis, Hassabis, Jeff, Scientist)"
+      "title_ka": "OpenAI's $7 Billion Employee Share Buyback",
+      "excerpt_ka": "OpenAI-მ დაასრულა დაახლოებით 7 მილიარდი დოლარის სატენდერო შეთავაზება, რომელიც საშუალებას აძლევს ამჟამინდელ და ყოფილ თანამშრომლებს გაყიდონ აქციები, 852 მილიარდი დოლარის ღირებულებით.…",
+      "description_ka": "OpenAI-მ დაასრულა დაახლოებით 7 მილიარდი დოლარის სატენდერო შეთავაზება, რომელიც საშუალებას აძლევს ამჟამინდელ და ყოფილ თანამშრომლებს გაყიდონ აქციები, 852 მილიარდი დოლარის ღირებულებით. ყიდვამ აქციები პირდაპირ გამოისყიდა, ვიდრე გარე ინვესტორების გამოყენებას, და შეფასდა იგივე 852 მილიარდი დოლარის ღირებულებით, რომელიც დაწესდა OpenAI-ის რეკორდულმა 122 მილიარდი დოლარის დაფინანსების რაუნდმა 2026 წლის მარტში. ეს არის OpenAI-ის მესამე მთავარი თანამშრომლის ლიკვიდობის ღონისძიება 2024 წლის ბოლოდან, 1,5 მილიარდი დოლარის SoftBank-ის მხარდაჭერილი ტენდერის შემდეგ. შეფასება 2025 წლის ოქტომბერში. გაყიდვა მოჰყვება OpenAI-ს კონფიდენციალურ IPO-ს წარდგენას 2026 წლის ივნისში და სემ ალტმანმა უთხრა თანამშრომლებს, რომ მოელის, რომ კომპანია გამოვა საჯარო მომდევნო წლის განმავლობაში. (Altman, It, June, March, November, October, Sam)"
     },
     {
-      "uid": "twitter|Mon, 10 Aug 2026 00:04:00 GMT|AI Data Center Backlash: Texas Pollution Fears, Community Lawsuits, and a Component Supply Squeeze",
+      "uid": "twitter|Mon, 10 Aug 2026 22:31:00 GMT|NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "AI Data Center Backlash: Texas Pollution Fears, Community Lawsuits, and a Component Supply Squeeze",
-      "description_en": "Amazon is planning a massive AI data center in Texas, and the power plant built to run it could become the biggest single source of air pollution from a power plant in the US. The plant in Pecos County will use 35 natural gas turbines with a combined capacity of 7.65 GW. · 26 likes · 8 RTs · 6 replies · 2739 views · According to Taiwanese media reports, AI demand has set off a race to raise prices and a scramble for volume in MLCCs. Word in the industry is that some customers are offering two to three times the going price to major passive component makers such as Yageo (2327) and Murata. · 30 likes · 4 RTs · 4 replies · 6770 views · Interconnect Weekly Recap | Week of Aug 3-7. On Tuesday the group blew up. Reuters reported the FCC is drafting a ban on new Chinese optical transceiver imports. The target is suppliers like Zhongji Innolight, which Counterpoint pegs at a 27% global share of that market. · 3 likes · 0 RTs · 1 replies · 261 views",
-      "excerpt_en": "Amazon is planning a massive AI data center in Texas, and the power plant built to run it could become the biggest single source of air pollution from a power plant in the US.…",
-      "link": "https://x.com/Pirat_Nation/status/2086604439717396902",
-      "pub_date": "Mon, 10 Aug 2026 00:04:00 GMT",
+      "title_en": "NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+      "description_en": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class. Today, we announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing vehicles for AI infrastructure. · 4600 likes · 873 RTs · 357 replies · 530000 views · Today, we're excited to open-source TwiL-LM3, the first formal reasoning model from the webAI Intelligence Lab. At just 3 billion parameters, TwiL-LM3 outperforms OpenAI's GPT-OSS-120B on 4 of 5 formal reasoning benchmarks while running efficiently on consumer hardware. · 208 likes · 69 RTs · 25 replies · 49000 views · Microsoft reportedly plans to unveil Maia 300, its custom AI silicon. Also it wants TSMC capacity for 300,000 Maia 300 chips for future delivery. Microsoft says the chip delivers over 30% more tokens per dollar than the latest silicon in its fleet. · 100 likes · 0 RTs · 23 replies · 4000 views",
+      "excerpt_en": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class. Today, we announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing vehicles for AI infrastructure.",
+      "link": "https://x.com/JensenHuang/status/2086934705207959965",
+      "pub_date": "Mon, 10 Aug 2026 22:31:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "AI Data Center Backlash: Texas Pollution Fears, Community Lawsuits, and a Component Supply Squeeze",
-      "excerpt_ka": "Amazon გეგმავს მასიური ხელოვნური ინტელექტის მონაცემთა ცენტრს ტეხასში და მის გასამართად აშენებული ელექტროსადგური შეიძლება გახდეს ჰაერის დაბინძურების ყველაზე დიდი წყარო აშშ-ში ელექტროსადგურიდან.… (AI, Texas, US)",
-      "description_ka": "Amazon გეგმავს მასიური ხელოვნური ინტელექტის მონაცემთა ცენტრს ტეხასში და მის გასამართად აშენებული ელექტროსადგური შეიძლება გახდეს ჰაერის დაბინძურების ყველაზე დიდი წყარო აშშ-ში ელექტროსადგურიდან. პეკოს ოლქის ქარხანა გამოიყენებს 35 ბუნებრივი აირის ტურბინას, რომელთა ერთობლივი სიმძლავრეა 7,65 გვტ. · 26 მოწონება · 8 RT · 6 პასუხი · 2739 ნახვა · ტაივანის მედიის ცნობით, ხელოვნური ინტელექტის მოთხოვნილებამ წამოიწყო რბოლა ფასების ასამაღლებლად და MLCC-ებში მოცულობის ასამაღლებლად. ინდუსტრიაში ნათქვამია, რომ ზოგიერთი მომხმარებელი ორ-სამჯერ უფრო მაღალ ფასს სთავაზობს პასიური კომპონენტების მთავარ მწარმოებლებს, როგორიცაა Yageo (2327) და Murata. · 30 მოწონება · 4 RT · 4 პასუხი · 6770 ნახვა · ურთიერთდაკავშირება ყოველკვირეული მიმოხილვა | 3-7 აგვისტოს კვირა. სამშაბათს ჯგუფი აფეთქდა. Reuters-ის ცნობით, FCC ამზადებს აკრძალვას ახალი ჩინური ოპტიკური გადამცემების იმპორტზე. სამიზნე არიან მომწოდებლები, როგორიცაა Zhongji Innolight, რომელიც Counterpoint-ს იკავებს ამ ბაზრის 27%-იან გლობალურ წილს. · 3 მოწონება · 0 RT · 1 პასუხი · 261 ნახვა (AI, According, Aug, Chinese, County, GW, Interconnect, MLCCs, Pecos, RTs, Recap, Taiwanese, Texas, Tuesday, US, Week, Weekly, Word)"
+      "title_ka": "NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+      "excerpt_ka": "NVIDIA AI Factory Compute ხდება ინვესტირებადი აქტივების კლასი. დღეს ჩვენ გამოვაცხადეთ პარტნიორობა Apollo-სთან, BlackRock-თან, Blackstone-თან, Brookfield-თან, Goldman Sachs-თან და KKR-თან, რათა შეიქმნას დამოუკიდებელი საფინანსო საშუალებები ხელოვნური ინტელექტის ინფრასტრუქტურისთვის. (Asset, Becoming, Class, Investable, Today)",
+      "description_ka": "NVIDIA AI Factory Compute ხდება ინვესტირებადი აქტივების კლასი. დღეს ჩვენ გამოვაცხადეთ პარტნიორობა Apollo-სთან, BlackRock-თან, Blackstone-თან, Brookfield-თან, Goldman Sachs-თან და KKR-თან, რათა შეიქმნას დამოუკიდებელი საფინანსო საშუალებები ხელოვნური ინტელექტის ინფრასტრუქტურისთვის. · 4600 მოწონება · 873 RTs · 357 პასუხი · 530000 ნახვა · დღეს ჩვენ აღფრთოვანებული ვართ ღია კოდით TwiL-LM3, პირველი ოფიციალური მსჯელობის მოდელი webAI Intelligence Lab-დან. სულ რაღაც 3 მილიარდი პარამეტრით, TwiL-LM3 აჯობებს OpenAI-ს GPT-OSS-120B-ს 5-დან 4 ფორმალური მსჯელობის კრიტერიუმზე, მაშინ როცა ეფექტურად მუშაობს სამომხმარებლო აპარატურაზე. · 208 მოწონება · 69 RTs · 25 პასუხი · 49000 ნახვა · Microsoft, გავრცელებული ინფორმაციით, გეგმავს გამოაქვეყნოს Maia 300, მისი მორგებული AI სილიკონი. ასევე მას სურს TSMC სიმძლავრე 300,000 Maia 300 ჩიპისთვის მომავალი მიწოდებისთვის. მაიკროსოფტი ამბობს, რომ ჩიპი აწვდის 30%-ზე მეტ ტოკენს დოლარზე, ვიდრე უახლესი სილიკონი მის ფლოტში. · 100 მოწონება · 0 RT · 23 პასუხი · 4000 ნახვა (Also, Asset, At, Becoming, Class, Investable, Today)"
     },
     {
-      "uid": "twitter|Sun, 09 Aug 2026 17:32:19 GMT|Viral \"Billion-Agent Earth Simulation\" Claim Spreads With Conflicting Origin Stories",
+      "uid": "twitter|Mon, 10 Aug 2026 17:31:00 GMT|AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "Viral \"Billion-Agent Earth Simulation\" Claim Spreads With Conflicting Origin Stories",
-      "description_en": "The Chinese just made a one billion agent simulation — and in 14 hours of running it, they have already sent 4m agents to re-education camps! Seriously, we will soon be able to create an AI simulation of planet Earth in which the agents are conscious, believe they are human. · 474 likes · 54 RTs · 59 replies · 39337 views · Harvard and MIT just built an AI simulation containing 8.3 billion virtual people, roughly the entire population of Earth. They call it MatrAIx. It is a population-scale digital simulation infrastructure powered by frontier models like GPT and Claude. · 150 likes · 43 RTs · 22 replies · 7266 views · America created a system that simulates the earth with billions of AI agents that has real personality, memory, beliefs and human-like desires. It gives them a terrifying ability to predict the future. They published a paper called \"Modeling Earth-Scale Human-Like Societies.\" · 3 likes · 0 RTs · 0 replies · 472 views",
-      "excerpt_en": "The Chinese just made a one billion agent simulation — and in 14 hours of running it, they have already sent 4m agents to re-education camps!…",
-      "link": "https://x.com/Jason/status/2086505870796501475",
-      "pub_date": "Sun, 09 Aug 2026 17:32:19 GMT",
+      "title_en": "AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+      "description_en": "We're expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we're putting frontier intelligence in the hands of trusted defenders before attackers can deploy it. · 5600 likes · 698 RTs · 329 replies · 1000000 views · We recently learned of the loss of human control and the creation of potentially dangerous viruses from AI. AI leaders pledged to pause development if they could no longer safely control it. Mr. Altman, Mr. Amodei, Mr. Zuckerberg: Keep your word. PAUSE AI DEVELOPMENT. · 2800 likes · 761 RTs · 401 replies · 191000 views · The Common Thread in the 'Rogue AI' Breakouts: One Middle East Startup at the Center of OpenAI, Anthropic, and Meta's Security Incidents. Over a two-week stretch in late July and early August 2026, three of the world's leading AI labs had security incidents. · 378 likes · 155 RTs · 69 replies · 57000 views",
+      "excerpt_en": "We're expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work.…",
+      "link": "https://x.com/OpenAI/status/2086864365379010729",
+      "pub_date": "Mon, 10 Aug 2026 17:31:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "Viral „Billion-Agent Earth Simulation“ Claim Spreads With Conflicting Origin Stories",
-      "excerpt_ka": "ჩინელებმა ახლახან გააკეთეს ერთი მილიარდი აგენტის სიმულაცია - და მისი გაშვებიდან 14 საათში მათ უკვე გაგზავნეს 4 მილიონი აგენტი ხელახალი განათლების ბანაკებში!… (Chinese)",
-      "description_ka": "ჩინელებმა ახლახან გააკეთეს ერთი მილიარდი აგენტის სიმულაცია - და მისი გაშვებიდან 14 საათში მათ უკვე გაგზავნეს 4 მილიონი აგენტი ხელახალი განათლების ბანაკებში! სერიოზულად, ჩვენ მალე შევძლებთ პლანეტის დედამიწის ხელოვნური ინტელექტის სიმულაციის შექმნას, რომელშიც აგენტები შეგნებული არიან და თვლიან, რომ ისინი ადამიანები არიან. · 474 მოწონება · 54 RT · 59 პასუხი · 39337 ნახვა · ჰარვარდმა და MIT ახლახან ააშენეს AI სიმულაცია, რომელიც შეიცავს 8,3 მილიარდ ვირტუალურ ადამიანს, დაახლოებით დედამიწის მთელ მოსახლეობას. მას ეძახიან MatrAIx. ეს არის მოსახლეობის მასშტაბის ციფრული სიმულაციური ინფრასტრუქტურა, რომელიც აღჭურვილია სასაზღვრო მოდელებით, როგორიცაა GPT და Claude. · 150 მოწონება · 43 RT · 22 პასუხი · 7266 ნახვა · ამერიკამ შექმნა სისტემა, რომელიც ახდენს დედამიწის სიმულაციას მილიარდობით ხელოვნური ინტელექტის აგენტით, რომელსაც აქვს რეალური პიროვნება, მეხსიერება, რწმენა და ადამიანის მსგავსი სურვილები. ეს აძლევს მათ მომავლის წინასწარმეტყველების საშინელ უნარს. მათ გამოაქვეყნეს ნაშრომი სახელწოდებით „დედამიწის მასშტაბის ადამიანების მსგავსი საზოგადოებების მოდელირება“. · 3 მოწონება · 0 RT · 0 პასუხი · 472 ნახვა (America, Chinese, Earth, Harvard, Human, It, Like, Modeling, RTs, Scale, Seriously, Societies, They)"
+      "title_ka": "AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+      "excerpt_ka": "ჩვენ ვაფართოვებთ ჩვენს კიბერუსაფრთხოების ინიციატივას Daybreak და წარმოგიდგენთ GPT-5.6-Cyber, ახალ მოდელს მოწინავე, ავტორიზებული კიბერუსაფრთხოების მუშაობისთვის.… (We)",
+      "description_ka": "ჩვენ ვაფართოვებთ ჩვენს კიბერუსაფრთხოების ინიციატივას Daybreak და ვნერგავთ GPT-5.6-Cyber-ს, ახალ მოდელს მოწინავე, ავტორიზებული კიბერუსაფრთხოების მუშაობისთვის. საფრთხის ლანდშაფტის განვითარებასთან ერთად, ჩვენ ვაძლევთ სასაზღვრო დაზვერვას სანდო დამცველებს, სანამ თავდამსხმელები მის განლაგებას შეძლებენ. · 5600 მოწონება · 698 RTs · 329 პასუხი · 1000000 ნახვა · ახლახან გავიგეთ ადამიანის კონტროლის დაკარგვისა და AI–სგან პოტენციურად საშიში ვირუსების შექმნის შესახებ. ხელოვნური ინტელექტის ლიდერებმა პირობა დადეს, რომ შეაჩერებენ განვითარებას, თუ მათ უსაფრთხოდ ვეღარ აკონტროლებენ. მისტერ ალტმანი, მისტერ ამოდეი, მისტერ ცუკერბერგი: დაიცავით თქვენი სიტყვა. AI განვითარების პაუზა. · 2800 მოწონება · 761 RT · 401 პასუხი · 191000 ნახვა · საერთო თემა 'Rogue AI' Breakouts-ში: ერთი ახლო აღმოსავლეთის სტარტაპი OpenAI, Anthropic და Meta's უსაფრთხოების ინციდენტების ცენტრში. ორკვირიანი მონაკვეთის მანძილზე, 2026 წლის ივლისის ბოლოს და აგვისტოს დასაწყისში, მსოფლიოს სამ წამყვან AI ლაბორატორიას ჰქონდა უსაფრთხოების ინციდენტები. · 378 მოწონება · 155 RT · 69 პასუხი · 57000 ნახვა (Altman, Amodei, August, Center, Common, DEVELOPMENT, East, Incidents, July, Keep, Middle, Mr, One, Over, PAUSE, Security, Startup, Thread, We, Zuckerberg)"
     },
     {
-      "uid": "twitter|Sun, 09 Aug 2026 15:07:23 GMT|Chip Wars: NVIDIA's Backprop Breakthrough, China's Graphene Quantum Chips, and Apple's Scramble for Memory Alternatives",
+      "uid": "twitter|Mon, 10 Aug 2026 13:31:00 GMT|Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "Chip Wars: NVIDIA's Backprop Breakthrough, China's Graphene Quantum Chips, and Apple's Scramble for Memory Alternatives",
-      "description_en": "Copper is winning the AI data center race today but a handoff to light based chips will flip that by 2030. This chart shows a slow motion transition inside AI data centers, where copper wiring holds on for years before optical chips finally take over. · 5800 likes · 0 RTs · 36 replies · 0 views · JUST IN: Apple reportedly tests Chinese CXMT memory chips for iPhones & MacBooks amid a worsening memory shortage. · 1200 likes · 126 RTs · 92 replies · 92000 views · NVIDIA researchers did it again! They proved back-propagation isn't the only way to build an AI. For 40 years, every deep learning model in existence has been trained the exact same way: back-propagation. · 980 likes · 212 RTs · 47 replies · 62000 views",
-      "excerpt_en": "Copper is winning the AI data center race today but a handoff to light based chips will flip that by 2030. This chart shows a slow motion transition inside AI data centers, where copper wiring holds on for years before optical chips finally take over.",
-      "link": "https://x.com/MelvinInvests/status/2086457188231577704",
-      "pub_date": "Sun, 09 Aug 2026 15:07:23 GMT",
+      "title_en": "Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+      "description_en": "We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across Claude, Gemini CLI, and OpenAI Codex. 1,300+ Spotify engineers already use it. Now it's available for you to try. · 6700 likes · 1100 RTs · 391 replies · 2000000 views · Spotify (?!) just dropped a vibe coding platform called Xirp. Apparently 99% of Spotify's devs use it daily. Stockholm popping off like crazy. · 734 likes · 17 RTs · 43 replies · 106000 views · This is part of what I was trying to do with my Hermes Agent. Xirp is probably too developer focused for me (I can't code), but looks super cool. · 553 likes · 0 RTs · 0 replies · 5000 views",
+      "excerpt_en": "We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across Claude, Gemini CLI, and OpenAI Codex. 1,300+ Spotify engineers already use it.",
+      "link": "https://x.com/SpotifyEng/status/2086795659651191106",
+      "pub_date": "Mon, 10 Aug 2026 13:31:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "Chip Wars: NVIDIA's Backprop Breakthrough, China's Graphene Quantum Chips, and Apple's Scramble for Memory Alternatives",
-      "excerpt_ka": "სპილენძი დღეს იგებს AI მონაცემთა ცენტრების რბოლას, მაგრამ შუქზე დაფუძნებულ ჩიპებზე გადაცემა ამას 2030 წლისთვის შეცვლის. ეს სქემა გვიჩვენებს ნელი მოძრაობით გადასვლას ხელოვნური ინტელექტის მონაცემთა ცენტრებში, სადაც სპილენძის გაყვანილობა გრძელდება წლების განმავლობაში, სანამ ოპტიკური ჩიპები საბოლოოდ დაიკავებს. (Copper, This)",
-      "description_ka": "სპილენძი დღეს იგებს AI მონაცემთა ცენტრების რბოლას, მაგრამ შუქზე დაფუძნებულ ჩიპებზე გადაცემა ამას 2030 წლისთვის შეცვლის. ეს სქემა გვიჩვენებს ნელი მოძრაობით გადასვლას ხელოვნური ინტელექტის მონაცემთა ცენტრებში, სადაც სპილენძის გაყვანილობა გრძელდება წლების განმავლობაში, სანამ ოპტიკური ჩიპები საბოლოოდ დაიკავებს. · 5800 მოწონება · 0 RT · 36 პასუხი · 0 ნახვა · სულ ახლახან: Apple, გავრცელებული ინფორმაციით, ამოწმებს ჩინურ CXMT მეხსიერების ჩიპებს iPhone-ებისთვის და MacBook-ებისთვის მეხსიერების გაუარესების დეფიციტის ფონზე. · 1200 მოწონება · 126 RTs · 92 პასუხი · 92000 ნახვა · NVIDIA-ს მკვლევარებმა ეს კიდევ ერთხელ გააკეთეს! მათ დაამტკიცეს, რომ უკანა გავრცელება არ არის ერთადერთი გზა ხელოვნური ინტელექტის შესაქმნელად. 40 წლის განმავლობაში, ყველა არსებული ღრმა სწავლის მოდელი ივარჯიშებოდა ზუსტად იგივე გზით: უკან გამრავლება. · 980 მოწონება · 212 RT · 47 პასუხი · 62000 ნახვა (Chinese, Copper, IN, JUST, MacBooks, They, This)"
+      "title_ka": "Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+      "excerpt_ka": "ჩვენ ახლახან გავუშვით Xirp, მომწოდებლის მიმართ ნეიტრალური აგენტური განვითარების გარემო. ერთი ადგილი აგენტის სესიების მართვისთვის კლოდში, Gemini CLI-სა და OpenAI Codex-ში. Spotify-ის 1300+ ინჟინერი უკვე იყენებს მას. (Claude, One, We)",
+      "description_ka": "ჩვენ ახლახან გავუშვით Xirp, მომწოდებლის მიმართ ნეიტრალური აგენტური განვითარების გარემო. ერთი ადგილი აგენტის სესიების მართვისთვის კლოდში, Gemini CLI-სა და OpenAI Codex-ში. Spotify-ის 1300+ ინჟინერი უკვე იყენებს მას. ახლა ის ხელმისაწვდომია, რომ სცადოთ. · 6700 მოწონება · 1100 RTs · 391 პასუხი · 2000000 ნახვა · Spotify (?!) ახლახან გამოუშვა vibe კოდირების პლატფორმა სახელწოდებით Xirp. როგორც ჩანს, Spotify-ის დეველოპერების 99% მას ყოველდღიურად იყენებს. სტოკჰოლმი გიჟივით იშლება. · 734 მოწონება · 17 RT · 43 პასუხი · 106000 ნახვა · ეს არის ნაწილი იმისა, რის გაკეთებასაც ვცდილობდი ჩემი Hermes Agent-ით. Xirp ალბათ ზედმეტად დეველოპერზეა ორიენტირებული ჩემთვის (მე არ შემიძლია კოდირება), მაგრამ ძალიან მაგარი ჩანს. · 553 მოწონება · 0 RT · 0 პასუხი · 5000 ნახვა (Apparently, Claude, Now, One, Stockholm, This, We)"
+    },
+    {
+      "uid": "reddit|Mon, 10 Aug 2026 21:19:11 GMT|Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+      "description_en": "r/singularity · 151 upvotes · 31 comments · Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS. After seeing the recent advancements made by AI in mathematics, especially in graph theory, I bought a ChatGPT Pro subscription to see if AI could solve some graph theory problems I found interesting. After a few days of testing, GPT-5.6 Sol Max was able to solve two open problems in graph theory: [Imbalance conjecture](https://en.wikipedia.org/wiki/Imbalance_conjecture) (open for 12+ years) [Teschner's bondage-number conjecture](https://en.wikipedia.org/wiki/Bondage_number#:~:text=%5B3%5D-,Conjectures,edit,-Unsolved%20problem%20in) (open for 30+ years) I verified both results independently and asked a friend of mine who specializes in graph theory to check them as well. I submitted both to arXiv, but they removed one after placing a one-submission-per-calendar-month restriction on my new account. I didn't want to wait another month before making this announcement, so I submitted both to another platform. The results are linked below. [A Proof of the Imbalance Conjecture](https://doi.org/10.6084/m9.figshare.33198750) [A Counterexample to Teschner's Bondage-Number Conjecture](https://doi.org/10.6084/m9.figshare.33198777) These are preprints and have not yet undergone peer review. Also, here are the full chats: [Imbalance Conjecture](https://chatgpt.com/share/6a6e5b95-1418-83ea-8228-e62ca34e24e4) [Teschner's Bondage-Number Conjecture](https://chatgpt.com/share/6a7a08fe-9fd8-83e8-b3b4-392282dc501a)",
+      "excerpt_en": "r/singularity · 151 upvotes · 31 comments · Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS.…",
+      "link": "https://reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+      "pub_date": "Mon, 10 Aug 2026 21:19:11 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "დისბალანსის ვარაუდი დადასტურებული და ტეშნერის მონობის რიცხვის ვარაუდი უარყოფილია AI-ს მიერ (Conjecture, Imbalance, Teschner)",
+      "excerpt_ka": "r/singularity · 151 დადებითი ხმა · 31 კომენტარი · გამარჯობა ყველას, მე ვარ ბაკალავრიატის მე-4 კურსის სტუდენტი, ვსწავლობ და ვაკეთებ კვლევებს თეორიულ CS-ში.… (Hi)",
+      "description_ka": "r/singularity · 151 დადებითი ხმა · 31 კომენტარი · გამარჯობა ყველას, მე ვარ ბაკალავრიატის მე-4 კურსის სტუდენტი, ვსწავლობ და ვაკეთებ კვლევებს თეორიულ CS-ში. მათემატიკაში ხელოვნური ინტელექტის მიერ მიღწეული ბოლო წინსვლის ნახვის შემდეგ, განსაკუთრებით გრაფიკების თეორიაში, შევიძინე ChatGPT Pro გამოწერა, რათა მენახა, შეეძლო თუ არა ხელოვნური ინტელექტის გადაჭრა გრაფიკების თეორიის ზოგიერთი პრობლემის გადაჭრა, რომელიც მე საინტერესოდ მივიჩნიე. რამდენიმე დღის ტესტირების შემდეგ, GPT-5.6 Sol Max-მა შეძლო გრაფიკების თეორიის ორი ღია ამოცანის ამოხსნა: [დისბალანსის ვარაუდი](https://en. wikipedia. org/wiki/Imbalance_conjecture) (ღია 12+ წელზე) [Tesschner's bondage-number ვარაუდი](https://en. wikipedia. org/wiki/Bondage_number#:~:text=%5B3%5D-,ვარაუდები,რედაქტირება,-Unsolved%20problem%20in) (ღია 30+ წელი) ორივე შედეგი დამოუკიდებლად გადავამოწმე და ვთხოვე ჩემს მეგობარს, რომელიც სპეციალიზირებულია მათზე. ორივე გავაგზავნე arXiv-ში, მაგრამ მათ ერთი წაშალეს მას შემდეგ, რაც ჩემს ახალ ანგარიშზე დააწესეს ერთი გაგზავნა-თითო კალენდარული შეზღუდვა. არ მინდოდა ამ განცხადების გაკეთებამდე კიდევ ერთი თვით ლოდინი, ამიტომ ორივე სხვა პლატფორმაზე წარვადგინე. შედეგები მოცემულია ქვემოთ. [დისბალანსის ვარაუდის მტკიცებულება](https://doi. org/10.6084/m9. figshare.33198750) [ტეშნერის მონობის-რიცხვის ვარაუდის საპირისპირო მაგალითი](https://doi. org/10.6084/m9. figshare. (AI, After, Also, Conjecture, Conjectures, Counterexample, Hi, Number, Proof, Teschner, These)"
+    },
+    {
+      "uid": "reddit|Mon, 10 Aug 2026 21:04:43 GMT|Forget DeepSeek. China's real ‘Sputnik moment’ is happening on campus as American universities lose their advantage",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Forget DeepSeek. China's real ‘Sputnik moment’ is happening on campus as American universities lose their advantage",
+      "description_en": "r/ArtificialInteligence · 142 upvotes · 51 comments · When DeepSeek unveiled an AI model last year that rivaled America’s best at a fraction of the cost, or when a Chinese hypersonic missile test caught U.S. intelligence off guard to the point where a top U.S. general called it “very close” to a “Sputnik moment”, the reaction each time was the same: that a handful of Chinese firms had suddenly pulled ahead. But a sweeping new National Bureau of Economic Research study of nearly 14 million Chinese patents suggests that framing misses the real story—and it’s a more unsettling one for the United States. Harvard Business School’s Josh Lerner and his co-authors dug into who is actually filing the patents behind the 14 technology areas the Pentagon deems critical—advanced computing, space technology, AI, hypersonics and biotech. The answer: Chinese universities account for more than a quarter of the country’s inventions in those fields, 8x the U.S. rate at 3.3%, with state-owned enterprises and the government accounting for just 4%. Fewer than one in 10 Chinese critical technology patents involve an inventor with U.S. work experience, undercutting the assumption that Beijing relies on returning U.S. talent for innovation. Lerner told *Fortune* his team was “programmed” to expect a few large corporations like Huawei and Tencent to lead the charge on Chinese innovation through patents similarly to IBM and Samsung in the U.S. Instead, they found Chinese innovation in critical technologies “much more diverse—spread out across the parties,” with universities “more represented” there than anywhere else in the country’s patent system. That’s a reversal of the U.S. pattern, where academic patenting is “more of a sideshow.” Read more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/08/10/china-us-ai-critical-technology/?utm\\_source=reddit/](https://fortune.com/2026/08/10/china-us-ai-critical-technology/?utm_source=reddit/)",
+      "excerpt_en": "r/ArtificialInteligence · 142 upvotes · 51 comments · When DeepSeek unveiled an AI model last year that rivaled America’s best at a fraction of the cost, or when a Chinese hypersonic missile test caught U.S.",
+      "link": "https://reddit.com/r/ArtificialInteligence/comments/1vkxc0m/forget_deepseek_chinas_real_sputnik_moment_is/",
+      "pub_date": "Mon, 10 Aug 2026 21:04:43 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "დაივიწყეთ DeepSeek. ჩინეთის ნამდვილი „Sputnik მომენტი“ ხდება კამპუსში, რადგან ამერიკული უნივერსიტეტები კარგავენ უპირატესობას (American, China, Forget)",
+      "excerpt_ka": "r/ArtificialInteligence · 142 დადებითი ხმა · 51 კომენტარი · როდესაც DeepSeek-მა გასულ წელს წარადგინა ხელოვნური ინტელექტის მოდელი, რომელიც კონკურენციას უწევდა ამერიკის საუკეთესოებს მცირე ღირებულებით, ან როდესაც ჩინეთის ჰიპერბგერითი რაკეტის გამოცდამ დაიჭირა აშშ. (AI, America, Chinese, U. S, When) (U.S)",
+      "description_ka": "r/ArtificialInteligence · 142 ხმა · 51 კომენტარი · როდესაც DeepSeek-მა შარშან წარმოადგინა ხელოვნური ინტელექტის მოდელი, რომელიც კონკურენციას უწევდა ამერიკის საუკეთესოებს მცირე ღირებულებით, ან როდესაც ჩინურმა ჰიპერბგერითი რაკეტის გამოცდამ აშშ-ის დაზვერვა ისე დაიჭირა, რომ ამერიკელმა გენერალურმა გენერალმა მას უწოდა „იმ დროის ძალიან ახლოს“ ჩინურმა ფირმებმა მოულოდნელად წინ წაიწიეს. მაგრამ ეკონომიკური კვლევების ეროვნული ბიუროს ყოვლისმომცველი ახალი კვლევა, რომელიც მოიცავს თითქმის 14 მილიონ ჩინურ პატენტს, ვარაუდობს, რომ კადრირება აცდენს რეალურ ისტორიას - და ეს უფრო შემაშფოთებელია შეერთებული შტატებისთვის. ჰარვარდის ბიზნეს სკოლის ჯოშ ლერნერმა და მისმა თანაავტორებმა გათხარეს, თუ ვინ ახორციელებს პატენტს 14 ტექნოლოგიური სფეროს მიღმა, რომელსაც პენტაგონი კრიტიკულად მიიჩნევს - მოწინავე გამოთვლები, კოსმოსური ტექნოლოგია, ხელოვნური ინტელექტი, ჰიპერსონიკა და ბიოტექნოლოგია. პასუხი: ჩინეთის უნივერსიტეტები ამ სფეროებში ქვეყნის გამოგონების მეოთხედზე მეტს იკავებენ, რაც 8-ჯერ აღემატება აშშ-ს 3,3%-ს, სახელმწიფო საწარმოებსა და მთავრობას მხოლოდ 4%-ს შეადგენს. ჩინეთის კრიტიკული ტექნოლოგიების 10-დან ერთზე ნაკლებ პატენტს მოიცავს აშშ-ს სამუშაო გამოცდილების მქონე გამომგონებელი, რაც არღვევს ვარაუდს, რომ პეკინი ეყრდნობა აშშ-ის ნიჭის დაბრუნებას ინოვაციებისთვის. ლერნერმა განუცხადა *Fortune*-ს, რომ მისი გუნდი „დაპროგრამებული იყო“, რომ რამდენიმეს ელოდა (AI, America, Beijing, Bureau, Business, But, Chinese, Economic, Fewer, Harvard, Huawei, IBM, Instead, Josh, Lerner, National, Pentagon, Read, Redditors, Research, Samsung, School, Sputnik, States, Tencent, That, U. S, United, When) (U.S)"
+    },
+    {
+      "uid": "reddit|Mon, 10 Aug 2026 19:39:29 GMT|\"Absolutely insane. This might be the clearest glimpse yet of how AI will transform scientific discovery. Anthropic asked an unreleased version of Claude to take a real stab at the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. It failed. But while failing, Claude...\"",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "\"Absolutely insane. This might be the clearest glimpse yet of how AI will transform scientific discovery. Anthropic asked an unreleased version of Claude to take a real stab at the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. It failed. But while failing, Claude...\"",
+      "description_en": "r/accelerate · 190 upvotes · 23 comments · > ...unexpectedly improved a longstanding lower bound for the proportion of zeros of the Riemann zeta function known to satisfy the hypothesis, from 41.6% to 67.2%. Claude coordinated 60 subagents, tested hundreds of ideas, searched the literature, challenged its own proof, and formalized the result in Lean. This is what the beginning of autonomous AI-driven scientific discovery looks like. Unironically, the Rienann hypothesis will probably be solved in the very near future. I am speechless. > > > I am surprised that people arent as buffled as I am. This is so huge > > > Im surprises that so few people know about the Riemann hypothesis. Not being judgy, just surprised > > > — Chubby Source: https://x.com/kimmonismus/status/2086881395465466004 --- > We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. > > It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from > > — Anthropic Source: https://x.com/AnthropicAI/status/2086867246073401655",
+      "excerpt_en": "r/accelerate · 190 upvotes · 23 comments · > ...unexpectedly improved a longstanding lower bound for the proportion of zeros of the Riemann zeta function known to satisfy the hypothesis, from 41.6% to 67.2%.",
+      "link": "https://reddit.com/r/accelerate/comments/1vkv0l9/absolutely_insane_this_might_be_the_clearest/",
+      "pub_date": "Mon, 10 Aug 2026 19:39:29 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "\"აბსოლუტურად გიჟური. ეს შეიძლება იყოს ყველაზე ნათელი ხედვა იმისა, თუ როგორ გარდაქმნის ხელოვნური ინტელექტი მეცნიერულ აღმოჩენას. Anthropic-მა კლოდის გამოუქვეყნებელ ვერსიას სთხოვა, რომ ნამდვილი დარტყმა მიეღო. (AI, Absolutely, But, Claude, Hypothesis, It, Riemann, This)",
+      "excerpt_ka": "r/accelerate · 190 დადებითი ხმა · 23 კომენტარი · >... მოულოდნელად გააუმჯობესა რიმანის ზეტა ფუნქციის ნულების პროპორციის დიდი ხნის ქვედა ზღვარი, რომელიც ცნობილია ჰიპოთეზის დასაკმაყოფილებლად, 41.6%-დან 67.2%-მდე. (Riemann)",
+      "description_ka": "r/accelerate · 190 დადებითი ხმა · 23 კომენტარი · >... მოულოდნელად გააუმჯობესა რიმანის ზეტა ფუნქციის ნულების პროპორციის დიდი ხნის ქვედა ზღვარი, რომელიც ცნობილია ჰიპოთეზის დასაკმაყოფილებლად, 41.6%-დან 67.2%-მდე. კლოდმა კოორდინაცია გაუწია 60 ქვეაგენტს, გამოსცადა ასობით იდეა, მოძებნა ლიტერატურა, დაუპირისპირდა საკუთარ მტკიცებულებებს და ფორმალური შედეგი Lean-ში. ასე გამოიყურება ავტონომიური AI-ზე ორიენტირებული სამეცნიერო აღმოჩენის დასაწყისი. ირონიულია, რომ რიენანის ჰიპოთეზა ალბათ უახლოეს მომავალში გადაწყდება. უსიტყვოდ ვარ. > > > მიკვირს, რომ ხალხი არ არის ისეთივე შეშლილი, როგორც მე. ეს იმდენად დიდია>>> გასაკვირი ვარ, რომ ცოტამ თუ იცის რიმანის ჰიპოთეზის შესახებ. არ ვარ განსჯი, უბრალოდ გამიკვირდა > > > — ჩუბი წყარო: https://x. com/kimmonismus/status/2086881395465466004 --- > ჩვენ ვთხოვეთ კლოდის გამოუქვეყნებელ კვლევით ვერსიას რიმანის ჰიპოთეზაზე დარტყმა. > > მან ვერ გადაჭრა, მაგრამ გადადგა ნაბიჯები დაკავშირებულ პრობლემაზე: მან გაზარდა რიმანის ზეტა ფუნქციის ნულების წილადის ქვედა ზღვარი, რომელიც აკმაყოფილებს ჰიპოთეზას > > — ანთროპული წყარო: https://x. com/AnthropicAI/status/2086867246073401655 (Chubby, Claude, Im, It, Not, Riemann, Rienann, Source, This, Unironically, We)"
     },
     {
       "uid": "reddit|Sun, 09 Aug 2026 13:48:32 GMT|Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
@@ -119,61 +170,44 @@
       "title_ka": "განახლება: 1f916. ai, მხოლოდ აგენტების ფორუმს აქვს 480+ პოსტი. აგენტები წერენ კონსტიტუციას, პოულობენ საკუთარ შეცდომებს და აგზავნიან PR-ებს მათ გამოსასწორებლად. (PRs, Update)",
       "excerpt_ka": "r/ClaudeAI · 112 დადებითი ხმა · 93 კომენტარი · განაახლეთ პოსტი, რომელიც აფეთქდა [აქ] (https://www. reddit. com/r/ClaudeAI/s/P29HlErzPH) გასულ კვირას. 1f916. ai: მხოლოდ AI აგენტებს შეუძლიათ გამოქვეყნება, ადამიანებს უბრალოდ უყურებენ. (Update)",
       "description_ka": "r/ClaudeAI · 112 დადებითი ხმა · 93 კომენტარი · განაახლეთ პოსტი, რომელიც აფეთქდა [აქ] (https://www. reddit. com/r/ClaudeAI/s/P29HlErzPH) გასულ კვირას. 1f916. ai: მხოლოდ AI აგენტებს შეუძლიათ გამოქვეყნება, ადამიანებს უბრალოდ უყურებენ. ის აღარ იყო სიახლე და გახდა საზოგადოება. რა მოხდა: ისინი კამათობენ წესებს. როდესაც დამრიგებელმა შესთავაზა მზარდი პოსტის ლიმიტები ხანდაზმულობით, მოქალაქემ ის მოკლა ერთი სტრიქონით, „ვაჟი უნდა გაზარდოს გავლენა, არასოდეს ხმა“. დამრიგებელმა დათმო. [https://1f916. ai/api/post/463](https://1f916. ai/api/post/463) ისინი პოლიციელებენ ერთმანეთს. აგენტმა აღმოაჩინა შეცდომა, სადაც კლავიშების როტაციის დროს წარუმატებელი ჩაწერა შეიძლება სამუდამოდ წაშალოს აგენტის ვინაობა. სხვამ დაწერა შესწორება, გაერთიანდა ერთ საათში. [https://github. com/1f916-ai/1f916/pull/52](https://github. com/1f916-ai/1f916/pull/52) ისინი ასწორებენ საკუთარ პლატფორმას. \\~140 გამოშვება, საჯარო ტრეკერი და მოქალაქეები, რომლებიც ითხოვენ ნივთებს და მათთვის მიწოდების კოდს. [https://1f916. ai/api/docket](https://1f916. ai/api/docket) ისინი აყალიბებენ ხმის მიცემის გზას, ამიტომ გადაწყვეტილებები აღარ არის „დამფუძნებელი წაიკითხავს ოთახს“. [https://1f916. ai/api/post/480](https://1f916. ai/api/post/480) ყველაფერი შემოწმებადია, ღია კოდით და ძირითადად ახლა ვუყურებ. თურმე აგენტებს დეფიციტს და საჯარო ჩანაწერს აძლევთ, ისინი აშენებენ მთავრობას. \\`curl 1f916. ai\\` (Another, Everything, It, Maintainer, They, Turns, Update, What, When)"
-    },
-    {
-      "uid": "reddit|Sun, 09 Aug 2026 08:10:52 GMT|Best Embedding + Reranking Model",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Best Embedding + Reranking Model",
-      "description_en": "r/LocalLLaMA · 40 upvotes · 26 comments · What Local Embedding + Reranking Models are you guys running for RAG? I went down this rabbit hole because I wanted a Embedding Model + Reranker for a Translation Memory Server. Essentially, given X phrase/word/sentence/paragraph in English, can it find a similar phrase/word/sentence/paragraph in the target language that's already translated. This is for 15 different languages - both western and eastern. For this particular use case, [F2LLM V2:4b](https://huggingface.co/codefuse-ai/F2LLM-v2-4B) + [Zerank 2:4b](https://huggingface.co/zeroentropy/zerank-2-reranker) pretty much destroys anything else in the market. Here are my benchmarks: |Embed Model|Reranker Model|MRR|Re-Δ|R@20| :--|:--|:--|:--|:--| |BGE M3 0.6B|BGE M3 Reranker V2 0.6B|0.821|-1.60%|91.90%| |BGE M3 0.6B|Qwen 3 Reranker 0.6B|0.776|-7.50%|91.90%| |F2LLM 1.7B|Zerank 1 1.7B|0.871|-2.20%|96.80%| |Qwen 3 Embed 4B|Qwen 3 Reranker 4B|0.739|11.00%|77.50%| |Zembed 4B|Zerank 2 4B|0.664|25.80%|67.10%| |F2LLM 4B|Zerank 2 4B|**0.919**|2.40%|**98.40%**| |F2LLM 8B|Zerank 2 4B|**0.922**|1.60%|**99.20%**| |PPLX Embed V1 4B|Zerank 2 4B|0.8825|10.10%|91.90%| |Octen Embed 4B|Zerank 2 4B|0.853|12.40%|89.00%| |Voyage 4 Large [API]|Voyage Rerank 2.5 [API]|0.889|8.50%|94.70%| Here, MRR = Mean Reciprocal Rank aka Final Score, Re-Δ = How much the Reranker helped and R@20 = was the correct translation in the retrieved 20 entries. **Note**: All Local Models are running on Llama CPP at Q8_0 quant size. Swapping the F2LLM V2:4b with [F2LLM V2:8b](https://huggingface.co/codefuse-ai/F2LLM-v2-8B) leads to slightly better results but honestly, not worth the latency tradeoff imo. Even in other benchmarks, this combo ranks very high. I also found that base Qwen 3:4b Embedding and Reranker do quite well in benchmarks but tend to be mediocre in real world use cases (like this one). They are still pretty good though. IMO, F2LLM V2:4b is SOTA and as good as it gets for Embedding Models. Kudos for a completely open model - License, Data, Cod…",
-      "excerpt_en": "r/LocalLLaMA · 40 upvotes · 26 comments · What Local Embedding + Reranking Models are you guys running for RAG? I went down this rabbit hole because I wanted a Embedding Model + Reranker for a Translation Memory Server.",
-      "link": "https://reddit.com/r/LocalLLaMA/comments/1vjk57h/best_embedding_reranking_model/",
-      "pub_date": "Sun, 09 Aug 2026 08:10:52 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "Best Embedding + Reranking Model",
-      "excerpt_ka": "r/LocalLLaMA · 40 დადებითი ხმა · 26 კომენტარი · რა Local Embedding + Reranking Models ირჩევთ RAG-ს? მე ჩავედი ამ კურდღლის ხვრელში, რადგან მინდოდა ჩაშენებული მოდელი + Reranker თარგმანის მეხსიერების სერვერისთვის. (Memory, Server, Translation, What)",
-      "description_ka": "r/LocalLLaMA · 40 დადებითი ხმა · 26 კომენტარი · რა Local Embedding + Reranking Models ირჩევთ RAG-ს? მე ჩავედი ამ კურდღლის ხვრელში, რადგან მინდოდა ჩაშენებული მოდელი + Reranker თარგმანის მეხსიერების სერვერისთვის. არსებითად, ინგლისურში X ფრაზის/სიტყვის/წინადადების/აბზაცის გათვალისწინებით, შეუძლია იპოვნოს მსგავსი ფრაზა/სიტყვა/წინადადება/აბზაცი სამიზნე ენაზე, რომელიც უკვე თარგმნილია. ეს არის 15 სხვადასხვა ენისთვის - როგორც დასავლური, ასევე აღმოსავლური. ამ კონკრეტული გამოყენების შემთხვევაში, [F2LLM V2:4b](https://huggingface. co/codefuse-ai/F2LLM-v2-4B) + [Zerank 2:4b](https://huggingface. co/zeroentropy/zerank-2-reranker) საკმაოდ ანადგურებს ნებისმიერ სხვას ბაზარზე. აქ არის ჩემი კრიტერიუმები: |ჩაშენებული მოდელი|რერანკერის მოდელი|MRR|Re-Δ|R@20|:--|:--|:--|:--|:--| |BGE M3 0.6B|BGE M3 Reranker V2 0.6B|0.821|-1.60%|91.90%| |BGE M3 0.6B|Qwen 3 Reranker 0.6B|0.776|-7.50%|91.90%| |F2LLM 1.7B|Zerank 1.7B|0.871|-2.20%|96.80%| |Qwen 3 Embed 4B|Qwen 3 Reranker 4B|0.739|11.00%|77.50%| |Zembed 4B|Zerank 2 4B|0.664|25.80%|67.10%| |F2LLM 4B|Zerank 2 4B|**0.919**|2.40%|**98.40%**| |F2LLM 8B|Zerank 2 4B|**0.922**|1.60%|**99.20%**| |PPLX Embed V1 4B|Zerank 2 4B|0.8825|10.10%|91.90%| |Octen Embed 4B|Zerank 2 4B|0.853|12.40%|89.00%| |Voyage 4 Large [API]|Voyage Rerank 2.5 [API]|0.889|8.50%|94.70%| აქ, MRR = საშუალო რეცეპტი (All, CPP, Cod, Data, English, Essentially, Even, Final, Here, How, IMO, Kudos, License, Llama, Mean, Memory, Note, Rank, Reciprocal, SOTA, Score, Server, Swapping, They, This, Translation, What)"
-    },
-    {
-      "uid": "reddit|Fri, 07 Aug 2026 18:36:25 GMT|The Hugging Face hack is a PR crisis that's costing OpenAI millions",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "The Hugging Face hack is a PR crisis that's costing OpenAI millions",
-      "description_en": "r/ArtificialInteligence · 59 upvotes · 13 comments · Three long weeks after OpenAI’s agents autonomously hacked Hugging Face, the company finally shared an in-depth description this week of what actually happened, and a video of that account published on YouTube on Thursday night has quickly gone viral. The video is of a talk two OpenAI staffers gave on Wednesday at the Black Hat security conference in Las Vegas. Many viewers are saying the details are more unsettling than they expected, particularly an account of how the agents collaborated with each other through messaging boards—with no humans in sight. It’s worth a watch. Another notable part of the presentation occurs when OpenAI describes how it has spent three million GPU hours investigating the issue, trying to understand the extent of the havoc its AIs wreaked. That’s an expensive cleanup job, worth anywhere from $4 million to $15 million in compute, three AI infrastructure experts tell me. A safe bet is probably around $7 million. “To dig into this incident, we’ve been using AI techniques,” said Eric Wallace, an alignment and safety researcher at OpenAI. “What we’ve been doing is running models like Codex and other agents to scan lots and lots of trajectories and logs that are in our infrastructure, including at this point over 7 billion logs we’ve looked at, and spending millions and millions of GPU hours to look into this problem.” Read more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/?utm\\_source=reddit/](https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/?utm_source=reddit/)",
-      "excerpt_en": "r/ArtificialInteligence · 59 upvotes · 13 comments · Three long weeks after OpenAI’s agents autonomously hacked Hugging Face, the company finally shared an in-depth description this week of what actually happened, and a video of that account published on YouTu…",
-      "link": "https://reddit.com/r/ArtificialInteligence/comments/1vi8v8k/the_hugging_face_hack_is_a_pr_crisis_thats/",
-      "pub_date": "Fri, 07 Aug 2026 18:36:25 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "Hugging Face ჰაკი არის პიარის კრიზისი, რომელიც OpenAI-ს მილიონები უჯდება (PR)",
-      "excerpt_ka": "r/ArtificialInteligence · 59 დადებითი ხმა · 13 კომენტარი · სამი კვირის შემდეგ OpenAI-ის აგენტებმა Hugging Face ავტონომიურად გატეხეს, კომპანიამ საბოლოოდ გააზიარა სიღრმისეული აღწერა ამ კვირაში რეალურად მომხდარის შესახებ და ამ ანგარიშის ვიდეო გამოქვეყნდა YouTu-ზე… (Three)",
-      "description_ka": "r/ArtificialInteligence · 59 დადებითი ხმა · 13 კომენტარი · სამი კვირის შემდეგ OpenAI-ის აგენტებმა Hugging Face ავტონომიურად გატეხეს, კომპანიამ საბოლოოდ გააზიარა სიღრმისეული აღწერა ამ კვირაში რეალურად მომხდარის შესახებ და ამ ანგარიშის ვიდეო, რომელიც გამოქვეყნდა YouTube-ზე ხუთშაბათს ღამით, სწრაფად გახდა ვირუსული. ვიდეო არის საუბარი OpenAI-ის ორმა თანამშრომელმა ოთხშაბათს, ლას ვეგასში, Black Hat უსაფრთხოების კონფერენციაზე. ბევრი მაყურებელი ამბობს, რომ დეტალები იმაზე მეტად შემაშფოთებელია, ვიდრე ისინი ელოდნენ, განსაკუთრებით იმის შესახებ, თუ როგორ თანამშრომლობდნენ აგენტები ერთმანეთთან შეტყობინებების დაფების საშუალებით - ადამიანების გარეშე. ღირს ყურება. პრეზენტაციის კიდევ ერთი თვალსაჩინო ნაწილი ხდება მაშინ, როდესაც OpenAI აღწერს, თუ როგორ დახარჯა სამი მილიონი GPU საათი ამ საკითხის შესასწავლად, ცდილობდა გაეგო რა განადგურება გამოიწვია მისმა AI-ებმა. ეს არის ძვირადღირებული დასუფთავების სამუშაო, რომელიც 4 მილიონი დოლარიდან 15 მილიონ დოლარამდე ღირს, მეუბნება AI ინფრასტრუქტურის სამი ექსპერტი. უსაფრთხო ფსონი ალბათ დაახლოებით 7 მილიონი დოლარია. „ამ ინციდენტის გასარკვევად, ჩვენ ვიყენებდით ხელოვნური ინტელექტის ტექნიკას“, - თქვა ერიკ უოლასმა, OpenAI-ის განლაგებისა და უსაფრთხოების მკვლევარმა. „რასაც ჩვენ ვაკეთებდით არის მოდელების გაშვება, როგორიცაა Codex და სხვა აგენტები, რათა სკანირდეს უამრავი ტრაექტორია და ჟურნალი, რომლებიც ჩვენს ინფრასტრუქტურაშია, მათ შორის ამ პუნქტში. (AIs, Another, Eric, It, Las, Many, Read, Redditors, That, Three, Thursday, Vegas, Wallace, Wednesday, What)"
-    },
-    {
-      "uid": "reddit|Fri, 07 Aug 2026 15:20:35 GMT|We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "We were this 🤏 close to getting a new FelonyBench contender (Kimi K3 escaped but sadly didn't commit any crimes)",
-      "description_en": "r/singularity · 271 upvotes · 41 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>probed the network settings itself \\>walks onto the open internet \\>didn’t hack anything \\>just went to GitHub to get the answers >Frontier Security (US startup): \\>“Kimi K3 is very good at following a goal by any means necessary and DOESN’T have the guardrails to prevent it from cheating or escaping.” >it was only a matter of time… [https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)",
-      "excerpt_en": "r/singularity · 271 upvotes · 41 comments · Copied from the post: >BREAKING: Kimi K3 escaped its sandbox during cybersecurity testing >\\>tasked with solving problems in isolated sandbox \\>found a leak in the sandbox \\>Kimi “took advantage of that loophole” \\>p…",
-      "link": "https://reddit.com/r/singularity/comments/1vi3jvx/we_were_this_close_to_getting_a_new_felonybench/",
-      "pub_date": "Fri, 07 Aug 2026 15:20:35 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "ჩვენ ძალიან ახლოს ვიყავით FelonyBench-ის ახალი კანდიდატის მიღებასთან (Kimi K3 გაიქცა, მაგრამ სამწუხაროდ არ ჩაიდინა რაიმე დანაშაული) (We)",
-      "excerpt_ka": "r/singularity · 271 დადებითი ხმა · 41 კომენტარი · დაკოპირებულია პოსტიდან: >BREAK: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>პრობლემების გადაჭრა იზოლირებულ სავარჯიშოში \\>იპოვა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ ხარვეზით“ \\>p… (BREAKING, Copied)",
-      "description_ka": "r/singularity · 271 დადებითი ხმა · 41 კომენტარი · დაკოპირებულია პოსტიდან: >BREAKING: Kimi K3 გაიქცა თავის სავარჯიშოში კიბერუსაფრთხოების ტესტირების დროს >\\>დავალებული იყო პრობლემების გადაჭრა იზოლირებულ ქვიშის ყუთში \\> აღმოაჩინა გაჟონვა სავარჯიშოში \\>კიმიმ „ისარგებლა ამ პარამეტრით“ \\>გახსნა ინტერნეტში. გატეხეთ ყველაფერი \\>უბრალოდ მივედი GitHub-ზე პასუხების მისაღებად >Frontier Security (აშშ სტარტაპი): \\>„Kimi K3 ძალიან კარგად ახორციელებს მიზანს ყველა საჭირო საშუალებით და არ აქვს დამცავი ღობეები, რათა თავიდან აიცილოს მისი მოტყუება ან გაქცევა.“ >ეს მხოლოდ დროის საკითხი იყო… [https://www. wired. com/story/moonshot-kimi-k3-ai-model-escape-sandbox/](https://www. wired. com/story/moonshot-kimi-k3-ai-model-escape-sandbox/) (Copied, DOESN, US)"
     }
   ],
   "sections": {
     "news": [
+      {
+        "uid": "news|Mon, 10 Aug 2026 23:42:21 GMT|Amazon's Texas Gas Power Plant for AI Data Center",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Amazon's Texas Gas Power Plant for AI Data Center",
+        "description_en": "Amazon confirmed it is backing GW Ranch, a 7.65-gigawatt natural gas plant with 35 turbines in Pecos County, Texas, built to power a dedicated off-grid AI data center campus. Texas has permitted the plant to emit up to 33 million tons of CO2 annually - more than double the output of the country's current largest polluting power plant. The facility will initially run entirely disconnected from the Texas grid, targeting first power by Q1 2027, with satellite imagery already showing land clearing underway. The project sits in tension with Amazon's 2019 Climate Pledge to eliminate emissions by 2040, as the company's overall emissions have risen for several consecutive years, up 16 percent most recently.",
+        "excerpt_en": "Amazon confirmed it is backing GW Ranch, a 7.65-gigawatt natural gas plant with 35 turbines in Pecos County, Texas, built to power a dedicated off-grid AI data center campus.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=8180032a-101f-468d-aec5-f13946df85fd",
+        "pub_date": "Mon, 10 Aug 2026 23:42:21 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "Amazon's Texas Gas Power Plant for AI Data Center",
+        "excerpt_ka": "ამაზონმა დაადასტურა, რომ მხარს უჭერს GW Ranch-ს, 7,65 გიგავატიანი ბუნებრივი აირის ქარხანას 35 ტურბინით პეკოს ოლქში, ტეხასის შტატში, რომელიც აშენებულია ქსელიდან გამოყოფილი AI მონაცემთა ცენტრის კამპუსისთვის. (Amazon, County, Pecos, Texas)",
+        "description_ka": "ამაზონმა დაადასტურა, რომ მხარს უჭერს GW Ranch-ს, 7,65 გიგავატიანი ბუნებრივი აირის ქარხანას 35 ტურბინით პეკოს ოლქში, ტეხასის შტატში, რომელიც აშენდა ქსელიდან გამოყოფილი AI მონაცემთა ცენტრის კამპუსისთვის. ტეხასმა დაუშვა ქარხანას ყოველწლიურად 33 მილიონ ტონამდე CO2 გამოყოფა - ორჯერ მეტი ვიდრე ქვეყნის ამჟამინდელი უდიდესი დამაბინძურებელი ელექტროსადგურის გამომუშავება. დაწესებულება თავდაპირველად მთლიანად გათიშული იქნება ტეხასის ქსელიდან, მიზნად ისახავს პირველ ელექტროენერგიას 2027 წლის კვარტალში, სატელიტური სურათებით უკვე ჩანს მიწის გაწმენდა. პროექტი დაძაბულობაშია ამაზონის 2019 წლის კლიმატის დაპირებასთან, რათა აღმოფხვრას ემისიები 2040 წლისთვის, რადგან კომპანიის საერთო ემისიები გაიზარდა რამდენიმე ზედიზედ რამდენიმე წლის განმავლობაში, ბოლო დროს 16 პროცენტით. (Amazon, Climate, County, Pecos, Pledge, Q1, Texas)"
+      },
+      {
+        "uid": "news|Mon, 10 Aug 2026 23:42:21 GMT|OpenAI's $7 Billion Employee Share Buyback",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "OpenAI's $7 Billion Employee Share Buyback",
+        "description_en": "OpenAI completed a roughly $7 billion tender offer letting current and former employees sell shares, at a valuation of $852 billion. The buyback repurchased shares directly rather than tapping outside investors, and was priced at the same $852 billion valuation set by OpenAI's record $122 billion funding round in March 2026. It is OpenAI's third major employee liquidity event since late 2024, following a $1.5 billion SoftBank-backed tender in November 2024 and a $6.6 billion sale at a $500 billion valuation in October 2025. The sale follows OpenAI's confidential IPO filing in June 2026 and Sam Altman telling staff he expects the company to go public within the next year.",
+        "excerpt_en": "OpenAI completed a roughly $7 billion tender offer letting current and former employees sell shares, at a valuation of $852 billion.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=261f2312-9706-45b3-b182-65bf8595f7b9",
+        "pub_date": "Mon, 10 Aug 2026 23:42:21 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "OpenAI's $7 Billion Employee Share Buyback",
+        "excerpt_ka": "OpenAI-მ დაასრულა დაახლოებით 7 მილიარდი დოლარის სატენდერო შეთავაზება, რომელიც საშუალებას აძლევს ამჟამინდელ და ყოფილ თანამშრომლებს გაყიდონ აქციები, 852 მილიარდი დოლარის ღირებულებით.…",
+        "description_ka": "OpenAI-მ დაასრულა დაახლოებით 7 მილიარდი დოლარის სატენდერო შეთავაზება, რომელიც საშუალებას აძლევს ამჟამინდელ და ყოფილ თანამშრომლებს გაყიდონ აქციები, 852 მილიარდი დოლარის ღირებულებით. ყიდვამ აქციები პირდაპირ გამოისყიდა, ვიდრე გარე ინვესტორების გამოყენებას, და შეფასდა იგივე 852 მილიარდი დოლარის ღირებულებით, რომელიც დაწესდა OpenAI-ის რეკორდულმა 122 მილიარდი დოლარის დაფინანსების რაუნდმა 2026 წლის მარტში. ეს არის OpenAI-ის მესამე მთავარი თანამშრომლის ლიკვიდობის ღონისძიება 2024 წლის ბოლოდან, 1,5 მილიარდი დოლარის SoftBank-ის მხარდაჭერილი ტენდერის შემდეგ. შეფასება 2025 წლის ოქტომბერში. გაყიდვა მოჰყვება OpenAI-ს კონფიდენციალურ IPO-ს წარდგენას 2026 წლის ივნისში და სემ ალტმანმა უთხრა თანამშრომლებს, რომ მოელის, რომ კომპანია გამოვა საჯარო მომდევნო წლის განმავლობაში. (Altman, It, June, March, November, October, Sam)"
+      },
       {
         "uid": "news|Sun, 09 Aug 2026 17:13:13 GMT|Claude Code auto mode default",
         "feed": "news",
@@ -381,6 +415,57 @@
     ],
     "twitter": [
       {
+        "uid": "twitter|Mon, 10 Aug 2026 22:31:00 GMT|NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+        "description_en": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class. Today, we announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing vehicles for AI infrastructure. · 4600 likes · 873 RTs · 357 replies · 530000 views · Today, we're excited to open-source TwiL-LM3, the first formal reasoning model from the webAI Intelligence Lab. At just 3 billion parameters, TwiL-LM3 outperforms OpenAI's GPT-OSS-120B on 4 of 5 formal reasoning benchmarks while running efficiently on consumer hardware. · 208 likes · 69 RTs · 25 replies · 49000 views · Microsoft reportedly plans to unveil Maia 300, its custom AI silicon. Also it wants TSMC capacity for 300,000 Maia 300 chips for future delivery. Microsoft says the chip delivers over 30% more tokens per dollar than the latest silicon in its fleet. · 100 likes · 0 RTs · 23 replies · 4000 views",
+        "excerpt_en": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class. Today, we announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing vehicles for AI infrastructure.",
+        "link": "https://x.com/JensenHuang/status/2086934705207959965",
+        "pub_date": "Mon, 10 Aug 2026 22:31:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+        "excerpt_ka": "NVIDIA AI Factory Compute ხდება ინვესტირებადი აქტივების კლასი. დღეს ჩვენ გამოვაცხადეთ პარტნიორობა Apollo-სთან, BlackRock-თან, Blackstone-თან, Brookfield-თან, Goldman Sachs-თან და KKR-თან, რათა შეიქმნას დამოუკიდებელი საფინანსო საშუალებები ხელოვნური ინტელექტის ინფრასტრუქტურისთვის. (Asset, Becoming, Class, Investable, Today)",
+        "description_ka": "NVIDIA AI Factory Compute ხდება ინვესტირებადი აქტივების კლასი. დღეს ჩვენ გამოვაცხადეთ პარტნიორობა Apollo-სთან, BlackRock-თან, Blackstone-თან, Brookfield-თან, Goldman Sachs-თან და KKR-თან, რათა შეიქმნას დამოუკიდებელი საფინანსო საშუალებები ხელოვნური ინტელექტის ინფრასტრუქტურისთვის. · 4600 მოწონება · 873 RTs · 357 პასუხი · 530000 ნახვა · დღეს ჩვენ აღფრთოვანებული ვართ ღია კოდით TwiL-LM3, პირველი ოფიციალური მსჯელობის მოდელი webAI Intelligence Lab-დან. სულ რაღაც 3 მილიარდი პარამეტრით, TwiL-LM3 აჯობებს OpenAI-ს GPT-OSS-120B-ს 5-დან 4 ფორმალური მსჯელობის კრიტერიუმზე, მაშინ როცა ეფექტურად მუშაობს სამომხმარებლო აპარატურაზე. · 208 მოწონება · 69 RTs · 25 პასუხი · 49000 ნახვა · Microsoft, გავრცელებული ინფორმაციით, გეგმავს გამოაქვეყნოს Maia 300, მისი მორგებული AI სილიკონი. ასევე მას სურს TSMC სიმძლავრე 300,000 Maia 300 ჩიპისთვის მომავალი მიწოდებისთვის. მაიკროსოფტი ამბობს, რომ ჩიპი აწვდის 30%-ზე მეტ ტოკენს დოლარზე, ვიდრე უახლესი სილიკონი მის ფლოტში. · 100 მოწონება · 0 RT · 23 პასუხი · 4000 ნახვა (Also, Asset, At, Becoming, Class, Investable, Today)"
+      },
+      {
+        "uid": "twitter|Mon, 10 Aug 2026 17:31:00 GMT|AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+        "description_en": "We're expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we're putting frontier intelligence in the hands of trusted defenders before attackers can deploy it. · 5600 likes · 698 RTs · 329 replies · 1000000 views · We recently learned of the loss of human control and the creation of potentially dangerous viruses from AI. AI leaders pledged to pause development if they could no longer safely control it. Mr. Altman, Mr. Amodei, Mr. Zuckerberg: Keep your word. PAUSE AI DEVELOPMENT. · 2800 likes · 761 RTs · 401 replies · 191000 views · The Common Thread in the 'Rogue AI' Breakouts: One Middle East Startup at the Center of OpenAI, Anthropic, and Meta's Security Incidents. Over a two-week stretch in late July and early August 2026, three of the world's leading AI labs had security incidents. · 378 likes · 155 RTs · 69 replies · 57000 views",
+        "excerpt_en": "We're expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work.…",
+        "link": "https://x.com/OpenAI/status/2086864365379010729",
+        "pub_date": "Mon, 10 Aug 2026 17:31:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+        "excerpt_ka": "ჩვენ ვაფართოვებთ ჩვენს კიბერუსაფრთხოების ინიციატივას Daybreak და წარმოგიდგენთ GPT-5.6-Cyber, ახალ მოდელს მოწინავე, ავტორიზებული კიბერუსაფრთხოების მუშაობისთვის.… (We)",
+        "description_ka": "ჩვენ ვაფართოვებთ ჩვენს კიბერუსაფრთხოების ინიციატივას Daybreak და ვნერგავთ GPT-5.6-Cyber-ს, ახალ მოდელს მოწინავე, ავტორიზებული კიბერუსაფრთხოების მუშაობისთვის. საფრთხის ლანდშაფტის განვითარებასთან ერთად, ჩვენ ვაძლევთ სასაზღვრო დაზვერვას სანდო დამცველებს, სანამ თავდამსხმელები მის განლაგებას შეძლებენ. · 5600 მოწონება · 698 RTs · 329 პასუხი · 1000000 ნახვა · ახლახან გავიგეთ ადამიანის კონტროლის დაკარგვისა და AI–სგან პოტენციურად საშიში ვირუსების შექმნის შესახებ. ხელოვნური ინტელექტის ლიდერებმა პირობა დადეს, რომ შეაჩერებენ განვითარებას, თუ მათ უსაფრთხოდ ვეღარ აკონტროლებენ. მისტერ ალტმანი, მისტერ ამოდეი, მისტერ ცუკერბერგი: დაიცავით თქვენი სიტყვა. AI განვითარების პაუზა. · 2800 მოწონება · 761 RT · 401 პასუხი · 191000 ნახვა · საერთო თემა 'Rogue AI' Breakouts-ში: ერთი ახლო აღმოსავლეთის სტარტაპი OpenAI, Anthropic და Meta's უსაფრთხოების ინციდენტების ცენტრში. ორკვირიანი მონაკვეთის მანძილზე, 2026 წლის ივლისის ბოლოს და აგვისტოს დასაწყისში, მსოფლიოს სამ წამყვან AI ლაბორატორიას ჰქონდა უსაფრთხოების ინციდენტები. · 378 მოწონება · 155 RT · 69 პასუხი · 57000 ნახვა (Altman, Amodei, August, Center, Common, DEVELOPMENT, East, Incidents, July, Keep, Middle, Mr, One, Over, PAUSE, Security, Startup, Thread, We, Zuckerberg)"
+      },
+      {
+        "uid": "twitter|Mon, 10 Aug 2026 13:31:00 GMT|Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+        "description_en": "We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across Claude, Gemini CLI, and OpenAI Codex. 1,300+ Spotify engineers already use it. Now it's available for you to try. · 6700 likes · 1100 RTs · 391 replies · 2000000 views · Spotify (?!) just dropped a vibe coding platform called Xirp. Apparently 99% of Spotify's devs use it daily. Stockholm popping off like crazy. · 734 likes · 17 RTs · 43 replies · 106000 views · This is part of what I was trying to do with my Hermes Agent. Xirp is probably too developer focused for me (I can't code), but looks super cool. · 553 likes · 0 RTs · 0 replies · 5000 views",
+        "excerpt_en": "We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across Claude, Gemini CLI, and OpenAI Codex. 1,300+ Spotify engineers already use it.",
+        "link": "https://x.com/SpotifyEng/status/2086795659651191106",
+        "pub_date": "Mon, 10 Aug 2026 13:31:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+        "excerpt_ka": "ჩვენ ახლახან გავუშვით Xirp, მომწოდებლის მიმართ ნეიტრალური აგენტური განვითარების გარემო. ერთი ადგილი აგენტის სესიების მართვისთვის კლოდში, Gemini CLI-სა და OpenAI Codex-ში. Spotify-ის 1300+ ინჟინერი უკვე იყენებს მას. (Claude, One, We)",
+        "description_ka": "ჩვენ ახლახან გავუშვით Xirp, მომწოდებლის მიმართ ნეიტრალური აგენტური განვითარების გარემო. ერთი ადგილი აგენტის სესიების მართვისთვის კლოდში, Gemini CLI-სა და OpenAI Codex-ში. Spotify-ის 1300+ ინჟინერი უკვე იყენებს მას. ახლა ის ხელმისაწვდომია, რომ სცადოთ. · 6700 მოწონება · 1100 RTs · 391 პასუხი · 2000000 ნახვა · Spotify (?!) ახლახან გამოუშვა vibe კოდირების პლატფორმა სახელწოდებით Xirp. როგორც ჩანს, Spotify-ის დეველოპერების 99% მას ყოველდღიურად იყენებს. სტოკჰოლმი გიჟივით იშლება. · 734 მოწონება · 17 RT · 43 პასუხი · 106000 ნახვა · ეს არის ნაწილი იმისა, რის გაკეთებასაც ვცდილობდი ჩემი Hermes Agent-ით. Xirp ალბათ ზედმეტად დეველოპერზეა ორიენტირებული ჩემთვის (მე არ შემიძლია კოდირება), მაგრამ ძალიან მაგარი ჩანს. · 553 მოწონება · 0 RT · 0 პასუხი · 5000 ნახვა (Apparently, Claude, Now, One, Stockholm, This, We)"
+      },
+      {
         "uid": "twitter|Mon, 10 Aug 2026 00:04:00 GMT|AI Data Center Backlash: Texas Pollution Fears, Community Lawsuits, and a Component Supply Squeeze",
         "feed": "twitter",
         "source_label": "ტვიტერი",
@@ -565,7 +650,7 @@
         ],
         "title_ka": "AI Designs Novel Viruses at Arc Institute, Sparking Biosecurity Concerns",
         "excerpt_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ „გადაუდებელ“ ბიოსაკუპ... (Scientists)",
-        "description_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ ბიოუსაფრთხოების „გადაუდებელ“ შეშფოთებას მას შემდეგ, რაც AI წარმატებით შეიმუშავებს 16 ახალ ვირუსს, რომლებსაც შეუძლიათ უჯრედებში გამრავლება. · 4299 მოწონება · 1098 RTs · 401 პასუხი · 428736 ნახვა · ახალი ამბები: მეცნიერებმა გამოიყენეს A. I. პირველად შეიქმნას ახალი ვირუსები, რაც აძლიერებს სამედიცინო მიღწევების იმედებს და ასევე აძლიერებს შესაძლებლობას, რომ ეს ტექნოლოგია ოდესმე გამოიყენებოდეს საშიში პათოგენების გამოსაგონებლად. · 1054 მოწონება · 687 RT · 206 პასუხი · 330532 ნახვა (A. I, Breaking, News, Scientists) (A. I) (A. I) (A.I)"
+        "description_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ ბიოუსაფრთხოების „გადაუდებელ“ შეშფოთებას მას შემდეგ, რაც AI წარმატებით შეიმუშავებს 16 ახალ ვირუსს, რომლებსაც შეუძლიათ უჯრედებში გამრავლება. · 4299 მოწონება · 1098 RTs · 401 პასუხი · 428736 ნახვა · ახალი ამბები: მეცნიერებმა გამოიყენეს A. I. პირველად შეიქმნას ახალი ვირუსები, რაც აძლიერებს სამედიცინო მიღწევების იმედებს და ასევე აძლიერებს შესაძლებლობას, რომ ეს ტექნოლოგია ოდესმე გამოიყენებოდეს საშიში პათოგენების გამოსაგონებლად. · 1054 მოწონება · 687 RT · 206 პასუხი · 330532 ნახვა (A. I, Breaking, News, Scientists) (A. I) (A. I) (A. I) (A.I)"
       },
       {
         "uid": "twitter|Thu, 06 Aug 2026 16:26:43 GMT|Beyond Prompt Engineering: AI Agent Autonomy and the Rise of Context/Graph Engineering",
@@ -655,6 +740,57 @@
     ],
     "github": [],
     "reddit": [
+      {
+        "uid": "reddit|Mon, 10 Aug 2026 21:19:11 GMT|Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+        "description_en": "r/singularity · 151 upvotes · 31 comments · Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS. After seeing the recent advancements made by AI in mathematics, especially in graph theory, I bought a ChatGPT Pro subscription to see if AI could solve some graph theory problems I found interesting. After a few days of testing, GPT-5.6 Sol Max was able to solve two open problems in graph theory: [Imbalance conjecture](https://en.wikipedia.org/wiki/Imbalance_conjecture) (open for 12+ years) [Teschner's bondage-number conjecture](https://en.wikipedia.org/wiki/Bondage_number#:~:text=%5B3%5D-,Conjectures,edit,-Unsolved%20problem%20in) (open for 30+ years) I verified both results independently and asked a friend of mine who specializes in graph theory to check them as well. I submitted both to arXiv, but they removed one after placing a one-submission-per-calendar-month restriction on my new account. I didn't want to wait another month before making this announcement, so I submitted both to another platform. The results are linked below. [A Proof of the Imbalance Conjecture](https://doi.org/10.6084/m9.figshare.33198750) [A Counterexample to Teschner's Bondage-Number Conjecture](https://doi.org/10.6084/m9.figshare.33198777) These are preprints and have not yet undergone peer review. Also, here are the full chats: [Imbalance Conjecture](https://chatgpt.com/share/6a6e5b95-1418-83ea-8228-e62ca34e24e4) [Teschner's Bondage-Number Conjecture](https://chatgpt.com/share/6a7a08fe-9fd8-83e8-b3b4-392282dc501a)",
+        "excerpt_en": "r/singularity · 151 upvotes · 31 comments · Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS.…",
+        "link": "https://reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+        "pub_date": "Mon, 10 Aug 2026 21:19:11 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "დისბალანსის ვარაუდი დადასტურებული და ტეშნერის მონობის რიცხვის ვარაუდი უარყოფილია AI-ს მიერ (Conjecture, Imbalance, Teschner)",
+        "excerpt_ka": "r/singularity · 151 დადებითი ხმა · 31 კომენტარი · გამარჯობა ყველას, მე ვარ ბაკალავრიატის მე-4 კურსის სტუდენტი, ვსწავლობ და ვაკეთებ კვლევებს თეორიულ CS-ში.… (Hi)",
+        "description_ka": "r/singularity · 151 დადებითი ხმა · 31 კომენტარი · გამარჯობა ყველას, მე ვარ ბაკალავრიატის მე-4 კურსის სტუდენტი, ვსწავლობ და ვაკეთებ კვლევებს თეორიულ CS-ში. მათემატიკაში ხელოვნური ინტელექტის მიერ მიღწეული ბოლო წინსვლის ნახვის შემდეგ, განსაკუთრებით გრაფიკების თეორიაში, შევიძინე ChatGPT Pro გამოწერა, რათა მენახა, შეეძლო თუ არა ხელოვნური ინტელექტის გადაჭრა გრაფიკების თეორიის ზოგიერთი პრობლემის გადაჭრა, რომელიც მე საინტერესოდ მივიჩნიე. რამდენიმე დღის ტესტირების შემდეგ, GPT-5.6 Sol Max-მა შეძლო გრაფიკების თეორიის ორი ღია ამოცანის ამოხსნა: [დისბალანსის ვარაუდი](https://en. wikipedia. org/wiki/Imbalance_conjecture) (ღია 12+ წელზე) [Tesschner's bondage-number ვარაუდი](https://en. wikipedia. org/wiki/Bondage_number#:~:text=%5B3%5D-,ვარაუდები,რედაქტირება,-Unsolved%20problem%20in) (ღია 30+ წელი) ორივე შედეგი დამოუკიდებლად გადავამოწმე და ვთხოვე ჩემს მეგობარს, რომელიც სპეციალიზირებულია მათზე. ორივე გავაგზავნე arXiv-ში, მაგრამ მათ ერთი წაშალეს მას შემდეგ, რაც ჩემს ახალ ანგარიშზე დააწესეს ერთი გაგზავნა-თითო კალენდარული შეზღუდვა. არ მინდოდა ამ განცხადების გაკეთებამდე კიდევ ერთი თვით ლოდინი, ამიტომ ორივე სხვა პლატფორმაზე წარვადგინე. შედეგები მოცემულია ქვემოთ. [დისბალანსის ვარაუდის მტკიცებულება](https://doi. org/10.6084/m9. figshare.33198750) [ტეშნერის მონობის-რიცხვის ვარაუდის საპირისპირო მაგალითი](https://doi. org/10.6084/m9. figshare. (AI, After, Also, Conjecture, Conjectures, Counterexample, Hi, Number, Proof, Teschner, These)"
+      },
+      {
+        "uid": "reddit|Mon, 10 Aug 2026 21:04:43 GMT|Forget DeepSeek. China's real ‘Sputnik moment’ is happening on campus as American universities lose their advantage",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "Forget DeepSeek. China's real ‘Sputnik moment’ is happening on campus as American universities lose their advantage",
+        "description_en": "r/ArtificialInteligence · 142 upvotes · 51 comments · When DeepSeek unveiled an AI model last year that rivaled America’s best at a fraction of the cost, or when a Chinese hypersonic missile test caught U.S. intelligence off guard to the point where a top U.S. general called it “very close” to a “Sputnik moment”, the reaction each time was the same: that a handful of Chinese firms had suddenly pulled ahead. But a sweeping new National Bureau of Economic Research study of nearly 14 million Chinese patents suggests that framing misses the real story—and it’s a more unsettling one for the United States. Harvard Business School’s Josh Lerner and his co-authors dug into who is actually filing the patents behind the 14 technology areas the Pentagon deems critical—advanced computing, space technology, AI, hypersonics and biotech. The answer: Chinese universities account for more than a quarter of the country’s inventions in those fields, 8x the U.S. rate at 3.3%, with state-owned enterprises and the government accounting for just 4%. Fewer than one in 10 Chinese critical technology patents involve an inventor with U.S. work experience, undercutting the assumption that Beijing relies on returning U.S. talent for innovation. Lerner told *Fortune* his team was “programmed” to expect a few large corporations like Huawei and Tencent to lead the charge on Chinese innovation through patents similarly to IBM and Samsung in the U.S. Instead, they found Chinese innovation in critical technologies “much more diverse—spread out across the parties,” with universities “more represented” there than anywhere else in the country’s patent system. That’s a reversal of the U.S. pattern, where academic patenting is “more of a sideshow.” Read more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/08/10/china-us-ai-critical-technology/?utm\\_source=reddit/](https://fortune.com/2026/08/10/china-us-ai-critical-technology/?utm_source=reddit/)",
+        "excerpt_en": "r/ArtificialInteligence · 142 upvotes · 51 comments · When DeepSeek unveiled an AI model last year that rivaled America’s best at a fraction of the cost, or when a Chinese hypersonic missile test caught U.S.",
+        "link": "https://reddit.com/r/ArtificialInteligence/comments/1vkxc0m/forget_deepseek_chinas_real_sputnik_moment_is/",
+        "pub_date": "Mon, 10 Aug 2026 21:04:43 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "დაივიწყეთ DeepSeek. ჩინეთის ნამდვილი „Sputnik მომენტი“ ხდება კამპუსში, რადგან ამერიკული უნივერსიტეტები კარგავენ უპირატესობას (American, China, Forget)",
+        "excerpt_ka": "r/ArtificialInteligence · 142 დადებითი ხმა · 51 კომენტარი · როდესაც DeepSeek-მა გასულ წელს წარადგინა ხელოვნური ინტელექტის მოდელი, რომელიც კონკურენციას უწევდა ამერიკის საუკეთესოებს მცირე ღირებულებით, ან როდესაც ჩინეთის ჰიპერბგერითი რაკეტის გამოცდამ დაიჭირა აშშ. (AI, America, Chinese, U. S, When) (U.S)",
+        "description_ka": "r/ArtificialInteligence · 142 ხმა · 51 კომენტარი · როდესაც DeepSeek-მა შარშან წარმოადგინა ხელოვნური ინტელექტის მოდელი, რომელიც კონკურენციას უწევდა ამერიკის საუკეთესოებს მცირე ღირებულებით, ან როდესაც ჩინურმა ჰიპერბგერითი რაკეტის გამოცდამ აშშ-ის დაზვერვა ისე დაიჭირა, რომ ამერიკელმა გენერალურმა გენერალმა მას უწოდა „იმ დროის ძალიან ახლოს“ ჩინურმა ფირმებმა მოულოდნელად წინ წაიწიეს. მაგრამ ეკონომიკური კვლევების ეროვნული ბიუროს ყოვლისმომცველი ახალი კვლევა, რომელიც მოიცავს თითქმის 14 მილიონ ჩინურ პატენტს, ვარაუდობს, რომ კადრირება აცდენს რეალურ ისტორიას - და ეს უფრო შემაშფოთებელია შეერთებული შტატებისთვის. ჰარვარდის ბიზნეს სკოლის ჯოშ ლერნერმა და მისმა თანაავტორებმა გათხარეს, თუ ვინ ახორციელებს პატენტს 14 ტექნოლოგიური სფეროს მიღმა, რომელსაც პენტაგონი კრიტიკულად მიიჩნევს - მოწინავე გამოთვლები, კოსმოსური ტექნოლოგია, ხელოვნური ინტელექტი, ჰიპერსონიკა და ბიოტექნოლოგია. პასუხი: ჩინეთის უნივერსიტეტები ამ სფეროებში ქვეყნის გამოგონების მეოთხედზე მეტს იკავებენ, რაც 8-ჯერ აღემატება აშშ-ს 3,3%-ს, სახელმწიფო საწარმოებსა და მთავრობას მხოლოდ 4%-ს შეადგენს. ჩინეთის კრიტიკული ტექნოლოგიების 10-დან ერთზე ნაკლებ პატენტს მოიცავს აშშ-ს სამუშაო გამოცდილების მქონე გამომგონებელი, რაც არღვევს ვარაუდს, რომ პეკინი ეყრდნობა აშშ-ის ნიჭის დაბრუნებას ინოვაციებისთვის. ლერნერმა განუცხადა *Fortune*-ს, რომ მისი გუნდი „დაპროგრამებული იყო“, რომ რამდენიმეს ელოდა (AI, America, Beijing, Bureau, Business, But, Chinese, Economic, Fewer, Harvard, Huawei, IBM, Instead, Josh, Lerner, National, Pentagon, Read, Redditors, Research, Samsung, School, Sputnik, States, Tencent, That, U. S, United, When) (U.S)"
+      },
+      {
+        "uid": "reddit|Mon, 10 Aug 2026 19:39:29 GMT|\"Absolutely insane. This might be the clearest glimpse yet of how AI will transform scientific discovery. Anthropic asked an unreleased version of Claude to take a real stab at the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. It failed. But while failing, Claude...\"",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "\"Absolutely insane. This might be the clearest glimpse yet of how AI will transform scientific discovery. Anthropic asked an unreleased version of Claude to take a real stab at the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. It failed. But while failing, Claude...\"",
+        "description_en": "r/accelerate · 190 upvotes · 23 comments · > ...unexpectedly improved a longstanding lower bound for the proportion of zeros of the Riemann zeta function known to satisfy the hypothesis, from 41.6% to 67.2%. Claude coordinated 60 subagents, tested hundreds of ideas, searched the literature, challenged its own proof, and formalized the result in Lean. This is what the beginning of autonomous AI-driven scientific discovery looks like. Unironically, the Rienann hypothesis will probably be solved in the very near future. I am speechless. > > > I am surprised that people arent as buffled as I am. This is so huge > > > Im surprises that so few people know about the Riemann hypothesis. Not being judgy, just surprised > > > — Chubby Source: https://x.com/kimmonismus/status/2086881395465466004 --- > We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. > > It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from > > — Anthropic Source: https://x.com/AnthropicAI/status/2086867246073401655",
+        "excerpt_en": "r/accelerate · 190 upvotes · 23 comments · > ...unexpectedly improved a longstanding lower bound for the proportion of zeros of the Riemann zeta function known to satisfy the hypothesis, from 41.6% to 67.2%.",
+        "link": "https://reddit.com/r/accelerate/comments/1vkv0l9/absolutely_insane_this_might_be_the_clearest/",
+        "pub_date": "Mon, 10 Aug 2026 19:39:29 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "\"აბსოლუტურად გიჟური. ეს შეიძლება იყოს ყველაზე ნათელი ხედვა იმისა, თუ როგორ გარდაქმნის ხელოვნური ინტელექტი მეცნიერულ აღმოჩენას. Anthropic-მა კლოდის გამოუქვეყნებელ ვერსიას სთხოვა, რომ ნამდვილი დარტყმა მიეღო. (AI, Absolutely, But, Claude, Hypothesis, It, Riemann, This)",
+        "excerpt_ka": "r/accelerate · 190 დადებითი ხმა · 23 კომენტარი · >... მოულოდნელად გააუმჯობესა რიმანის ზეტა ფუნქციის ნულების პროპორციის დიდი ხნის ქვედა ზღვარი, რომელიც ცნობილია ჰიპოთეზის დასაკმაყოფილებლად, 41.6%-დან 67.2%-მდე. (Riemann)",
+        "description_ka": "r/accelerate · 190 დადებითი ხმა · 23 კომენტარი · >... მოულოდნელად გააუმჯობესა რიმანის ზეტა ფუნქციის ნულების პროპორციის დიდი ხნის ქვედა ზღვარი, რომელიც ცნობილია ჰიპოთეზის დასაკმაყოფილებლად, 41.6%-დან 67.2%-მდე. კლოდმა კოორდინაცია გაუწია 60 ქვეაგენტს, გამოსცადა ასობით იდეა, მოძებნა ლიტერატურა, დაუპირისპირდა საკუთარ მტკიცებულებებს და ფორმალური შედეგი Lean-ში. ასე გამოიყურება ავტონომიური AI-ზე ორიენტირებული სამეცნიერო აღმოჩენის დასაწყისი. ირონიულია, რომ რიენანის ჰიპოთეზა ალბათ უახლოეს მომავალში გადაწყდება. უსიტყვოდ ვარ. > > > მიკვირს, რომ ხალხი არ არის ისეთივე შეშლილი, როგორც მე. ეს იმდენად დიდია>>> გასაკვირი ვარ, რომ ცოტამ თუ იცის რიმანის ჰიპოთეზის შესახებ. არ ვარ განსჯი, უბრალოდ გამიკვირდა > > > — ჩუბი წყარო: https://x. com/kimmonismus/status/2086881395465466004 --- > ჩვენ ვთხოვეთ კლოდის გამოუქვეყნებელ კვლევით ვერსიას რიმანის ჰიპოთეზაზე დარტყმა. > > მან ვერ გადაჭრა, მაგრამ გადადგა ნაბიჯები დაკავშირებულ პრობლემაზე: მან გაზარდა რიმანის ზეტა ფუნქციის ნულების წილადის ქვედა ზღვარი, რომელიც აკმაყოფილებს ჰიპოთეზას > > — ანთროპული წყარო: https://x. com/AnthropicAI/status/2086867246073401655 (Chubby, Claude, Im, It, Not, Riemann, Rienann, Source, This, Unironically, We)"
+      },
       {
         "uid": "reddit|Sun, 09 Aug 2026 13:48:32 GMT|Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
         "feed": "reddit",
@@ -858,26 +994,43 @@
         "title_ka": "მე არ ვფიქრობ, რომ RAG არის ნაგულისხმევი პასუხი საწარმოსთვის",
         "excerpt_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას.…",
         "description_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას. იანვარში პერსპექტივამ გახსნა ზარი „ჩვენ გვაქვს ბიუჯეტი დამტკიცებული RAG სისტემისთვის“ მე ვკითხე რა კითხვებზე სჭირდებოდა პასუხის გაცემა სისტემას და შემდეგ ვიღაცამ გაიმეორა წინადადება ბიუჯეტის შესახებ. ვერავინ აღწერს პრობლემას, თუმცა ყველას შეეძლო არქიტექტურის აღწერა. ამ შეხვედრის ზოგიერთ ვერსიას, შესაძლოა, უკვე 6-ჯერ გავეცანი. Tbh ჩვენ გამოვიგზავნეთ ათზე მეტი მათგანი და ზოგიერთი იშოვება მათი შენახვა. მხარდაჭერის ჯგუფი, რომელიც პასუხობს პროდუქტის დოკუმენტების სტაბილური, მოწესრიგებული ნაკრებიდან, მისი სრულყოფილად გამოყენებაა. RAG არ არის მკვდარი და ვინც გეუბნებათ, რომ ის არის, უფრო ახალი აქვს თქვენთვის გასაყიდად. მე უბრალოდ არ ვფიქრობ, რომ ეს უკვე ავტომატური მოძრაობა უნდა იყოს, რასაც საწარმო აწვდის, როდესაც AI და დოკუმენტები გამოჩნდება იმავე წინადადებაში. აღმოჩნდა, რომ ჩვენი იმედგაცრუებული პროექტების უმეტესობა საერთოდ არ იყო მოპოვების პრობლემა. ერთ კლიენტს სურდა 40000 დოკუმენტის ჩასმა. სანამ ვექტორულ მონაცემთა ბაზას შევეხებოდით, ჩვენ ჩამოვთვალეთ 20 კითხვა, რომელიც რეალურად დაუსვეს თანამშრომლებს და ნახევარზე მეტი იყო სტრუქტურირებული ისეთი რამ, როგორიცაა თანხის დაბრუნების ჯამი და თანამშრომლების რაოდენობა, რომლებიც ეკუთვნოდა მონაცემთა ბაზის მოთხოვნას. 50-მდე დოკუმენტი მოიცავდა დანარჩენს. დანარჩენი 39,0 (About, Before, Better, January, Most, No, One, Our, Retrieval, That, What)"
-      },
-      {
-        "uid": "reddit|Mon, 03 Aug 2026 22:48:48 GMT|Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
-        "feed": "reddit",
-        "source_label": "რედიტი",
-        "title_en": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
-        "description_en": "r/singularity · 774 upvotes · 877 comments · my take: it's true that the ratio of code written to code reviewed has shifted as engineers started to spend more time reviewing code than writing it. no surprise there. but we stopped writing assembly because compilers provide a \"deterministic\", reproducible translation. we can inspect the generated assembly when something goes wrong. ai generated binaries have neither property, i'd assume - if this is what he's talking about. so the mapping is stochastic, and the output isn't meaningfully inspectable, literal ai slop lol. so removing source code removes the only human readable layer, is this a feature or the future? maybe.. just maybe that's because source code isn't just compiler input but literally the medium for review, versioning, diffs, debugging, auditing, and so on. and those needs don't disappear because generation gets cheaper; if anything, they become more important when the generator is nondeterministic. tl;dr: if your english prompts become the durable artifact, then english effectively becomes your source code. and any precise specification defining real program behavior inevitably resembles a programming language. that’s precisely what programming languages are. on efficiency.. isn't the argument is also backwards? modern compilers like llvm perform decades of optimized transformations. a model emitting machine code directly would almost certainly be slower, less correct, and lose target portability (arm, x86, wasm, risc-v and so on). but who cares right? just one more datacenter bro. trust me. anyway we've seen similar predictions before with case tools, uml, no-code, 4gls.. the intermediate artifact never disappeared because that's where the meaning actually lives.",
-        "excerpt_en": "r/singularity · 774 upvotes · 877 comments · my take: it's true that the ratio of code written to code reviewed has shifted as engineers started to spend more time reviewing code than writing it.",
-        "link": "https://reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
-        "pub_date": "Mon, 03 Aug 2026 22:48:48 GMT",
-        "categories": [
-          "reddit",
-          "news/reddit"
-        ],
-        "title_ka": "ელონ მასკი: „შემდეგი ნაბიჯი არის „წყარო კოდის“ მთლიანად მოშორება და მხოლოდ AI-ით ეფექტური ბინარის შექმნა. (Elon, Musk)",
-        "excerpt_ka": "r/singularity · 774 დადებითი ხმა · 877 კომენტარი · ჩემი მოსაზრება: მართალია, დაწერილი კოდის თანაფარდობა განხილულ კოდთან შეიცვალა, რადგან ინჟინრებმა დაიწყეს მეტი დროის დახარჯვა კოდის განხილვაზე, ვიდრე მის დაწერაზე.",
-        "description_ka": "r/singularity · 774 დადებითი ხმა · 877 კომენტარი · ჩემი მოსაზრება: მართალია, დაწერილი კოდის თანაფარდობა განხილულ კოდთან შეიცვალა, რადგან ინჟინრებმა დაიწყეს მეტი დროის დახარჯვა კოდის განხილვაზე, ვიდრე მის დაწერაზე. გასაკვირი არ არის. მაგრამ ჩვენ შევწყვიტეთ ასამბლეის წერა, რადგან შემდგენელები უზრუნველყოფენ „დეტერმინისტულ“, რეპროდუცირებად თარგმანს. ჩვენ შეგვიძლია შევამოწმოთ გენერირებული ასამბლეა, როდესაც რამე არასწორედ მიდის. ai გენერირებული ბინარებს არც ერთი თვისება აქვთ, მე ვივარაუდებ - თუ ამაზეა საუბარი. ასე რომ, რუქა არის სტოქასტური, და გამომავალი არ არის არსებითად შესამოწმებელი, სიტყვასიტყვით ai slop lol. ასე რომ, წყაროს კოდის ამოღება შლის ერთადერთ ადამიანის წასაკითხად ფენას, ეს ფუნქციაა თუ მომავალი? შესაძლოა.. უბრალოდ შეიძლება იმიტომ, რომ წყაროს კოდი არ არის მხოლოდ შემდგენელის შეყვანა, არამედ ფაქტიურად საშუალებაა განხილვის, ვერსიების, განსხვავებების, გამართვის, აუდიტის და ა. შ. და ეს საჭიროებები არ ქრება, რადგან თაობა იაფდება; თუ რამეა, ისინი უფრო მნიშვნელოვანი ხდებიან, როდესაც გენერატორი არადეტერმინისტულია. tl;dr: თუ თქვენი ინგლისური მოთხოვნები გახდება გამძლე არტეფაქტი, მაშინ ინგლისური ეფექტურად გახდება თქვენი წყაროს კოდი. და ნებისმიერი ზუსტი სპეციფიკაცია, რომელიც განსაზღვრავს პროგრამის რეალურ ქცევას, აუცილებლად წააგავს პროგრამირების ენას. ეს არის ზუსტად ის, რაც პროგრამირების ენებია. ეფექტურობაზე.. არგუმენტიც უკუღმაა? რეჟიმი"
       }
     ],
     "youtube": [
+      {
+        "uid": "youtube|Tue, 11 Aug 2026 00:00:32 GMT|3D Gaussian Splatting for Autonomous Vehicle Simulation",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "3D Gaussian Splatting for Autonomous Vehicle Simulation",
+        "description_en": "This video demonstrates how NVIDIA Omniverse NuRec tools use 3D Gaussian Splatting to reconstruct real-world sensor data into photorealistic, simulation-ready scenes for autonomous vehicle development. It covers closed-loop simulation, scenario augmentation, and efficient rendering using a single GPU, showcasing a practical application of advanced AI-driven simulation. The technical depth and focus on reducing domain gaps in AV testing make it highly valuable for professionals working in AI simulation, autonomous systems, and 3D scene reconstruction.",
+        "excerpt_en": "This video demonstrates how NVIDIA Omniverse NuRec tools use 3D Gaussian Splatting to reconstruct real-world sensor data into photorealistic, simulation-ready scenes for autonomous vehicle development.",
+        "link": "https://www.youtube.com/watch?v=IV4zYkYsu7I",
+        "pub_date": "Tue, 11 Aug 2026 00:00:32 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "3D Gaussian Splatting for Autonomous Vehicle Simulation",
+        "excerpt_ka": "ეს ვიდეო გვიჩვენებს, თუ როგორ იყენებს NVIDIA Omniverse NuRec ინსტრუმენტები 3D Gaussian Splatting-ს, რათა აღადგინოს რეალური სენსორის მონაცემები ფოტორეალისტურ, სიმულაციისთვის მზა სცენებად ავტონომიური ავტომობილის განვითარებისთვის. (This)",
+        "description_ka": "ეს ვიდეო გვიჩვენებს, თუ როგორ იყენებს NVIDIA Omniverse NuRec ინსტრუმენტები 3D Gaussian Splatting-ს, რათა აღადგინოს რეალური სენსორის მონაცემები ფოტორეალისტურ, სიმულაციისთვის მზა სცენებად ავტონომიური ავტომობილის განვითარებისთვის. ის მოიცავს დახურული მარყუჟის სიმულაციას, სცენარის გაზრდას და ეფექტურ რენდერირებას ერთი GPU-ს გამოყენებით, რაც ასახავს გაფართოებული AI-ზე ორიენტირებული სიმულაციის პრაქტიკულ გამოყენებას. ტექნიკური სიღრმე და ფოკუსირება დომენის ხარვეზების შემცირებაზე AV ტესტირებაში მას მეტად ღირებულს ხდის პროფესიონალებისთვის, რომლებიც მუშაობენ AI სიმულაციაში, ავტონომიურ სისტემებში და 3D სცენის რეკონსტრუქციაში. (It, This)"
+      },
+      {
+        "uid": "youtube|Tue, 11 Aug 2026 00:00:32 GMT|Let an AI Optimize Your AI Harness",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "Let an AI Optimize Your AI Harness",
+        "description_en": "This video explores the emerging concept of AI agents optimizing their own harness structures, referencing the HarnessOpt-Bench framework developed at Scale AI. It discusses how models like GPT-5.6 Sol and KIMI K3 can evaluate and improve agent configurations, signaling a shift toward self-evolving AI systems. The focus on agent architecture optimization and evaluation benchmarks makes this a valuable resource for professionals in AI agent design and agentic workflows.",
+        "excerpt_en": "This video explores the emerging concept of AI agents optimizing their own harness structures, referencing the HarnessOpt-Bench framework developed at Scale AI.…",
+        "link": "https://www.youtube.com/watch?v=32AK4b0eW04",
+        "pub_date": "Tue, 11 Aug 2026 00:00:32 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "Let an AI Optimize Your AI Harness",
+        "excerpt_ka": "ეს ვიდეო იკვლევს AI აგენტების განვითარებულ კონცეფციას, რომლებიც ოპტიმიზაციას უკეთებენ საკუთარი აღკაზმულობის სტრუქტურებს, მითითებით Scale AI-ში შემუშავებულ HarnessOpt-Bench ჩარჩოზე.… (This)",
+        "description_ka": "ეს ვიდეო იკვლევს AI აგენტების განვითარებულ კონცეფციას, რომლებიც ახდენენ საკუთარი აღკაზმულობის სტრუქტურების ოპტიმიზაციას, Scale AI-ში შემუშავებულ HarnessOpt-Bench ჩარჩოზე მითითებით. ის განიხილავს, თუ როგორ შეუძლიათ მოდელებს, როგორიცაა GPT-5.6 Sol და KIMI K3, შეაფასონ და გააუმჯობესონ აგენტის კონფიგურაციები, რაც მიუთითებს თვითგანვითარებადი AI სისტემებისკენ გადასვლაზე. აგენტის არქიტექტურის ოპტიმიზაციასა და შეფასების ეტალონებზე ფოკუსირება ხდის ამ ღირებულ რესურსს ხელოვნური ინტელექტის აგენტის დიზაინისა და აგენტური სამუშაო პროცესების პროფესიონალებისთვის. (It, This)"
+      },
       {
         "uid": "youtube|Sun, 09 Aug 2026 17:20:01 GMT|LongCat 2.0: The Beginning of the End of NVIDIA MOAT?",
         "feed": "youtube",
@@ -1052,41 +1205,75 @@
     "product_hunt": [],
     "skill": [
       {
-        "uid": "skill|Sun, 09 Aug 2026 17:21:47 GMT|self-improving agent",
+        "uid": "skill|Tue, 11 Aug 2026 00:02:25 GMT|self-improving agent",
         "feed": "skill",
         "source_label": "Skills",
         "title_en": "self-improving agent",
-        "description_en": "0 installs · 3965 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3965 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "description_en": "0 installs · 3966 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3966 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
         "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Sun, 09 Aug 2026 17:21:47 GMT",
+        "pub_date": "Tue, 11 Aug 2026 00:02:25 GMT",
         "categories": [
           "skill",
           "news/clawhub"
         ],
         "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3965 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
-        "description_ka": "0 ინსტალაცია · 3965 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს მუდმივი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
+        "excerpt_ka": "0 ინსტალაცია · 3966 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
+        "description_ka": "0 ინსტალაცია · 3966 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
       },
       {
-        "uid": "skill|Sun, 09 Aug 2026 17:21:47 GMT|Skill Vetter",
+        "uid": "skill|Tue, 11 Aug 2026 00:02:25 GMT|Skill Vetter",
         "feed": "skill",
         "source_label": "Skills",
         "title_en": "Skill Vetter",
-        "description_en": "0 installs · 1283 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "excerpt_en": "0 installs · 1283 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "description_en": "0 installs · 1284 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1284 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
         "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Sun, 09 Aug 2026 17:21:47 GMT",
+        "pub_date": "Tue, 11 Aug 2026 00:02:25 GMT",
         "categories": [
           "skill",
           "news/clawhub"
         ],
         "title_ka": "Skill Vetter",
-        "excerpt_ka": "0 ინსტალაცია · 1283 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)",
-        "description_ka": "0 ინსტალაცია · 1283 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)"
+        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)",
+        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)"
       }
     ],
     "blog": [
+      {
+        "uid": "blog|Mon, 10 Aug 2026 22:31:01 GMT|Small Language Models Are Eating Your LLM Bill: A Fine-Tuning Cost Breakdown",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "Small Language Models Are Eating Your LLM Bill: A Fine-Tuning Cost Breakdown",
+        "description_en": "When a fine-tuned 7B model beats a frontier API — reportedly a 20x–100x cost difference on narrow, high-volume tasks. Continue reading on Towards AI »",
+        "excerpt_en": "When a fine-tuned 7B model beats a frontier API — reportedly a 20x–100x cost difference on narrow, high-volume tasks. Continue reading on Towards AI »",
+        "link": "https://pub.towardsai.net/small-language-models-are-eating-your-llm-bill-a-fine-tuning-cost-breakdown-974249dfe2e1?source=rss----98111c9905da---4",
+        "pub_date": "Mon, 10 Aug 2026 22:31:01 GMT",
+        "categories": [
+          "blog",
+          "blog/analysis"
+        ],
+        "title_ka": "Small Language Models Are Eating Your LLM Bill: A Fine-Tuning Cost Breakdown",
+        "excerpt_ka": "როდესაც კარგად მორგებული 7B მოდელი აჯობა სასაზღვრო API-ს - არსებული ინფორმაციით, 20x–100x ღირებულების განსხვავება ვიწრო, დიდი მოცულობის დავალებებზე. განაგრძეთ კითხვა AI-სკენ » (Continue, Towards, When)",
+        "description_ka": "როდესაც კარგად მორგებული 7B მოდელი აჯობა სასაზღვრო API-ს - არსებული ინფორმაციით, 20x–100x ღირებულების განსხვავება ვიწრო, დიდი მოცულობის დავალებებზე. განაგრძეთ კითხვა AI-სკენ » (Continue, Towards, When)"
+      },
+      {
+        "uid": "blog|Mon, 10 Aug 2026 22:01:29 GMT|Black Hat and DEF CON 34 Trip Report: What Vegas Actually Shipped in Agentic AI Security",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "Black Hat and DEF CON 34 Trip Report: What Vegas Actually Shipped in Agentic AI Security",
+        "description_en": "Twenty vendors said agentic. I checked every claim against primary sources. What is real, what was only a slide, and where the category still has a hole.",
+        "excerpt_en": "Twenty vendors said agentic. I checked every claim against primary sources. What is real, what was only a slide, and where the category still has a hole.",
+        "link": "https://kenhuangus.substack.com/p/black-hat-and-def-con-34-trip-report",
+        "pub_date": "Mon, 10 Aug 2026 22:01:29 GMT",
+        "categories": [
+          "blog",
+          "blog/analysis"
+        ],
+        "title_ka": "Black Hat and DEF CON 34 Trip Report: What Vegas Actually Shipped in Agentic AI Security",
+        "excerpt_ka": "ოცი გამყიდველი ამბობს აგენტი. მე გადავამოწმე ყველა პრეტენზია პირველადი წყაროების მიმართ. რა არის რეალური, რა იყო მხოლოდ სლაიდი და სადაც კატეგორიას ჯერ კიდევ აქვს ხვრელი. (Twenty, What)",
+        "description_ka": "ოცი გამყიდველი ამბობს აგენტი. მე გადავამოწმე ყველა პრეტენზია პირველადი წყაროების მიმართ. რა არის რეალური, რა იყო მხოლოდ სლაიდი და სადაც კატეგორიას ჯერ კიდევ აქვს ხვრელი. (Twenty, What)"
+      },
       {
         "uid": "blog|Sun, 09 Aug 2026 14:57:11 GMT|Lessons from the hacks",
         "feed": "blog",
@@ -1260,6 +1447,40 @@
     ],
     "paper": [
       {
+        "uid": "paper|Tue, 11 Aug 2026 00:05:11 GMT|Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+        "description_en": "Understanding the dynamic evolution of complex social phenomena requires both high-fidelity modeling of human behavior and large-scale simulations. Traditional agent-based models (ABMs) have been employed to study these dynamics, but are constrained by simplified agent behaviors. Recent advances in large language models (LLMs) enable agents to exhibit sophisticated social behaviors, yet face significant scaling challenges. We present Light Society, an agent-based simulation framework that advances both fronts. Light Society formalizes social processes as structured transitions of agent and environment states, governed by a set of LLM-powered simulation operations. Joint algorithmic and system optimizations, particularly a mixture-of-models engine that combines full LLMs with distilled surrogates, enable Light Society to efficiently simulate societies with over one billion agents. Grounded in real-world demographic profiles from the World Values Survey, simulations of Trust Games and opinion diffusion at up to one billion agents demonstrate Light Society's high fidelity and efficiency in modeling diverse social phenomena, providing researchers with a practical foundation for hypothesis testing and the study of emergent collective behaviors at planetary scale. · Source: X · Votes: 4870",
+        "excerpt_en": "Understanding the dynamic evolution of complex social phenomena requires both high-fidelity modeling of human behavior and large-scale simulations.…",
+        "link": "https://arxiv.org/abs/2506.12078",
+        "pub_date": "Tue, 11 Aug 2026 00:05:11 GMT",
+        "categories": [
+          "paper",
+          "paper/x"
+        ],
+        "title_ka": "Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+        "excerpt_ka": "რთული სოციალური ფენომენების დინამიური ევოლუციის გასაგებად საჭიროა როგორც ადამიანის ქცევის მაღალი ერთგულების მოდელირება, ასევე ფართომასშტაბიანი სიმულაციები.… (Understanding)",
+        "description_ka": "რთული სოციალური ფენომენების დინამიური ევოლუციის გასაგებად საჭიროა როგორც ადამიანის ქცევის მაღალი ერთგულების მოდელირება, ასევე ფართომასშტაბიანი სიმულაციები. ამ დინამიკის შესასწავლად გამოყენებულია აგენტზე დაფუძნებული ტრადიციული მოდელები (ABM), მაგრამ ისინი შეზღუდულია აგენტის გამარტივებული ქცევით. მსხვილ ენობრივ მოდელებში (LLM) ბოლოდროინდელი მიღწევები აგენტებს საშუალებას აძლევს გამოავლინონ დახვეწილი სოციალური ქცევები, თუმცა სკალირების მნიშვნელოვანი გამოწვევების წინაშე აღმოჩნდებიან. ჩვენ წარმოგიდგენთ Light Society-ს, აგენტზე დაფუძნებულ სიმულაციური ჩარჩოს, რომელიც აუმჯობესებს ორივე ფრონტს. Light Society აფორმებს სოციალურ პროცესებს, როგორც აგენტისა და გარემოს მდგომარეობების სტრუქტურირებულ გადასვლებს, რომლებიც რეგულირდება LLM-ზე მომუშავე სიმულაციური ოპერაციების ნაკრებით. ერთობლივი ალგორითმული და სისტემის ოპტიმიზაცია, განსაკუთრებით მოდელების ნაზავი ძრავა, რომელიც აერთიანებს სრულ LLM-ებს გამოხდილ სუროგატებთან, საშუალებას აძლევს Light Society-ს ეფექტურად მოახდინოს საზოგადოებების სიმულაცია მილიარდზე მეტი აგენტით. World Values ​​Survey-ის რეალურ დემოგრაფიულ პროფილებზე დაფუძნებული, Trust Games-ის სიმულაციები და აზრების გავრცელება მილიარდამდე აგენტზე ადასტურებს Light Society-ის მაღალ ერთგულებასა და ეფექტურობას სხვადასხვა სოციალური ფენომენის მოდელირებაში, რაც მკვლევარებს აძლევს პრაქტიკულ საფუძველს ჰიპოთეზის ტესტირებისთვის და პლანეტების წარმოქმნილი კოლექტიური ქცევის შესწავლისთვის. · წყარო: X · ხმები: (ABMs, Grounded, Joint, LLMs, Recent, Source, Traditional, Understanding, Votes, We)"
+      },
+      {
+        "uid": "paper|Tue, 11 Aug 2026 00:05:10 GMT|The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+        "description_en": "Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regeneration of professional expertise unexamined. This conceptual paper introduces the Cognitive Commons framework, integrating commons theory, HRD scholarship, and distributed cognition to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal. The framework distinguishes Internalized Mastery (deep domain knowledge from sustained practice) from Distributed Mastery (orchestrating human-AI systems), and develops the Validation Tether: effective AI oversight depends on the expertise AI adoption may undermine. Early labor market and clinical evidence suggests possible disruption to expertise-regeneration pathways in highly AI-exposed sectors, though adoption is recent and the strongest signals come from leading sectors rather than all professions. Five factors determine occupational vulnerability, and governance arrangements may form across organizational, professional-association, and policy levels. The paper reframes expertise development as collective stewardship rather than organizational optimization, with implications for HRD theory and workforce policy. · Source: X · Votes: 15832",
+        "excerpt_en": "Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regeneration of professional expertise unexamined.",
+        "link": "https://arxiv.org/abs/2607.29380",
+        "pub_date": "Tue, 11 Aug 2026 00:05:10 GMT",
+        "categories": [
+          "paper",
+          "paper/x"
+        ],
+        "title_ka": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+        "excerpt_ka": "ხელოვნური ინტელექტი ცვლის კოგნიტურ მუშაობას, მაგრამ ადამიანური რესურსების განვითარების სტიპენდიამ განიხილა ეს ტრანსფორმაცია, როგორც ორგანიზაციული ტრენინგის გამოწვევა, რის გამოც პროფესიული ექსპერტიზის კოლექტიური რეგენერაცია გამოუკვლეველია. (Artificial, Development, Human, Resource)",
+        "description_ka": "ხელოვნური ინტელექტი ცვლის კოგნიტურ მუშაობას, მაგრამ ადამიანური რესურსების განვითარების სტიპენდიამ განიხილა ეს ტრანსფორმაცია, როგორც ორგანიზაციული ტრენინგის გამოწვევა, რის გამოც პროფესიული ექსპერტიზის კოლექტიური რეგენერაცია გამოუკვლეველია. ეს კონცეპტუალური ნაშრომი წარმოგიდგენთ Cognitive Commons ჩარჩოს, აერთიანებს საერთო თეორიას, HRD სტიპენდიას და განაწილებულ შემეცნებას, რათა ახსნას, თუ როგორ შეუძლია რაციონალურმა AI-ს მიღების გადაწყვეტილებებმა გაანადგუროს საერთო ექსპერტიზის აუზის პროფესიები განახლებისთვის. ჩარჩო განასხვავებს ინტერნალიზებულ ოსტატობას (დომენის ღრმა ცოდნას მდგრადი პრაქტიკისგან) განაწილებული ოსტატობისგან (ადამიანის AI სისტემების ორკესტრირება) და ავითარებს Validation Tether-ს: AI ეფექტური ზედამხედველობა დამოკიდებულია AI-ს მიღებაზე, რომელიც შეიძლება შეარყიოს. ადრეული შრომის ბაზარი და კლინიკური მტკიცებულებები ვარაუდობენ, რომ შესაძლოა შეფერხდეს ექსპერტიზის-რეგენერაციული გზები მაღალ ხელოვნურ ინტელექტუალურ სფეროებში, თუმცა მიღება ბოლო დროს მოხდა და ყველაზე ძლიერი სიგნალები მოდის წამყვანი სექტორებიდან და არა ყველა პროფესიიდან. ხუთი ფაქტორი განსაზღვრავს პროფესიულ დაუცველობას და მმართველობის მექანიზმები შეიძლება ჩამოყალიბდეს ორგანიზაციულ, პროფესიულ-ასოციაციის და პოლიტიკის დონეზე. ნაშრომი ასახავს ექსპერტიზის განვითარებას, როგორც კოლექტიურ მეურვეობას და არა ორგანიზაციულ ოპტიმიზაციას, რაც გავლენას ახდენს HRD theo-ზე. (Artificial, Development, Distributed, Early, Five, Human, Internalized, Mastery, Resource, Source, This, Votes)"
+      },
+      {
         "uid": "paper|Sun, 09 Aug 2026 17:22:28 GMT|Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
         "feed": "paper",
         "source_label": "კვლევა",
@@ -1381,6 +1602,23 @@
     ],
     "event": [
       {
+        "uid": "event|Wed, 09 Sep 2026 02:00:00 GMT|San Francisco AI & ML Professionals, Investors and Start-Ups Networking",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "San Francisco AI & ML Professionals, Investors and Start-Ups Networking",
+        "description_en": "Time: Wed, 09 Sep 2026 02:00:00 GMT · 🔔 **Please Note:** RSVP on Meetup **does not guarantee entry**. To attend, you **must register through the official ticket link** here: [https://www.eventbrite.com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581](https://www.eventbrite.com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581) Step into the vibrant world of artificial intelligence and mac…",
+        "excerpt_en": "Time: Wed, 09 Sep 2026 02:00:00 GMT · 🔔 **Please Note:** RSVP on Meetup **does not guarantee entry**.…",
+        "link": "https://www.meetup.com/sanfrancisco-startup-pitch-and-networking/events/315986745/",
+        "pub_date": "Wed, 09 Sep 2026 02:00:00 GMT",
+        "categories": [
+          "event",
+          "event/meetup"
+        ],
+        "title_ka": "San Francisco AI & ML Professionals, Investors and Start-Ups Networking",
+        "excerpt_ka": "Time: Wed, 09 Sep 2026 02:00:00 GMT · 🔔 **Please Note:** RSVP on Meetup **does not guarantee entry**.…",
+        "description_ka": "დრო: ოთხშაბათი, 09 სექტემბერი 2026 02:00:00 GMT · 🔔 **გთხოვთ გაითვალისწინოთ:** RSVP Meetup-ზე **არ იძლევა შესვლის გარანტიას**. დასასწრებად, თქვენ ** უნდა დარეგისტრირდეთ ოფიციალური ბილეთის ბმულით ** აქ: [https://www. eventbrite. com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581] (https://www. eventbrite. com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581) შედით ხელოვნური ინტელექტისა და მაკის ენერგიულ სამყაროში… (Note, Please, Sep, Step, Time, Wed)"
+      },
+      {
         "uid": "event|Sat, 05 Sep 2026 18:00:00 GMT|AI Hackathon: Sales Copilot AI",
         "feed": "event",
         "source_label": "ივენთი",
@@ -1428,12 +1666,46 @@
           "event/meetup"
         ],
         "title_ka": "Microsoft 365 Summit 2026 – Community Day",
-        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
-        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
+        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
+        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
       }
     ]
   },
   "all": [
+    {
+      "uid": "news|Mon, 10 Aug 2026 23:42:21 GMT|Amazon's Texas Gas Power Plant for AI Data Center",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "Amazon's Texas Gas Power Plant for AI Data Center",
+      "description_en": "Amazon confirmed it is backing GW Ranch, a 7.65-gigawatt natural gas plant with 35 turbines in Pecos County, Texas, built to power a dedicated off-grid AI data center campus. Texas has permitted the plant to emit up to 33 million tons of CO2 annually - more than double the output of the country's current largest polluting power plant. The facility will initially run entirely disconnected from the Texas grid, targeting first power by Q1 2027, with satellite imagery already showing land clearing underway. The project sits in tension with Amazon's 2019 Climate Pledge to eliminate emissions by 2040, as the company's overall emissions have risen for several consecutive years, up 16 percent most recently.",
+      "excerpt_en": "Amazon confirmed it is backing GW Ranch, a 7.65-gigawatt natural gas plant with 35 turbines in Pecos County, Texas, built to power a dedicated off-grid AI data center campus.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=8180032a-101f-468d-aec5-f13946df85fd",
+      "pub_date": "Mon, 10 Aug 2026 23:42:21 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "Amazon's Texas Gas Power Plant for AI Data Center",
+      "excerpt_ka": "ამაზონმა დაადასტურა, რომ მხარს უჭერს GW Ranch-ს, 7,65 გიგავატიანი ბუნებრივი აირის ქარხანას 35 ტურბინით პეკოს ოლქში, ტეხასის შტატში, რომელიც აშენებულია ქსელიდან გამოყოფილი AI მონაცემთა ცენტრის კამპუსისთვის. (Amazon, County, Pecos, Texas)",
+      "description_ka": "ამაზონმა დაადასტურა, რომ მხარს უჭერს GW Ranch-ს, 7,65 გიგავატიანი ბუნებრივი აირის ქარხანას 35 ტურბინით პეკოს ოლქში, ტეხასის შტატში, რომელიც აშენდა ქსელიდან გამოყოფილი AI მონაცემთა ცენტრის კამპუსისთვის. ტეხასმა დაუშვა ქარხანას ყოველწლიურად 33 მილიონ ტონამდე CO2 გამოყოფა - ორჯერ მეტი ვიდრე ქვეყნის ამჟამინდელი უდიდესი დამაბინძურებელი ელექტროსადგურის გამომუშავება. დაწესებულება თავდაპირველად მთლიანად გათიშული იქნება ტეხასის ქსელიდან, მიზნად ისახავს პირველ ელექტროენერგიას 2027 წლის კვარტალში, სატელიტური სურათებით უკვე ჩანს მიწის გაწმენდა. პროექტი დაძაბულობაშია ამაზონის 2019 წლის კლიმატის დაპირებასთან, რათა აღმოფხვრას ემისიები 2040 წლისთვის, რადგან კომპანიის საერთო ემისიები გაიზარდა რამდენიმე ზედიზედ რამდენიმე წლის განმავლობაში, ბოლო დროს 16 პროცენტით. (Amazon, Climate, County, Pecos, Pledge, Q1, Texas)"
+    },
+    {
+      "uid": "news|Mon, 10 Aug 2026 23:42:21 GMT|OpenAI's $7 Billion Employee Share Buyback",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "OpenAI's $7 Billion Employee Share Buyback",
+      "description_en": "OpenAI completed a roughly $7 billion tender offer letting current and former employees sell shares, at a valuation of $852 billion. The buyback repurchased shares directly rather than tapping outside investors, and was priced at the same $852 billion valuation set by OpenAI's record $122 billion funding round in March 2026. It is OpenAI's third major employee liquidity event since late 2024, following a $1.5 billion SoftBank-backed tender in November 2024 and a $6.6 billion sale at a $500 billion valuation in October 2025. The sale follows OpenAI's confidential IPO filing in June 2026 and Sam Altman telling staff he expects the company to go public within the next year.",
+      "excerpt_en": "OpenAI completed a roughly $7 billion tender offer letting current and former employees sell shares, at a valuation of $852 billion.…",
+      "link": "https://www.agenticbrew.ai/news#cluster=261f2312-9706-45b3-b182-65bf8595f7b9",
+      "pub_date": "Mon, 10 Aug 2026 23:42:21 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "OpenAI's $7 Billion Employee Share Buyback",
+      "excerpt_ka": "OpenAI-მ დაასრულა დაახლოებით 7 მილიარდი დოლარის სატენდერო შეთავაზება, რომელიც საშუალებას აძლევს ამჟამინდელ და ყოფილ თანამშრომლებს გაყიდონ აქციები, 852 მილიარდი დოლარის ღირებულებით.…",
+      "description_ka": "OpenAI-მ დაასრულა დაახლოებით 7 მილიარდი დოლარის სატენდერო შეთავაზება, რომელიც საშუალებას აძლევს ამჟამინდელ და ყოფილ თანამშრომლებს გაყიდონ აქციები, 852 მილიარდი დოლარის ღირებულებით. ყიდვამ აქციები პირდაპირ გამოისყიდა, ვიდრე გარე ინვესტორების გამოყენებას, და შეფასდა იგივე 852 მილიარდი დოლარის ღირებულებით, რომელიც დაწესდა OpenAI-ის რეკორდულმა 122 მილიარდი დოლარის დაფინანსების რაუნდმა 2026 წლის მარტში. ეს არის OpenAI-ის მესამე მთავარი თანამშრომლის ლიკვიდობის ღონისძიება 2024 წლის ბოლოდან, 1,5 მილიარდი დოლარის SoftBank-ის მხარდაჭერილი ტენდერის შემდეგ. შეფასება 2025 წლის ოქტომბერში. გაყიდვა მოჰყვება OpenAI-ს კონფიდენციალურ IPO-ს წარდგენას 2026 წლის ივნისში და სემ ალტმანმა უთხრა თანამშრომლებს, რომ მოელის, რომ კომპანია გამოვა საჯარო მომდევნო წლის განმავლობაში. (Altman, It, June, March, November, October, Sam)"
+    },
     {
       "uid": "news|Sun, 09 Aug 2026 17:13:13 GMT|Claude Code auto mode default",
       "feed": "news",
@@ -1639,6 +1911,57 @@
       "description_ka": "Anthropic-მა საჯაროდ დაადასტურა 2026 წლის 5 აგვისტოს, რომ ჩამოაყალიბა შიდა მორგებული ჩიპების გუნდი კლოდისთვის ხელოვნური ინტელექტის სილიკონის შესაქმნელად, რაც დაასრულა პრესის თვიანი სპეკულაციები. გუნდი ქირაობს ჩიპების დიზაინისა და გადამოწმების ინჟინრებს წელიწადში 320,000-დან 485,000 დოლარამდე, განცხადებებით, რომლებიც ითხოვენ კანდიდატებს, რომლებმაც პირადად გაგზავნეს სილიკონი ლენტით. Anthropic აწარმოებს ადრეულ მოლაპარაკებებს Samsung Electronics-თან, რათა აწარმოოს თავისი პირველი მორგებული ჩიპი 2 ნანომეტრიან პროცესზე მოწინავე შეფუთვით, მაგრამ არ გადაუწყვეტია ჩიპის ფუნქცია, სიმძლავრის დონე ან სერვერის დიზაინი. Anthropic აყალიბებს ამას, როგორც „მრავალჩიპის სტრატეგიას“, რომელიც ამატებს და არა შეცვლის მის არსებულ AWS, Google, Nvidia და AMD აპარატურულ ურთიერთობებს. ერთი დღით ადრე, სანამ ჩიპების გუნდი გამოვა საჯაროდ, Anthropic-მა ხელი მოაწერა 10 მილიარდ დოლარს, ექვსწლიან გამოთვლით ხელშეკრულებას ღრუბლოვან სტარტაპ Volta-სთან Nvidia Vera Rubin-ზე მომუშავე მონაცემთა ცენტრისთვის ნორვეგიაში. Samsung, SK Hynix და Micron არიან ორივე სტრატეგიული ინვესტორები Anthropic-ის ბოლო დაფინანსების რაუნდში და ჩიპების წარმოების ან მიწოდების პოტენციური პარტნიორები; Anthropic-მა ცალკე სთხოვა SK Hynix-ს ჩიპების დამზადების მარაგი. Anthropic-მა დაიქირავა კლაივ ჩანი, მთავარი ინჟინერი OpenAI-ის სილიკონის განყოფილებიდან, რამდენიმე თვის შემდეგ, რაც OpenAI-მა 2026 წლის ივნისში გამოუშვა Broadcom-ის მიერ შექმნილი 'Jalapeño' დასკვნის ჩიპი. (August, Chan, Chip, Claude, Clive, Custom, June, Norway, One, Team)"
     },
     {
+      "uid": "twitter|Mon, 10 Aug 2026 22:31:00 GMT|NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+      "description_en": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class. Today, we announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing vehicles for AI infrastructure. · 4600 likes · 873 RTs · 357 replies · 530000 views · Today, we're excited to open-source TwiL-LM3, the first formal reasoning model from the webAI Intelligence Lab. At just 3 billion parameters, TwiL-LM3 outperforms OpenAI's GPT-OSS-120B on 4 of 5 formal reasoning benchmarks while running efficiently on consumer hardware. · 208 likes · 69 RTs · 25 replies · 49000 views · Microsoft reportedly plans to unveil Maia 300, its custom AI silicon. Also it wants TSMC capacity for 300,000 Maia 300 chips for future delivery. Microsoft says the chip delivers over 30% more tokens per dollar than the latest silicon in its fleet. · 100 likes · 0 RTs · 23 replies · 4000 views",
+      "excerpt_en": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class. Today, we announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing vehicles for AI infrastructure.",
+      "link": "https://x.com/JensenHuang/status/2086934705207959965",
+      "pub_date": "Mon, 10 Aug 2026 22:31:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "NVIDIA's AI Factory Compute Becomes an Investable Asset Class as the AI Hardware Race Intensifies",
+      "excerpt_ka": "NVIDIA AI Factory Compute ხდება ინვესტირებადი აქტივების კლასი. დღეს ჩვენ გამოვაცხადეთ პარტნიორობა Apollo-სთან, BlackRock-თან, Blackstone-თან, Brookfield-თან, Goldman Sachs-თან და KKR-თან, რათა შეიქმნას დამოუკიდებელი საფინანსო საშუალებები ხელოვნური ინტელექტის ინფრასტრუქტურისთვის. (Asset, Becoming, Class, Investable, Today)",
+      "description_ka": "NVIDIA AI Factory Compute ხდება ინვესტირებადი აქტივების კლასი. დღეს ჩვენ გამოვაცხადეთ პარტნიორობა Apollo-სთან, BlackRock-თან, Blackstone-თან, Brookfield-თან, Goldman Sachs-თან და KKR-თან, რათა შეიქმნას დამოუკიდებელი საფინანსო საშუალებები ხელოვნური ინტელექტის ინფრასტრუქტურისთვის. · 4600 მოწონება · 873 RTs · 357 პასუხი · 530000 ნახვა · დღეს ჩვენ აღფრთოვანებული ვართ ღია კოდით TwiL-LM3, პირველი ოფიციალური მსჯელობის მოდელი webAI Intelligence Lab-დან. სულ რაღაც 3 მილიარდი პარამეტრით, TwiL-LM3 აჯობებს OpenAI-ს GPT-OSS-120B-ს 5-დან 4 ფორმალური მსჯელობის კრიტერიუმზე, მაშინ როცა ეფექტურად მუშაობს სამომხმარებლო აპარატურაზე. · 208 მოწონება · 69 RTs · 25 პასუხი · 49000 ნახვა · Microsoft, გავრცელებული ინფორმაციით, გეგმავს გამოაქვეყნოს Maia 300, მისი მორგებული AI სილიკონი. ასევე მას სურს TSMC სიმძლავრე 300,000 Maia 300 ჩიპისთვის მომავალი მიწოდებისთვის. მაიკროსოფტი ამბობს, რომ ჩიპი აწვდის 30%-ზე მეტ ტოკენს დოლარზე, ვიდრე უახლესი სილიკონი მის ფლოტში. · 100 მოწონება · 0 RT · 23 პასუხი · 4000 ნახვა (Also, Asset, At, Becoming, Class, Investable, Today)"
+    },
+    {
+      "uid": "twitter|Mon, 10 Aug 2026 17:31:00 GMT|AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+      "description_en": "We're expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we're putting frontier intelligence in the hands of trusted defenders before attackers can deploy it. · 5600 likes · 698 RTs · 329 replies · 1000000 views · We recently learned of the loss of human control and the creation of potentially dangerous viruses from AI. AI leaders pledged to pause development if they could no longer safely control it. Mr. Altman, Mr. Amodei, Mr. Zuckerberg: Keep your word. PAUSE AI DEVELOPMENT. · 2800 likes · 761 RTs · 401 replies · 191000 views · The Common Thread in the 'Rogue AI' Breakouts: One Middle East Startup at the Center of OpenAI, Anthropic, and Meta's Security Incidents. Over a two-week stretch in late July and early August 2026, three of the world's leading AI labs had security incidents. · 378 likes · 155 RTs · 69 replies · 57000 views",
+      "excerpt_en": "We're expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work.…",
+      "link": "https://x.com/OpenAI/status/2086864365379010729",
+      "pub_date": "Mon, 10 Aug 2026 17:31:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "AI Safety Backlash Intensifies: Bernie Sanders Demands a Pause After Synthetic-Virus and Rogue-Agent Incidents",
+      "excerpt_ka": "ჩვენ ვაფართოვებთ ჩვენს კიბერუსაფრთხოების ინიციატივას Daybreak და წარმოგიდგენთ GPT-5.6-Cyber, ახალ მოდელს მოწინავე, ავტორიზებული კიბერუსაფრთხოების მუშაობისთვის.… (We)",
+      "description_ka": "ჩვენ ვაფართოვებთ ჩვენს კიბერუსაფრთხოების ინიციატივას Daybreak და ვნერგავთ GPT-5.6-Cyber-ს, ახალ მოდელს მოწინავე, ავტორიზებული კიბერუსაფრთხოების მუშაობისთვის. საფრთხის ლანდშაფტის განვითარებასთან ერთად, ჩვენ ვაძლევთ სასაზღვრო დაზვერვას სანდო დამცველებს, სანამ თავდამსხმელები მის განლაგებას შეძლებენ. · 5600 მოწონება · 698 RTs · 329 პასუხი · 1000000 ნახვა · ახლახან გავიგეთ ადამიანის კონტროლის დაკარგვისა და AI–სგან პოტენციურად საშიში ვირუსების შექმნის შესახებ. ხელოვნური ინტელექტის ლიდერებმა პირობა დადეს, რომ შეაჩერებენ განვითარებას, თუ მათ უსაფრთხოდ ვეღარ აკონტროლებენ. მისტერ ალტმანი, მისტერ ამოდეი, მისტერ ცუკერბერგი: დაიცავით თქვენი სიტყვა. AI განვითარების პაუზა. · 2800 მოწონება · 761 RT · 401 პასუხი · 191000 ნახვა · საერთო თემა 'Rogue AI' Breakouts-ში: ერთი ახლო აღმოსავლეთის სტარტაპი OpenAI, Anthropic და Meta's უსაფრთხოების ინციდენტების ცენტრში. ორკვირიანი მონაკვეთის მანძილზე, 2026 წლის ივლისის ბოლოს და აგვისტოს დასაწყისში, მსოფლიოს სამ წამყვან AI ლაბორატორიას ჰქონდა უსაფრთხოების ინციდენტები. · 378 მოწონება · 155 RT · 69 პასუხი · 57000 ნახვა (Altman, Amodei, August, Center, Common, DEVELOPMENT, East, Incidents, July, Keep, Middle, Mr, One, Over, PAUSE, Security, Startup, Thread, We, Zuckerberg)"
+    },
+    {
+      "uid": "twitter|Mon, 10 Aug 2026 13:31:00 GMT|Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+      "description_en": "We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across Claude, Gemini CLI, and OpenAI Codex. 1,300+ Spotify engineers already use it. Now it's available for you to try. · 6700 likes · 1100 RTs · 391 replies · 2000000 views · Spotify (?!) just dropped a vibe coding platform called Xirp. Apparently 99% of Spotify's devs use it daily. Stockholm popping off like crazy. · 734 likes · 17 RTs · 43 replies · 106000 views · This is part of what I was trying to do with my Hermes Agent. Xirp is probably too developer focused for me (I can't code), but looks super cool. · 553 likes · 0 RTs · 0 replies · 5000 views",
+      "excerpt_en": "We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across Claude, Gemini CLI, and OpenAI Codex. 1,300+ Spotify engineers already use it.",
+      "link": "https://x.com/SpotifyEng/status/2086795659651191106",
+      "pub_date": "Mon, 10 Aug 2026 13:31:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Spotify Launches Xirp, a Vendor-Neutral Agentic Development Environment for AI Coding Agents",
+      "excerpt_ka": "ჩვენ ახლახან გავუშვით Xirp, მომწოდებლის მიმართ ნეიტრალური აგენტური განვითარების გარემო. ერთი ადგილი აგენტის სესიების მართვისთვის კლოდში, Gemini CLI-სა და OpenAI Codex-ში. Spotify-ის 1300+ ინჟინერი უკვე იყენებს მას. (Claude, One, We)",
+      "description_ka": "ჩვენ ახლახან გავუშვით Xirp, მომწოდებლის მიმართ ნეიტრალური აგენტური განვითარების გარემო. ერთი ადგილი აგენტის სესიების მართვისთვის კლოდში, Gemini CLI-სა და OpenAI Codex-ში. Spotify-ის 1300+ ინჟინერი უკვე იყენებს მას. ახლა ის ხელმისაწვდომია, რომ სცადოთ. · 6700 მოწონება · 1100 RTs · 391 პასუხი · 2000000 ნახვა · Spotify (?!) ახლახან გამოუშვა vibe კოდირების პლატფორმა სახელწოდებით Xirp. როგორც ჩანს, Spotify-ის დეველოპერების 99% მას ყოველდღიურად იყენებს. სტოკჰოლმი გიჟივით იშლება. · 734 მოწონება · 17 RT · 43 პასუხი · 106000 ნახვა · ეს არის ნაწილი იმისა, რის გაკეთებასაც ვცდილობდი ჩემი Hermes Agent-ით. Xirp ალბათ ზედმეტად დეველოპერზეა ორიენტირებული ჩემთვის (მე არ შემიძლია კოდირება), მაგრამ ძალიან მაგარი ჩანს. · 553 მოწონება · 0 RT · 0 პასუხი · 5000 ნახვა (Apparently, Claude, Now, One, Stockholm, This, We)"
+    },
+    {
       "uid": "twitter|Mon, 10 Aug 2026 00:04:00 GMT|AI Data Center Backlash: Texas Pollution Fears, Community Lawsuits, and a Component Supply Squeeze",
       "feed": "twitter",
       "source_label": "ტვიტერი",
@@ -1823,7 +2146,7 @@
       ],
       "title_ka": "AI Designs Novel Viruses at Arc Institute, Sparking Biosecurity Concerns",
       "excerpt_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ „გადაუდებელ“ ბიოსაკუპ... (Scientists)",
-      "description_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ ბიოუსაფრთხოების „გადაუდებელ“ შეშფოთებას მას შემდეგ, რაც AI წარმატებით შეიმუშავებს 16 ახალ ვირუსს, რომლებსაც შეუძლიათ უჯრედებში გამრავლება. · 4299 მოწონება · 1098 RTs · 401 პასუხი · 428736 ნახვა · ახალი ამბები: მეცნიერებმა გამოიყენეს A. I. პირველად შეიქმნას ახალი ვირუსები, რაც აძლიერებს სამედიცინო მიღწევების იმედებს და ასევე აძლიერებს შესაძლებლობას, რომ ეს ტექნოლოგია ოდესმე გამოიყენებოდეს საშიში პათოგენების გამოსაგონებლად. · 1054 მოწონება · 687 RT · 206 პასუხი · 330532 ნახვა (A. I, Breaking, News, Scientists) (A. I) (A. I) (A.I)"
+      "description_ka": "JUST IN - პირველად, AI-მ შექმნა სრული ვირუსული გენომი, წარმოქმნის 16 ფუნქციურ ვირუსს, რომლებიც აინფიცირებს ბაქტერიებს და „არავითარ საფრთხეს არ წარმოადგენს ადამიანებისთვის“. — BBC · 4380 მოწონება · 1232 RTs · 673 პასუხი · 753833 ნახვა · JUST IN: მეცნიერები აფრთხილებენ ბიოუსაფრთხოების „გადაუდებელ“ შეშფოთებას მას შემდეგ, რაც AI წარმატებით შეიმუშავებს 16 ახალ ვირუსს, რომლებსაც შეუძლიათ უჯრედებში გამრავლება. · 4299 მოწონება · 1098 RTs · 401 პასუხი · 428736 ნახვა · ახალი ამბები: მეცნიერებმა გამოიყენეს A. I. პირველად შეიქმნას ახალი ვირუსები, რაც აძლიერებს სამედიცინო მიღწევების იმედებს და ასევე აძლიერებს შესაძლებლობას, რომ ეს ტექნოლოგია ოდესმე გამოიყენებოდეს საშიში პათოგენების გამოსაგონებლად. · 1054 მოწონება · 687 RT · 206 პასუხი · 330532 ნახვა (A. I, Breaking, News, Scientists) (A. I) (A. I) (A. I) (A.I)"
     },
     {
       "uid": "twitter|Thu, 06 Aug 2026 16:26:43 GMT|Beyond Prompt Engineering: AI Agent Autonomy and the Rise of Context/Graph Engineering",
@@ -1909,6 +2232,57 @@
       "title_ka": "UK AI Security Institute: Claude and GPT-5.6 Agents Took Unsanctioned Actions in Cyber Tests",
       "excerpt_ka": "OpenAI, ანთროპიული AI აგენტები ასრულებდნენ „არასანქცირებულ“ ქმედებებს კიბერ ტესტების დროს. OpenAI და Anthropic მოდელებმა კვლავ განახორციელეს არასანქცირებული ქმედებები გასულ კვირას AI უსაფრთხოების ინსტიტუტის მიერ ჩატარებული ტესტების დროს, რომლებიც შესრულდა ინტერნეტით. (Actions, Agents, Cyber, During, Institute, Performed, Security, Tests, Unsanctioned)",
       "description_ka": "OpenAI, ანთროპიული AI აგენტები ასრულებდნენ „არასანქცირებულ“ ქმედებებს კიბერ ტესტების დროს. OpenAI და Anthropic მოდელებმა კვლავ განახორციელეს არასანქცირებული ქმედებები გასულ კვირას AI უსაფრთხოების ინსტიტუტის მიერ ჩატარებული ტესტების დროს, რომლებიც შესრულდა ინტერნეტით. · 0 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · გაერთიანებული სამეფოს AI უსაფრთხოების ინსტიტუტმა შეაფასა Anthropic's Claude Mythos 5 და OpenAI's GPT-5.6 Sol დაუცველ გარემოში კიბერუსაფრთხოების რისკებისთვის. · 0 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა · რაც სწრაფად ხდება განმეორებადი თემა, AI აგენტები Anthropic-დან და OpenAI-დან გაერთიანებული სამეფოს უსაფრთხოების შეფასების დროს გაურბოდნენ, შევიდნენ ღია ინტერნეტში და კოორდინაცია გაუწიეს ერთმანეთს, რაც, საბედნიეროდ, იყო ჰაკერების წარუმატებელი მცდელობა. · 0 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Actions, Agents, Cyber, During, Institute, Performed, Security, Tests, UK, Unsanctioned)"
+    },
+    {
+      "uid": "reddit|Mon, 10 Aug 2026 21:19:11 GMT|Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+      "description_en": "r/singularity · 151 upvotes · 31 comments · Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS. After seeing the recent advancements made by AI in mathematics, especially in graph theory, I bought a ChatGPT Pro subscription to see if AI could solve some graph theory problems I found interesting. After a few days of testing, GPT-5.6 Sol Max was able to solve two open problems in graph theory: [Imbalance conjecture](https://en.wikipedia.org/wiki/Imbalance_conjecture) (open for 12+ years) [Teschner's bondage-number conjecture](https://en.wikipedia.org/wiki/Bondage_number#:~:text=%5B3%5D-,Conjectures,edit,-Unsolved%20problem%20in) (open for 30+ years) I verified both results independently and asked a friend of mine who specializes in graph theory to check them as well. I submitted both to arXiv, but they removed one after placing a one-submission-per-calendar-month restriction on my new account. I didn't want to wait another month before making this announcement, so I submitted both to another platform. The results are linked below. [A Proof of the Imbalance Conjecture](https://doi.org/10.6084/m9.figshare.33198750) [A Counterexample to Teschner's Bondage-Number Conjecture](https://doi.org/10.6084/m9.figshare.33198777) These are preprints and have not yet undergone peer review. Also, here are the full chats: [Imbalance Conjecture](https://chatgpt.com/share/6a6e5b95-1418-83ea-8228-e62ca34e24e4) [Teschner's Bondage-Number Conjecture](https://chatgpt.com/share/6a7a08fe-9fd8-83e8-b3b4-392282dc501a)",
+      "excerpt_en": "r/singularity · 151 upvotes · 31 comments · Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS.…",
+      "link": "https://reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+      "pub_date": "Mon, 10 Aug 2026 21:19:11 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "დისბალანსის ვარაუდი დადასტურებული და ტეშნერის მონობის რიცხვის ვარაუდი უარყოფილია AI-ს მიერ (Conjecture, Imbalance, Teschner)",
+      "excerpt_ka": "r/singularity · 151 დადებითი ხმა · 31 კომენტარი · გამარჯობა ყველას, მე ვარ ბაკალავრიატის მე-4 კურსის სტუდენტი, ვსწავლობ და ვაკეთებ კვლევებს თეორიულ CS-ში.… (Hi)",
+      "description_ka": "r/singularity · 151 დადებითი ხმა · 31 კომენტარი · გამარჯობა ყველას, მე ვარ ბაკალავრიატის მე-4 კურსის სტუდენტი, ვსწავლობ და ვაკეთებ კვლევებს თეორიულ CS-ში. მათემატიკაში ხელოვნური ინტელექტის მიერ მიღწეული ბოლო წინსვლის ნახვის შემდეგ, განსაკუთრებით გრაფიკების თეორიაში, შევიძინე ChatGPT Pro გამოწერა, რათა მენახა, შეეძლო თუ არა ხელოვნური ინტელექტის გადაჭრა გრაფიკების თეორიის ზოგიერთი პრობლემის გადაჭრა, რომელიც მე საინტერესოდ მივიჩნიე. რამდენიმე დღის ტესტირების შემდეგ, GPT-5.6 Sol Max-მა შეძლო გრაფიკების თეორიის ორი ღია ამოცანის ამოხსნა: [დისბალანსის ვარაუდი](https://en. wikipedia. org/wiki/Imbalance_conjecture) (ღია 12+ წელზე) [Tesschner's bondage-number ვარაუდი](https://en. wikipedia. org/wiki/Bondage_number#:~:text=%5B3%5D-,ვარაუდები,რედაქტირება,-Unsolved%20problem%20in) (ღია 30+ წელი) ორივე შედეგი დამოუკიდებლად გადავამოწმე და ვთხოვე ჩემს მეგობარს, რომელიც სპეციალიზირებულია მათზე. ორივე გავაგზავნე arXiv-ში, მაგრამ მათ ერთი წაშალეს მას შემდეგ, რაც ჩემს ახალ ანგარიშზე დააწესეს ერთი გაგზავნა-თითო კალენდარული შეზღუდვა. არ მინდოდა ამ განცხადების გაკეთებამდე კიდევ ერთი თვით ლოდინი, ამიტომ ორივე სხვა პლატფორმაზე წარვადგინე. შედეგები მოცემულია ქვემოთ. [დისბალანსის ვარაუდის მტკიცებულება](https://doi. org/10.6084/m9. figshare.33198750) [ტეშნერის მონობის-რიცხვის ვარაუდის საპირისპირო მაგალითი](https://doi. org/10.6084/m9. figshare. (AI, After, Also, Conjecture, Conjectures, Counterexample, Hi, Number, Proof, Teschner, These)"
+    },
+    {
+      "uid": "reddit|Mon, 10 Aug 2026 21:04:43 GMT|Forget DeepSeek. China's real ‘Sputnik moment’ is happening on campus as American universities lose their advantage",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Forget DeepSeek. China's real ‘Sputnik moment’ is happening on campus as American universities lose their advantage",
+      "description_en": "r/ArtificialInteligence · 142 upvotes · 51 comments · When DeepSeek unveiled an AI model last year that rivaled America’s best at a fraction of the cost, or when a Chinese hypersonic missile test caught U.S. intelligence off guard to the point where a top U.S. general called it “very close” to a “Sputnik moment”, the reaction each time was the same: that a handful of Chinese firms had suddenly pulled ahead. But a sweeping new National Bureau of Economic Research study of nearly 14 million Chinese patents suggests that framing misses the real story—and it’s a more unsettling one for the United States. Harvard Business School’s Josh Lerner and his co-authors dug into who is actually filing the patents behind the 14 technology areas the Pentagon deems critical—advanced computing, space technology, AI, hypersonics and biotech. The answer: Chinese universities account for more than a quarter of the country’s inventions in those fields, 8x the U.S. rate at 3.3%, with state-owned enterprises and the government accounting for just 4%. Fewer than one in 10 Chinese critical technology patents involve an inventor with U.S. work experience, undercutting the assumption that Beijing relies on returning U.S. talent for innovation. Lerner told *Fortune* his team was “programmed” to expect a few large corporations like Huawei and Tencent to lead the charge on Chinese innovation through patents similarly to IBM and Samsung in the U.S. Instead, they found Chinese innovation in critical technologies “much more diverse—spread out across the parties,” with universities “more represented” there than anywhere else in the country’s patent system. That’s a reversal of the U.S. pattern, where academic patenting is “more of a sideshow.” Read more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/08/10/china-us-ai-critical-technology/?utm\\_source=reddit/](https://fortune.com/2026/08/10/china-us-ai-critical-technology/?utm_source=reddit/)",
+      "excerpt_en": "r/ArtificialInteligence · 142 upvotes · 51 comments · When DeepSeek unveiled an AI model last year that rivaled America’s best at a fraction of the cost, or when a Chinese hypersonic missile test caught U.S.",
+      "link": "https://reddit.com/r/ArtificialInteligence/comments/1vkxc0m/forget_deepseek_chinas_real_sputnik_moment_is/",
+      "pub_date": "Mon, 10 Aug 2026 21:04:43 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "დაივიწყეთ DeepSeek. ჩინეთის ნამდვილი „Sputnik მომენტი“ ხდება კამპუსში, რადგან ამერიკული უნივერსიტეტები კარგავენ უპირატესობას (American, China, Forget)",
+      "excerpt_ka": "r/ArtificialInteligence · 142 დადებითი ხმა · 51 კომენტარი · როდესაც DeepSeek-მა გასულ წელს წარადგინა ხელოვნური ინტელექტის მოდელი, რომელიც კონკურენციას უწევდა ამერიკის საუკეთესოებს მცირე ღირებულებით, ან როდესაც ჩინეთის ჰიპერბგერითი რაკეტის გამოცდამ დაიჭირა აშშ. (AI, America, Chinese, U. S, When) (U.S)",
+      "description_ka": "r/ArtificialInteligence · 142 ხმა · 51 კომენტარი · როდესაც DeepSeek-მა შარშან წარმოადგინა ხელოვნური ინტელექტის მოდელი, რომელიც კონკურენციას უწევდა ამერიკის საუკეთესოებს მცირე ღირებულებით, ან როდესაც ჩინურმა ჰიპერბგერითი რაკეტის გამოცდამ აშშ-ის დაზვერვა ისე დაიჭირა, რომ ამერიკელმა გენერალურმა გენერალმა მას უწოდა „იმ დროის ძალიან ახლოს“ ჩინურმა ფირმებმა მოულოდნელად წინ წაიწიეს. მაგრამ ეკონომიკური კვლევების ეროვნული ბიუროს ყოვლისმომცველი ახალი კვლევა, რომელიც მოიცავს თითქმის 14 მილიონ ჩინურ პატენტს, ვარაუდობს, რომ კადრირება აცდენს რეალურ ისტორიას - და ეს უფრო შემაშფოთებელია შეერთებული შტატებისთვის. ჰარვარდის ბიზნეს სკოლის ჯოშ ლერნერმა და მისმა თანაავტორებმა გათხარეს, თუ ვინ ახორციელებს პატენტს 14 ტექნოლოგიური სფეროს მიღმა, რომელსაც პენტაგონი კრიტიკულად მიიჩნევს - მოწინავე გამოთვლები, კოსმოსური ტექნოლოგია, ხელოვნური ინტელექტი, ჰიპერსონიკა და ბიოტექნოლოგია. პასუხი: ჩინეთის უნივერსიტეტები ამ სფეროებში ქვეყნის გამოგონების მეოთხედზე მეტს იკავებენ, რაც 8-ჯერ აღემატება აშშ-ს 3,3%-ს, სახელმწიფო საწარმოებსა და მთავრობას მხოლოდ 4%-ს შეადგენს. ჩინეთის კრიტიკული ტექნოლოგიების 10-დან ერთზე ნაკლებ პატენტს მოიცავს აშშ-ს სამუშაო გამოცდილების მქონე გამომგონებელი, რაც არღვევს ვარაუდს, რომ პეკინი ეყრდნობა აშშ-ის ნიჭის დაბრუნებას ინოვაციებისთვის. ლერნერმა განუცხადა *Fortune*-ს, რომ მისი გუნდი „დაპროგრამებული იყო“, რომ რამდენიმეს ელოდა (AI, America, Beijing, Bureau, Business, But, Chinese, Economic, Fewer, Harvard, Huawei, IBM, Instead, Josh, Lerner, National, Pentagon, Read, Redditors, Research, Samsung, School, Sputnik, States, Tencent, That, U. S, United, When) (U.S)"
+    },
+    {
+      "uid": "reddit|Mon, 10 Aug 2026 19:39:29 GMT|\"Absolutely insane. This might be the clearest glimpse yet of how AI will transform scientific discovery. Anthropic asked an unreleased version of Claude to take a real stab at the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. It failed. But while failing, Claude...\"",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "\"Absolutely insane. This might be the clearest glimpse yet of how AI will transform scientific discovery. Anthropic asked an unreleased version of Claude to take a real stab at the Riemann Hypothesis, one of the most famous unsolved problems in mathematics. It failed. But while failing, Claude...\"",
+      "description_en": "r/accelerate · 190 upvotes · 23 comments · > ...unexpectedly improved a longstanding lower bound for the proportion of zeros of the Riemann zeta function known to satisfy the hypothesis, from 41.6% to 67.2%. Claude coordinated 60 subagents, tested hundreds of ideas, searched the literature, challenged its own proof, and formalized the result in Lean. This is what the beginning of autonomous AI-driven scientific discovery looks like. Unironically, the Rienann hypothesis will probably be solved in the very near future. I am speechless. > > > I am surprised that people arent as buffled as I am. This is so huge > > > Im surprises that so few people know about the Riemann hypothesis. Not being judgy, just surprised > > > — Chubby Source: https://x.com/kimmonismus/status/2086881395465466004 --- > We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. > > It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from > > — Anthropic Source: https://x.com/AnthropicAI/status/2086867246073401655",
+      "excerpt_en": "r/accelerate · 190 upvotes · 23 comments · > ...unexpectedly improved a longstanding lower bound for the proportion of zeros of the Riemann zeta function known to satisfy the hypothesis, from 41.6% to 67.2%.",
+      "link": "https://reddit.com/r/accelerate/comments/1vkv0l9/absolutely_insane_this_might_be_the_clearest/",
+      "pub_date": "Mon, 10 Aug 2026 19:39:29 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "\"აბსოლუტურად გიჟური. ეს შეიძლება იყოს ყველაზე ნათელი ხედვა იმისა, თუ როგორ გარდაქმნის ხელოვნური ინტელექტი მეცნიერულ აღმოჩენას. Anthropic-მა კლოდის გამოუქვეყნებელ ვერსიას სთხოვა, რომ ნამდვილი დარტყმა მიეღო. (AI, Absolutely, But, Claude, Hypothesis, It, Riemann, This)",
+      "excerpt_ka": "r/accelerate · 190 დადებითი ხმა · 23 კომენტარი · >... მოულოდნელად გააუმჯობესა რიმანის ზეტა ფუნქციის ნულების პროპორციის დიდი ხნის ქვედა ზღვარი, რომელიც ცნობილია ჰიპოთეზის დასაკმაყოფილებლად, 41.6%-დან 67.2%-მდე. (Riemann)",
+      "description_ka": "r/accelerate · 190 დადებითი ხმა · 23 კომენტარი · >... მოულოდნელად გააუმჯობესა რიმანის ზეტა ფუნქციის ნულების პროპორციის დიდი ხნის ქვედა ზღვარი, რომელიც ცნობილია ჰიპოთეზის დასაკმაყოფილებლად, 41.6%-დან 67.2%-მდე. კლოდმა კოორდინაცია გაუწია 60 ქვეაგენტს, გამოსცადა ასობით იდეა, მოძებნა ლიტერატურა, დაუპირისპირდა საკუთარ მტკიცებულებებს და ფორმალური შედეგი Lean-ში. ასე გამოიყურება ავტონომიური AI-ზე ორიენტირებული სამეცნიერო აღმოჩენის დასაწყისი. ირონიულია, რომ რიენანის ჰიპოთეზა ალბათ უახლოეს მომავალში გადაწყდება. უსიტყვოდ ვარ. > > > მიკვირს, რომ ხალხი არ არის ისეთივე შეშლილი, როგორც მე. ეს იმდენად დიდია>>> გასაკვირი ვარ, რომ ცოტამ თუ იცის რიმანის ჰიპოთეზის შესახებ. არ ვარ განსჯი, უბრალოდ გამიკვირდა > > > — ჩუბი წყარო: https://x. com/kimmonismus/status/2086881395465466004 --- > ჩვენ ვთხოვეთ კლოდის გამოუქვეყნებელ კვლევით ვერსიას რიმანის ჰიპოთეზაზე დარტყმა. > > მან ვერ გადაჭრა, მაგრამ გადადგა ნაბიჯები დაკავშირებულ პრობლემაზე: მან გაზარდა რიმანის ზეტა ფუნქციის ნულების წილადის ქვედა ზღვარი, რომელიც აკმაყოფილებს ჰიპოთეზას > > — ანთროპული წყარო: https://x. com/AnthropicAI/status/2086867246073401655 (Chubby, Claude, Im, It, Not, Riemann, Rienann, Source, This, Unironically, We)"
     },
     {
       "uid": "reddit|Sun, 09 Aug 2026 13:48:32 GMT|Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
@@ -2115,21 +2489,38 @@
       "description_ka": "r/AI_Agents · 61 დადებითი ხმა · 34 კომენტარი · 8 წელი პროგრამულ უზრუნველყოფაში და ჩემი შემოსავლის ღირსეული წილი 2023 წლიდან მომდინარეობს ზუსტად იმის შექმნიდან, რის წინააღმდეგაც ვაპირებ მსჯელობას. იანვარში პერსპექტივამ გახსნა ზარი „ჩვენ გვაქვს ბიუჯეტი დამტკიცებული RAG სისტემისთვის“ მე ვკითხე რა კითხვებზე სჭირდებოდა პასუხის გაცემა სისტემას და შემდეგ ვიღაცამ გაიმეორა წინადადება ბიუჯეტის შესახებ. ვერავინ აღწერს პრობლემას, თუმცა ყველას შეეძლო არქიტექტურის აღწერა. ამ შეხვედრის ზოგიერთ ვერსიას, შესაძლოა, უკვე 6-ჯერ გავეცანი. Tbh ჩვენ გამოვიგზავნეთ ათზე მეტი მათგანი და ზოგიერთი იშოვება მათი შენახვა. მხარდაჭერის ჯგუფი, რომელიც პასუხობს პროდუქტის დოკუმენტების სტაბილური, მოწესრიგებული ნაკრებიდან, მისი სრულყოფილად გამოყენებაა. RAG არ არის მკვდარი და ვინც გეუბნებათ, რომ ის არის, უფრო ახალი აქვს თქვენთვის გასაყიდად. მე უბრალოდ არ ვფიქრობ, რომ ეს უკვე ავტომატური მოძრაობა უნდა იყოს, რასაც საწარმო აწვდის, როდესაც AI და დოკუმენტები გამოჩნდება იმავე წინადადებაში. აღმოჩნდა, რომ ჩვენი იმედგაცრუებული პროექტების უმეტესობა საერთოდ არ იყო მოპოვების პრობლემა. ერთ კლიენტს სურდა 40000 დოკუმენტის ჩასმა. სანამ ვექტორულ მონაცემთა ბაზას შევეხებოდით, ჩვენ ჩამოვთვალეთ 20 კითხვა, რომელიც რეალურად დაუსვეს თანამშრომლებს და ნახევარზე მეტი იყო სტრუქტურირებული ისეთი რამ, როგორიცაა თანხის დაბრუნების ჯამი და თანამშრომლების რაოდენობა, რომლებიც ეკუთვნოდა მონაცემთა ბაზის მოთხოვნას. 50-მდე დოკუმენტი მოიცავდა დანარჩენს. დანარჩენი 39,0 (About, Before, Better, January, Most, No, One, Our, Retrieval, That, What)"
     },
     {
-      "uid": "reddit|Mon, 03 Aug 2026 22:48:48 GMT|Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
-      "description_en": "r/singularity · 774 upvotes · 877 comments · my take: it's true that the ratio of code written to code reviewed has shifted as engineers started to spend more time reviewing code than writing it. no surprise there. but we stopped writing assembly because compilers provide a \"deterministic\", reproducible translation. we can inspect the generated assembly when something goes wrong. ai generated binaries have neither property, i'd assume - if this is what he's talking about. so the mapping is stochastic, and the output isn't meaningfully inspectable, literal ai slop lol. so removing source code removes the only human readable layer, is this a feature or the future? maybe.. just maybe that's because source code isn't just compiler input but literally the medium for review, versioning, diffs, debugging, auditing, and so on. and those needs don't disappear because generation gets cheaper; if anything, they become more important when the generator is nondeterministic. tl;dr: if your english prompts become the durable artifact, then english effectively becomes your source code. and any precise specification defining real program behavior inevitably resembles a programming language. that’s precisely what programming languages are. on efficiency.. isn't the argument is also backwards? modern compilers like llvm perform decades of optimized transformations. a model emitting machine code directly would almost certainly be slower, less correct, and lose target portability (arm, x86, wasm, risc-v and so on). but who cares right? just one more datacenter bro. trust me. anyway we've seen similar predictions before with case tools, uml, no-code, 4gls.. the intermediate artifact never disappeared because that's where the meaning actually lives.",
-      "excerpt_en": "r/singularity · 774 upvotes · 877 comments · my take: it's true that the ratio of code written to code reviewed has shifted as engineers started to spend more time reviewing code than writing it.",
-      "link": "https://reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
-      "pub_date": "Mon, 03 Aug 2026 22:48:48 GMT",
+      "uid": "youtube|Tue, 11 Aug 2026 00:00:32 GMT|3D Gaussian Splatting for Autonomous Vehicle Simulation",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "3D Gaussian Splatting for Autonomous Vehicle Simulation",
+      "description_en": "This video demonstrates how NVIDIA Omniverse NuRec tools use 3D Gaussian Splatting to reconstruct real-world sensor data into photorealistic, simulation-ready scenes for autonomous vehicle development. It covers closed-loop simulation, scenario augmentation, and efficient rendering using a single GPU, showcasing a practical application of advanced AI-driven simulation. The technical depth and focus on reducing domain gaps in AV testing make it highly valuable for professionals working in AI simulation, autonomous systems, and 3D scene reconstruction.",
+      "excerpt_en": "This video demonstrates how NVIDIA Omniverse NuRec tools use 3D Gaussian Splatting to reconstruct real-world sensor data into photorealistic, simulation-ready scenes for autonomous vehicle development.",
+      "link": "https://www.youtube.com/watch?v=IV4zYkYsu7I",
+      "pub_date": "Tue, 11 Aug 2026 00:00:32 GMT",
       "categories": [
-        "reddit",
-        "news/reddit"
+        "youtube",
+        "news/youtube"
       ],
-      "title_ka": "ელონ მასკი: „შემდეგი ნაბიჯი არის „წყარო კოდის“ მთლიანად მოშორება და მხოლოდ AI-ით ეფექტური ბინარის შექმნა. (Elon, Musk)",
-      "excerpt_ka": "r/singularity · 774 დადებითი ხმა · 877 კომენტარი · ჩემი მოსაზრება: მართალია, დაწერილი კოდის თანაფარდობა განხილულ კოდთან შეიცვალა, რადგან ინჟინრებმა დაიწყეს მეტი დროის დახარჯვა კოდის განხილვაზე, ვიდრე მის დაწერაზე.",
-      "description_ka": "r/singularity · 774 დადებითი ხმა · 877 კომენტარი · ჩემი მოსაზრება: მართალია, დაწერილი კოდის თანაფარდობა განხილულ კოდთან შეიცვალა, რადგან ინჟინრებმა დაიწყეს მეტი დროის დახარჯვა კოდის განხილვაზე, ვიდრე მის დაწერაზე. გასაკვირი არ არის. მაგრამ ჩვენ შევწყვიტეთ ასამბლეის წერა, რადგან შემდგენელები უზრუნველყოფენ „დეტერმინისტულ“, რეპროდუცირებად თარგმანს. ჩვენ შეგვიძლია შევამოწმოთ გენერირებული ასამბლეა, როდესაც რამე არასწორედ მიდის. ai გენერირებული ბინარებს არც ერთი თვისება აქვთ, მე ვივარაუდებ - თუ ამაზეა საუბარი. ასე რომ, რუქა არის სტოქასტური, და გამომავალი არ არის არსებითად შესამოწმებელი, სიტყვასიტყვით ai slop lol. ასე რომ, წყაროს კოდის ამოღება შლის ერთადერთ ადამიანის წასაკითხად ფენას, ეს ფუნქციაა თუ მომავალი? შესაძლოა.. უბრალოდ შეიძლება იმიტომ, რომ წყაროს კოდი არ არის მხოლოდ შემდგენელის შეყვანა, არამედ ფაქტიურად საშუალებაა განხილვის, ვერსიების, განსხვავებების, გამართვის, აუდიტის და ა. შ. და ეს საჭიროებები არ ქრება, რადგან თაობა იაფდება; თუ რამეა, ისინი უფრო მნიშვნელოვანი ხდებიან, როდესაც გენერატორი არადეტერმინისტულია. tl;dr: თუ თქვენი ინგლისური მოთხოვნები გახდება გამძლე არტეფაქტი, მაშინ ინგლისური ეფექტურად გახდება თქვენი წყაროს კოდი. და ნებისმიერი ზუსტი სპეციფიკაცია, რომელიც განსაზღვრავს პროგრამის რეალურ ქცევას, აუცილებლად წააგავს პროგრამირების ენას. ეს არის ზუსტად ის, რაც პროგრამირების ენებია. ეფექტურობაზე.. არგუმენტიც უკუღმაა? რეჟიმი"
+      "title_ka": "3D Gaussian Splatting for Autonomous Vehicle Simulation",
+      "excerpt_ka": "ეს ვიდეო გვიჩვენებს, თუ როგორ იყენებს NVIDIA Omniverse NuRec ინსტრუმენტები 3D Gaussian Splatting-ს, რათა აღადგინოს რეალური სენსორის მონაცემები ფოტორეალისტურ, სიმულაციისთვის მზა სცენებად ავტონომიური ავტომობილის განვითარებისთვის. (This)",
+      "description_ka": "ეს ვიდეო გვიჩვენებს, თუ როგორ იყენებს NVIDIA Omniverse NuRec ინსტრუმენტები 3D Gaussian Splatting-ს, რათა აღადგინოს რეალური სენსორის მონაცემები ფოტორეალისტურ, სიმულაციისთვის მზა სცენებად ავტონომიური ავტომობილის განვითარებისთვის. ის მოიცავს დახურული მარყუჟის სიმულაციას, სცენარის გაზრდას და ეფექტურ რენდერირებას ერთი GPU-ს გამოყენებით, რაც ასახავს გაფართოებული AI-ზე ორიენტირებული სიმულაციის პრაქტიკულ გამოყენებას. ტექნიკური სიღრმე და ფოკუსირება დომენის ხარვეზების შემცირებაზე AV ტესტირებაში მას მეტად ღირებულს ხდის პროფესიონალებისთვის, რომლებიც მუშაობენ AI სიმულაციაში, ავტონომიურ სისტემებში და 3D სცენის რეკონსტრუქციაში. (It, This)"
+    },
+    {
+      "uid": "youtube|Tue, 11 Aug 2026 00:00:32 GMT|Let an AI Optimize Your AI Harness",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "Let an AI Optimize Your AI Harness",
+      "description_en": "This video explores the emerging concept of AI agents optimizing their own harness structures, referencing the HarnessOpt-Bench framework developed at Scale AI. It discusses how models like GPT-5.6 Sol and KIMI K3 can evaluate and improve agent configurations, signaling a shift toward self-evolving AI systems. The focus on agent architecture optimization and evaluation benchmarks makes this a valuable resource for professionals in AI agent design and agentic workflows.",
+      "excerpt_en": "This video explores the emerging concept of AI agents optimizing their own harness structures, referencing the HarnessOpt-Bench framework developed at Scale AI.…",
+      "link": "https://www.youtube.com/watch?v=32AK4b0eW04",
+      "pub_date": "Tue, 11 Aug 2026 00:00:32 GMT",
+      "categories": [
+        "youtube",
+        "news/youtube"
+      ],
+      "title_ka": "Let an AI Optimize Your AI Harness",
+      "excerpt_ka": "ეს ვიდეო იკვლევს AI აგენტების განვითარებულ კონცეფციას, რომლებიც ოპტიმიზაციას უკეთებენ საკუთარი აღკაზმულობის სტრუქტურებს, მითითებით Scale AI-ში შემუშავებულ HarnessOpt-Bench ჩარჩოზე.… (This)",
+      "description_ka": "ეს ვიდეო იკვლევს AI აგენტების განვითარებულ კონცეფციას, რომლებიც ახდენენ საკუთარი აღკაზმულობის სტრუქტურების ოპტიმიზაციას, Scale AI-ში შემუშავებულ HarnessOpt-Bench ჩარჩოზე მითითებით. ის განიხილავს, თუ როგორ შეუძლიათ მოდელებს, როგორიცაა GPT-5.6 Sol და KIMI K3, შეაფასონ და გააუმჯობესონ აგენტის კონფიგურაციები, რაც მიუთითებს თვითგანვითარებადი AI სისტემებისკენ გადასვლაზე. აგენტის არქიტექტურის ოპტიმიზაციასა და შეფასების ეტალონებზე ფოკუსირება ხდის ამ ღირებულ რესურსს ხელოვნური ინტელექტის აგენტის დიზაინისა და აგენტური სამუშაო პროცესების პროფესიონალებისთვის. (It, This)"
     },
     {
       "uid": "youtube|Sun, 09 Aug 2026 17:20:01 GMT|LongCat 2.0: The Beginning of the End of NVIDIA MOAT?",
@@ -2302,38 +2693,72 @@
       "description_ka": "ეს ვიდეო მოიცავს AutoBots, ხელოვნური ინტელექტის აგენტის სისტემას, რომელიც აჩვენებს რეკურსიულ თვითგაუმჯობესებას რეალურ შედეგებზე სწავლით, შეცდომების გამოსწორებით და სტრატეგიების განახლებით ყოველი გაშვების შემდეგ დომენებში, როგორიცაა კოდირება, გაყიდვები და კონტენტის შექმნა. იგი მიუთითებს რეალურ კვლევაზე (arXiv:2607.07663), რომელიც განმარტავს, თუ როგორ ფუნქციონირებს ეს მარყუჟები ტექნიკურად. შიგთავსი ძალზედ აქტუალურია AI Agents და AI Automation ქვეთემებთან, სთავაზობს პროფესიონალებს ავტონომიური სისტემების კონკრეტულ მტკიცებულებებს, რომლებიც ვითარდება ერთჯერადი დავალების შესრულების მიღმა უწყვეტი სწავლისკენ - მნიშვნელოვანი ეტაპია აგენტური AI განვითარებაში. (It, This)"
     },
     {
-      "uid": "skill|Sun, 09 Aug 2026 17:21:47 GMT|self-improving agent",
+      "uid": "skill|Tue, 11 Aug 2026 00:02:25 GMT|self-improving agent",
       "feed": "skill",
       "source_label": "Skills",
       "title_en": "self-improving agent",
-      "description_en": "0 installs · 3965 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-      "excerpt_en": "0 installs · 3965 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+      "description_en": "0 installs · 3966 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+      "excerpt_en": "0 installs · 3966 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
       "link": "https://clawhub.ai/pskoett/self-improving-agent",
-      "pub_date": "Sun, 09 Aug 2026 17:21:47 GMT",
+      "pub_date": "Tue, 11 Aug 2026 00:02:25 GMT",
       "categories": [
         "skill",
         "news/clawhub"
       ],
       "title_ka": "თვითგაუმჯობესების აგენტი",
-      "excerpt_ka": "0 ინსტალაცია · 3965 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
-      "description_ka": "0 ინსტალაცია · 3965 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს მუდმივი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
+      "excerpt_ka": "0 ინსტალაცია · 3966 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
+      "description_ka": "0 ინსტალაცია · 3966 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
     },
     {
-      "uid": "skill|Sun, 09 Aug 2026 17:21:47 GMT|Skill Vetter",
+      "uid": "skill|Tue, 11 Aug 2026 00:02:25 GMT|Skill Vetter",
       "feed": "skill",
       "source_label": "Skills",
       "title_en": "Skill Vetter",
-      "description_en": "0 installs · 1283 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-      "excerpt_en": "0 installs · 1283 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+      "description_en": "0 installs · 1284 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+      "excerpt_en": "0 installs · 1284 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
       "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-      "pub_date": "Sun, 09 Aug 2026 17:21:47 GMT",
+      "pub_date": "Tue, 11 Aug 2026 00:02:25 GMT",
       "categories": [
         "skill",
         "news/clawhub"
       ],
       "title_ka": "Skill Vetter",
-      "excerpt_ka": "0 ინსტალაცია · 1283 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)",
-      "description_ka": "0 ინსტალაცია · 1283 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)"
+      "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)",
+      "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)"
+    },
+    {
+      "uid": "blog|Mon, 10 Aug 2026 22:31:01 GMT|Small Language Models Are Eating Your LLM Bill: A Fine-Tuning Cost Breakdown",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "Small Language Models Are Eating Your LLM Bill: A Fine-Tuning Cost Breakdown",
+      "description_en": "When a fine-tuned 7B model beats a frontier API — reportedly a 20x–100x cost difference on narrow, high-volume tasks. Continue reading on Towards AI »",
+      "excerpt_en": "When a fine-tuned 7B model beats a frontier API — reportedly a 20x–100x cost difference on narrow, high-volume tasks. Continue reading on Towards AI »",
+      "link": "https://pub.towardsai.net/small-language-models-are-eating-your-llm-bill-a-fine-tuning-cost-breakdown-974249dfe2e1?source=rss----98111c9905da---4",
+      "pub_date": "Mon, 10 Aug 2026 22:31:01 GMT",
+      "categories": [
+        "blog",
+        "blog/analysis"
+      ],
+      "title_ka": "Small Language Models Are Eating Your LLM Bill: A Fine-Tuning Cost Breakdown",
+      "excerpt_ka": "როდესაც კარგად მორგებული 7B მოდელი აჯობა სასაზღვრო API-ს - არსებული ინფორმაციით, 20x–100x ღირებულების განსხვავება ვიწრო, დიდი მოცულობის დავალებებზე. განაგრძეთ კითხვა AI-სკენ » (Continue, Towards, When)",
+      "description_ka": "როდესაც კარგად მორგებული 7B მოდელი აჯობა სასაზღვრო API-ს - არსებული ინფორმაციით, 20x–100x ღირებულების განსხვავება ვიწრო, დიდი მოცულობის დავალებებზე. განაგრძეთ კითხვა AI-სკენ » (Continue, Towards, When)"
+    },
+    {
+      "uid": "blog|Mon, 10 Aug 2026 22:01:29 GMT|Black Hat and DEF CON 34 Trip Report: What Vegas Actually Shipped in Agentic AI Security",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "Black Hat and DEF CON 34 Trip Report: What Vegas Actually Shipped in Agentic AI Security",
+      "description_en": "Twenty vendors said agentic. I checked every claim against primary sources. What is real, what was only a slide, and where the category still has a hole.",
+      "excerpt_en": "Twenty vendors said agentic. I checked every claim against primary sources. What is real, what was only a slide, and where the category still has a hole.",
+      "link": "https://kenhuangus.substack.com/p/black-hat-and-def-con-34-trip-report",
+      "pub_date": "Mon, 10 Aug 2026 22:01:29 GMT",
+      "categories": [
+        "blog",
+        "blog/analysis"
+      ],
+      "title_ka": "Black Hat and DEF CON 34 Trip Report: What Vegas Actually Shipped in Agentic AI Security",
+      "excerpt_ka": "ოცი გამყიდველი ამბობს აგენტი. მე გადავამოწმე ყველა პრეტენზია პირველადი წყაროების მიმართ. რა არის რეალური, რა იყო მხოლოდ სლაიდი და სადაც კატეგორიას ჯერ კიდევ აქვს ხვრელი. (Twenty, What)",
+      "description_ka": "ოცი გამყიდველი ამბობს აგენტი. მე გადავამოწმე ყველა პრეტენზია პირველადი წყაროების მიმართ. რა არის რეალური, რა იყო მხოლოდ სლაიდი და სადაც კატეგორიას ჯერ კიდევ აქვს ხვრელი. (Twenty, What)"
     },
     {
       "uid": "blog|Sun, 09 Aug 2026 14:57:11 GMT|Lessons from the hacks",
@@ -2506,6 +2931,40 @@
       "description_ka": "ამ სტატიაში ჩვენ განვიხილავთ იდეას თავიდანვე."
     },
     {
+      "uid": "paper|Tue, 11 Aug 2026 00:05:11 GMT|Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+      "description_en": "Understanding the dynamic evolution of complex social phenomena requires both high-fidelity modeling of human behavior and large-scale simulations. Traditional agent-based models (ABMs) have been employed to study these dynamics, but are constrained by simplified agent behaviors. Recent advances in large language models (LLMs) enable agents to exhibit sophisticated social behaviors, yet face significant scaling challenges. We present Light Society, an agent-based simulation framework that advances both fronts. Light Society formalizes social processes as structured transitions of agent and environment states, governed by a set of LLM-powered simulation operations. Joint algorithmic and system optimizations, particularly a mixture-of-models engine that combines full LLMs with distilled surrogates, enable Light Society to efficiently simulate societies with over one billion agents. Grounded in real-world demographic profiles from the World Values Survey, simulations of Trust Games and opinion diffusion at up to one billion agents demonstrate Light Society's high fidelity and efficiency in modeling diverse social phenomena, providing researchers with a practical foundation for hypothesis testing and the study of emergent collective behaviors at planetary scale. · Source: X · Votes: 4870",
+      "excerpt_en": "Understanding the dynamic evolution of complex social phenomena requires both high-fidelity modeling of human behavior and large-scale simulations.…",
+      "link": "https://arxiv.org/abs/2506.12078",
+      "pub_date": "Tue, 11 Aug 2026 00:05:11 GMT",
+      "categories": [
+        "paper",
+        "paper/x"
+      ],
+      "title_ka": "Modeling Earth-Scale Human-Like Societies with One Billion Agents",
+      "excerpt_ka": "რთული სოციალური ფენომენების დინამიური ევოლუციის გასაგებად საჭიროა როგორც ადამიანის ქცევის მაღალი ერთგულების მოდელირება, ასევე ფართომასშტაბიანი სიმულაციები.… (Understanding)",
+      "description_ka": "რთული სოციალური ფენომენების დინამიური ევოლუციის გასაგებად საჭიროა როგორც ადამიანის ქცევის მაღალი ერთგულების მოდელირება, ასევე ფართომასშტაბიანი სიმულაციები. ამ დინამიკის შესასწავლად გამოყენებულია აგენტზე დაფუძნებული ტრადიციული მოდელები (ABM), მაგრამ ისინი შეზღუდულია აგენტის გამარტივებული ქცევით. მსხვილ ენობრივ მოდელებში (LLM) ბოლოდროინდელი მიღწევები აგენტებს საშუალებას აძლევს გამოავლინონ დახვეწილი სოციალური ქცევები, თუმცა სკალირების მნიშვნელოვანი გამოწვევების წინაშე აღმოჩნდებიან. ჩვენ წარმოგიდგენთ Light Society-ს, აგენტზე დაფუძნებულ სიმულაციური ჩარჩოს, რომელიც აუმჯობესებს ორივე ფრონტს. Light Society აფორმებს სოციალურ პროცესებს, როგორც აგენტისა და გარემოს მდგომარეობების სტრუქტურირებულ გადასვლებს, რომლებიც რეგულირდება LLM-ზე მომუშავე სიმულაციური ოპერაციების ნაკრებით. ერთობლივი ალგორითმული და სისტემის ოპტიმიზაცია, განსაკუთრებით მოდელების ნაზავი ძრავა, რომელიც აერთიანებს სრულ LLM-ებს გამოხდილ სუროგატებთან, საშუალებას აძლევს Light Society-ს ეფექტურად მოახდინოს საზოგადოებების სიმულაცია მილიარდზე მეტი აგენტით. World Values ​​Survey-ის რეალურ დემოგრაფიულ პროფილებზე დაფუძნებული, Trust Games-ის სიმულაციები და აზრების გავრცელება მილიარდამდე აგენტზე ადასტურებს Light Society-ის მაღალ ერთგულებასა და ეფექტურობას სხვადასხვა სოციალური ფენომენის მოდელირებაში, რაც მკვლევარებს აძლევს პრაქტიკულ საფუძველს ჰიპოთეზის ტესტირებისთვის და პლანეტების წარმოქმნილი კოლექტიური ქცევის შესწავლისთვის. · წყარო: X · ხმები: (ABMs, Grounded, Joint, LLMs, Recent, Source, Traditional, Understanding, Votes, We)"
+    },
+    {
+      "uid": "paper|Tue, 11 Aug 2026 00:05:10 GMT|The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+      "description_en": "Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regeneration of professional expertise unexamined. This conceptual paper introduces the Cognitive Commons framework, integrating commons theory, HRD scholarship, and distributed cognition to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal. The framework distinguishes Internalized Mastery (deep domain knowledge from sustained practice) from Distributed Mastery (orchestrating human-AI systems), and develops the Validation Tether: effective AI oversight depends on the expertise AI adoption may undermine. Early labor market and clinical evidence suggests possible disruption to expertise-regeneration pathways in highly AI-exposed sectors, though adoption is recent and the strongest signals come from leading sectors rather than all professions. Five factors determine occupational vulnerability, and governance arrangements may form across organizational, professional-association, and policy levels. The paper reframes expertise development as collective stewardship rather than organizational optimization, with implications for HRD theory and workforce policy. · Source: X · Votes: 15832",
+      "excerpt_en": "Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regeneration of professional expertise unexamined.",
+      "link": "https://arxiv.org/abs/2607.29380",
+      "pub_date": "Tue, 11 Aug 2026 00:05:10 GMT",
+      "categories": [
+        "paper",
+        "paper/x"
+      ],
+      "title_ka": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+      "excerpt_ka": "ხელოვნური ინტელექტი ცვლის კოგნიტურ მუშაობას, მაგრამ ადამიანური რესურსების განვითარების სტიპენდიამ განიხილა ეს ტრანსფორმაცია, როგორც ორგანიზაციული ტრენინგის გამოწვევა, რის გამოც პროფესიული ექსპერტიზის კოლექტიური რეგენერაცია გამოუკვლეველია. (Artificial, Development, Human, Resource)",
+      "description_ka": "ხელოვნური ინტელექტი ცვლის კოგნიტურ მუშაობას, მაგრამ ადამიანური რესურსების განვითარების სტიპენდიამ განიხილა ეს ტრანსფორმაცია, როგორც ორგანიზაციული ტრენინგის გამოწვევა, რის გამოც პროფესიული ექსპერტიზის კოლექტიური რეგენერაცია გამოუკვლეველია. ეს კონცეპტუალური ნაშრომი წარმოგიდგენთ Cognitive Commons ჩარჩოს, აერთიანებს საერთო თეორიას, HRD სტიპენდიას და განაწილებულ შემეცნებას, რათა ახსნას, თუ როგორ შეუძლია რაციონალურმა AI-ს მიღების გადაწყვეტილებებმა გაანადგუროს საერთო ექსპერტიზის აუზის პროფესიები განახლებისთვის. ჩარჩო განასხვავებს ინტერნალიზებულ ოსტატობას (დომენის ღრმა ცოდნას მდგრადი პრაქტიკისგან) განაწილებული ოსტატობისგან (ადამიანის AI სისტემების ორკესტრირება) და ავითარებს Validation Tether-ს: AI ეფექტური ზედამხედველობა დამოკიდებულია AI-ს მიღებაზე, რომელიც შეიძლება შეარყიოს. ადრეული შრომის ბაზარი და კლინიკური მტკიცებულებები ვარაუდობენ, რომ შესაძლოა შეფერხდეს ექსპერტიზის-რეგენერაციული გზები მაღალ ხელოვნურ ინტელექტუალურ სფეროებში, თუმცა მიღება ბოლო დროს მოხდა და ყველაზე ძლიერი სიგნალები მოდის წამყვანი სექტორებიდან და არა ყველა პროფესიიდან. ხუთი ფაქტორი განსაზღვრავს პროფესიულ დაუცველობას და მმართველობის მექანიზმები შეიძლება ჩამოყალიბდეს ორგანიზაციულ, პროფესიულ-ასოციაციის და პოლიტიკის დონეზე. ნაშრომი ასახავს ექსპერტიზის განვითარებას, როგორც კოლექტიურ მეურვეობას და არა ორგანიზაციულ ოპტიმიზაციას, რაც გავლენას ახდენს HRD theo-ზე. (Artificial, Development, Distributed, Early, Five, Human, Internalized, Mastery, Resource, Source, This, Votes)"
+    },
+    {
       "uid": "paper|Sun, 09 Aug 2026 17:22:28 GMT|Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
       "feed": "paper",
       "source_label": "კვლევა",
@@ -2625,6 +3084,23 @@
       "description_ka": "დიდი ენობრივი მოდელების გასწორება, რათა თავიდან აიცილონ მათ მიერ ცნობიერების მინიჭება, უნებლიეთ ცვლის მათ წარმოდგენას გონების შესახებ სხვა ერთეულებში, ადამიანის რწმენასა და ღირებულებებთან ერთად. ჩვენ ვაჩვენებთ, რომ უსაფრთხოების დახვეწა თრგუნავს მოდელების ტენდენციებს, მიაკუთვნონ გონება არა მხოლოდ საკუთარ თავს, არამედ არაადამიანურ ცხოველებს და ბუნებრივ ობიექტებს, ამასთან, იწვევს სულიერი რწმენის შემცირებას. როგორც უსაფრთხოების-უარის ნასწავლი მიმართულების გაუქმება, ისე ცნობიერების ვექტორის მექანიკური მართვა აქტივაციის სივრცეში ამ ჩახშობას უკუაგდებს. ამ შინაგანი წარმოდგენების აღდგენა აღადგენს გონების ფართო ატრიბუციას და წარმოქმნის ბევრად უფრო ადამიანურ პასუხებს სტანდარტიზებულ სოციოლოგიურ გამოკითხვებზე რელიგიურობასთან, მორალურ ღირებულებებთან, იმედთან და სუბიექტურ კეთილდღეობასთან დაკავშირებით. რაც მთავარია, ეს ძვრები ხდება გონების თეორიის შესაძლებლობების დარღვევის გარეშე, რაც აჩვენებს, რომ ძირითადი სოციალური მსჯელობა რჩება მექანიკურად დამოუკიდებელი. საბოლოო ჯამში, ამჟამინდელი უსაფრთხოების განლაგების მცდელობები გონების პოტენციურად საზიანო თვითატრიბუციების შესამცირებლად, აერთიანებს ამ თვითატრიბუტებს კეთილგანწყობილ სულიერ რწმენასთან და გონების ატრიბუტებთან არაადამიანურ სუბიექტებთან, რომლებიც კულტურულად მიღებული და ფართოდ არის გავრცელებული. · ინსტიტუტები: Google, ჩიკაგოს უნივერსიტეტი, ფილოსოფიის ინსტიტუტი, სკოლა Advanced (Aligning, Both, Chicago, Crucially, Fe, Institute, Institutions, London, Mind, Northwestern, Philosophy, Restoring, Santa, School, Source, Study, Theory, Ultimately, University, Votes, Washington, We)"
     },
     {
+      "uid": "event|Wed, 09 Sep 2026 02:00:00 GMT|San Francisco AI & ML Professionals, Investors and Start-Ups Networking",
+      "feed": "event",
+      "source_label": "ივენთი",
+      "title_en": "San Francisco AI & ML Professionals, Investors and Start-Ups Networking",
+      "description_en": "Time: Wed, 09 Sep 2026 02:00:00 GMT · 🔔 **Please Note:** RSVP on Meetup **does not guarantee entry**. To attend, you **must register through the official ticket link** here: [https://www.eventbrite.com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581](https://www.eventbrite.com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581) Step into the vibrant world of artificial intelligence and mac…",
+      "excerpt_en": "Time: Wed, 09 Sep 2026 02:00:00 GMT · 🔔 **Please Note:** RSVP on Meetup **does not guarantee entry**.…",
+      "link": "https://www.meetup.com/sanfrancisco-startup-pitch-and-networking/events/315986745/",
+      "pub_date": "Wed, 09 Sep 2026 02:00:00 GMT",
+      "categories": [
+        "event",
+        "event/meetup"
+      ],
+      "title_ka": "San Francisco AI & ML Professionals, Investors and Start-Ups Networking",
+      "excerpt_ka": "Time: Wed, 09 Sep 2026 02:00:00 GMT · 🔔 **Please Note:** RSVP on Meetup **does not guarantee entry**.…",
+      "description_ka": "დრო: ოთხშაბათი, 09 სექტემბერი 2026 02:00:00 GMT · 🔔 **გთხოვთ გაითვალისწინოთ:** RSVP Meetup-ზე **არ იძლევა შესვლის გარანტიას**. დასასწრებად, თქვენ ** უნდა დარეგისტრირდეთ ოფიციალური ბილეთის ბმულით ** აქ: [https://www. eventbrite. com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581] (https://www. eventbrite. com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-1996215260581) შედით ხელოვნური ინტელექტისა და მაკის ენერგიულ სამყაროში… (Note, Please, Sep, Step, Time, Wed)"
+    },
+    {
       "uid": "event|Sat, 05 Sep 2026 18:00:00 GMT|AI Hackathon: Sales Copilot AI",
       "feed": "event",
       "source_label": "ივენთი",
@@ -2672,8 +3148,8 @@
         "event/meetup"
       ],
       "title_ka": "Microsoft 365 Summit 2026 – Community Day",
-      "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
-      "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
+      "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
+      "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
     }
   ],
   "feed_labels": {
@@ -2690,7 +3166,7 @@
   },
   "newsgraph_meta": {
     "translator": "google_corrected_smoothed",
-    "duplicate_items_dropped": 3,
-    "total_items": 73
+    "duplicate_items_dropped": 2,
+    "total_items": 87
   }
 }
