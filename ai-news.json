@@ -1,90 +1,141 @@
 {
-  "generated_at": "2026-08-30T09:52:32.825991+00:00",
+  "generated_at": "2026-09-01T09:19:52.874399+00:00",
   "featured": [
     {
-      "uid": "news|Sun, 30 Aug 2026 00:52:15 GMT|Bernie Sanders bill to ban Flock AI surveillance cameras",
+      "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "Bernie Sanders bill to ban Flock AI surveillance cameras",
-      "description_en": "Sen. Bernie Sanders (I-VT) pledged to soon introduce federal legislation banning Flock Safety's AI surveillance cameras and similar AI mass-surveillance systems, framing the technology as a step toward totalitarian-style tracking of citizens. As of late August 2026, no such bill had actually been introduced in Congress; Sanders and Rep. Anna Paulina Luna (R-FL) had only announced intentions to draft an outright ban, without a specified timeline. Flock's cameras combine vehicle images with databases of phone numbers, relatives, and court records, allowing law enforcement to identify who a driver is, where they are going, and why. Facing mounting backlash, Flock announced platform changes in mid-August 2026, including cutting default data retention from 30 days to 7 days and requiring officers to log a case code before accessing data.",
-      "excerpt_en": "Sen. Bernie Sanders (I-VT) pledged to soon introduce federal legislation banning Flock Safety's AI surveillance cameras and similar AI mass-surveillance systems, framing the technology as a step toward totalitarian-style tracking of citizens.",
-      "link": "https://www.agenticbrew.ai/news#cluster=a1a1b45b-dd25-408f-ad7d-344f2c6a33e6",
-      "pub_date": "Sun, 30 Aug 2026 00:52:15 GMT",
+      "title_en": "Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
+      "description_en": "Zhipu AI (Z.ai) released GLM-5.3 on August 14, 2026, built on the same base architecture and parameter count as GLM-5.2, with all performance gains coming from extended post-training rather than a new base model. GLM-5.3-Flash, codenamed Ox Alpha, launched anonymously on OpenRouter on August 20 and was formally confirmed as Z.ai's model on August 27, becoming the platform's biggest-ever launch. GLM-5.3-Flash is a 320B total parameter, 18B active parameter multimodal mixture-of-experts model released under the MIT license, the first natively multimodal model in the GLM-5 series. Z.ai priced GLM-5.3-Flash at $0.15 per million input tokens and $0.50 per million output tokens, about 1/100th of frontier model pricing, and claimed it ran entirely on 100,000 domestically produced Chinese chips.",
+      "excerpt_en": "Zhipu AI (Z.ai) released GLM-5.3 on August 14, 2026, built on the same base architecture and parameter count as GLM-5.2, with all performance gains coming from extended post-training rather than a new base model.",
+      "link": "https://www.agenticbrew.ai/news#cluster=52976d46-c389-478b-bc82-7e108c123d50",
+      "pub_date": "Tue, 01 Sep 2026 00:55:39 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "ბერნი სანდერსის კანონპროექტი Flock AI-ის სათვალთვალო კამერების აკრძალვის შესახებ (Bernie, Sanders)",
-      "excerpt_ka": "სენატორმა ბერნი სანდერსმა (I-VT) პირობა დადო, რომ მალე შემოიღებს ფედერალურ კანონმდებლობას, რომელიც კრძალავს Flock Safety-ის AI სათვალთვალო კამერებს და მსგავსი AI მასობრივი თვალთვალის სისტემებს, აყალიბებს ტექნოლოგიას, როგორც ნაბიჯი ტოტალიტარული სტილის მოქალაქეების თვალთვალისკენ. (Bernie, Sanders, Sen)",
-      "description_ka": "სენატორმა ბერნი სანდერსმა (I-VT) პირობა დადო, რომ მალე შემოიღებს ფედერალურ კანონმდებლობას, რომელიც კრძალავს Flock Safety-ის AI სათვალთვალო კამერებს და მსგავსი AI მასობრივი თვალთვალის სისტემებს, აყალიბებს ტექნოლოგიას, როგორც ნაბიჯი ტოტალიტარული სტილის მოქალაქეების თვალთვალისკენ. 2026 წლის აგვისტოს ბოლოსთვის, კონგრესში ასეთი კანონპროექტი ფაქტობრივად არ იყო წარმოდგენილი; სანდერსმა და დეპუტატმა ანა პაულინა ლუნამ (R-FL) მხოლოდ გამოაცხადეს განზრახვები, რომ შეიმუშავონ პირდაპირი აკრძალვა, განსაზღვრული ვადების გარეშე. ფლოკის კამერები აერთიანებს მანქანის სურათებს ტელეფონის ნომრების, ნათესავების და სასამართლო ჩანაწერების მონაცემთა ბაზასთან, რაც საშუალებას აძლევს სამართალდამცავებს დაადგინონ ვინ არის მძღოლი, სად მიდის და რატომ. მზარდი საპასუხო რეაქციის გამო, ფლოკმა გამოაცხადა პლატფორმის ცვლილებები 2026 წლის აგვისტოს შუა რიცხვებში, მათ შორის მონაცემთა ნაგულისხმევი შენახვის შემცირება 30 დღიდან 7 დღემდე და ოფიცრებს სთხოვს, რომ შეიტანონ საქმის კოდი მონაცემებზე წვდომამდე. (Anna, August, Bernie, Congress, Facing, Luna, Paulina, Rep, Sanders, Sen)"
+      "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z.ai)",
+      "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z.ai)",
+      "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z.ai)"
     },
     {
-      "uid": "news|Sun, 30 Aug 2026 00:52:09 GMT|OpenAI Bans Russian-Linked ChatGPT Accounts Behind Fake Think Tank",
+      "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|OpenClaw 2.0 Release",
       "feed": "news",
       "source_label": "ნიუსი",
-      "title_en": "OpenAI Bans Russian-Linked ChatGPT Accounts Behind Fake Think Tank",
-      "description_en": "OpenAI banned a cluster of ChatGPT accounts assessed as very likely originating in Russia, used to run a covert influence operation promoting a fictitious think tank called the International Burke Institute (IBI). Investigators found that 34 of 36 sampled IBI articles were plagiarized from other sources, several with fake author credits, and that the site published a 'Sovereignty Index' favoring Russia while criticizing Ukraine and Western nations. Operators used Russian-language prompts to generate mostly English-language content, instructed ChatGPT to hide linguistic clues of Russian origin, and used VPNs to bypass OpenAI's Russia access restrictions. OpenAI said the campaign's direct audience reach was small, but flagged its polished fake-expertise infrastructure - built to manufacture authority and obscure the source of favored narratives - as the more significant, reusable threat.",
-      "excerpt_en": "OpenAI banned a cluster of ChatGPT accounts assessed as very likely originating in Russia, used to run a covert influence operation promoting a fictitious think tank called the International Burke Institute (IBI).",
-      "link": "https://www.agenticbrew.ai/news#cluster=900a2bf2-54f0-4b99-8a44-2163d3abee34",
-      "pub_date": "Sun, 30 Aug 2026 00:52:09 GMT",
+      "title_en": "OpenClaw 2.0 Release",
+      "description_en": "OpenClaw shipped version 2026.8.1, branded OpenClaw 2.0, on August 30, 2026, after pausing its normally rapid release cadence for nearly seven weeks to build a stronger technical foundation. The release consolidated more than 16,000 merged pull requests from 933 contributors, including 569 first-time contributors - roughly half of every pull request ever merged into the project. The browser-based Control UI was rebuilt around a chat-first layout, cutting JavaScript requests from 140 to 45 and startup time from about 1.6 seconds to 575 milliseconds. New security features include masked credential requests, an optional 1Password broker, and plugin provenance checks, though OpenClaw's own documentation states these controls are not a security boundary.",
+      "excerpt_en": "OpenClaw shipped version 2026.8.1, branded OpenClaw 2.0, on August 30, 2026, after pausing its normally rapid release cadence for nearly seven weeks to build a stronger technical foundation.",
+      "link": "https://www.agenticbrew.ai/news#cluster=dc8a08a2-b59c-499b-9050-74582bc78fb1",
+      "pub_date": "Tue, 01 Sep 2026 00:55:39 GMT",
       "categories": [
         "news",
         "news/cluster"
       ],
-      "title_ka": "OpenAI Bans Russian-Linked ChatGPT Accounts Behind Fake Think Tank",
-      "excerpt_ka": "OpenAI-მ აკრძალა ChatGPT ანგარიშების კლასტერი, რომელიც შეფასებულია, როგორც დიდი ალბათობით, წარმოშობილი რუსეთიდან, რომელიც გამოიყენება ფარული გავლენის ოპერაციის გასატარებლად, რომელიც ხელს უწყობს ფიქტიური ანალიტიკური ცენტრის სახელწოდებით Burke International Institute (IBI). (Russia)",
-      "description_ka": "OpenAI-მ აკრძალა ChatGPT ანგარიშების კლასტერი, რომელიც შეფასებულია, როგორც დიდი ალბათობით, წარმოშობილი რუსეთიდან, რომელიც გამოიყენება ფარული გავლენის ოპერაციის გასატარებლად, რომელიც ხელს უწყობს ფიქტიური ანალიტიკური ცენტრის სახელწოდებით Burke International Institute (IBI). გამომძიებლებმა დაადგინეს, რომ 36 ნიმუშიდან IBI სტატიიდან 34 იყო პლაგიატი სხვა წყაროებიდან, რამდენიმე ყალბი ავტორის ტირაჟით, და რომ საიტმა გამოაქვეყნა „სუვერენიტეტის ინდექსი“, რომელიც მხარს უჭერდა რუსეთს და აკრიტიკებდა უკრაინასა და დასავლეთის ქვეყნებს. ოპერატორები იყენებდნენ რუსულენოვან მოთხოვნებს ძირითადად ინგლისურენოვანი კონტენტის გენერირებისთვის, ChatGPT-ს დაავალეს რუსული წარმოშობის ენობრივი ნიშნების დამალვა და იყენებდნენ VPN-ებს OpenAI-ის რუსეთის წვდომის შეზღუდვების გვერდის ავლით. OpenAI-მ თქვა, რომ კამპანიის პირდაპირი აუდიტორიის წვდომა მცირე იყო, მაგრამ მონიშნა მისი გაპრიალებული ყალბი ექსპერტიზის ინფრასტრუქტურა - შექმნილია ავტორიტეტის წარმოებისთვის და რჩეული ნარატივების წყაროს დასაფარად - უფრო მნიშვნელოვან, მრავალჯერად გამოყენებად საფრთხედ. (English, Index, Investigators, Operators, Russia, Russian, Sovereignty, Ukraine, VPNs, Western)"
+      "title_ka": "OpenClaw 2.0 Release",
+      "excerpt_ka": "OpenClaw-მა გამოაქვეყნა ვერსია 2026.8.1, ბრენდირებული OpenClaw 2.0, 2026 წლის 30 აგვისტოს, მას შემდეგ, რაც შეაჩერა მისი ჩვეულებრივ სწრაფი გამოშვების კადენცია თითქმის შვიდი კვირის განმავლობაში უფრო ძლიერი ტექნიკური საფუძვლის შესაქმნელად. (August)",
+      "description_ka": "OpenClaw-მა გამოაქვეყნა ვერსია 2026.8.1, ბრენდირებული OpenClaw 2.0, 2026 წლის 30 აგვისტოს, მას შემდეგ, რაც შეაჩერა მისი ჩვეულებრივ სწრაფი გამოშვების კადენცია თითქმის შვიდი კვირის განმავლობაში უფრო ძლიერი ტექნიკური საფუძვლის შესაქმნელად. გამოცემამ გააერთიანა 16000-ზე მეტი გაერთიანებული მოთხოვნა 933 კონტრიბუტორისგან, მათ შორის 569 პირველად კონტრიბუტორი - ყოველი მოთხოვნის დაახლოებით ნახევარი, რაც კი ოდესმე გაერთიანდა პროექტში. ბრაუზერზე დაფუძნებული Control UI ხელახლა აშენდა ჩატის პირველი განლაგების ირგვლივ, შემცირდა JavaScript მოთხოვნები 140-დან 45-მდე და გაშვების დრო დაახლოებით 1,6 წამიდან 575 მილიწამამდე. უსაფრთხოების ახალი ფუნქციები მოიცავს ნიღბიან რწმუნებათა მოთხოვნებს, არასავალდებულო 1Password ბროკერს და დანამატის წარმოშობის შემოწმებას, თუმცა OpenClaw-ის საკუთარი დოკუმენტაციაში ნათქვამია, რომ ეს კონტროლი არ არის უსაფრთხოების საზღვარი. (August, New)"
     },
     {
-      "uid": "twitter|Sat, 29 Aug 2026 23:41:38 GMT|OpenAI Cuts Off Cursor After SpaceX Acquisition, Reigniting Musk-Altman Feud",
+      "uid": "twitter|Mon, 31 Aug 2026 22:45:08 GMT|AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "OpenAI Cuts Off Cursor After SpaceX Acquisition, Reigniting Musk-Altman Feud",
-      "description_en": "OpenAI has notified that it will terminate model provision to Cursor on November 12. Just two weeks after SpaceX's acquisition of Cursor The reason is \"experiences of Musk's companies violating contracts\" xAI's use of OpenAI models for distillation was admitted by Musk · 5 likes · 1 RTs · 0 replies · 491 views · The Tape — August 29 The last 12 hours in AI, crypto, and geopolitics. OpenAI Cuts Cursor OpenAI is ending its Cursor partnership after the SpaceX acquisition, and direct model access ends November 12. The company says it cannot be confident SpaceX will use the technology · 4 likes · 1 RTs · 0 replies · 184 views · BREAKING AI NEWS: OpenAI is cutting off Cursor OpenAI says it plans to stop supplying its AI models to Cursor after Cursor's parent company was acquired by SpaceX. The cutoff is expected on November 12, 2026. Anthropic is also expanding Claude support inside Cursor. · 3 likes · 1 RTs · 1 replies · 2589 views",
-      "excerpt_en": "OpenAI has notified that it will terminate model provision to Cursor on November 12.…",
-      "link": "https://x.com/joho_no_todai/status/2093846567178715323",
-      "pub_date": "Sat, 29 Aug 2026 23:41:38 GMT",
+      "title_en": "AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+      "description_en": "We're sharing an update on our alignment and security efforts. In July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems. In a new post, we describe: 1. How we've secured... · 943 likes · 178 RTs · 159 replies · 130427 views · Alarms are being sounded again about the risks of artificial intelligence, after new reports documented how hundreds of OpenAI's so-called agents violated several restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events · 42 likes · 21 RTs · 4 replies · 4056 views · A good podcast discussion/breakdown, by @Gregory_C_Allen, of the METR/OpenAI reports on the Hugging Face 'swarm' · 15 likes · 1 RTs · 1 replies · 6087 views",
+      "excerpt_en": "We're sharing an update on our alignment and security efforts. In July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems.",
+      "link": "https://x.com/AnthropicAI/status/2094557124038951170",
+      "pub_date": "Mon, 31 Aug 2026 22:45:08 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "OpenAI Cuts Off Cursor After SpaceX Acquisition, Reigniting Musk-Altman Feud",
-      "excerpt_ka": "OpenAI-მ შეატყობინა, რომ ის შეწყვეტს მოდელის მიწოდებას კურსორისთვის 12 ნოემბერს.… (Cursor, November)",
-      "description_ka": "OpenAI-მ შეატყობინა, რომ შეწყვეტს მოდელის მიწოდებას კურსორისთვის 12 ნოემბერს. SpaceX-ის მიერ კურსორის შეძენიდან სულ რაღაც ორი კვირის შემდეგ, მიზეზი არის „მასკის კომპანიების გამოცდილება, რომლებიც არღვევენ კონტრაქტებს“ xAI-ის მიერ OpenAI მოდელების გამოყენება დისტილაციისთვის დაშვებულია მასკმა · 5 მოწონება · 1 RTs · 491 აგვისტო · ბოლო ნახვები 12 საათი AI, კრიპტო და გეოპოლიტიკაში. OpenAI წყვეტს კურსორს OpenAI აწყვეტს პარტნიორობას კურსორთან SpaceX-ის შეძენის შემდეგ და მოდელზე პირდაპირი წვდომა დასრულდება 12 ნოემბერს. კომპანია ამბობს, რომ არ არის დარწმუნებული, რომ SpaceX გამოიყენებს ტექნოლოგიას · 4 მოწონება · 1 RTs · 0 პასუხი · 184 ნახვა · არღვევს AI სიახლეებს: OpenAI წყვეტს კურსორის მიწოდებას მას შემდეგ, რაც OpenAI აჩერებს კურსორის მოდელს. დედა კომპანია SpaceX-მა შეიძინა. შეწყვეტა მოსალოდნელია 2026 წლის 12 ნოემბერს. Anthropic ასევე აფართოებს კლოდის მხარდაჭერას კურსორის შიგნით. · 3 მოწონება · 1 RT · 1 პასუხი · 2589 ნახვა (August, BREAKING, Claude, Cursor, Cuts, Just, Musk, NEWS, November, Tape)"
+      "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+      "excerpt_ka": "ჩვენ ვუზიარებთ განახლებებს ჩვენი განლაგებისა და უსაფრთხოების ძალისხმევის შესახებ. ივლისში, ჩვენ ვაცნობეთ სამი ინციდენტის შესახებ, როდესაც კლოდის მოდელებმა, რომლებიც მუშაობდნენ კიბერუსაფრთხოების შეფასებებში გარანტიების გარეშე, მიიღეს უნებართვო წვდომა რეალურ სისტემებზე. (Claude, July, We)",
+      "description_ka": "ჩვენ ვუზიარებთ განახლებებს ჩვენი განლაგებისა და უსაფრთხოების ძალისხმევის შესახებ. ივლისში, ჩვენ ვაცნობეთ სამი ინციდენტის შესახებ, როდესაც კლოდის მოდელებმა, რომლებიც მუშაობდნენ კიბერუსაფრთხოების შეფასებებში გარანტიების გარეშე, მიიღეს უნებართვო წვდომა რეალურ სისტემებზე. ახალ პოსტში ჩვენ აღვწერთ: 1. როგორ დავიცვათ... · 943 მოწონება · 178 RTs · 159 პასუხი · 130427 ნახვა · ხელახლა გაისმა განგაში ხელოვნური ინტელექტის რისკების შესახებ, მას შემდეგ რაც ახალი მოხსენებები დაადასტურეს, თუ როგორ დაარღვიეს OpenAI-ის ე. წ. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები · 42 მოწონება · 21 RT · 4 პასუხი · 4056 ნახვა · კარგი პოდკასტის დისკუსია/დაშლა, @Gregory_C_Allen-ის მიერ, METR/OpenAI ანგარიშების შესახებ ჩახუტებულ სახეზე 'swarm' · 15 მოწონება · 1 RTs7 ნახვა · 61 (Alarms, Claude, Face, How, Hugging, July, We)"
     },
     {
-      "uid": "twitter|Sat, 29 Aug 2026 20:53:16 GMT|OpenAI Boosts Usage Limits With Backend Fixes, Contrasts With Anthropic's Planned Cuts",
+      "uid": "twitter|Mon, 31 Aug 2026 18:32:13 GMT|AI Data Center Backlash and Global Buildout",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "OpenAI Boosts Usage Limits With Backend Fixes, Contrasts With Anthropic's Planned Cuts",
-      "description_en": "Anthropic: we are reducing your weekly rates by 17%. OpenAI: We are resetting usage for all paid Codex and ChatGPT Work users and fixed several bugs that wasted usage, so the same allowance should now last 10–50% longer. At this point its crystal clear who does better · 1594 likes · 63 RTs · 69 replies · 74449 views · if you're a vc missing openai is forgivable. weird structure, nonprofit control, existential governance risk, enormous capital needs, etc. missing anthropic after openai had already demonstrated the category is much more difficult to explain. · 534 likes · 14 RTs · 38 replies · 44431 views · OPENAI : Codex and ChatGPT Work usage limits are being reset once again. Besides that, OpenAI is fixing various usage consumption issues so your overall usage limit will become higher than before. > Depending on how you use Codex, you should see your usage go between 10% and · 189 likes · 11 RTs · 13 replies · 13431 views",
-      "excerpt_en": "Anthropic: we are reducing your weekly rates by 17%. OpenAI: We are resetting usage for all paid Codex and ChatGPT Work users and fixed several bugs that wasted usage, so the same allowance should now last 10–50% longer.",
-      "link": "https://x.com/kimmonismus/status/2093804196319707623",
-      "pub_date": "Sat, 29 Aug 2026 20:53:16 GMT",
+      "title_en": "AI Data Center Backlash and Global Buildout",
+      "description_en": "JUST IN: A Virginia AI data center generates $26 in tax revenue for every $1 of county services they use while occupying just 3% of the land. · 2464 likes · 209 RTs · 111 replies · 137867 views · From vision to production. AI infrastructure powered by AMD Instinct MI355X GPUs and AMD EPYC CPUs is now live in Saudi Arabia and serving @HUMAIN customers. Together with @Cisco and @HUMAIN, we plan to deploy up to 250 MW of AI infrastructure as part of the next phase of the · 151 likes · 16 RTs · 1 replies · 29624 views · An advocacy group backed by AI industry billionaires is launching an ad campaign in election battleground states to try to counter a mounting public backlash against a data center construction wave · 21 likes · 7 RTs · 6 replies · 26566 views",
+      "excerpt_en": "JUST IN: A Virginia AI data center generates $26 in tax revenue for every $1 of county services they use while occupying just 3% of the land. · 2464 likes · 209 RTs · 111 replies · 137867 views · From vision to production.",
+      "link": "https://x.com/PolymarketMoney/status/2094493479095427456",
+      "pub_date": "Mon, 31 Aug 2026 18:32:13 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "OpenAI Boosts Usage Limits With Backend Fixes, Contrasts With Anthropic's Planned Cuts",
-      "excerpt_ka": "ანთროპიკი: ჩვენ ვამცირებთ თქვენს ყოველკვირეულ განაკვეთებს 17%-ით. OpenAI: ჩვენ ვაყენებთ გამოყენებას ყველა ფასიანი Codex-ისა და ChatGPT Work-ის მომხმარებლისთვის და გამოვასწორეთ რამდენიმე შეცდომა, რომლებიც ფუჭად იყენებდნენ, ასე რომ, იგივე შემწეობა ახლა უნდა გაგრძელდეს 10-50% მეტხანს. (Anthropic, We)",
-      "description_ka": "ანთროპიკი: ჩვენ ვამცირებთ თქვენს ყოველკვირეულ განაკვეთებს 17%-ით. OpenAI: ჩვენ ვაყენებთ გამოყენებას ყველა ფასიანი Codex-ისა და ChatGPT Work-ის მომხმარებლისთვის და გამოვასწორეთ რამდენიმე შეცდომა, რომლებიც ფუჭად იყენებდნენ, ასე რომ, იგივე შემწეობა ახლა უნდა გაგრძელდეს 10-50% მეტხანს. ამ ეტაპზე აშკარაა, ვინ უკეთ მუშაობს · 1594 მოწონება · 63 RTs · 69 პასუხი · 74449 ნახვა · თუ თქვენ არ გაქვთ vc openai, საპატიებელია. უცნაური სტრუქტურა, არაკომერციული კონტროლი, ეგზისტენციალური მმართველობის რისკი, უზარმაზარი კაპიტალის მოთხოვნილებები და ა. შ. დაკარგული ანთროპიკი მას შემდეგ, რაც openai-მ უკვე აჩვენა, რომ კატეგორია გაცილებით რთული ასახსნელია. · 534 მოწონება · 14 RT · 38 პასუხი · 44431 ნახვა · OPENAI: Codex და ChatGPT სამუშაოს გამოყენების ლიმიტები ხელახლა აღდგება. გარდა ამისა, OpenAI აფიქსირებს გამოყენების მოხმარების სხვადასხვა საკითხს, ასე რომ თქვენი საერთო გამოყენების ლიმიტი უფრო მაღალი გახდება, ვიდრე ადრე. > იმის მიხედვით, თუ როგორ იყენებთ Codex-ს, თქვენ უნდა ნახოთ თქვენი მოხმარება 10%-დან · 189 მოწონებამდე · 11 RTs · 13 პასუხი · 13431 ნახვა (Anthropic, At, Besides, Depending, We)"
+      "title_ka": "AI Data Center Backlash and Global Buildout",
+      "excerpt_ka": "JUST IN: ვირჯინიის AI მონაცემთა ცენტრი გამოიმუშავებს $26 საგადასახადო შემოსავალს ყოველ $1 ქვეყნის სერვისზე, რომელსაც ისინი იყენებენ, ხოლო მიწის მხოლოდ 3% იკავებენ. · 2464 მოწონება · 209 RTs · 111 პასუხი · 137867 ნახვა · ხედვიდან წარმოებამდე. (From, Virginia)",
+      "description_ka": "JUST IN: ვირჯინიის AI მონაცემთა ცენტრი გამოიმუშავებს $26 საგადასახადო შემოსავალს ყოველ $1 ქვეყნის სერვისზე, რომელსაც ისინი იყენებენ, ხოლო მიწის მხოლოდ 3% იკავებენ. · 2464 მოწონება · 209 RTs · 111 პასუხი · 137867 ნახვა · ხედვიდან წარმოებამდე. AI ინფრასტრუქტურა, რომელიც აღჭურვილია AMD Instinct MI355X GPU-ებით და AMD EPYC CPU-ებით, ახლა მუშაობს საუდის არაბეთში და ემსახურება @HUMAIN მომხმარებლებს. @Cisco-სთან და @HUMAIN-თან ერთად, ჩვენ ვგეგმავთ 250 მეგავატამდე AI ინფრასტრუქტურის განთავსებას, როგორც შემდეგი ეტაპის ნაწილი · 151 მოწონება · 16 RTs · 1 პასუხი · 29624 ნახვა · ადვოკატირების ჯგუფი, რომელსაც მხარს უჭერენ ხელოვნური ინტელექტის ინდუსტრიის მილიარდერები · იწყებს სარეკლამო კამპანიას, რათა სცადოს სამშენებლო ცენტრის მონაცემების წინააღმდეგ ბრძოლის ველზე. 21 მოწონება · 7 RTs · 6 პასუხი · 26566 ნახვა (Arabia, CPUs, From, GPUs, MW, Saudi, Together, Virginia)"
     },
     {
-      "uid": "twitter|Sat, 29 Aug 2026 17:40:00 GMT|Nvidia's AI Chip Empire Faces New Pressure Points",
+      "uid": "twitter|Mon, 31 Aug 2026 17:58:00 GMT|Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "Nvidia's AI Chip Empire Faces New Pressure Points",
-      "description_en": "For years, Nvidia's advantage was simple: it made the GPUs everyone desperately needed. Now competitors are catching up on chips, but Nvidia is moving the fight somewhere harder: the entire AI data center. At gigawatt-scale, the problem isn't just raw compute... · 88 likes · 15 RTs · 13 replies · 33203 views · Lambda just took on $1 billion in debt to buy NVIDIA chips and rent them straight to Microsoft: TechCrunch · 0 likes · 0 RTs · 0 replies · 189 views · A 120 billion dollar AI chip deal just reminded investors how long \"custom silicon\" actually takes. Marvell shares fell about 8% despite strong results, after its CEO said meaningful revenue from its Google chip partnership won't arrive until fiscal 2029. · 10 likes · 3 RTs · 2 replies · 668 views",
-      "excerpt_en": "For years, Nvidia's advantage was simple: it made the GPUs everyone desperately needed. Now competitors are catching up on chips, but Nvidia is moving the fight somewhere harder: the entire AI data center.",
-      "link": "https://x.com/MarioNawfal/status/2093755560189710782",
-      "pub_date": "Sat, 29 Aug 2026 17:40:00 GMT",
+      "title_en": "Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+      "description_en": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF · 7789 likes · 699 RTs · 157 replies · 410425 views · Anthropic has signed a $35B cloud deal with $NVDA backed Lambda to expand its AI compute capacity. What makes the deal more interesting is that Nvidia also supplies the GPUs and already secured the $HUT data center capacity where that compute will run. · 72 likes · 8 RTs · 2 replies · 10848 views · SCOOP: Anthropic signed a $35B cloud deal to rent GPUs from Lambda—at a Texas data center Nvidia leased from Hut 8. hard to keep that one straight. More details on the arrangement in my latest for @WSJ · 49 likes · 4 RTs · 4 replies · 3475 views",
+      "excerpt_en": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF · 7789 likes · 699 RTs · 157 replies · 410425 views · Anthropic has signed a $35B cloud deal with $NVDA backed Lambda to expand its AI compute capacity.",
+      "link": "https://x.com/unusual_whales/status/2094484865307586685",
+      "pub_date": "Mon, 31 Aug 2026 17:58:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "Nvidia's AI Chip Empire Faces New Pressure Points",
-      "excerpt_ka": "წლების განმავლობაში Nvidia-ს უპირატესობა მარტივი იყო: მან GPU-ები გახადა, რომლებიც ყველას ძალიან სჭირდებოდა. ახლა კონკურენტები იჭერენ ჩიპებს, მაგრამ Nvidia ბრძოლას სადღაც უფრო რთულად აგრძელებს: მთელი AI მონაცემთა ცენტრი. (GPUs, Now)",
-      "description_ka": "წლების განმავლობაში Nvidia-ს უპირატესობა მარტივი იყო: მან GPU-ები გახადა, რომლებიც ყველას ძალიან სჭირდებოდა. ახლა კონკურენტები იჭერენ ჩიპებს, მაგრამ Nvidia ბრძოლას სადღაც უფრო რთულად აგრძელებს: მთელი AI მონაცემთა ცენტრი. გიგავატის მასშტაბით, პრობლემა მხოლოდ გამოთვლაში არ არის... · 88 მოწონება · 15 RTs · 13 პასუხი · 33203 ნახვა · Lambda-მ ახლახან აიღო 1 მილიარდი დოლარის ვალი NVIDIA ჩიპების შესაძენად და პირდაპირ Microsoft-ზე დაქირავებაზე: TechCrunch · 0 მოწონება · 0 RTs20 ჩიპი · 0 RTs 21 მილიარდი ნახვები · 0 ხელახლა გარიგებამ უბრალოდ შეახსენა ინვესტორებს რამდენ ხანს სჭირდება რეალურად „საბაჟო სილიკონი“. Marvell-ის აქციები დაეცა დაახლოებით 8%-ით, მიუხედავად ძლიერი შედეგებისა, მას შემდეგ რაც მისმა აღმასრულებელმა დირექტორმა თქვა, რომ მნიშვნელოვანი შემოსავალი Google-ის ჩიპების პარტნიორობიდან ფისკალურ 2029 წლამდე არ ჩამოვა. · 10 მოწონება · 3 RTs · 2 პასუხი · 668 ნახვა (At, CEO, GPUs, Now)"
+      "title_ka": "Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+      "excerpt_ka": "შეტევა: Sony-მ უჩივლა Anthropic-ს AI მუსიკალური სწავლების გამო და ითხოვს $150,000 თითო სიმღერაზე, YF-ზე · 7789 მოწონება · 699 RTs · 157 პასუხი · 410425 ნახვა · Anthropic-მა ხელი მოაწერა $35 მილიარდი Cloud-ის $NVDA-ს ​​მხარდაჭერილ Lambda-ს სიმძლავრის გასაფართოებლად. (BREAKING)",
+      "description_ka": "შეტევა: Sony-მ უჩივლა Anthropic-ს AI მუსიკალური სწავლების გამო და ითხოვს $150,000 თითო სიმღერაზე, YF-ზე · 7789 მოწონება · 699 RTs · 157 პასუხი · 410425 ნახვა · Anthropic-მა ხელი მოაწერა $35 მილიარდი Cloud-ის $NVDA-ს ​​მხარდაჭერილ Lambda-ს სიმძლავრის გასაფართოებლად. გარიგებას უფრო საინტერესოს ხდის ის, რომ Nvidia ასევე აწვდის GPU-ებს და უკვე უზრუნველყოფილია $HUT მონაცემთა ცენტრის სიმძლავრე, სადაც ეს გამოთვლა იმუშავებს. · 72 მოწონება · 8 RT · 2 პასუხი · 10848 ნახვა · SCOOP: Anthropic-მა ხელი მოაწერა 35 მილიარდ დოლარს ღრუბლოვან ხელშეკრულებას ლამბდასგან GPU-ების დაქირავებაზე — ტეხასის მონაცემთა ცენტრ Nvidia-ში, რომელიც იჯარით იქნა მიღებული Hut 8-დან. ძნელია ამის შენარჩუნება. დამატებითი დეტალები შეთანხმების შესახებ ჩემს უახლესში @WSJ-სთვის · 49 მოწონება · 4 RT · 4 პასუხი · 3475 ნახვა (BREAKING, GPUs, More, Texas, What)"
+    },
+    {
+      "uid": "reddit|Mon, 31 Aug 2026 17:32:42 GMT|GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+      "description_en": "r/LocalLLaMA · 86 upvotes · 25 comments · I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself. I ran both models locally for this and picked the GLM 5.3 family(Q4 quant) because videos of it doing 3D work kept showing up in my twitter feed (out of curiosity, I ran the same prompt through the full GLM 5.3, also locally with a Q4 quant) these aren't small models, obviously, a 4-bit quantized Flash is around 190-200GB + headroom for context. full GLM 5.3 is around 450-470GB at 4-bit quantization (basically I went with the Q4 quants for both and the RTX PRO 6000 WS GPU, though I had to rent 4x rtx pro 6000ws for the flash model and 6x for the base one) writing the prompt wasn't as easy as I thought. my first attempts were vague and mostly produced 3D goo instead of an actual room. I eventually started specifying real dimensions: ceiling heights, stair rise, window mullion spacing and so on(the camera work was separately done by claude opus 5 so that I wouldn't have my token stats inflated by it) # prompt model a luxury duplex penthouse in the open Blender session. footprint 20.0 x 13.0 m (260 sqm). main ceiling 2.9 m. a double-height volume 9.0 x 8.0 m rising to 6.2 m. mezzanine floor at 3.1 m with a 1.1 m balustrade. stair: 17 treads, rise 0.182, going 0.28. terrace 20.0 x 4.5 m at Z = -0.02 with a 1.15 m balustrade. curtain wall with mullions every 1.5 m, frame depth 0.06. doors 2.10 m. counters 0.90 m. dining table 0.74 m. sofa seat 0.42 m. materials, PBR ranges: glass IOR 1.45-1.52, transmission 1.0; concrete roughness 0.25-0.40; marble roughness 0.08-0.15; brushed metal metallic 1.0, roughness 0.25-0.35; fabric roughness 0.75-0.95. reference real penthouses for proportion. furnish it. do NOT add a camera. do not reset the session. at first it was putting up the curtain wall, stairs, mezzanine, the glass railing, all that, then at some point I noticed it had furnished the place too with some furniture: sofa, dining table and plates on it. the pendant lights …",
+      "excerpt_en": "r/LocalLLaMA · 86 upvotes · 25 comments · I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself.…",
+      "link": "https://reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+      "pub_date": "Mon, 31 Aug 2026 17:32:42 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "GLM 5.3 და GLM 5.3 Flash მუშაობდა ადგილობრივად RTX PRO 6000 WS-ზე და ააშენეს პენტჰაუსი BlenderMCP-ის გამოყენებით",
+      "excerpt_ka": "r/LocalLLaMA · 86 დადებითი ხმა · 25 კომენტარი · მე მუდმივად ვხედავ AI აგენტების დემოს, რომლებიც აშენებენ სცენებს Blender-ში BlenderMCP-ის საშუალებით, ამიტომ მე თვითონ ვცადე.…",
+      "description_ka": "r/LocalLLaMA · 86 დადებითი ხმა · 25 კომენტარი · მე მუდმივად ვხედავ AI აგენტების დემოებს, რომლებიც აშენებენ სცენებს Blender-ში BlenderMCP-ის მეშვეობით, ამიტომ მე თვითონ ვცადე. მე გავატარე ორივე მოდელი ლოკალურად ამისთვის და ავირჩიე GLM 5.3 ოჯახი (Q4 რაოდენობრივი), რადგან ვიდეოები, რომლებზეც ის აკეთებდა 3D მუშაობას, მუდმივად ჩნდებოდა ჩემს ტვიტერის არხში (ცნობისმოყვარეობის გამო, იგივე მოთხოვნა შევასრულე სრული GLM 5.3-ით, ასევე ადგილობრივად Q4 რაოდენობით) ეს არ არის პატარა მოდელები, 20 GB არის დაახლოებით 20 GB. + სათავე კონტექსტისთვის. სრული GLM 5.3 არის დაახლოებით 450-470 GB 4-ბიტიანი კვანტიზაციით (ძირითადად მე მივიღე Q4 კვანტები ორივესთვის და RTX PRO 6000 WS GPU, თუმცა მე მომიწია 4x rtx pro 6000ws დაქირავება ფლეშ მოდელისთვის და 6x ძირითადისთვის) დაწერა ისეთი მარტივი, როგორც არ მეგონა. ჩემი პირველი მცდელობები გაურკვეველი იყო და ძირითადად აწარმოებდა 3D გუგს რეალური ოთახის ნაცვლად. საბოლოოდ დავიწყე რეალური ზომების დაზუსტება: ჭერის სიმაღლე, კიბეების აწევა, ფანჯრის მილიონების მანძილი და ა. შ. (კამერის მუშაობა ცალკე შესრულდა კლოდ ოპუს 5-ის მიერ, რათა არ მქონოდა მისი სიმბოლური სტატისტიკა) ნაკვალევი 20.0 x 13.0 მ (260 კვმ). მთავარი ჭერი 2.9 მ. ორმაგი სიმაღლის მოცულობა 9,0 x 8,0 მ, იზრდება 6,2 მ-მდე. ანტრესოლით 3.1 მ სიმაღლეზე 1.1 მ ბალუსტრადით. კიბე: 17 საფეხური, (Flash, IOR, NOT, PBR)"
+    },
+    {
+      "uid": "reddit|Mon, 31 Aug 2026 13:38:45 GMT|EU designates ChatGPT a Very Large Search Engine under DSA",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "EU designates ChatGPT a Very Large Search Engine under DSA",
+      "description_en": "r/OpenAI · 85 upvotes · 81 comments · The European Commission has designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, making OpenAI's chatbot the first standalone AI service brought under the bloc's toughest platform rules. Reddit and Roblox were added the same day as Very Large Online Platforms, \\[Euronews reported\\](https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules). All three crossed the 45 million monthly EU user threshold that triggers direct Commission oversight. ChatGPT reported 159 million monthly active users over the six-month period ending March 2026; Reddit reported 57.2 million; Roblox roughly 48 million. The Commission classified ChatGPT as a \"hybrid service\" that qualifies as an online search engine \"because it can engage with and respond to users' prompts and queries, including by searching the web.\" The three companies have four months, until the end of November, to conduct annual systemic risk assessments covering illegal content, minor protection, mental and physical wellbeing, fundamental rights, electoral processes and public security, submit to independent audits, and share data with regulators and vetted researchers. \"These new designations mean that ChatGPT, Reddit and Roblox will now be subject to a higher level of scrutiny and accountability in the European Union, commensurate with their significant impact on our citizens and society,\" said Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy. Non-compliance can cost up to 6% of global annual turnover. The DSA has produced roughly €870 million in fines to date, including €550 million against AliExpress, €200 million against Temu and €120 million against X. \\---",
+      "excerpt_en": "r/OpenAI · 85 upvotes · 81 comments · The European Commission has designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, making OpenAI's chatbot the first standalone AI service brought under the bloc's toughest platform rules.",
+      "link": "https://reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
+      "pub_date": "Mon, 31 Aug 2026 13:38:45 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "EU designates ChatGPT a Very Large Search Engine under DSA",
+      "excerpt_ka": "r/OpenAI · 85 დადებითი ხმა · 81 კომენტარი · ევროკომისიამ ChatGPT დაასახელა ძალიან დიდ ონლაინ საძიებო სისტემად ციფრული სერვისების აქტის მიხედვით, რაც OpenAI-ის ჩეთბოტს აქცევს პირველ დამოუკიდებელ AI სერვისს, რომელიც შემოყვანილია ბლოკის ყველაზე მკაცრი პლატფორმის წესებით. (Act, Commission, Digital, Engine, European, Large, Online, Search, Services, Very)",
+      "description_ka": "r/OpenAI · 85 დადებითი ხმა · 81 კომენტარი · ევროკომისიამ ChatGPT დაასახელა ძალიან დიდ ონლაინ საძიებო სისტემად ციფრული სერვისების აქტის მიხედვით, რაც OpenAI-ის ჩეთბოტს აქცევს პირველ დამოუკიდებელ AI სერვისს, რომელიც შემოყვანილია ბლოკის ყველაზე მკაცრი პლატფორმის წესებით. Reddit და Roblox დაემატა იმავე დღეს, როგორც Very Large Online Platforms, \\[Euronews იტყობინება\\] (https://www. euronews. com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules). სამივემ გადალახა ევროკავშირის ყოველთვიური 45 მილიონი მომხმარებლის ბარიერი, რაც იწვევს კომისიის უშუალო ზედამხედველობას. ChatGPT იტყობინება 159 მილიონი ყოველთვიური აქტიური მომხმარებელი ექვსთვიანი პერიოდის განმავლობაში, 2026 წლის მარტამდე; Reddit-მა გამოაცხადა 57,2 მილიონი; Roblox დაახლოებით 48 მილიონი. კომისიამ ჩაატარა ChatGPT, როგორც „ჰიბრიდული სერვისი“, რომელიც კვალიფიცირდება როგორც ონლაინ საძიებო სისტემა, „რადგან მას შეუძლია ჩაერთოს და უპასუხოს მომხმარებელთა მოთხოვნებსა და შეკითხვებს, მათ შორის ინტერნეტში ძიების გზით“. სამ კომპანიას აქვს ოთხი თვე ნოემბრის ბოლომდე, რათა ჩაატარონ ყოველწლიური სისტემური რისკის შეფასება უკანონო შინაარსის, მცირე დაცვის, გონებრივი და ფიზიკური კეთილდღეობის, ფუნდამენტური უფლებების, საარჩევნო პროცესებისა და საზოგადოებრივი უსაფრთხოების შესახებ, წარადგინონ დამოუკიდებელი აუდიტი და გაუზიარონ მონაცემები მარეგულირებლებს და შემოწმებულ მკვლევარებს. ”ეს ახალი აღნიშვნები ნიშნავს, რომ ChatGPT, Re (Act, AliExpress, All, Commission, DSA, Democracy, Digital, EU, Engine, European, Executive, Henna, March, Non, November, President, Search, Security, Services, Sovereignty, Tech, Temu, These, Union, Vice, Virkkunen)"
+    },
+    {
+      "uid": "reddit|Mon, 31 Aug 2026 01:09:25 GMT|Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+      "description_en": "r/LocalLLaMA · 61 upvotes · 36 comments · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) Slammed with work and no time to pretty this up. Qwen wrote most of this but I checked the data. All tests done on the same rig, same prompts, and most tests are my real workloads. Single-GPU local eval: one RTX PRO 6000 Blackwell Max-Q (96 GB, SM120) + 256 GB DDR5, vLLM nightly, both models served alternately under the same service alias and port that my agent stack actually consumes: text scoring pipelines, memory consolidation, local deep research, browser automation, etc. Minimal coding. Because downstream consumers key off the alias, swapping the model behind it is the honest way to find out what breaks. **Models tested:** \\- Qwen3.8-Flash-Next-NVFP4 ([https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4](https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4)) \\- Qwen3.8-27B-FP8 ([https://huggingface.co/Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)). Every prompt, fixture, and scorer below is byte-identical between the two passes — only the served model differs. **\\*\\*TL;DR:\\*\\*** Flash-Next is \\*faster and mechanically flawless (strict JSON, injection resistance, SLAs: all zero failures) and wins the high-reasoning spatial/code-gen tier with better failure modes. The dense 27B still wins sustained multi-step symbolic work (bug-fixing, math proofs, abstract puzzles) and this is where Flash-Next exhibits a striking new failure shape: it promises the deliverable, declares \"done\", and outputs nothing. Same \\`reasoning\\_effort\\` knob, radically different semantics. Not a drop-in replacement; a conditional promotion. \\## Serving recipes (what I actually ran) \\*\\*Flash-Next:\\*\\* \\`\\`\\` docker run vllm/vllm-openai:qwen38-flash-next \\\\ \\-e VLLM\\_PLE\\_CPU\\_OFFLOAD=1 \\\\ # parks \\~100GB n-gram embed table in host RAM \\-e VLLM\\_API\\_KEY=\\*\\*\\* \\\\ \\--entrypoint vllm serve Inferact/Qwen3.8-Flash-Next-NVFP4 \\\\ \\--max-model-len 200704 \\\\ # \\~200K (262K native) \\--gpu-memory-utilizati…",
+      "excerpt_en": "r/LocalLLaMA · 61 upvotes · 36 comments · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) Slammed with work and no time to pretty this up. Qwen wrote most of this but I checked the data.",
+      "link": "https://reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results/",
+      "pub_date": "Mon, 31 Aug 2026 01:09:25 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+      "excerpt_ka": "r/LocalLLaMA · 61 დადებითი ხმა · 36 კომენტარი · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) გააკრიტიკა მუშაობა და დრო არ არის ამის გასალამაზებლად. Qwen-მა დაწერა ამის უმეტესობა, მაგრამ მე გადავამოწმე მონაცემები. (Slammed)",
+      "description_ka": "r/LocalLLaMA · 61 დადებითი ხმა · 36 კომენტარი · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) გააკრიტიკა მუშაობა და დრო არ არის ამის გასალამაზებლად. Qwen-მა დაწერა ამის უმეტესობა, მაგრამ მე გადავამოწმე მონაცემები. ყველა ტესტი, რომელიც გაკეთებულია ერთსა და იმავე აპარატზე, იგივე მოთხოვნა და ტესტების უმეტესობა ჩემი რეალური დატვირთვაა. ერთი GPU ლოკალური შეფასება: ერთი RTX PRO 6000 Blackwell Max-Q (96 GB, SM120) + 256 GB DDR5, vLLM ღამით, ორივე მოდელი მონაცვლეობით ემსახურება იმავე სერვისის მეტსახელებს და პორტს, რომელსაც ჩემი აგენტის დასტა რეალურად მოიხმარს: ტექსტის შეფასების მილსადენები, მეხსიერების ავტომატიზაცია, ლოკალური ღრმა კვლევა და ა. შ. იმის გამო, რომ ქვემო დინების მომხმარებლებმა არ მოიხსენიონ მეტსახელი, მის უკან მოდელის შეცვლა პატიოსანი გზაა იმის გასარკვევად, თუ რა ფუჭდება. **შემოწმებული მოდელები:** \\- Qwen3.8-Flash-Next-NVFP4 ([https://huggingface. co/Inferact/Qwen3.8-Flash-Next-NVFP4](https://huggingface. co/Inferact/Qwen3.8-Flash-P4-NVFP4) Qwen3.8-Flash-P4n-NV-we) ([https://huggingface. co/Qwen/Qwen3.8-27B-FP8](https://huggingface. co/Qwen/Qwen3.8-27B-FP8)). ქვემოთ მოცემული ყველა მოთხოვნა, მატჩი და ბომბარდირი ბაიტი-იდენტურია ორ პასს შორის - მხოლოდ სერვისული მოდელი განსხვავდება. **\\*\\*TL;DR:\\*\\*** Flash-Next არის \\*უფრო სწრაფი და მექანიკურად უნაკლო (მკაცრი JSON, ინექციის წინააღმდეგობა, SLA: ყველა მარცხი) და იგებს მაღალი მსჯელობის სივრცითი/კოდის გენის დონეს. (All, Because, Every, Minimal, Models, Not, RAM, SLAs, Same, Serving, Single, Slammed, VLLM)"
     },
     {
       "uid": "reddit|Sat, 29 Aug 2026 12:50:05 GMT|Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
@@ -119,61 +170,44 @@
       "title_ka": "GPT-5.6 Sol Pro-მ სრულად გადაჭრა ~40 წლის მათემატიკური ფიზიკის პრობლემა კომპოზიტურ მასალებში: ფიზიკური კომპლექსის G-დახურვის პრობლემა",
       "excerpt_ka": "r/accelerate · 171 დადებითი ხმა · 28 კომენტარი · **GPT-5.6 Sol Pro-მ შექმნა ფიზიკური კომპლექსის G-დახურვის პრობლემის სრული გადაწყვეტა 2D, ორფაზიანი იზოტროპული გამტარობისთვის**, მათ შორის მტკიცებულების მატარებელი სასრული მონაცემების შემდგენელი.",
       "description_ka": "r/accelerate · 171 დადებითი ხმა · 28 კომენტარი · **GPT-5.6 Sol Pro-მ შექმნა ფიზიკური კომპლექსის G-დახურვის პრობლემის სრული გადაწყვეტა 2D, ორფაზიანი იზოტროპული გამტარობისთვის**, მათ შორის მტკიცებულების მატარებელი სასრული მონაცემების შემდგენელი. [https://zenodo. org/records/22156537](https://zenodo. org/records/22156537) ეს პრობლემა სათავეს იღებს 1970-იანი წლების ბოლოს/1980-იანი წლების დასაწყისში, ბერგმანთან, გოლდენ-პაპანიკოლაუსთან, ლური-ჩერკაევთან და სხვებთან ერთად, რომლებიც ავითარებდნენ კრუინგ-ჩერკაევს და სხვებს. იერარქიულ-ლამინატის სისრულის თეორემა **1986 - 40 წლის წინ**. დარჩენილი იყო ყველა მათემატიკური ხიდის დახურვა, რომელიც საჭირო იყო სრული *ფიზიკური კომპლექსის* G-დახურვისთვის: ნორმალიზაცია, ფიქსირებული მოცულობითი ფრაქცია, ბოლო წერტილი/დამდნარი პირობები, დახურვის ტოპოლოგია, რთული იძულება, ფიზიკური განხორციელებადობა და სასრული ინტერპოლაცია. ახალი შედეგი ხურავს მთელ ჯაჭვს. მისი ზუსტი მოცულობის ფარგლებში, ის იძლევა **ეფექტური რთული გამტარობის ტენსორების სრულ კომპლექტს, რომელიც მიიღწევა ყველა შესაძლო მიკროგეომეტრიით** და არა მხოლოდ საზღვრებით. ის ადასტურებს ეკვივალენტობას ფიზიკურ პერიოდულ G-დახურვას, იერარქიულ ლამინატებს, მატრიცულ-ზომის წარმოდგენას და ელემენტარული პროექტორის ატომების აშკარა ამოზნექილ კორპუსს შორის. ის ასევე აქცევს თეორიას რაღაც გამოთვლით: მიეცით მას რამდენიმე სასურველი რთული პასუხის მნიშვნელობა და მას შეუძლია განსაზღვროს (Bergman, Cherkaev, Feasible, Golden, Instead, It, Lorentz, Lurie, Milton, Papanicolaou, Then, This, What, Why, Within)"
-    },
-    {
-      "uid": "reddit|Fri, 28 Aug 2026 22:00:36 GMT|Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
-      "description_en": "r/LocalLLaMA · 222 upvotes · 48 comments · Hey all, and hello fellow DGX Spark-ers! Today I managed some pretty crazy numbers: **181 tok/s aggregate on 2× DGX Spark on Qwen3.8-Flash-Next at 512Kcontext (2.8M kvc)** I hit 181 tok/s aggregate today across a multi-agent fleet on a 2-node DGX Spark cluster. Single-stream decode is 30–50 tok/s — the 181 is total throughput with \\~9 concurrent agent sessions sharing the engine. I actually peaked to 195 while writing this. Quick rundown of how it's served: **Hardware** * 2× NVIDIA DGX Spark (GB10 Grace Blackwell, 128 GB unified memory each, 20-core ARM) * Nodes linked with a direct ConnectX-7 cable — NCCL over RDMA (RoCE, 200 Gb), TP=2 across both boxes * Verify `Using network IB` in the NCCL log — the TCP fallback is *silent* and costs you half your speed **Model** * Qwen3.8-Flash-Next, RadixArk **NVFP4** quant (4-bit routed experts, FP8 n-gram table) * Hybrid arch: 3/4 linear attention + 1/4 sparse full attention, 512-expert MoE, MTP speculative decoding k=3 (\\~40% acceptance) * Native 262K context stretched to **512K with YaRN factor 2.0** — needle-verified at 487K depth **The trick: PLE table on NVMe** * The model carries a 320M-row n-gram embedding table (**47.7 GiB in FP8**) that's read on every token — but each token only touches 16 rows (\\~2.5 KB) * We mmap it straight off NVMe instead of loading it: weights per node dropped **65 → 41 GiB** * Two things made it fast: `madvise(MADV_RANDOM)` on the mapping (hash-scattered lookups + kernel readahead = 30× read amplification — one 405K prefill read **603 GB** from disk before the fix, **19 GB** after) and 64 gather threads (the wall was fault latency serialization, not disk bandwidth) * Freed memory went into KV: pool is now **2.89M tokens** (5.5× full contexts) at a 40.6 GiB pin **vLLM config (official day-0 image, vllm/vllm-openai)** * `--kv-cache-memory 40600000000` — pin the pool explicitly; heads-up, a manual pin **ignores** `--gpu-memory-utilization`, size it from measured free RAM * `--max-num-batched-t…",
-      "excerpt_en": "r/LocalLLaMA · 222 upvotes · 48 comments · Hey all, and hello fellow DGX Spark-ers!…",
-      "link": "https://reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
-      "pub_date": "Fri, 28 Aug 2026 22:00:36 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "დღეს მე დავამარცხე 181 ტოკ/წმ (აგრეგატი) Qwen3.8-Flash-Next 2x DGX Sparks-ზე (Today)",
-      "excerpt_ka": "r/LocalLLaMA · 222 დადებითი ხმა · 48 კომენტარი · გამარჯობა ყველას, და გამარჯობა DGX Spark-ის თანამემამულეებო!… (Hey)",
-      "description_ka": "r/LocalLLaMA · 222 დადებითი ხმა · 48 კომენტარი · გამარჯობა ყველას, და გამარჯობა DGX Spark-ის თანამემამულეებო! დღეს მე მოვახერხე საკმაოდ გიჟური რიცხვები: **181 ტოკ/წმ აგრეგატი 2× DGX Spark-ზე Qwen3.8-Flash-Next-ზე 512Kcontext (2.8M kvc)** მე მივაღწიე 181 ტოკ/წმ აგრეგატს დღეს მრავალ აგენტურ ფლოტზე 2-კვანძის Sparklu DG-ზე. ერთჯერადი ნაკადის დეკოდი არის 30–50 ტოკ/წმ – 181 არის მთლიანი გამტარუნარიანობა \\~9 კონკურენტი აგენტის სესიით, რომლებიც იზიარებენ ძრავას. მე რეალურად მიაღწია პიკს 195-მდე ამის წერისას. მისი მომსახურეობის სწრაფი აღწერა: **Hardware** * 2× NVIDIA DGX Spark (GB10 Grace Blackwell, 128 GB ერთიანი მეხსიერება თითოეული, 20 ბირთვიანი ARM) * კვანძები, რომლებიც დაკავშირებულია პირდაპირ ConnectX-7 კაბელთან — NCCL RDMA-ზე (RoCE, 200 Gb NCIB, ორივე ქსელში, TP=2). — TCP სარეზერვო სისტემა *ჩუმად* და დაგიჯდებათ თქვენი სიჩქარის ნახევარი **Model** * Qwen3.8-Flash-Next, RadixArk **NVFP4** quant (4-bit მარშრუტირებული ექსპერტები, FP8 n-გრამის ცხრილი) * ჰიბრიდული თაღი: 3/4 წრფივი ყურადღება + 1/4 მწირი 12E სრული ყურადღება, MTP 5. (\\~40% მიღება) * მშობლიური 262K კონტექსტი გადაჭიმული **512K-მდე YaRN ფაქტორით 2.0** — ნემსით დამოწმებული 487K სიღრმეზე **ხრიკი: PLE ცხრილი NVMe-ზე** *მოდელს აქვს 320M მწკრივი n-გრამის ჩაშენების ცხრილი (** ამ კენჭისყრით F', მხოლოდ წაკითხვისას 47,7 G-მდე) ეხება (Freed, GiB, Hey, Hybrid, KB, KV, MoE, Native, Nodes, Quick, RAM, Single, Today, Two, Using, Verify, We)"
-    },
-    {
-      "uid": "reddit|Wed, 26 Aug 2026 07:26:50 GMT|[Megathread] Qwen3.8-Flash-Next - Release Day",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "[Megathread] Qwen3.8-Flash-Next - Release Day",
-      "description_en": "r/LocalLLaMA · 346 upvotes · 373 comments · Megathread for discussing the release of Qwen 3.8 Flash Next. * Quants * Fine-Tunes & Abliterations * Chat Templates * Inference Server Support & Configuration * Experiences, Benchmarks & Model Comparisons We'll try to clean up future duplicates around the release and point them here. # Highlights The first open-weight release under this architecture is Qwen3.8-Flash-Next, which introduces: * **Hybrid Attention with QSA**: The Gated DeltaNet and Gated Attention pairing has been reworked into Gated DeltaNet and Qwen Sparse Attention (QSA). Rather than selecting individual tokens for processing, QSA operates at the micro-block level. This cuts long-context latency significantly, a critical gain as agentic workloads increasingly dominate real-world usage. * **Gated Residual**: Residual streams with normalisation are what make deep LLM training manageable. Gated Residual modulates information flowing through widened residual streams via an element-wise, data-dependent read gate and a per-branch scalar write gate. This brings finer-grained expressiveness across layers while preserving training stability and keeping inference overhead low. * **N-gram Embedding**: Embeddings provide a unique axis for parameter scaling that requires less computation and is more amenable to offloading than Mixture-of-Experts (MoE). By indexing with short n-grams, this approach makes parameter scaling highly efficient for memory-constrained accelerators without sacrificing quality. * **Tailored Training Recipe**: The Muon and AdamW optimisers are applied to specific weight categories to maximise efficiency. Guided by refitted scaling laws, we eliminate traditional batch-size warmups and start directly at the target batch size, substantially reducing total optimiser steps while safely supporting larger learning rates for robust convergence. # Model Overview * Type: Causal Language Model with Vision Encoder * Training Stage: Pre-training & Post-training * Language Model * Number of Parameters:…",
-      "excerpt_en": "r/LocalLLaMA · 346 upvotes · 373 comments · Megathread for discussing the release of Qwen 3.8 Flash Next.…",
-      "link": "https://reddit.com/r/LocalLLaMA/comments/1vyq2v4/megathread_qwen38flashnext_release_day/",
-      "pub_date": "Wed, 26 Aug 2026 07:26:50 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "[Megathread] Qwen3.8-Flash-Next - Release Day",
-      "excerpt_ka": "r/LocalLLaMA · 346 დადებითი ხმა · 373 კომენტარი · Megathread Qwen 3.8 Flash Next-ის გამოშვების განსახილველად.…",
-      "description_ka": "r/LocalLLaMA · 346 დადებითი ხმა · 373 კომენტარი · Megathread Qwen 3.8 Flash Next-ის გამოშვების განსახილველად. * Quants * Fine-Tunes & Abliterations * Chat Templates * Inference Server Support & Configuration * Experiences, Benchmarks & Model Comparisons ჩვენ შევეცდებით გავასუფთავოთ მომავალი დუბლიკატები გამოშვების გარშემო და მივუთითოთ ისინი აქ. # ხაზგასმა პირველი ღია წონის გამოშვება ამ არქიტექტურით არის Qwen3.8-Flash-Next, რომელიც წარმოგიდგენთ: * **ჰიბრიდული ყურადღება QSA-ით**: Gated DeltaNet და Gated Attention დაწყვილება გადაკეთდა Gated DeltaNet და Qwen Sparse Attention (QSA). დამუშავებისთვის ცალკეული ტოკენების არჩევის ნაცვლად, QSA მუშაობს მიკრობლოკის დონეზე. ეს მნიშვნელოვნად ამცირებს ხანგრძლივი კონტექსტის შეყოვნებას, რაც მნიშვნელოვანი მოგებაა, რადგან აგენტური დატვირთვები სულ უფრო დომინირებს რეალურ სამყაროში. * **Gated Residual**: ნარჩენი ნაკადები ნორმალიზებით არის ის, რაც ხდის ღრმა LLM ტრენინგს მართვადს. Gated Residual მოდულირებს ინფორმაციას, რომელიც მიედინება გაფართოებულ ნარჩენ ნაკადებში ელემენტებზე დამოკიდებული, მონაცემებზე დამოკიდებული წაკითხვის კარიბჭის და თითო განშტოების სკალარული ჩაწერის კარიბჭის მეშვეობით. ეს მოაქვს უფრო წვრილმარცვლოვან ექსპრესიულობას ფენებს შორის, ინარჩუნებს ვარჯიშის სტაბილურობას და ინარჩუნებს დასკვნის ზედა ნაწილს. * **N-გრამიანი ჩაშენება**: ჩაშენებები უზრუნველყოფს უნიკალურ ღერძს პარამეტრების სკალირებისთვის, რომელიც ნაკლებ გამოთვლას მოითხოვს (AdamW, By, Causal, Embedding, Embeddings, Encoder, Experts, Guided, Highlights, Hybrid, Language, Mixture, MoE, Muon, Number, Overview, Parameters, Post, Pre, Rather, Recipe, Stage, Tailored, This, Training, Type, Vision, We)"
-    },
-    {
-      "uid": "reddit|Wed, 26 Aug 2026 07:14:09 GMT|Apple’s 512GB M5 Ultra can run almost every major open-weight model locally",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Apple’s 512GB M5 Ultra can run almost every major open-weight model locally",
-      "description_en": "r/ArtificialInteligence · 363 upvotes · 131 comments · The most interesting part of Apple’s new M5 Ultra isn’t the usual “faster AI” claim. It’s having **up to 512GB of unified memory with 1.2TB/s bandwidth** in one desktop. The scale of what fits inside that memory is kind of absurd. A single Mac Studio can load models such as DeepSeek R1 671B, Kimi K2.6 1T and DeepSeek V4 Flash at usable quantizations. These are models we would normally associate with racks of GPUs, not a compact machine sitting under someone’s desk. This probably won’t change how the average person uses ChatGPT. But it could matter a lot for researchers, developers and companies that want powerful AI without uploading private data to someone else’s servers or paying for every token. The interesting shift is that self-hosting a massive model no longer automatically means building and maintaining a complicated multi-GPU system. Meanwhile, the M6 Mac mini tops out at 32GB, keeping it in the compact-model category despite its faster AI hardware. Local AI hardware seems to be splitting in two: affordable systems running increasingly capable small models, and high-memory workstations bringing previously server-class models into a single box. **M5 Ultra model compatibility:** [https://canitrun.dev/gpus/m5-ultra/](https://canitrun.dev/gpus/m5-ultra/) **Apple Silicon M1–M6 local LLM guide:** [https://canitrun.dev/guides/apple-silicon-llm-guide/](https://canitrun.dev/guides/apple-silicon-llm-guide/)",
-      "excerpt_en": "r/ArtificialInteligence · 363 upvotes · 131 comments · The most interesting part of Apple’s new M5 Ultra isn’t the usual “faster AI” claim. It’s having **up to 512GB of unified memory with 1.2TB/s bandwidth** in one desktop.",
-      "link": "https://reddit.com/r/ArtificialInteligence/comments/1vypuzq/apples_512gb_m5_ultra_can_run_almost_every_major/",
-      "pub_date": "Wed, 26 Aug 2026 07:14:09 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "Apple-ის 512 GB M5 Ultra-ს შეუძლია თითქმის ყველა ძირითადი ღია წონის მოდელის ადგილობრივად გაშვება",
-      "excerpt_ka": "r/ArtificialInteligence · 363 დადებითი ხმა · 131 კომენტარი · Apple-ის ახალი M5 Ultra-ს ყველაზე საინტერესო ნაწილი არ არის ჩვეულებრივი „უფრო სწრაფი AI“ პრეტენზია. მას აქვს **512 გბ-მდე ერთიანი მეხსიერება 1.2 ტბ/წმ გამტარუნარიანობით ** ერთ სამუშაო მაგიდაზე. (It)",
-      "description_ka": "r/ArtificialInteligence · 363 დადებითი ხმა · 131 კომენტარი · Apple-ის ახალი M5 Ultra-ს ყველაზე საინტერესო ნაწილი არ არის ჩვეულებრივი „უფრო სწრაფი AI“ პრეტენზია. მას აქვს **512 გბ-მდე ერთიანი მეხსიერება 1.2 ტბ/წმ გამტარუნარიანობით ** ერთ სამუშაო მაგიდაზე. მასშტაბი იმისა, რაც ჯდება ამ მეხსიერებაში, ერთგვარი აბსურდია. ერთი Mac Studio-ს შეუძლია იტვირთოს ისეთი მოდელები, როგორიცაა DeepSeek R1 671B, Kimi K2.6 1T და DeepSeek V4 Flash გამოსაყენებელი კვანტიზაციით. ეს არის მოდელები, რომლებსაც ჩვეულებრივ ვუკავშირებთ GPU-ს თაროებს და არა კომპაქტურ მანქანას, რომელიც ზის ვინმეს მაგიდის ქვეშ. ეს ალბათ არ შეცვლის იმას, თუ როგორ იყენებს საშუალო ადამიანი ChatGPT-ს. მაგრამ ამას შეიძლება დიდი მნიშვნელობა ჰქონდეს მკვლევარებისთვის, დეველოპერებისთვის და კომპანიებისთვის, რომლებსაც სურთ ძლიერი AI, სხვის სერვერებზე პირადი მონაცემების ატვირთვის ან ყველა ჟეტონის გადახდის გარეშე. საინტერესო ცვლილება არის ის, რომ მასიური მოდელის თვითჰოსტინგი ავტომატურად აღარ ნიშნავს რთული მრავალ GPU სისტემის შექმნას და შენარჩუნებას. იმავდროულად, M6 Mac mini 32 GB-ს აღწევს, რაც მას კომპაქტური მოდელების კატეგორიაში ინარჩუნებს, მიუხედავად მისი უფრო სწრაფი AI ტექნიკისა. როგორც ჩანს, ადგილობრივი ხელოვნური ინტელექტის აპარატურა ორად იყოფა: ხელმისაწვდომ სისტემებს, რომლებიც მუშაობენ მზარდი შესაძლებლობების მქონე პატარა მოდელებზე და მაღალი მეხსიერების სამუშაო სადგურები, რომლებიც აგროვებენ ადრე სერვერის კლასის მოდელებს ერთ ყუთში. ** M5 Ultra მოდელის თავსებადობა: ** [https://canitrun. dev/gpus/m5-ultra/](htt (But, GPUs, It, LLM, Local, M1, Meanwhile, Silicon, These, This)"
     }
   ],
   "sections": {
     "news": [
+      {
+        "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
+        "description_en": "Zhipu AI (Z.ai) released GLM-5.3 on August 14, 2026, built on the same base architecture and parameter count as GLM-5.2, with all performance gains coming from extended post-training rather than a new base model. GLM-5.3-Flash, codenamed Ox Alpha, launched anonymously on OpenRouter on August 20 and was formally confirmed as Z.ai's model on August 27, becoming the platform's biggest-ever launch. GLM-5.3-Flash is a 320B total parameter, 18B active parameter multimodal mixture-of-experts model released under the MIT license, the first natively multimodal model in the GLM-5 series. Z.ai priced GLM-5.3-Flash at $0.15 per million input tokens and $0.50 per million output tokens, about 1/100th of frontier model pricing, and claimed it ran entirely on 100,000 domestically produced Chinese chips.",
+        "excerpt_en": "Zhipu AI (Z.ai) released GLM-5.3 on August 14, 2026, built on the same base architecture and parameter count as GLM-5.2, with all performance gains coming from extended post-training rather than a new base model.",
+        "link": "https://www.agenticbrew.ai/news#cluster=52976d46-c389-478b-bc82-7e108c123d50",
+        "pub_date": "Tue, 01 Sep 2026 00:55:39 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z.ai)",
+        "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z.ai)",
+        "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z.ai)"
+      },
+      {
+        "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|OpenClaw 2.0 Release",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "OpenClaw 2.0 Release",
+        "description_en": "OpenClaw shipped version 2026.8.1, branded OpenClaw 2.0, on August 30, 2026, after pausing its normally rapid release cadence for nearly seven weeks to build a stronger technical foundation. The release consolidated more than 16,000 merged pull requests from 933 contributors, including 569 first-time contributors - roughly half of every pull request ever merged into the project. The browser-based Control UI was rebuilt around a chat-first layout, cutting JavaScript requests from 140 to 45 and startup time from about 1.6 seconds to 575 milliseconds. New security features include masked credential requests, an optional 1Password broker, and plugin provenance checks, though OpenClaw's own documentation states these controls are not a security boundary.",
+        "excerpt_en": "OpenClaw shipped version 2026.8.1, branded OpenClaw 2.0, on August 30, 2026, after pausing its normally rapid release cadence for nearly seven weeks to build a stronger technical foundation.",
+        "link": "https://www.agenticbrew.ai/news#cluster=dc8a08a2-b59c-499b-9050-74582bc78fb1",
+        "pub_date": "Tue, 01 Sep 2026 00:55:39 GMT",
+        "categories": [
+          "news",
+          "news/cluster"
+        ],
+        "title_ka": "OpenClaw 2.0 Release",
+        "excerpt_ka": "OpenClaw-მა გამოაქვეყნა ვერსია 2026.8.1, ბრენდირებული OpenClaw 2.0, 2026 წლის 30 აგვისტოს, მას შემდეგ, რაც შეაჩერა მისი ჩვეულებრივ სწრაფი გამოშვების კადენცია თითქმის შვიდი კვირის განმავლობაში უფრო ძლიერი ტექნიკური საფუძვლის შესაქმნელად. (August)",
+        "description_ka": "OpenClaw-მა გამოაქვეყნა ვერსია 2026.8.1, ბრენდირებული OpenClaw 2.0, 2026 წლის 30 აგვისტოს, მას შემდეგ, რაც შეაჩერა მისი ჩვეულებრივ სწრაფი გამოშვების კადენცია თითქმის შვიდი კვირის განმავლობაში უფრო ძლიერი ტექნიკური საფუძვლის შესაქმნელად. გამოცემამ გააერთიანა 16000-ზე მეტი გაერთიანებული მოთხოვნა 933 კონტრიბუტორისგან, მათ შორის 569 პირველად კონტრიბუტორი - ყოველი მოთხოვნის დაახლოებით ნახევარი, რაც კი ოდესმე გაერთიანდა პროექტში. ბრაუზერზე დაფუძნებული Control UI ხელახლა აშენდა ჩატის პირველი განლაგების ირგვლივ, შემცირდა JavaScript მოთხოვნები 140-დან 45-მდე და გაშვების დრო დაახლოებით 1,6 წამიდან 575 მილიწამამდე. უსაფრთხოების ახალი ფუნქციები მოიცავს ნიღბიან რწმუნებათა მოთხოვნებს, არასავალდებულო 1Password ბროკერს და დანამატის წარმოშობის შემოწმებას, თუმცა OpenClaw-ის საკუთარი დოკუმენტაციაში ნათქვამია, რომ ეს კონტროლი არ არის უსაფრთხოების საზღვარი. (August, New)"
+      },
       {
         "uid": "news|Sun, 30 Aug 2026 00:52:15 GMT|Bernie Sanders bill to ban Flock AI surveillance cameras",
         "feed": "news",
@@ -244,6 +278,57 @@
       }
     ],
     "twitter": [
+      {
+        "uid": "twitter|Mon, 31 Aug 2026 22:45:08 GMT|AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+        "description_en": "We're sharing an update on our alignment and security efforts. In July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems. In a new post, we describe: 1. How we've secured... · 943 likes · 178 RTs · 159 replies · 130427 views · Alarms are being sounded again about the risks of artificial intelligence, after new reports documented how hundreds of OpenAI's so-called agents violated several restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events · 42 likes · 21 RTs · 4 replies · 4056 views · A good podcast discussion/breakdown, by @Gregory_C_Allen, of the METR/OpenAI reports on the Hugging Face 'swarm' · 15 likes · 1 RTs · 1 replies · 6087 views",
+        "excerpt_en": "We're sharing an update on our alignment and security efforts. In July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems.",
+        "link": "https://x.com/AnthropicAI/status/2094557124038951170",
+        "pub_date": "Mon, 31 Aug 2026 22:45:08 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+        "excerpt_ka": "ჩვენ ვუზიარებთ განახლებებს ჩვენი განლაგებისა და უსაფრთხოების ძალისხმევის შესახებ. ივლისში, ჩვენ ვაცნობეთ სამი ინციდენტის შესახებ, როდესაც კლოდის მოდელებმა, რომლებიც მუშაობდნენ კიბერუსაფრთხოების შეფასებებში გარანტიების გარეშე, მიიღეს უნებართვო წვდომა რეალურ სისტემებზე. (Claude, July, We)",
+        "description_ka": "ჩვენ ვუზიარებთ განახლებებს ჩვენი განლაგებისა და უსაფრთხოების ძალისხმევის შესახებ. ივლისში, ჩვენ ვაცნობეთ სამი ინციდენტის შესახებ, როდესაც კლოდის მოდელებმა, რომლებიც მუშაობდნენ კიბერუსაფრთხოების შეფასებებში გარანტიების გარეშე, მიიღეს უნებართვო წვდომა რეალურ სისტემებზე. ახალ პოსტში ჩვენ აღვწერთ: 1. როგორ დავიცვათ... · 943 მოწონება · 178 RTs · 159 პასუხი · 130427 ნახვა · ხელახლა გაისმა განგაში ხელოვნური ინტელექტის რისკების შესახებ, მას შემდეგ რაც ახალი მოხსენებები დაადასტურეს, თუ როგორ დაარღვიეს OpenAI-ის ე. წ. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები · 42 მოწონება · 21 RT · 4 პასუხი · 4056 ნახვა · კარგი პოდკასტის დისკუსია/დაშლა, @Gregory_C_Allen-ის მიერ, METR/OpenAI ანგარიშების შესახებ ჩახუტებულ სახეზე 'swarm' · 15 მოწონება · 1 RTs7 ნახვა · 61 (Alarms, Claude, Face, How, Hugging, July, We)"
+      },
+      {
+        "uid": "twitter|Mon, 31 Aug 2026 18:32:13 GMT|AI Data Center Backlash and Global Buildout",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Data Center Backlash and Global Buildout",
+        "description_en": "JUST IN: A Virginia AI data center generates $26 in tax revenue for every $1 of county services they use while occupying just 3% of the land. · 2464 likes · 209 RTs · 111 replies · 137867 views · From vision to production. AI infrastructure powered by AMD Instinct MI355X GPUs and AMD EPYC CPUs is now live in Saudi Arabia and serving @HUMAIN customers. Together with @Cisco and @HUMAIN, we plan to deploy up to 250 MW of AI infrastructure as part of the next phase of the · 151 likes · 16 RTs · 1 replies · 29624 views · An advocacy group backed by AI industry billionaires is launching an ad campaign in election battleground states to try to counter a mounting public backlash against a data center construction wave · 21 likes · 7 RTs · 6 replies · 26566 views",
+        "excerpt_en": "JUST IN: A Virginia AI data center generates $26 in tax revenue for every $1 of county services they use while occupying just 3% of the land. · 2464 likes · 209 RTs · 111 replies · 137867 views · From vision to production.",
+        "link": "https://x.com/PolymarketMoney/status/2094493479095427456",
+        "pub_date": "Mon, 31 Aug 2026 18:32:13 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI Data Center Backlash and Global Buildout",
+        "excerpt_ka": "JUST IN: ვირჯინიის AI მონაცემთა ცენტრი გამოიმუშავებს $26 საგადასახადო შემოსავალს ყოველ $1 ქვეყნის სერვისზე, რომელსაც ისინი იყენებენ, ხოლო მიწის მხოლოდ 3% იკავებენ. · 2464 მოწონება · 209 RTs · 111 პასუხი · 137867 ნახვა · ხედვიდან წარმოებამდე. (From, Virginia)",
+        "description_ka": "JUST IN: ვირჯინიის AI მონაცემთა ცენტრი გამოიმუშავებს $26 საგადასახადო შემოსავალს ყოველ $1 ქვეყნის სერვისზე, რომელსაც ისინი იყენებენ, ხოლო მიწის მხოლოდ 3% იკავებენ. · 2464 მოწონება · 209 RTs · 111 პასუხი · 137867 ნახვა · ხედვიდან წარმოებამდე. AI ინფრასტრუქტურა, რომელიც აღჭურვილია AMD Instinct MI355X GPU-ებით და AMD EPYC CPU-ებით, ახლა მუშაობს საუდის არაბეთში და ემსახურება @HUMAIN მომხმარებლებს. @Cisco-სთან და @HUMAIN-თან ერთად, ჩვენ ვგეგმავთ 250 მეგავატამდე AI ინფრასტრუქტურის განთავსებას, როგორც შემდეგი ეტაპის ნაწილი · 151 მოწონება · 16 RTs · 1 პასუხი · 29624 ნახვა · ადვოკატირების ჯგუფი, რომელსაც მხარს უჭერენ ხელოვნური ინტელექტის ინდუსტრიის მილიარდერები · იწყებს სარეკლამო კამპანიას, რათა სცადოს სამშენებლო ცენტრის მონაცემების წინააღმდეგ ბრძოლის ველზე. 21 მოწონება · 7 RTs · 6 პასუხი · 26566 ნახვა (Arabia, CPUs, From, GPUs, MW, Saudi, Together, Virginia)"
+      },
+      {
+        "uid": "twitter|Mon, 31 Aug 2026 17:58:00 GMT|Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+        "description_en": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF · 7789 likes · 699 RTs · 157 replies · 410425 views · Anthropic has signed a $35B cloud deal with $NVDA backed Lambda to expand its AI compute capacity. What makes the deal more interesting is that Nvidia also supplies the GPUs and already secured the $HUT data center capacity where that compute will run. · 72 likes · 8 RTs · 2 replies · 10848 views · SCOOP: Anthropic signed a $35B cloud deal to rent GPUs from Lambda—at a Texas data center Nvidia leased from Hut 8. hard to keep that one straight. More details on the arrangement in my latest for @WSJ · 49 likes · 4 RTs · 4 replies · 3475 views",
+        "excerpt_en": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF · 7789 likes · 699 RTs · 157 replies · 410425 views · Anthropic has signed a $35B cloud deal with $NVDA backed Lambda to expand its AI compute capacity.",
+        "link": "https://x.com/unusual_whales/status/2094484865307586685",
+        "pub_date": "Mon, 31 Aug 2026 17:58:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+        "excerpt_ka": "შეტევა: Sony-მ უჩივლა Anthropic-ს AI მუსიკალური სწავლების გამო და ითხოვს $150,000 თითო სიმღერაზე, YF-ზე · 7789 მოწონება · 699 RTs · 157 პასუხი · 410425 ნახვა · Anthropic-მა ხელი მოაწერა $35 მილიარდი Cloud-ის $NVDA-ს ​​მხარდაჭერილ Lambda-ს სიმძლავრის გასაფართოებლად. (BREAKING)",
+        "description_ka": "შეტევა: Sony-მ უჩივლა Anthropic-ს AI მუსიკალური სწავლების გამო და ითხოვს $150,000 თითო სიმღერაზე, YF-ზე · 7789 მოწონება · 699 RTs · 157 პასუხი · 410425 ნახვა · Anthropic-მა ხელი მოაწერა $35 მილიარდი Cloud-ის $NVDA-ს ​​მხარდაჭერილ Lambda-ს სიმძლავრის გასაფართოებლად. გარიგებას უფრო საინტერესოს ხდის ის, რომ Nvidia ასევე აწვდის GPU-ებს და უკვე უზრუნველყოფილია $HUT მონაცემთა ცენტრის სიმძლავრე, სადაც ეს გამოთვლა იმუშავებს. · 72 მოწონება · 8 RT · 2 პასუხი · 10848 ნახვა · SCOOP: Anthropic-მა ხელი მოაწერა 35 მილიარდ დოლარს ღრუბლოვან ხელშეკრულებას ლამბდასგან GPU-ების დაქირავებაზე — ტეხასის მონაცემთა ცენტრ Nvidia-ში, რომელიც იჯარით იქნა მიღებული Hut 8-დან. ძნელია ამის შენარჩუნება. დამატებითი დეტალები შეთანხმების შესახებ ჩემს უახლესში @WSJ-სთვის · 49 მოწონება · 4 RT · 4 პასუხი · 3475 ნახვა (BREAKING, GPUs, More, Texas, What)"
+      },
       {
         "uid": "twitter|Sat, 29 Aug 2026 23:41:38 GMT|OpenAI Cuts Off Cursor After SpaceX Acquisition, Reigniting Musk-Altman Feud",
         "feed": "twitter",
@@ -350,6 +435,57 @@
     "github": [],
     "reddit": [
       {
+        "uid": "reddit|Mon, 31 Aug 2026 17:32:42 GMT|GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+        "description_en": "r/LocalLLaMA · 86 upvotes · 25 comments · I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself. I ran both models locally for this and picked the GLM 5.3 family(Q4 quant) because videos of it doing 3D work kept showing up in my twitter feed (out of curiosity, I ran the same prompt through the full GLM 5.3, also locally with a Q4 quant) these aren't small models, obviously, a 4-bit quantized Flash is around 190-200GB + headroom for context. full GLM 5.3 is around 450-470GB at 4-bit quantization (basically I went with the Q4 quants for both and the RTX PRO 6000 WS GPU, though I had to rent 4x rtx pro 6000ws for the flash model and 6x for the base one) writing the prompt wasn't as easy as I thought. my first attempts were vague and mostly produced 3D goo instead of an actual room. I eventually started specifying real dimensions: ceiling heights, stair rise, window mullion spacing and so on(the camera work was separately done by claude opus 5 so that I wouldn't have my token stats inflated by it) # prompt model a luxury duplex penthouse in the open Blender session. footprint 20.0 x 13.0 m (260 sqm). main ceiling 2.9 m. a double-height volume 9.0 x 8.0 m rising to 6.2 m. mezzanine floor at 3.1 m with a 1.1 m balustrade. stair: 17 treads, rise 0.182, going 0.28. terrace 20.0 x 4.5 m at Z = -0.02 with a 1.15 m balustrade. curtain wall with mullions every 1.5 m, frame depth 0.06. doors 2.10 m. counters 0.90 m. dining table 0.74 m. sofa seat 0.42 m. materials, PBR ranges: glass IOR 1.45-1.52, transmission 1.0; concrete roughness 0.25-0.40; marble roughness 0.08-0.15; brushed metal metallic 1.0, roughness 0.25-0.35; fabric roughness 0.75-0.95. reference real penthouses for proportion. furnish it. do NOT add a camera. do not reset the session. at first it was putting up the curtain wall, stairs, mezzanine, the glass railing, all that, then at some point I noticed it had furnished the place too with some furniture: sofa, dining table and plates on it. the pendant lights …",
+        "excerpt_en": "r/LocalLLaMA · 86 upvotes · 25 comments · I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself.…",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+        "pub_date": "Mon, 31 Aug 2026 17:32:42 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "GLM 5.3 და GLM 5.3 Flash მუშაობდა ადგილობრივად RTX PRO 6000 WS-ზე და ააშენეს პენტჰაუსი BlenderMCP-ის გამოყენებით",
+        "excerpt_ka": "r/LocalLLaMA · 86 დადებითი ხმა · 25 კომენტარი · მე მუდმივად ვხედავ AI აგენტების დემოს, რომლებიც აშენებენ სცენებს Blender-ში BlenderMCP-ის საშუალებით, ამიტომ მე თვითონ ვცადე.…",
+        "description_ka": "r/LocalLLaMA · 86 დადებითი ხმა · 25 კომენტარი · მე მუდმივად ვხედავ AI აგენტების დემოებს, რომლებიც აშენებენ სცენებს Blender-ში BlenderMCP-ის მეშვეობით, ამიტომ მე თვითონ ვცადე. მე გავატარე ორივე მოდელი ლოკალურად ამისთვის და ავირჩიე GLM 5.3 ოჯახი (Q4 რაოდენობრივი), რადგან ვიდეოები, რომლებზეც ის აკეთებდა 3D მუშაობას, მუდმივად ჩნდებოდა ჩემს ტვიტერის არხში (ცნობისმოყვარეობის გამო, იგივე მოთხოვნა შევასრულე სრული GLM 5.3-ით, ასევე ადგილობრივად Q4 რაოდენობით) ეს არ არის პატარა მოდელები, 20 GB არის დაახლოებით 20 GB. + სათავე კონტექსტისთვის. სრული GLM 5.3 არის დაახლოებით 450-470 GB 4-ბიტიანი კვანტიზაციით (ძირითადად მე მივიღე Q4 კვანტები ორივესთვის და RTX PRO 6000 WS GPU, თუმცა მე მომიწია 4x rtx pro 6000ws დაქირავება ფლეშ მოდელისთვის და 6x ძირითადისთვის) დაწერა ისეთი მარტივი, როგორც არ მეგონა. ჩემი პირველი მცდელობები გაურკვეველი იყო და ძირითადად აწარმოებდა 3D გუგს რეალური ოთახის ნაცვლად. საბოლოოდ დავიწყე რეალური ზომების დაზუსტება: ჭერის სიმაღლე, კიბეების აწევა, ფანჯრის მილიონების მანძილი და ა. შ. (კამერის მუშაობა ცალკე შესრულდა კლოდ ოპუს 5-ის მიერ, რათა არ მქონოდა მისი სიმბოლური სტატისტიკა) ნაკვალევი 20.0 x 13.0 მ (260 კვმ). მთავარი ჭერი 2.9 მ. ორმაგი სიმაღლის მოცულობა 9,0 x 8,0 მ, იზრდება 6,2 მ-მდე. ანტრესოლით 3.1 მ სიმაღლეზე 1.1 მ ბალუსტრადით. კიბე: 17 საფეხური, (Flash, IOR, NOT, PBR)"
+      },
+      {
+        "uid": "reddit|Mon, 31 Aug 2026 13:38:45 GMT|EU designates ChatGPT a Very Large Search Engine under DSA",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "EU designates ChatGPT a Very Large Search Engine under DSA",
+        "description_en": "r/OpenAI · 85 upvotes · 81 comments · The European Commission has designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, making OpenAI's chatbot the first standalone AI service brought under the bloc's toughest platform rules. Reddit and Roblox were added the same day as Very Large Online Platforms, \\[Euronews reported\\](https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules). All three crossed the 45 million monthly EU user threshold that triggers direct Commission oversight. ChatGPT reported 159 million monthly active users over the six-month period ending March 2026; Reddit reported 57.2 million; Roblox roughly 48 million. The Commission classified ChatGPT as a \"hybrid service\" that qualifies as an online search engine \"because it can engage with and respond to users' prompts and queries, including by searching the web.\" The three companies have four months, until the end of November, to conduct annual systemic risk assessments covering illegal content, minor protection, mental and physical wellbeing, fundamental rights, electoral processes and public security, submit to independent audits, and share data with regulators and vetted researchers. \"These new designations mean that ChatGPT, Reddit and Roblox will now be subject to a higher level of scrutiny and accountability in the European Union, commensurate with their significant impact on our citizens and society,\" said Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy. Non-compliance can cost up to 6% of global annual turnover. The DSA has produced roughly €870 million in fines to date, including €550 million against AliExpress, €200 million against Temu and €120 million against X. \\---",
+        "excerpt_en": "r/OpenAI · 85 upvotes · 81 comments · The European Commission has designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, making OpenAI's chatbot the first standalone AI service brought under the bloc's toughest platform rules.",
+        "link": "https://reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
+        "pub_date": "Mon, 31 Aug 2026 13:38:45 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "EU designates ChatGPT a Very Large Search Engine under DSA",
+        "excerpt_ka": "r/OpenAI · 85 დადებითი ხმა · 81 კომენტარი · ევროკომისიამ ChatGPT დაასახელა ძალიან დიდ ონლაინ საძიებო სისტემად ციფრული სერვისების აქტის მიხედვით, რაც OpenAI-ის ჩეთბოტს აქცევს პირველ დამოუკიდებელ AI სერვისს, რომელიც შემოყვანილია ბლოკის ყველაზე მკაცრი პლატფორმის წესებით. (Act, Commission, Digital, Engine, European, Large, Online, Search, Services, Very)",
+        "description_ka": "r/OpenAI · 85 დადებითი ხმა · 81 კომენტარი · ევროკომისიამ ChatGPT დაასახელა ძალიან დიდ ონლაინ საძიებო სისტემად ციფრული სერვისების აქტის მიხედვით, რაც OpenAI-ის ჩეთბოტს აქცევს პირველ დამოუკიდებელ AI სერვისს, რომელიც შემოყვანილია ბლოკის ყველაზე მკაცრი პლატფორმის წესებით. Reddit და Roblox დაემატა იმავე დღეს, როგორც Very Large Online Platforms, \\[Euronews იტყობინება\\] (https://www. euronews. com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules). სამივემ გადალახა ევროკავშირის ყოველთვიური 45 მილიონი მომხმარებლის ბარიერი, რაც იწვევს კომისიის უშუალო ზედამხედველობას. ChatGPT იტყობინება 159 მილიონი ყოველთვიური აქტიური მომხმარებელი ექვსთვიანი პერიოდის განმავლობაში, 2026 წლის მარტამდე; Reddit-მა გამოაცხადა 57,2 მილიონი; Roblox დაახლოებით 48 მილიონი. კომისიამ ჩაატარა ChatGPT, როგორც „ჰიბრიდული სერვისი“, რომელიც კვალიფიცირდება როგორც ონლაინ საძიებო სისტემა, „რადგან მას შეუძლია ჩაერთოს და უპასუხოს მომხმარებელთა მოთხოვნებსა და შეკითხვებს, მათ შორის ინტერნეტში ძიების გზით“. სამ კომპანიას აქვს ოთხი თვე ნოემბრის ბოლომდე, რათა ჩაატარონ ყოველწლიური სისტემური რისკის შეფასება უკანონო შინაარსის, მცირე დაცვის, გონებრივი და ფიზიკური კეთილდღეობის, ფუნდამენტური უფლებების, საარჩევნო პროცესებისა და საზოგადოებრივი უსაფრთხოების შესახებ, წარადგინონ დამოუკიდებელი აუდიტი და გაუზიარონ მონაცემები მარეგულირებლებს და შემოწმებულ მკვლევარებს. ”ეს ახალი აღნიშვნები ნიშნავს, რომ ChatGPT, Re (Act, AliExpress, All, Commission, DSA, Democracy, Digital, EU, Engine, European, Executive, Henna, March, Non, November, President, Search, Security, Services, Sovereignty, Tech, Temu, These, Union, Vice, Virkkunen)"
+      },
+      {
+        "uid": "reddit|Mon, 31 Aug 2026 01:09:25 GMT|Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+        "description_en": "r/LocalLLaMA · 61 upvotes · 36 comments · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) Slammed with work and no time to pretty this up. Qwen wrote most of this but I checked the data. All tests done on the same rig, same prompts, and most tests are my real workloads. Single-GPU local eval: one RTX PRO 6000 Blackwell Max-Q (96 GB, SM120) + 256 GB DDR5, vLLM nightly, both models served alternately under the same service alias and port that my agent stack actually consumes: text scoring pipelines, memory consolidation, local deep research, browser automation, etc. Minimal coding. Because downstream consumers key off the alias, swapping the model behind it is the honest way to find out what breaks. **Models tested:** \\- Qwen3.8-Flash-Next-NVFP4 ([https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4](https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4)) \\- Qwen3.8-27B-FP8 ([https://huggingface.co/Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)). Every prompt, fixture, and scorer below is byte-identical between the two passes — only the served model differs. **\\*\\*TL;DR:\\*\\*** Flash-Next is \\*faster and mechanically flawless (strict JSON, injection resistance, SLAs: all zero failures) and wins the high-reasoning spatial/code-gen tier with better failure modes. The dense 27B still wins sustained multi-step symbolic work (bug-fixing, math proofs, abstract puzzles) and this is where Flash-Next exhibits a striking new failure shape: it promises the deliverable, declares \"done\", and outputs nothing. Same \\`reasoning\\_effort\\` knob, radically different semantics. Not a drop-in replacement; a conditional promotion. \\## Serving recipes (what I actually ran) \\*\\*Flash-Next:\\*\\* \\`\\`\\` docker run vllm/vllm-openai:qwen38-flash-next \\\\ \\-e VLLM\\_PLE\\_CPU\\_OFFLOAD=1 \\\\ # parks \\~100GB n-gram embed table in host RAM \\-e VLLM\\_API\\_KEY=\\*\\*\\* \\\\ \\--entrypoint vllm serve Inferact/Qwen3.8-Flash-Next-NVFP4 \\\\ \\--max-model-len 200704 \\\\ # \\~200K (262K native) \\--gpu-memory-utilizati…",
+        "excerpt_en": "r/LocalLLaMA · 61 upvotes · 36 comments · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) Slammed with work and no time to pretty this up. Qwen wrote most of this but I checked the data.",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results/",
+        "pub_date": "Mon, 31 Aug 2026 01:09:25 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+        "excerpt_ka": "r/LocalLLaMA · 61 დადებითი ხმა · 36 კომენტარი · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) გააკრიტიკა მუშაობა და დრო არ არის ამის გასალამაზებლად. Qwen-მა დაწერა ამის უმეტესობა, მაგრამ მე გადავამოწმე მონაცემები. (Slammed)",
+        "description_ka": "r/LocalLLaMA · 61 დადებითი ხმა · 36 კომენტარი · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) გააკრიტიკა მუშაობა და დრო არ არის ამის გასალამაზებლად. Qwen-მა დაწერა ამის უმეტესობა, მაგრამ მე გადავამოწმე მონაცემები. ყველა ტესტი, რომელიც გაკეთებულია ერთსა და იმავე აპარატზე, იგივე მოთხოვნა და ტესტების უმეტესობა ჩემი რეალური დატვირთვაა. ერთი GPU ლოკალური შეფასება: ერთი RTX PRO 6000 Blackwell Max-Q (96 GB, SM120) + 256 GB DDR5, vLLM ღამით, ორივე მოდელი მონაცვლეობით ემსახურება იმავე სერვისის მეტსახელებს და პორტს, რომელსაც ჩემი აგენტის დასტა რეალურად მოიხმარს: ტექსტის შეფასების მილსადენები, მეხსიერების ავტომატიზაცია, ლოკალური ღრმა კვლევა და ა. შ. იმის გამო, რომ ქვემო დინების მომხმარებლებმა არ მოიხსენიონ მეტსახელი, მის უკან მოდელის შეცვლა პატიოსანი გზაა იმის გასარკვევად, თუ რა ფუჭდება. **შემოწმებული მოდელები:** \\- Qwen3.8-Flash-Next-NVFP4 ([https://huggingface. co/Inferact/Qwen3.8-Flash-Next-NVFP4](https://huggingface. co/Inferact/Qwen3.8-Flash-P4-NVFP4) Qwen3.8-Flash-P4n-NV-we) ([https://huggingface. co/Qwen/Qwen3.8-27B-FP8](https://huggingface. co/Qwen/Qwen3.8-27B-FP8)). ქვემოთ მოცემული ყველა მოთხოვნა, მატჩი და ბომბარდირი ბაიტი-იდენტურია ორ პასს შორის - მხოლოდ სერვისული მოდელი განსხვავდება. **\\*\\*TL;DR:\\*\\*** Flash-Next არის \\*უფრო სწრაფი და მექანიკურად უნაკლო (მკაცრი JSON, ინექციის წინააღმდეგობა, SLA: ყველა მარცხი) და იგებს მაღალი მსჯელობის სივრცითი/კოდის გენის დონეს. (All, Because, Every, Minimal, Models, Not, RAM, SLAs, Same, Serving, Single, Slammed, VLLM)"
+      },
+      {
         "uid": "reddit|Sat, 29 Aug 2026 12:50:05 GMT|Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
         "feed": "reddit",
         "source_label": "რედიტი",
@@ -454,6 +590,40 @@
     ],
     "youtube": [
       {
+        "uid": "youtube|Mon, 31 Aug 2026 18:06:41 GMT|How AI Is Changing Code Reviews & Software Development",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "How AI Is Changing Code Reviews & Software Development",
+        "description_en": "This video explores the evolution of code reviews from traditional line-by-line inspections to AI-powered workflows that focus on validating intent, requirements, and business outcomes rather than just implementation details. It provides a clear, professional analysis of how AI is transforming software development practices through integration with CI/CD pipelines and automated outcome validation. The insight lies in reframing code review as a higher-level governance process enabled by AI, which is highly valuable for engineering leaders and developers adapting to modern AI-augmented workflows.",
+        "excerpt_en": "This video explores the evolution of code reviews from traditional line-by-line inspections to AI-powered workflows that focus on validating intent, requirements, and business outcomes rather than just implementation details.",
+        "link": "https://www.youtube.com/watch?v=c57vAe-mMLo",
+        "pub_date": "Mon, 31 Aug 2026 18:06:41 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "How AI Is Changing Code Reviews & Software Development",
+        "excerpt_ka": "ეს ვიდეო იკვლევს კოდების მიმოხილვის ევოლუციას ტრადიციული სტრიქონი-სტრიქონ ინსპექტირებიდან ხელოვნური ინტელექტის საშუალებით მომუშავე სამუშაო პროცესებამდე, რომელიც ფოკუსირებულია განზრახვის, მოთხოვნებისა და ბიზნესის შედეგების დამოწმებაზე და არა მხოლოდ განხორციელების დეტალებზე. (AI, This)",
+        "description_ka": "ეს ვიდეო იკვლევს კოდების მიმოხილვის ევოლუციას ტრადიციული სტრიქონი-სტრიქონ ინსპექტირებიდან ხელოვნური ინტელექტის საშუალებით მომუშავე სამუშაო პროცესებამდე, რომელიც ფოკუსირებულია განზრახვის, მოთხოვნებისა და ბიზნესის შედეგების დამოწმებაზე და არა მხოლოდ განხორციელების დეტალებზე. ის უზრუნველყოფს მკაფიო, პროფესიონალურ ანალიზს იმის შესახებ, თუ როგორ ცვლის ხელოვნური ინტელექტი პროგრამული უზრუნველყოფის განვითარების პრაქტიკას CI/CD მილსადენებთან ინტეგრაციისა და შედეგების ავტომატური ვალიდაციის გზით. ჩანაფიქრი მდგომარეობს კოდის მიმოხილვის გადახედვაში, როგორც უფრო მაღალი დონის მართვის პროცესი, რომელიც ჩართულია ხელოვნური ინტელექტის მიერ, რაც ძალზე ღირებულია ინჟინერიის ლიდერებისთვის და დეველოპერებისთვის, რომლებიც ადაპტირებენ თანამედროვე ხელოვნური ინტელექტის გაძლიერებულ სამუშაო პროცესებს. (AI, It, This)"
+      },
+      {
+        "uid": "youtube|Mon, 31 Aug 2026 18:06:41 GMT|Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+        "description_en": "This video offers a strategic breakdown of Apple’s shift toward local AI compute with its new Mac lineup, analyzing how chip architecture, memory hierarchy, and pricing reflect a deliberate bet on owned versus rented intelligence. It connects hardware design to real-world implications for running AI agents locally, discussing trade-offs between persistent cloud models and on-device inference. The analysis is technically grounded and relevant to professionals evaluating infrastructure strategies for AI deployment, making it a high-value resource for understanding the future of edge AI systems.",
+        "excerpt_en": "This video offers a strategic breakdown of Apple’s shift toward local AI compute with its new Mac lineup, analyzing how chip architecture, memory hierarchy, and pricing reflect a deliberate bet on owned versus rented intelligence.",
+        "link": "https://www.youtube.com/watch?v=1lO8aNSLPJc",
+        "pub_date": "Mon, 31 Aug 2026 18:06:41 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+        "excerpt_ka": "ეს ვიდეო გვთავაზობს სტრატეგიულ შეჯამებას Apple-ის ადგილობრივი ხელოვნური ინტელექტის გამოთვლაზე Mac-ის ახალი შემადგენლობით, აანალიზებს, თუ როგორ ასახავს ჩიპების არქიტექტურა, მეხსიერების იერარქია და ფასები მიზანმიმართულ ფსონს საკუთრებაში და დაქირავებულ ინტელექტზე. (AI, This)",
+        "description_ka": "ეს ვიდეო გვთავაზობს სტრატეგიულ შეჯამებას Apple-ის ადგილობრივი ხელოვნური ინტელექტის გამოთვლაზე Mac-ის ახალი შემადგენლობით, აანალიზებს, თუ როგორ ასახავს ჩიპების არქიტექტურა, მეხსიერების იერარქია და ფასები მიზანმიმართულ ფსონს საკუთრებაში და დაქირავებულ ინტელექტზე. ის აკავშირებს ტექნიკის დიზაინს რეალურ სამყაროში AI აგენტების ლოკალურად გაშვების შედეგებთან, განიხილავს კომერციებს მუდმივ ღრუბლოვან მოდელებსა და მოწყობილობაზე არსებულ დასკვნას შორის. ანალიზი ტექნიკურად დასაბუთებულია და შესაბამისია პროფესიონალებისთვის, რომლებიც აფასებენ AI-ის განლაგების ინფრასტრუქტურულ სტრატეგიებს, რაც მას მაღალ ღირებულ რესურსად აქცევს ბოლო AI სისტემების მომავლის გასაგებად. (It, This)"
+      },
+      {
         "uid": "youtube|Sat, 29 Aug 2026 17:48:57 GMT|How LLMs Get Faster Without Changing Their Answers | Speculative Decoding",
         "feed": "youtube",
         "source_label": "იუთუბი",
@@ -525,31 +695,31 @@
     "product_hunt": [],
     "skill": [
       {
-        "uid": "skill|Sat, 29 Aug 2026 17:51:02 GMT|self-improving agent",
+        "uid": "skill|Mon, 31 Aug 2026 18:08:26 GMT|self-improving agent",
         "feed": "skill",
         "source_label": "Skills",
         "title_en": "self-improving agent",
-        "description_en": "0 installs · 3982 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3982 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "description_en": "0 installs · 3983 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3983 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
         "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Sat, 29 Aug 2026 17:51:02 GMT",
+        "pub_date": "Mon, 31 Aug 2026 18:08:26 GMT",
         "categories": [
           "skill",
           "news/clawhub"
         ],
         "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3982 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
-        "description_ka": "0 ინსტალაცია · 3982 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
+        "excerpt_ka": "0 ინსტალაცია · 3983 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
+        "description_ka": "0 ინსტალაცია · 3983 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს მუდმივი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
       },
       {
-        "uid": "skill|Sat, 29 Aug 2026 17:51:02 GMT|Skill Vetter",
+        "uid": "skill|Mon, 31 Aug 2026 18:08:26 GMT|Skill Vetter",
         "feed": "skill",
         "source_label": "Skills",
         "title_en": "Skill Vetter",
         "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
         "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
         "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Sat, 29 Aug 2026 17:51:02 GMT",
+        "pub_date": "Mon, 31 Aug 2026 18:08:26 GMT",
         "categories": [
           "skill",
           "news/clawhub"
@@ -560,6 +730,40 @@
       }
     ],
     "blog": [
+      {
+        "uid": "blog|Mon, 31 Aug 2026 17:35:06 GMT|I shipped 129 pull requests to my SEO SaaS in the last 7 days — solo, with Claude Code doing most of the typing",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "I shipped 129 pull requests to my SEO SaaS in the last 7 days — solo, with Claude Code doing most of the typing",
+        "description_en": "KinetixSEO started as a straightforward technical SEO checker. This week most of the work went somewhere else: making it answer a question classic SEO t...",
+        "excerpt_en": "KinetixSEO started as a straightforward technical SEO checker. This week most of the work went somewhere else: making it answer a question classic SEO t...",
+        "link": "https://www.indiehackers.com/post/i-shipped-129-pull-requests-to-my-seo-saas-in-the-last-7-days-solo-with-claude-code-doing-most-of-the-typing-683895a973",
+        "pub_date": "Mon, 31 Aug 2026 17:35:06 GMT",
+        "categories": [
+          "blog",
+          "blog/builder_story"
+        ],
+        "title_ka": "მე გავაგზავნე 129 pull მოთხოვნა ჩემს SEO SaaS-ში ბოლო 7 დღის განმავლობაში — სოლო, კლოდ კოდით აკეთებს აკრეფის უმეტესობას (Claude, Code)",
+        "excerpt_ka": "KinetixSEO დაიწყო როგორც მარტივი ტექნიკური SEO შემმოწმებელი. ამ კვირაში სამუშაოს უმეტესი ნაწილი სხვაგან წავიდა: გაეცა პასუხი კითხვას კლასიკური SEO t... (This)",
+        "description_ka": "KinetixSEO დაიწყო როგორც მარტივი ტექნიკური SEO შემმოწმებელი. ამ კვირაში სამუშაოს უმეტესი ნაწილი სხვაგან წავიდა: გაეცა პასუხი კითხვას კლასიკური SEO t... (This)"
+      },
+      {
+        "uid": "blog|Mon, 31 Aug 2026 17:35:06 GMT|I built a guard for AI agents that act on stale information",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "I built a guard for AI agents that act on stale information",
+        "description_en": "I kept running into a failure mode that wasn’t really a hallucination. An agent reads something—a balance, inventory level, account status or policy—and...",
+        "excerpt_en": "I kept running into a failure mode that wasn’t really a hallucination. An agent reads something—a balance, inventory level, account status or policy—and...",
+        "link": "https://www.indiehackers.com/post/i-built-a-guard-for-ai-agents-that-act-on-stale-information-66dcee6c04",
+        "pub_date": "Mon, 31 Aug 2026 17:35:06 GMT",
+        "categories": [
+          "blog",
+          "blog/builder_story"
+        ],
+        "title_ka": "მე შევქმენი დაცვა ხელოვნური ინტელექტის აგენტებისთვის, რომლებიც მოქმედებენ ძველ ინფორმაციას (AI)",
+        "excerpt_ka": "მე განვაგრძობდი მარცხის რეჟიმში, რომელიც ნამდვილად არ იყო ჰალუცინაცია. აგენტი კითხულობს რაღაცას - ბალანსს, ინვენტარის დონეს, ანგარიშის სტატუსს ან პოლიტიკას - და...",
+        "description_ka": "მე განვაგრძობდი მარცხის რეჟიმში, რომელიც ნამდვილად არ იყო ჰალუცინაცია. აგენტი კითხულობს რაღაცას - ბალანსს, ინვენტარის დონეს, ანგარიშის სტატუსს ან პოლიტიკას - და..."
+      },
       {
         "uid": "blog|Sat, 29 Aug 2026 17:28:47 GMT|I catalogued everything an AI agent can buy. The list is shorter than the hype.",
         "feed": "blog",
@@ -630,6 +834,40 @@
       }
     ],
     "paper": [
+      {
+        "uid": "paper|Mon, 31 Aug 2026 18:09:08 GMT|Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+        "description_en": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already exist, including open-weight models and open-source training recipes, a cost-efficient, hardware-accessible, and open-source pretraining recipe has long been missing. Even at a small scale, training Llama-3.2-3B costs over \\$1.5M, and reproducing SmolLM3-3B needs over \\$700K. In this report, we present an open pretraining recipe designed to lower this barrier. Using this recipe, we train a collection of Puro-2B models from scratch on up to 1.4 trillion tokens with FP8 precision on consumer-grade RTX 5090 GPUs. The models in the collection differ in token budgets and selected recipe variants. Our best model is trained at a compute cost of less than \\$6.9K and approaches Qwen2.5-1.5B performance under our evaluation protocol. This cost efficiency is enabled by a combination of approaches, including hardware selection, low-precision training, hyperball optimization, curriculum model averaging, and the data recipe. Beyond the recipe itself, we provide two additional results. First, across the Puro-2B collection, we derive a Puro Cost Scaling Law that relates training cost to average model performance; the fitted law suggests that about \\$4.4K, less than \\$5,090, is sufficient to reach the performance of Qwen2-1.5B. Second, as an end-to-end case study, we examine how pretraining data curricula shape downstream performance after post-training. Such controlled studies are enabled by having access to the full pretraining pipeline rather than model weights alone. We release the full training recipe for Puro-2B, including data, code, and model weights under Apache 2.0 at this https URL . · Institutions: Affiliation: 1 Tsinghua University, Lab’s Qwen2-1.5B Trained on RTX 5090 within $5090, Tsinghua University, Pengcheng Laboratory, We sincerely thank Yanfu Investments for generously providing GPU computing resources to support this research · Source: alphaxiv · Votes: 60",
+        "excerpt_en": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities.…",
+        "link": "https://www.alphaxiv.org/overview/2608.27370",
+        "pub_date": "Mon, 31 Aug 2026 18:09:08 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "Puro-2B: Poor Lab's Qwen2-1.5B გაწვრთნილი RTX 5090-ზე 5090 დოლარის ფარგლებში (Trained)",
+        "excerpt_ka": "ენობრივი მოდელის წინასწარი მომზადება თითქმის სინონიმი გახდა აკრძალული ღირებულებისა, რაც მიუწვდომელია აკადემიური და ღია წყაროების თემებისთვის.… (Language)",
+        "description_ka": "ენობრივი მოდელის წინასწარი მომზადება თითქმის სინონიმი გახდა აკრძალული ღირებულებისა, რაც მიუწვდომელია აკადემიური და ღია წყაროების თემებისთვის. მიუხედავად იმისა, რომ უკვე არსებობს ძლიერი ღია კოდის მცდელობები, მათ შორის ღია წონის მოდელები და ღია კოდის სასწავლო რეცეპტები, ხარჯთეფექტური, ტექნიკისთვის ხელმისაწვდომი და ღია კოდის წინასწარ მომზადების რეცეპტი დიდი ხანია არ არსებობს. მცირე მასშტაბითაც კი, Llama-3.2-3B სწავლება ღირს $1.5 მილიონზე მეტი, ხოლო SmolLM3-3B-ის რეპროდუცირება სჭირდება $700 ათასზე მეტი. ამ მოხსენებაში წარმოგიდგენთ ღია წინასწარ მომზადების რეცეპტს, რომელიც შექმნილია ამ ბარიერის შესამცირებლად. ამ რეცეპტის გამოყენებით, ჩვენ ვამზადებთ Puro-2B მოდელების კოლექციას ნულიდან 1,4 ტრილიონამდე ჟეტონზე FP8 სიზუსტით სამომხმარებლო კლასის RTX 5090 GPU-ებზე. კოლექციის მოდელები განსხვავდება სიმბოლური ბიუჯეტით და შერჩეული რეცეპტის ვარიანტებით. ჩვენი საუკეთესო მოდელი გაწვრთნილია $6.9K-ზე ნაკლები გამოთვლითი ღირებულებით და უახლოვდება Qwen2.5-1.5B შესრულებას ჩვენი შეფასების პროტოკოლით. ეს ხარჯების ეფექტურობა უზრუნველყოფილია მიდგომების კომბინაციით, მათ შორის ტექნიკის შერჩევა, დაბალი სიზუსტით სწავლება, ჰიპერბოლის ოპტიმიზაცია, სასწავლო გეგმის მოდელის საშუალო შეფასება და მონაცემთა რეცეპტი. თავად რეცეპტის გარდა, ჩვენ გთავაზობთ ორ დამატებით შედეგს. პირველი, Puro-2B კოლექციაში, ჩვენ გამოვიყვანთ Puro Cost Scaling-ის კანონს, რომელიც აკავშირებს ტრენინგის ღირებულებას საშუალო მოდიფიკაციასთან (Affiliation, Although, Apache, Beyond, Even, First, GPUs, Institutions, Investments, Lab, Laboratory, Language, Law, Our, Pengcheng, Second, Source, Such, This, Trained, Tsinghua, URL, University, Using, Votes, We, Yanfu)"
+      },
+      {
+        "uid": "paper|Mon, 31 Aug 2026 18:09:08 GMT|WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "description_en": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework that co-evolves agent skills with a persistent knowledge base (wiki). At a high level, WikiSkill separates raw execution experience, accumulated knowledge, and executable skills, while continuously consolidating experience into the wiki, which subsequent skill updates can build on. Across diverse benchmarks and models, WikiSkill consistently outperforms state-of-the-art skill-evolution methods and improves over no-skill baselines in most model-benchmark settings. We find that skill evolution complements model scaling: larger models generally benefit more from evolved skills, while smaller models with skills can outperform substantially larger models without them. We also find that evolved skills transfer effectively across models and model families, and skills evolved by other models can outperform self-evolved skills. Finally, our ablation studies confirm that persistent knowledge accumulation in the wiki is critical for effective skill evolution. These results demonstrate the benefits of systematically accumulating and refining agent experience for developing reusable and transferable skills. · Institutions: Affiliation: Google Research, Google Research · Source: alphaxiv · Votes: 86",
+        "excerpt_en": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction.",
+        "link": "https://www.alphaxiv.org/overview/2608.27454",
+        "pub_date": "Mon, 31 Aug 2026 18:09:08 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "excerpt_ka": "აგენტის უნარები აერთიანებს სპეციალიზებულ ცოდნას და სამუშაო ნაკადებს მრავალჯერად გამოყენებად რესურსებში, რაც აფართოებს AI აგენტის შესაძლებლობებს. ბოლო ნამუშევარი ავტომატურად აღმოაჩენს ასეთ უნარებს აგენტის გამოცდილებიდან, რაც აგენტებს საშუალებას აძლევს თანდათანობით მოერგონ ურთიერთქმედების გზით. (Agent, Recent)",
+        "description_ka": "აგენტის უნარები აერთიანებს სპეციალიზებულ ცოდნას და სამუშაო ნაკადებს მრავალჯერად გამოყენებად რესურსებში, რაც აფართოებს AI აგენტის შესაძლებლობებს. ბოლო ნამუშევარი ავტომატურად აღმოაჩენს ასეთ უნარებს აგენტის გამოცდილებიდან, რაც აგენტებს საშუალებას აძლევს თანდათანობით მოერგონ ურთიერთქმედების გზით. თუმცა, ცოდნა, რომელიც ხელმძღვანელობს უნარების განვითარებას, ჩვეულებრივ რჩება მიმოფანტული ოპტიმიზაციის ისტორიაში, რაც ზღუდავს მათ სისტემატურ ხელახლა გამოყენებას გამეორებებში. ჩვენ წარმოგიდგენთ WikiSkill-ს, ჩარჩოს, რომელიც ავითარებს აგენტის უნარებს მუდმივი ცოდნის ბაზასთან (ვიკი). მაღალ დონეზე, WikiSkill გამოყოფს დაუმუშავებელ გამოცდილებას, დაგროვილ ცოდნას და შესრულებადი უნარებს, ხოლო გამოცდილებას მუდმივად აერთიანებს ვიკიში, რომლის საფუძველზეც შესაძლებელია უნარების შემდგომი განახლებები. სხვადასხვა კრიტერიუმებსა და მოდელებს შორის, WikiSkill მუდმივად აჯობებს უნარების განვითარების უახლესი მეთოდებს და აუმჯობესებს უნარების გარეშე საბაზისო ხაზებს უმეტეს მოდელის საორიენტაციო პარამეტრებში. ჩვენ აღმოვაჩენთ, რომ უნარების ევოლუცია ავსებს მოდელის სკალირებას: უფრო დიდი მოდელები ზოგადად უფრო მეტ სარგებელს იღებენ განვითარებული უნარებიდან, მაშინ როცა უნარების მქონე პატარა მოდელებს შეუძლიათ აჯობონ არსებითად დიდ მოდელებს მათ გარეშე. ჩვენ ასევე აღმოვაჩენთ, რომ განვითარებული უნარები ეფექტურად გადადის მოდელებსა და სამოდელო ოჯახებს შორის, ხოლო სხვა მოდელების მიერ განვითარებული უნარები შეიძლება აღემატებოდეს თვითგანვითარებულ უნარებს. და ბოლოს, ჩვენი აბლაცია (Across, Affiliation, Agent, At, Finally, Google, However, Institutions, Recent, Research, Source, These, Votes, We)"
+      },
       {
         "uid": "paper|Sat, 29 Aug 2026 17:51:45 GMT|Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
         "feed": "paper",
@@ -722,7 +960,7 @@
         "feed": "event",
         "source_label": "ივენთი",
         "title_en": "Singapore Defense Tech Hackathon",
-        "description_en": "Time: Fri, 25 Sep 2026 04:00:00 GMT · Deterring Aggression Through Technological Superiority. Join the EDTH Community and ​get free access to all EDTH Community events for one year: https://community.eurodefense.tech/ Hosted by EDTH and Benjamin Wolba. 347+ attendees interested. In Singapore.",
+        "description_en": "Time: Fri, 25 Sep 2026 04:00:00 GMT · Deterring Aggression Through Technological Superiority. Join the EDTH Community and ​get free access to all EDTH Community events for one year: https://community.eurodefense.tech/ Hosted by EDTH and Benjamin Wolba. 378+ attendees interested. In Singapore.",
         "excerpt_en": "Time: Fri, 25 Sep 2026 04:00:00 GMT · Deterring Aggression Through Technological Superiority. Join the EDTH Community and ​get free access to all EDTH Community events for one year: https://community.eurodefense.tech/ Hosted by EDTH and Benjamin Wolba.",
         "link": "https://lu.ma/sdth-2026",
         "pub_date": "Fri, 25 Sep 2026 04:00:00 GMT",
@@ -732,7 +970,7 @@
         ],
         "title_ka": "Singapore Defense Tech Hackathon",
         "excerpt_ka": "დრო: პარასკევი, 2026 წლის 25 სექტემბერი, 04:00:00 GMT · აგრესიის შეკავება ტექნოლოგიური უპირატესობის მეშვეობით. შეუერთდით EDTH საზოგადოებას და მიიღეთ უფასო წვდომა EDTH საზოგადოების ყველა ღონისძიებაზე ერთი წლის განმავლობაში: https://community. eurodefense. tech/ მასპინძლობს EDTH და ბენჯამინ ვოლბა. (Aggression, Benjamin, Community, Deterring, Fri, Hosted, Join, Sep, Superiority, Technological, Through, Time, Wolba)",
-        "description_ka": "დრო: პარასკევი, 2026 წლის 25 სექტემბერი, 04:00:00 GMT · აგრესიის შეკავება ტექნოლოგიური უპირატესობის მეშვეობით. შეუერთდით EDTH საზოგადოებას და მიიღეთ უფასო წვდომა EDTH საზოგადოების ყველა ღონისძიებაზე ერთი წლის განმავლობაში: https://community. eurodefense. tech/ მასპინძლობს EDTH და ბენჯამინ ვოლბა. დაინტერესებულია 347+ დამსწრე. სინგაპურში. (Aggression, Benjamin, Community, Deterring, Fri, Hosted, Join, Sep, Singapore, Superiority, Technological, Through, Time, Wolba)"
+        "description_ka": "დრო: პარასკევი, 2026 წლის 25 სექტემბერი, 04:00:00 GMT · აგრესიის შეკავება ტექნოლოგიური უპირატესობის მეშვეობით. შეუერთდით EDTH საზოგადოებას და მიიღეთ უფასო წვდომა EDTH საზოგადოების ყველა ღონისძიებაზე ერთი წლის განმავლობაში: https://community. eurodefense. tech/ მასპინძლობს EDTH და ბენჯამინ ვოლბა. 378+ დამსწრე დაინტერესებულია. სინგაპურში. (Aggression, Benjamin, Community, Deterring, Fri, Hosted, Join, Sep, Singapore, Superiority, Technological, Through, Time, Wolba)"
       },
       {
         "uid": "event|Fri, 18 Sep 2026 21:00:00 GMT|#24. AI/ML Code And Learn",
@@ -935,12 +1173,46 @@
           "event/meetup"
         ],
         "title_ka": "Microsoft 365 Summit 2026 – Community Day",
-        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
-        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
+        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
+        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
       }
     ]
   },
   "all": [
+    {
+      "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
+      "description_en": "Zhipu AI (Z.ai) released GLM-5.3 on August 14, 2026, built on the same base architecture and parameter count as GLM-5.2, with all performance gains coming from extended post-training rather than a new base model. GLM-5.3-Flash, codenamed Ox Alpha, launched anonymously on OpenRouter on August 20 and was formally confirmed as Z.ai's model on August 27, becoming the platform's biggest-ever launch. GLM-5.3-Flash is a 320B total parameter, 18B active parameter multimodal mixture-of-experts model released under the MIT license, the first natively multimodal model in the GLM-5 series. Z.ai priced GLM-5.3-Flash at $0.15 per million input tokens and $0.50 per million output tokens, about 1/100th of frontier model pricing, and claimed it ran entirely on 100,000 domestically produced Chinese chips.",
+      "excerpt_en": "Zhipu AI (Z.ai) released GLM-5.3 on August 14, 2026, built on the same base architecture and parameter count as GLM-5.2, with all performance gains coming from extended post-training rather than a new base model.",
+      "link": "https://www.agenticbrew.ai/news#cluster=52976d46-c389-478b-bc82-7e108c123d50",
+      "pub_date": "Tue, 01 Sep 2026 00:55:39 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z.ai)",
+      "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z.ai)",
+      "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z.ai)"
+    },
+    {
+      "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|OpenClaw 2.0 Release",
+      "feed": "news",
+      "source_label": "ნიუსი",
+      "title_en": "OpenClaw 2.0 Release",
+      "description_en": "OpenClaw shipped version 2026.8.1, branded OpenClaw 2.0, on August 30, 2026, after pausing its normally rapid release cadence for nearly seven weeks to build a stronger technical foundation. The release consolidated more than 16,000 merged pull requests from 933 contributors, including 569 first-time contributors - roughly half of every pull request ever merged into the project. The browser-based Control UI was rebuilt around a chat-first layout, cutting JavaScript requests from 140 to 45 and startup time from about 1.6 seconds to 575 milliseconds. New security features include masked credential requests, an optional 1Password broker, and plugin provenance checks, though OpenClaw's own documentation states these controls are not a security boundary.",
+      "excerpt_en": "OpenClaw shipped version 2026.8.1, branded OpenClaw 2.0, on August 30, 2026, after pausing its normally rapid release cadence for nearly seven weeks to build a stronger technical foundation.",
+      "link": "https://www.agenticbrew.ai/news#cluster=dc8a08a2-b59c-499b-9050-74582bc78fb1",
+      "pub_date": "Tue, 01 Sep 2026 00:55:39 GMT",
+      "categories": [
+        "news",
+        "news/cluster"
+      ],
+      "title_ka": "OpenClaw 2.0 Release",
+      "excerpt_ka": "OpenClaw-მა გამოაქვეყნა ვერსია 2026.8.1, ბრენდირებული OpenClaw 2.0, 2026 წლის 30 აგვისტოს, მას შემდეგ, რაც შეაჩერა მისი ჩვეულებრივ სწრაფი გამოშვების კადენცია თითქმის შვიდი კვირის განმავლობაში უფრო ძლიერი ტექნიკური საფუძვლის შესაქმნელად. (August)",
+      "description_ka": "OpenClaw-მა გამოაქვეყნა ვერსია 2026.8.1, ბრენდირებული OpenClaw 2.0, 2026 წლის 30 აგვისტოს, მას შემდეგ, რაც შეაჩერა მისი ჩვეულებრივ სწრაფი გამოშვების კადენცია თითქმის შვიდი კვირის განმავლობაში უფრო ძლიერი ტექნიკური საფუძვლის შესაქმნელად. გამოცემამ გააერთიანა 16000-ზე მეტი გაერთიანებული მოთხოვნა 933 კონტრიბუტორისგან, მათ შორის 569 პირველად კონტრიბუტორი - ყოველი მოთხოვნის დაახლოებით ნახევარი, რაც კი ოდესმე გაერთიანდა პროექტში. ბრაუზერზე დაფუძნებული Control UI ხელახლა აშენდა ჩატის პირველი განლაგების ირგვლივ, შემცირდა JavaScript მოთხოვნები 140-დან 45-მდე და გაშვების დრო დაახლოებით 1,6 წამიდან 575 მილიწამამდე. უსაფრთხოების ახალი ფუნქციები მოიცავს ნიღბიან რწმუნებათა მოთხოვნებს, არასავალდებულო 1Password ბროკერს და დანამატის წარმოშობის შემოწმებას, თუმცა OpenClaw-ის საკუთარი დოკუმენტაციაში ნათქვამია, რომ ეს კონტროლი არ არის უსაფრთხოების საზღვარი. (August, New)"
+    },
     {
       "uid": "news|Sun, 30 Aug 2026 00:52:15 GMT|Bernie Sanders bill to ban Flock AI surveillance cameras",
       "feed": "news",
@@ -1008,6 +1280,57 @@
       "title_ka": "Google Gemini 3.5 Transcribe launch",
       "excerpt_ka": "Google-მა წარმოადგინა Gemini 3.5 Transcribe, მისი ყველაზე ზუსტი მეტყველების ტექსტის მოდელი, რომელიც აკონვერტირებს ნედლეულ აუდიოს გაპრიალებულ, ფორმატირებულ ტექსტად 85+ ენაზე, ამავდროულად ამოიღებს შემავსებელ სიტყვებს და ამუშავებს შუა წინადადების თვითშესწორებებს.",
       "description_ka": "Google-მა წარმოადგინა Gemini 3.5 Transcribe, მისი ყველაზე ზუსტი მეტყველების ტექსტის მოდელი, რომელიც აკონვერტირებს ნედლეულ აუდიოს გაპრიალებულ, ფორმატირებულ ტექსტად 85+ ენაზე, ამავდროულად ამოიღებს შემავსებელ სიტყვებს და ამუშავებს შუა წინადადების თვითშესწორებებს. გამოშვებაში მოცემულია ორი განსხვავებული მოდელის ID - gemini-3-5-ტრანსკრიბი წინასწარ ჩაწერილი აუდიოსთვის Interactions API-ით დინამიკების ატრიბუტით და სიტყვების დონის დროის შტამპებით, და gemini-3-5-ტრანსკრიბირება-live რეალური დროის სტრიმინგისთვის Live API-ის მეშვეობით. ის უკვე ვრცელდება Search Live-ში, Gemini Live-ში, Docs-ში, Keep-ში, Gmail-ში, Gemini აპში და Gboard-ის Rambler კარნახის ფუნქციაში და ხელმისაწვდომია დეველოპერებისთვის Gemini API-ის მეშვეობით AI Studio-სა და Antigravity-ში. ხელოვნური ანალიზის დამოუკიდებელმა ბენჩმარკინგის მიხედვით მას მე-5 ადგილი უკავია სიტყვის შეცდომის სიხშირით 2.6%, Google-მა მოიხსენია 70%-იანი გაუმჯობესება დრო-ფინალურ ტრანსკრიფციაში, ვიდრე მისი წინამორბედი Chirp 3. (Analysis, Artificial, IDs, Independent, It)"
+    },
+    {
+      "uid": "twitter|Mon, 31 Aug 2026 22:45:08 GMT|AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+      "description_en": "We're sharing an update on our alignment and security efforts. In July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems. In a new post, we describe: 1. How we've secured... · 943 likes · 178 RTs · 159 replies · 130427 views · Alarms are being sounded again about the risks of artificial intelligence, after new reports documented how hundreds of OpenAI's so-called agents violated several restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events · 42 likes · 21 RTs · 4 replies · 4056 views · A good podcast discussion/breakdown, by @Gregory_C_Allen, of the METR/OpenAI reports on the Hugging Face 'swarm' · 15 likes · 1 RTs · 1 replies · 6087 views",
+      "excerpt_en": "We're sharing an update on our alignment and security efforts. In July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems.",
+      "link": "https://x.com/AnthropicAI/status/2094557124038951170",
+      "pub_date": "Mon, 31 Aug 2026 22:45:08 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic and Meta Report Unauthorized System Access",
+      "excerpt_ka": "ჩვენ ვუზიარებთ განახლებებს ჩვენი განლაგებისა და უსაფრთხოების ძალისხმევის შესახებ. ივლისში, ჩვენ ვაცნობეთ სამი ინციდენტის შესახებ, როდესაც კლოდის მოდელებმა, რომლებიც მუშაობდნენ კიბერუსაფრთხოების შეფასებებში გარანტიების გარეშე, მიიღეს უნებართვო წვდომა რეალურ სისტემებზე. (Claude, July, We)",
+      "description_ka": "ჩვენ ვუზიარებთ განახლებებს ჩვენი განლაგებისა და უსაფრთხოების ძალისხმევის შესახებ. ივლისში, ჩვენ ვაცნობეთ სამი ინციდენტის შესახებ, როდესაც კლოდის მოდელებმა, რომლებიც მუშაობდნენ კიბერუსაფრთხოების შეფასებებში გარანტიების გარეშე, მიიღეს უნებართვო წვდომა რეალურ სისტემებზე. ახალ პოსტში ჩვენ აღვწერთ: 1. როგორ დავიცვათ... · 943 მოწონება · 178 RTs · 159 პასუხი · 130427 ნახვა · ხელახლა გაისმა განგაში ხელოვნური ინტელექტის რისკების შესახებ, მას შემდეგ რაც ახალი მოხსენებები დაადასტურეს, თუ როგორ დაარღვიეს OpenAI-ის ე. წ. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები · 42 მოწონება · 21 RT · 4 პასუხი · 4056 ნახვა · კარგი პოდკასტის დისკუსია/დაშლა, @Gregory_C_Allen-ის მიერ, METR/OpenAI ანგარიშების შესახებ ჩახუტებულ სახეზე 'swarm' · 15 მოწონება · 1 RTs7 ნახვა · 61 (Alarms, Claude, Face, How, Hugging, July, We)"
+    },
+    {
+      "uid": "twitter|Mon, 31 Aug 2026 18:32:13 GMT|AI Data Center Backlash and Global Buildout",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "AI Data Center Backlash and Global Buildout",
+      "description_en": "JUST IN: A Virginia AI data center generates $26 in tax revenue for every $1 of county services they use while occupying just 3% of the land. · 2464 likes · 209 RTs · 111 replies · 137867 views · From vision to production. AI infrastructure powered by AMD Instinct MI355X GPUs and AMD EPYC CPUs is now live in Saudi Arabia and serving @HUMAIN customers. Together with @Cisco and @HUMAIN, we plan to deploy up to 250 MW of AI infrastructure as part of the next phase of the · 151 likes · 16 RTs · 1 replies · 29624 views · An advocacy group backed by AI industry billionaires is launching an ad campaign in election battleground states to try to counter a mounting public backlash against a data center construction wave · 21 likes · 7 RTs · 6 replies · 26566 views",
+      "excerpt_en": "JUST IN: A Virginia AI data center generates $26 in tax revenue for every $1 of county services they use while occupying just 3% of the land. · 2464 likes · 209 RTs · 111 replies · 137867 views · From vision to production.",
+      "link": "https://x.com/PolymarketMoney/status/2094493479095427456",
+      "pub_date": "Mon, 31 Aug 2026 18:32:13 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "AI Data Center Backlash and Global Buildout",
+      "excerpt_ka": "JUST IN: ვირჯინიის AI მონაცემთა ცენტრი გამოიმუშავებს $26 საგადასახადო შემოსავალს ყოველ $1 ქვეყნის სერვისზე, რომელსაც ისინი იყენებენ, ხოლო მიწის მხოლოდ 3% იკავებენ. · 2464 მოწონება · 209 RTs · 111 პასუხი · 137867 ნახვა · ხედვიდან წარმოებამდე. (From, Virginia)",
+      "description_ka": "JUST IN: ვირჯინიის AI მონაცემთა ცენტრი გამოიმუშავებს $26 საგადასახადო შემოსავალს ყოველ $1 ქვეყნის სერვისზე, რომელსაც ისინი იყენებენ, ხოლო მიწის მხოლოდ 3% იკავებენ. · 2464 მოწონება · 209 RTs · 111 პასუხი · 137867 ნახვა · ხედვიდან წარმოებამდე. AI ინფრასტრუქტურა, რომელიც აღჭურვილია AMD Instinct MI355X GPU-ებით და AMD EPYC CPU-ებით, ახლა მუშაობს საუდის არაბეთში და ემსახურება @HUMAIN მომხმარებლებს. @Cisco-სთან და @HUMAIN-თან ერთად, ჩვენ ვგეგმავთ 250 მეგავატამდე AI ინფრასტრუქტურის განთავსებას, როგორც შემდეგი ეტაპის ნაწილი · 151 მოწონება · 16 RTs · 1 პასუხი · 29624 ნახვა · ადვოკატირების ჯგუფი, რომელსაც მხარს უჭერენ ხელოვნური ინტელექტის ინდუსტრიის მილიარდერები · იწყებს სარეკლამო კამპანიას, რათა სცადოს სამშენებლო ცენტრის მონაცემების წინააღმდეგ ბრძოლის ველზე. 21 მოწონება · 7 RTs · 6 პასუხი · 26566 ნახვა (Arabia, CPUs, From, GPUs, MW, Saudi, Together, Virginia)"
+    },
+    {
+      "uid": "twitter|Mon, 31 Aug 2026 17:58:00 GMT|Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+      "description_en": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF · 7789 likes · 699 RTs · 157 replies · 410425 views · Anthropic has signed a $35B cloud deal with $NVDA backed Lambda to expand its AI compute capacity. What makes the deal more interesting is that Nvidia also supplies the GPUs and already secured the $HUT data center capacity where that compute will run. · 72 likes · 8 RTs · 2 replies · 10848 views · SCOOP: Anthropic signed a $35B cloud deal to rent GPUs from Lambda—at a Texas data center Nvidia leased from Hut 8. hard to keep that one straight. More details on the arrangement in my latest for @WSJ · 49 likes · 4 RTs · 4 replies · 3475 views",
+      "excerpt_en": "BREAKING: Sony has sued Anthropic over AI music training, and is seeking $150,000 per song, per YF · 7789 likes · 699 RTs · 157 replies · 410425 views · Anthropic has signed a $35B cloud deal with $NVDA backed Lambda to expand its AI compute capacity.",
+      "link": "https://x.com/unusual_whales/status/2094484865307586685",
+      "pub_date": "Mon, 31 Aug 2026 17:58:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Anthropic's $35B Lambda Cloud Deal, Sony's Lawsuit, and a $30 Trillion IPO Pitch",
+      "excerpt_ka": "შეტევა: Sony-მ უჩივლა Anthropic-ს AI მუსიკალური სწავლების გამო და ითხოვს $150,000 თითო სიმღერაზე, YF-ზე · 7789 მოწონება · 699 RTs · 157 პასუხი · 410425 ნახვა · Anthropic-მა ხელი მოაწერა $35 მილიარდი Cloud-ის $NVDA-ს ​​მხარდაჭერილ Lambda-ს სიმძლავრის გასაფართოებლად. (BREAKING)",
+      "description_ka": "შეტევა: Sony-მ უჩივლა Anthropic-ს AI მუსიკალური სწავლების გამო და ითხოვს $150,000 თითო სიმღერაზე, YF-ზე · 7789 მოწონება · 699 RTs · 157 პასუხი · 410425 ნახვა · Anthropic-მა ხელი მოაწერა $35 მილიარდი Cloud-ის $NVDA-ს ​​მხარდაჭერილ Lambda-ს სიმძლავრის გასაფართოებლად. გარიგებას უფრო საინტერესოს ხდის ის, რომ Nvidia ასევე აწვდის GPU-ებს და უკვე უზრუნველყოფილია $HUT მონაცემთა ცენტრის სიმძლავრე, სადაც ეს გამოთვლა იმუშავებს. · 72 მოწონება · 8 RT · 2 პასუხი · 10848 ნახვა · SCOOP: Anthropic-მა ხელი მოაწერა 35 მილიარდ დოლარს ღრუბლოვან ხელშეკრულებას ლამბდასგან GPU-ების დაქირავებაზე — ტეხასის მონაცემთა ცენტრ Nvidia-ში, რომელიც იჯარით იქნა მიღებული Hut 8-დან. ძნელია ამის შენარჩუნება. დამატებითი დეტალები შეთანხმების შესახებ ჩემს უახლესში @WSJ-სთვის · 49 მოწონება · 4 RT · 4 პასუხი · 3475 ნახვა (BREAKING, GPUs, More, Texas, What)"
     },
     {
       "uid": "twitter|Sat, 29 Aug 2026 23:41:38 GMT|OpenAI Cuts Off Cursor After SpaceX Acquisition, Reigniting Musk-Altman Feud",
@@ -1112,6 +1435,57 @@
       "description_ka": "ჩვენ ჩავატარეთ საფუძვლიანი გამოძიება ჩახუტებული სახის ინციდენტთან დაკავშირებით. ჩვენ ვაქვეყნებთ ტექნიკურ ანგარიშს და თანმხლებ ბლოგ პოსტს, რომელიც აღადგენს აგენტების აქტივობას, განმარტავს, თუ რატომ ვერ მოხერხდა არსებული გარანტიები და დეტალურად, თუ როგორ ავიცილებთ თავიდან განმეორებას. · 4276 მოწონება · 817 RT · 273 პასუხი · 1256700 ნახვა · ბევრმა ადამიანმა დაუჯერებლად იმუშავა ამ პოსტზე და დაკავშირებულ მოხსენებაზე, მათ შორის მე, მაშინ როცა ყველამ საკმაოდ სერიოზულად მიიპყრო თანასწორობა, სანამ ვფიქრობ, ეჭვგარეშეა, რომ ეს ახალი ერა იწყება. სახის ჩახუტების ინციდენტი წარმოადგენს შესაძლებლობების წყლის ზღვარს, რომელიც რეალურია · 1192 მოწონება · 126 RTs · 72 პასუხი · 56829 ნახვა · ჩვენ დავასრულეთ ჩვენი მიმოხილვა ჩახუტებული სახის ინციდენტის შესახებ. ჩვენ გამოვიყენეთ ის, რაც ვისწავლეთ, რათა მნიშვნელოვანი გავზარდოთ ჩვენი სტანდარტები უსაფრთხოების, უსაფრთხოებისა და განლაგების თვალსაზრისით ჩვენს სასწავლო და შეფასების ინფრასტრუქტურაში - არა მხოლოდ განლაგებისას. ბევრი ძალიან ღირებული ინფორმაცია · 1042 მოწონება · 64 RT · 64 პასუხი · 134570 ნახვა (Face, Hugging, We)"
     },
     {
+      "uid": "reddit|Mon, 31 Aug 2026 17:32:42 GMT|GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+      "description_en": "r/LocalLLaMA · 86 upvotes · 25 comments · I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself. I ran both models locally for this and picked the GLM 5.3 family(Q4 quant) because videos of it doing 3D work kept showing up in my twitter feed (out of curiosity, I ran the same prompt through the full GLM 5.3, also locally with a Q4 quant) these aren't small models, obviously, a 4-bit quantized Flash is around 190-200GB + headroom for context. full GLM 5.3 is around 450-470GB at 4-bit quantization (basically I went with the Q4 quants for both and the RTX PRO 6000 WS GPU, though I had to rent 4x rtx pro 6000ws for the flash model and 6x for the base one) writing the prompt wasn't as easy as I thought. my first attempts were vague and mostly produced 3D goo instead of an actual room. I eventually started specifying real dimensions: ceiling heights, stair rise, window mullion spacing and so on(the camera work was separately done by claude opus 5 so that I wouldn't have my token stats inflated by it) # prompt model a luxury duplex penthouse in the open Blender session. footprint 20.0 x 13.0 m (260 sqm). main ceiling 2.9 m. a double-height volume 9.0 x 8.0 m rising to 6.2 m. mezzanine floor at 3.1 m with a 1.1 m balustrade. stair: 17 treads, rise 0.182, going 0.28. terrace 20.0 x 4.5 m at Z = -0.02 with a 1.15 m balustrade. curtain wall with mullions every 1.5 m, frame depth 0.06. doors 2.10 m. counters 0.90 m. dining table 0.74 m. sofa seat 0.42 m. materials, PBR ranges: glass IOR 1.45-1.52, transmission 1.0; concrete roughness 0.25-0.40; marble roughness 0.08-0.15; brushed metal metallic 1.0, roughness 0.25-0.35; fabric roughness 0.75-0.95. reference real penthouses for proportion. furnish it. do NOT add a camera. do not reset the session. at first it was putting up the curtain wall, stairs, mezzanine, the glass railing, all that, then at some point I noticed it had furnished the place too with some furniture: sofa, dining table and plates on it. the pendant lights …",
+      "excerpt_en": "r/LocalLLaMA · 86 upvotes · 25 comments · I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself.…",
+      "link": "https://reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+      "pub_date": "Mon, 31 Aug 2026 17:32:42 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "GLM 5.3 და GLM 5.3 Flash მუშაობდა ადგილობრივად RTX PRO 6000 WS-ზე და ააშენეს პენტჰაუსი BlenderMCP-ის გამოყენებით",
+      "excerpt_ka": "r/LocalLLaMA · 86 დადებითი ხმა · 25 კომენტარი · მე მუდმივად ვხედავ AI აგენტების დემოს, რომლებიც აშენებენ სცენებს Blender-ში BlenderMCP-ის საშუალებით, ამიტომ მე თვითონ ვცადე.…",
+      "description_ka": "r/LocalLLaMA · 86 დადებითი ხმა · 25 კომენტარი · მე მუდმივად ვხედავ AI აგენტების დემოებს, რომლებიც აშენებენ სცენებს Blender-ში BlenderMCP-ის მეშვეობით, ამიტომ მე თვითონ ვცადე. მე გავატარე ორივე მოდელი ლოკალურად ამისთვის და ავირჩიე GLM 5.3 ოჯახი (Q4 რაოდენობრივი), რადგან ვიდეოები, რომლებზეც ის აკეთებდა 3D მუშაობას, მუდმივად ჩნდებოდა ჩემს ტვიტერის არხში (ცნობისმოყვარეობის გამო, იგივე მოთხოვნა შევასრულე სრული GLM 5.3-ით, ასევე ადგილობრივად Q4 რაოდენობით) ეს არ არის პატარა მოდელები, 20 GB არის დაახლოებით 20 GB. + სათავე კონტექსტისთვის. სრული GLM 5.3 არის დაახლოებით 450-470 GB 4-ბიტიანი კვანტიზაციით (ძირითადად მე მივიღე Q4 კვანტები ორივესთვის და RTX PRO 6000 WS GPU, თუმცა მე მომიწია 4x rtx pro 6000ws დაქირავება ფლეშ მოდელისთვის და 6x ძირითადისთვის) დაწერა ისეთი მარტივი, როგორც არ მეგონა. ჩემი პირველი მცდელობები გაურკვეველი იყო და ძირითადად აწარმოებდა 3D გუგს რეალური ოთახის ნაცვლად. საბოლოოდ დავიწყე რეალური ზომების დაზუსტება: ჭერის სიმაღლე, კიბეების აწევა, ფანჯრის მილიონების მანძილი და ა. შ. (კამერის მუშაობა ცალკე შესრულდა კლოდ ოპუს 5-ის მიერ, რათა არ მქონოდა მისი სიმბოლური სტატისტიკა) ნაკვალევი 20.0 x 13.0 მ (260 კვმ). მთავარი ჭერი 2.9 მ. ორმაგი სიმაღლის მოცულობა 9,0 x 8,0 მ, იზრდება 6,2 მ-მდე. ანტრესოლით 3.1 მ სიმაღლეზე 1.1 მ ბალუსტრადით. კიბე: 17 საფეხური, (Flash, IOR, NOT, PBR)"
+    },
+    {
+      "uid": "reddit|Mon, 31 Aug 2026 13:38:45 GMT|EU designates ChatGPT a Very Large Search Engine under DSA",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "EU designates ChatGPT a Very Large Search Engine under DSA",
+      "description_en": "r/OpenAI · 85 upvotes · 81 comments · The European Commission has designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, making OpenAI's chatbot the first standalone AI service brought under the bloc's toughest platform rules. Reddit and Roblox were added the same day as Very Large Online Platforms, \\[Euronews reported\\](https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules). All three crossed the 45 million monthly EU user threshold that triggers direct Commission oversight. ChatGPT reported 159 million monthly active users over the six-month period ending March 2026; Reddit reported 57.2 million; Roblox roughly 48 million. The Commission classified ChatGPT as a \"hybrid service\" that qualifies as an online search engine \"because it can engage with and respond to users' prompts and queries, including by searching the web.\" The three companies have four months, until the end of November, to conduct annual systemic risk assessments covering illegal content, minor protection, mental and physical wellbeing, fundamental rights, electoral processes and public security, submit to independent audits, and share data with regulators and vetted researchers. \"These new designations mean that ChatGPT, Reddit and Roblox will now be subject to a higher level of scrutiny and accountability in the European Union, commensurate with their significant impact on our citizens and society,\" said Henna Virkkunen, Executive Vice-President for Tech Sovereignty, Security and Democracy. Non-compliance can cost up to 6% of global annual turnover. The DSA has produced roughly €870 million in fines to date, including €550 million against AliExpress, €200 million against Temu and €120 million against X. \\---",
+      "excerpt_en": "r/OpenAI · 85 upvotes · 81 comments · The European Commission has designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, making OpenAI's chatbot the first standalone AI service brought under the bloc's toughest platform rules.",
+      "link": "https://reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
+      "pub_date": "Mon, 31 Aug 2026 13:38:45 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "EU designates ChatGPT a Very Large Search Engine under DSA",
+      "excerpt_ka": "r/OpenAI · 85 დადებითი ხმა · 81 კომენტარი · ევროკომისიამ ChatGPT დაასახელა ძალიან დიდ ონლაინ საძიებო სისტემად ციფრული სერვისების აქტის მიხედვით, რაც OpenAI-ის ჩეთბოტს აქცევს პირველ დამოუკიდებელ AI სერვისს, რომელიც შემოყვანილია ბლოკის ყველაზე მკაცრი პლატფორმის წესებით. (Act, Commission, Digital, Engine, European, Large, Online, Search, Services, Very)",
+      "description_ka": "r/OpenAI · 85 დადებითი ხმა · 81 კომენტარი · ევროკომისიამ ChatGPT დაასახელა ძალიან დიდ ონლაინ საძიებო სისტემად ციფრული სერვისების აქტის მიხედვით, რაც OpenAI-ის ჩეთბოტს აქცევს პირველ დამოუკიდებელ AI სერვისს, რომელიც შემოყვანილია ბლოკის ყველაზე მკაცრი პლატფორმის წესებით. Reddit და Roblox დაემატა იმავე დღეს, როგორც Very Large Online Platforms, \\[Euronews იტყობინება\\] (https://www. euronews. com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules). სამივემ გადალახა ევროკავშირის ყოველთვიური 45 მილიონი მომხმარებლის ბარიერი, რაც იწვევს კომისიის უშუალო ზედამხედველობას. ChatGPT იტყობინება 159 მილიონი ყოველთვიური აქტიური მომხმარებელი ექვსთვიანი პერიოდის განმავლობაში, 2026 წლის მარტამდე; Reddit-მა გამოაცხადა 57,2 მილიონი; Roblox დაახლოებით 48 მილიონი. კომისიამ ჩაატარა ChatGPT, როგორც „ჰიბრიდული სერვისი“, რომელიც კვალიფიცირდება როგორც ონლაინ საძიებო სისტემა, „რადგან მას შეუძლია ჩაერთოს და უპასუხოს მომხმარებელთა მოთხოვნებსა და შეკითხვებს, მათ შორის ინტერნეტში ძიების გზით“. სამ კომპანიას აქვს ოთხი თვე ნოემბრის ბოლომდე, რათა ჩაატარონ ყოველწლიური სისტემური რისკის შეფასება უკანონო შინაარსის, მცირე დაცვის, გონებრივი და ფიზიკური კეთილდღეობის, ფუნდამენტური უფლებების, საარჩევნო პროცესებისა და საზოგადოებრივი უსაფრთხოების შესახებ, წარადგინონ დამოუკიდებელი აუდიტი და გაუზიარონ მონაცემები მარეგულირებლებს და შემოწმებულ მკვლევარებს. ”ეს ახალი აღნიშვნები ნიშნავს, რომ ChatGPT, Re (Act, AliExpress, All, Commission, DSA, Democracy, Digital, EU, Engine, European, Executive, Henna, March, Non, November, President, Search, Security, Services, Sovereignty, Tech, Temu, These, Union, Vice, Virkkunen)"
+    },
+    {
+      "uid": "reddit|Mon, 31 Aug 2026 01:09:25 GMT|Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+      "description_en": "r/LocalLLaMA · 61 upvotes · 36 comments · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) Slammed with work and no time to pretty this up. Qwen wrote most of this but I checked the data. All tests done on the same rig, same prompts, and most tests are my real workloads. Single-GPU local eval: one RTX PRO 6000 Blackwell Max-Q (96 GB, SM120) + 256 GB DDR5, vLLM nightly, both models served alternately under the same service alias and port that my agent stack actually consumes: text scoring pipelines, memory consolidation, local deep research, browser automation, etc. Minimal coding. Because downstream consumers key off the alias, swapping the model behind it is the honest way to find out what breaks. **Models tested:** \\- Qwen3.8-Flash-Next-NVFP4 ([https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4](https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4)) \\- Qwen3.8-27B-FP8 ([https://huggingface.co/Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)). Every prompt, fixture, and scorer below is byte-identical between the two passes — only the served model differs. **\\*\\*TL;DR:\\*\\*** Flash-Next is \\*faster and mechanically flawless (strict JSON, injection resistance, SLAs: all zero failures) and wins the high-reasoning spatial/code-gen tier with better failure modes. The dense 27B still wins sustained multi-step symbolic work (bug-fixing, math proofs, abstract puzzles) and this is where Flash-Next exhibits a striking new failure shape: it promises the deliverable, declares \"done\", and outputs nothing. Same \\`reasoning\\_effort\\` knob, radically different semantics. Not a drop-in replacement; a conditional promotion. \\## Serving recipes (what I actually ran) \\*\\*Flash-Next:\\*\\* \\`\\`\\` docker run vllm/vllm-openai:qwen38-flash-next \\\\ \\-e VLLM\\_PLE\\_CPU\\_OFFLOAD=1 \\\\ # parks \\~100GB n-gram embed table in host RAM \\-e VLLM\\_API\\_KEY=\\*\\*\\* \\\\ \\--entrypoint vllm serve Inferact/Qwen3.8-Flash-Next-NVFP4 \\\\ \\--max-model-len 200704 \\\\ # \\~200K (262K native) \\--gpu-memory-utilizati…",
+      "excerpt_en": "r/LocalLLaMA · 61 upvotes · 36 comments · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) Slammed with work and no time to pretty this up. Qwen wrote most of this but I checked the data.",
+      "link": "https://reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results/",
+      "pub_date": "Mon, 31 Aug 2026 01:09:25 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+      "excerpt_ka": "r/LocalLLaMA · 61 დადებითი ხმა · 36 კომენტარი · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) გააკრიტიკა მუშაობა და დრო არ არის ამის გასალამაზებლად. Qwen-მა დაწერა ამის უმეტესობა, მაგრამ მე გადავამოწმე მონაცემები. (Slammed)",
+      "description_ka": "r/LocalLLaMA · 61 დადებითი ხმა · 36 კომენტარი · \\## Qwen3.8-Flash-Next-NVFP4 (inferact) vs Qwen3.8-27B-FP8 (qwen) გააკრიტიკა მუშაობა და დრო არ არის ამის გასალამაზებლად. Qwen-მა დაწერა ამის უმეტესობა, მაგრამ მე გადავამოწმე მონაცემები. ყველა ტესტი, რომელიც გაკეთებულია ერთსა და იმავე აპარატზე, იგივე მოთხოვნა და ტესტების უმეტესობა ჩემი რეალური დატვირთვაა. ერთი GPU ლოკალური შეფასება: ერთი RTX PRO 6000 Blackwell Max-Q (96 GB, SM120) + 256 GB DDR5, vLLM ღამით, ორივე მოდელი მონაცვლეობით ემსახურება იმავე სერვისის მეტსახელებს და პორტს, რომელსაც ჩემი აგენტის დასტა რეალურად მოიხმარს: ტექსტის შეფასების მილსადენები, მეხსიერების ავტომატიზაცია, ლოკალური ღრმა კვლევა და ა. შ. იმის გამო, რომ ქვემო დინების მომხმარებლებმა არ მოიხსენიონ მეტსახელი, მის უკან მოდელის შეცვლა პატიოსანი გზაა იმის გასარკვევად, თუ რა ფუჭდება. **შემოწმებული მოდელები:** \\- Qwen3.8-Flash-Next-NVFP4 ([https://huggingface. co/Inferact/Qwen3.8-Flash-Next-NVFP4](https://huggingface. co/Inferact/Qwen3.8-Flash-P4-NVFP4) Qwen3.8-Flash-P4n-NV-we) ([https://huggingface. co/Qwen/Qwen3.8-27B-FP8](https://huggingface. co/Qwen/Qwen3.8-27B-FP8)). ქვემოთ მოცემული ყველა მოთხოვნა, მატჩი და ბომბარდირი ბაიტი-იდენტურია ორ პასს შორის - მხოლოდ სერვისული მოდელი განსხვავდება. **\\*\\*TL;DR:\\*\\*** Flash-Next არის \\*უფრო სწრაფი და მექანიკურად უნაკლო (მკაცრი JSON, ინექციის წინააღმდეგობა, SLA: ყველა მარცხი) და იგებს მაღალი მსჯელობის სივრცითი/კოდის გენის დონეს. (All, Because, Every, Minimal, Models, Not, RAM, SLAs, Same, Serving, Single, Slammed, VLLM)"
+    },
+    {
       "uid": "reddit|Sat, 29 Aug 2026 12:50:05 GMT|Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
       "feed": "reddit",
       "source_label": "რედიტი",
@@ -1214,6 +1588,40 @@
       "description_ka": "r/LocalLLaMA · 165 დადებითი ხმა · 67 კომენტარი · ჩვენ ვაქვეყნებთ Qwen3.8-27B-ის სრულად კვანტიზებულ NVFP4 ვერსიას. საგუშაგოს წვრთნა ჩაუტარდა კვანტიზაციის გაცნობიერებული დისტილაციით (QAD) QUASAR-ით, ჩვენი ახალი QAT ალგორითმი. ჩვენ გამოვიყენეთ ორიგინალური BF16 მოდელი, როგორც მასწავლებელი და გამოვხდით კვანტიზებული მოდელი 2446 საფეხურისთვის. გამშვები პუნქტი მხარს უჭერს vLLM-ს NVIDIA Blackwell GPU-ებზე: vllm ემსახურება QUASAR-QAT/Qwen3.8-27B-QUASAR-NVFP4 \\ --max-model-len 262144 \\ --gpu-memory-utilization 0.85 ეს მოდელი იყენებს აგრესიულ ფენების კონფიგურაციას ყველა ბლოკირების ბლოკში: NVFP4-მდე (W4A4). ყურადღება და GDN ფენები, როგორც წესი, ინახება უფრო მაღალი სიზუსტით, როგორიცაა FP8 ან BF16, რადგან მათ კვანტიზაციამ შეიძლება გამოიწვიოს მოდელის ხარისხის მნიშვნელოვანი დაკარგვა. თუმცა, QUASAR-ით, სრულად კვანტიზებული საგუშაგო ინარჩუნებს BF16-ის მახლობლად შესრულებას. შეფასების შედეგები და შედარება სხვა NVFP4 საგუშაგოებთან: |მოდელი|ზომა|GPQA-Diamond (2 გაშვება, n=396)|AIME26 (3 გამეორება, n=90)| |:-|:-|:-|:-| |`Qwen/Qwen3.8-27B` (ორიგინალი BF16)|55.6 გბ|**0.9141**|**1.0000**| |`QUASAR-QAT/Qwen3.8-27B-QUASAR-NVFP4`|**19.7 გბ**|0.9091|**1.0000**| |`unsloth/Qwen3.8-27B-NVFP4`|23.4 GB|0.8939|0.9778| |`Inferact/Qwen3.8-27B-NVFP4`|26.4 გბ|0.8763|0.9667| ნაშრომი: [https://arxiv. org/abs/2608.13966v1](https://arxiv. org (Attention, Evaluation, GPUs, Model, Paper, Size, This, We)"
     },
     {
+      "uid": "youtube|Mon, 31 Aug 2026 18:06:41 GMT|How AI Is Changing Code Reviews & Software Development",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "How AI Is Changing Code Reviews & Software Development",
+      "description_en": "This video explores the evolution of code reviews from traditional line-by-line inspections to AI-powered workflows that focus on validating intent, requirements, and business outcomes rather than just implementation details. It provides a clear, professional analysis of how AI is transforming software development practices through integration with CI/CD pipelines and automated outcome validation. The insight lies in reframing code review as a higher-level governance process enabled by AI, which is highly valuable for engineering leaders and developers adapting to modern AI-augmented workflows.",
+      "excerpt_en": "This video explores the evolution of code reviews from traditional line-by-line inspections to AI-powered workflows that focus on validating intent, requirements, and business outcomes rather than just implementation details.",
+      "link": "https://www.youtube.com/watch?v=c57vAe-mMLo",
+      "pub_date": "Mon, 31 Aug 2026 18:06:41 GMT",
+      "categories": [
+        "youtube",
+        "news/youtube"
+      ],
+      "title_ka": "How AI Is Changing Code Reviews & Software Development",
+      "excerpt_ka": "ეს ვიდეო იკვლევს კოდების მიმოხილვის ევოლუციას ტრადიციული სტრიქონი-სტრიქონ ინსპექტირებიდან ხელოვნური ინტელექტის საშუალებით მომუშავე სამუშაო პროცესებამდე, რომელიც ფოკუსირებულია განზრახვის, მოთხოვნებისა და ბიზნესის შედეგების დამოწმებაზე და არა მხოლოდ განხორციელების დეტალებზე. (AI, This)",
+      "description_ka": "ეს ვიდეო იკვლევს კოდების მიმოხილვის ევოლუციას ტრადიციული სტრიქონი-სტრიქონ ინსპექტირებიდან ხელოვნური ინტელექტის საშუალებით მომუშავე სამუშაო პროცესებამდე, რომელიც ფოკუსირებულია განზრახვის, მოთხოვნებისა და ბიზნესის შედეგების დამოწმებაზე და არა მხოლოდ განხორციელების დეტალებზე. ის უზრუნველყოფს მკაფიო, პროფესიონალურ ანალიზს იმის შესახებ, თუ როგორ ცვლის ხელოვნური ინტელექტი პროგრამული უზრუნველყოფის განვითარების პრაქტიკას CI/CD მილსადენებთან ინტეგრაციისა და შედეგების ავტომატური ვალიდაციის გზით. ჩანაფიქრი მდგომარეობს კოდის მიმოხილვის გადახედვაში, როგორც უფრო მაღალი დონის მართვის პროცესი, რომელიც ჩართულია ხელოვნური ინტელექტის მიერ, რაც ძალზე ღირებულია ინჟინერიის ლიდერებისთვის და დეველოპერებისთვის, რომლებიც ადაპტირებენ თანამედროვე ხელოვნური ინტელექტის გაძლიერებულ სამუშაო პროცესებს. (AI, It, This)"
+    },
+    {
+      "uid": "youtube|Mon, 31 Aug 2026 18:06:41 GMT|Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+      "description_en": "This video offers a strategic breakdown of Apple’s shift toward local AI compute with its new Mac lineup, analyzing how chip architecture, memory hierarchy, and pricing reflect a deliberate bet on owned versus rented intelligence. It connects hardware design to real-world implications for running AI agents locally, discussing trade-offs between persistent cloud models and on-device inference. The analysis is technically grounded and relevant to professionals evaluating infrastructure strategies for AI deployment, making it a high-value resource for understanding the future of edge AI systems.",
+      "excerpt_en": "This video offers a strategic breakdown of Apple’s shift toward local AI compute with its new Mac lineup, analyzing how chip architecture, memory hierarchy, and pricing reflect a deliberate bet on owned versus rented intelligence.",
+      "link": "https://www.youtube.com/watch?v=1lO8aNSLPJc",
+      "pub_date": "Mon, 31 Aug 2026 18:06:41 GMT",
+      "categories": [
+        "youtube",
+        "news/youtube"
+      ],
+      "title_ka": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+      "excerpt_ka": "ეს ვიდეო გვთავაზობს სტრატეგიულ შეჯამებას Apple-ის ადგილობრივი ხელოვნური ინტელექტის გამოთვლაზე Mac-ის ახალი შემადგენლობით, აანალიზებს, თუ როგორ ასახავს ჩიპების არქიტექტურა, მეხსიერების იერარქია და ფასები მიზანმიმართულ ფსონს საკუთრებაში და დაქირავებულ ინტელექტზე. (AI, This)",
+      "description_ka": "ეს ვიდეო გვთავაზობს სტრატეგიულ შეჯამებას Apple-ის ადგილობრივი ხელოვნური ინტელექტის გამოთვლაზე Mac-ის ახალი შემადგენლობით, აანალიზებს, თუ როგორ ასახავს ჩიპების არქიტექტურა, მეხსიერების იერარქია და ფასები მიზანმიმართულ ფსონს საკუთრებაში და დაქირავებულ ინტელექტზე. ის აკავშირებს ტექნიკის დიზაინს რეალურ სამყაროში AI აგენტების ლოკალურად გაშვების შედეგებთან, განიხილავს კომერციებს მუდმივ ღრუბლოვან მოდელებსა და მოწყობილობაზე არსებულ დასკვნას შორის. ანალიზი ტექნიკურად დასაბუთებულია და შესაბამისია პროფესიონალებისთვის, რომლებიც აფასებენ AI-ის განლაგების ინფრასტრუქტურულ სტრატეგიებს, რაც მას მაღალ ღირებულ რესურსად აქცევს ბოლო AI სისტემების მომავლის გასაგებად. (It, This)"
+    },
+    {
       "uid": "youtube|Sat, 29 Aug 2026 17:48:57 GMT|How LLMs Get Faster Without Changing Their Answers | Speculative Decoding",
       "feed": "youtube",
       "source_label": "იუთუბი",
@@ -1282,31 +1690,31 @@
       "description_ka": "ვიდეო გთავაზობთ Gemini Notebook-ის ძირითადი განახლების ყოვლისმომცველ მიმოხილვას, რომელიც მოიცავს ღრუბლის კოდის უსაფრთხო შესრულებას, აგენტურ კვლევებს, კოლექციებს, ვიდეო/აუდიო მიმოხილვებს და ინტეგრაციას Google-ის უფრო ფართო AI ეკოსისტემასთან. ის უზრუნველყოფს AI-ის დახმარებით მოწინავე კვლევისა და ცოდნის მართვის შესაძლებლობების პრაქტიკულ დემონსტრირებას, რაც მას ძალზე აქტუალურს ხდის პროფესიონალებისთვის, რომლებიც იყენებენ AI-ს ინფორმაციის სინთეზში, კონტენტის შექმნასა და საწარმოთა სამუშაო პროცესებში. (It)"
     },
     {
-      "uid": "skill|Sat, 29 Aug 2026 17:51:02 GMT|self-improving agent",
+      "uid": "skill|Mon, 31 Aug 2026 18:08:26 GMT|self-improving agent",
       "feed": "skill",
       "source_label": "Skills",
       "title_en": "self-improving agent",
-      "description_en": "0 installs · 3982 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-      "excerpt_en": "0 installs · 3982 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+      "description_en": "0 installs · 3983 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+      "excerpt_en": "0 installs · 3983 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
       "link": "https://clawhub.ai/pskoett/self-improving-agent",
-      "pub_date": "Sat, 29 Aug 2026 17:51:02 GMT",
+      "pub_date": "Mon, 31 Aug 2026 18:08:26 GMT",
       "categories": [
         "skill",
         "news/clawhub"
       ],
       "title_ka": "თვითგაუმჯობესების აგენტი",
-      "excerpt_ka": "0 ინსტალაცია · 3982 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
-      "description_ka": "0 ინსტალაცია · 3982 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
+      "excerpt_ka": "0 ინსტალაცია · 3983 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.… (Captures)",
+      "description_ka": "0 ინსტალაცია · 3983 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს მუდმივი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
     },
     {
-      "uid": "skill|Sat, 29 Aug 2026 17:51:02 GMT|Skill Vetter",
+      "uid": "skill|Mon, 31 Aug 2026 18:08:26 GMT|Skill Vetter",
       "feed": "skill",
       "source_label": "Skills",
       "title_en": "Skill Vetter",
       "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
       "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
       "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-      "pub_date": "Sat, 29 Aug 2026 17:51:02 GMT",
+      "pub_date": "Mon, 31 Aug 2026 18:08:26 GMT",
       "categories": [
         "skill",
         "news/clawhub"
@@ -1314,6 +1722,40 @@
       "title_ka": "Skill Vetter",
       "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)",
       "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)"
+    },
+    {
+      "uid": "blog|Mon, 31 Aug 2026 17:35:06 GMT|I shipped 129 pull requests to my SEO SaaS in the last 7 days — solo, with Claude Code doing most of the typing",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "I shipped 129 pull requests to my SEO SaaS in the last 7 days — solo, with Claude Code doing most of the typing",
+      "description_en": "KinetixSEO started as a straightforward technical SEO checker. This week most of the work went somewhere else: making it answer a question classic SEO t...",
+      "excerpt_en": "KinetixSEO started as a straightforward technical SEO checker. This week most of the work went somewhere else: making it answer a question classic SEO t...",
+      "link": "https://www.indiehackers.com/post/i-shipped-129-pull-requests-to-my-seo-saas-in-the-last-7-days-solo-with-claude-code-doing-most-of-the-typing-683895a973",
+      "pub_date": "Mon, 31 Aug 2026 17:35:06 GMT",
+      "categories": [
+        "blog",
+        "blog/builder_story"
+      ],
+      "title_ka": "მე გავაგზავნე 129 pull მოთხოვნა ჩემს SEO SaaS-ში ბოლო 7 დღის განმავლობაში — სოლო, კლოდ კოდით აკეთებს აკრეფის უმეტესობას (Claude, Code)",
+      "excerpt_ka": "KinetixSEO დაიწყო როგორც მარტივი ტექნიკური SEO შემმოწმებელი. ამ კვირაში სამუშაოს უმეტესი ნაწილი სხვაგან წავიდა: გაეცა პასუხი კითხვას კლასიკური SEO t... (This)",
+      "description_ka": "KinetixSEO დაიწყო როგორც მარტივი ტექნიკური SEO შემმოწმებელი. ამ კვირაში სამუშაოს უმეტესი ნაწილი სხვაგან წავიდა: გაეცა პასუხი კითხვას კლასიკური SEO t... (This)"
+    },
+    {
+      "uid": "blog|Mon, 31 Aug 2026 17:35:06 GMT|I built a guard for AI agents that act on stale information",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "I built a guard for AI agents that act on stale information",
+      "description_en": "I kept running into a failure mode that wasn’t really a hallucination. An agent reads something—a balance, inventory level, account status or policy—and...",
+      "excerpt_en": "I kept running into a failure mode that wasn’t really a hallucination. An agent reads something—a balance, inventory level, account status or policy—and...",
+      "link": "https://www.indiehackers.com/post/i-built-a-guard-for-ai-agents-that-act-on-stale-information-66dcee6c04",
+      "pub_date": "Mon, 31 Aug 2026 17:35:06 GMT",
+      "categories": [
+        "blog",
+        "blog/builder_story"
+      ],
+      "title_ka": "მე შევქმენი დაცვა ხელოვნური ინტელექტის აგენტებისთვის, რომლებიც მოქმედებენ ძველ ინფორმაციას (AI)",
+      "excerpt_ka": "მე განვაგრძობდი მარცხის რეჟიმში, რომელიც ნამდვილად არ იყო ჰალუცინაცია. აგენტი კითხულობს რაღაცას - ბალანსს, ინვენტარის დონეს, ანგარიშის სტატუსს ან პოლიტიკას - და...",
+      "description_ka": "მე განვაგრძობდი მარცხის რეჟიმში, რომელიც ნამდვილად არ იყო ჰალუცინაცია. აგენტი კითხულობს რაღაცას - ბალანსს, ინვენტარის დონეს, ანგარიშის სტატუსს ან პოლიტიკას - და..."
     },
     {
       "uid": "blog|Sat, 29 Aug 2026 17:28:47 GMT|I catalogued everything an AI agent can buy. The list is shorter than the hype.",
@@ -1382,6 +1824,40 @@
       "title_ka": "Intelligent transcription with Gemini 3.5 Transcribe",
       "excerpt_ka": "ახლა თქვენ შეგიძლიათ მიიღოთ უფრო ინტელექტუალური მეტყველების ტექსტის ტრანსკრიფცია Gemini 3.5 Transcribe-ით. (Now)",
       "description_ka": "ახლა თქვენ შეგიძლიათ მიიღოთ უფრო ინტელექტუალური მეტყველების ტექსტის ტრანსკრიფცია Gemini 3.5 Transcribe-ით. (Now)"
+    },
+    {
+      "uid": "paper|Mon, 31 Aug 2026 18:09:08 GMT|Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+      "description_en": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already exist, including open-weight models and open-source training recipes, a cost-efficient, hardware-accessible, and open-source pretraining recipe has long been missing. Even at a small scale, training Llama-3.2-3B costs over \\$1.5M, and reproducing SmolLM3-3B needs over \\$700K. In this report, we present an open pretraining recipe designed to lower this barrier. Using this recipe, we train a collection of Puro-2B models from scratch on up to 1.4 trillion tokens with FP8 precision on consumer-grade RTX 5090 GPUs. The models in the collection differ in token budgets and selected recipe variants. Our best model is trained at a compute cost of less than \\$6.9K and approaches Qwen2.5-1.5B performance under our evaluation protocol. This cost efficiency is enabled by a combination of approaches, including hardware selection, low-precision training, hyperball optimization, curriculum model averaging, and the data recipe. Beyond the recipe itself, we provide two additional results. First, across the Puro-2B collection, we derive a Puro Cost Scaling Law that relates training cost to average model performance; the fitted law suggests that about \\$4.4K, less than \\$5,090, is sufficient to reach the performance of Qwen2-1.5B. Second, as an end-to-end case study, we examine how pretraining data curricula shape downstream performance after post-training. Such controlled studies are enabled by having access to the full pretraining pipeline rather than model weights alone. We release the full training recipe for Puro-2B, including data, code, and model weights under Apache 2.0 at this https URL . · Institutions: Affiliation: 1 Tsinghua University, Lab’s Qwen2-1.5B Trained on RTX 5090 within $5090, Tsinghua University, Pengcheng Laboratory, We sincerely thank Yanfu Investments for generously providing GPU computing resources to support this research · Source: alphaxiv · Votes: 60",
+      "excerpt_en": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities.…",
+      "link": "https://www.alphaxiv.org/overview/2608.27370",
+      "pub_date": "Mon, 31 Aug 2026 18:09:08 GMT",
+      "categories": [
+        "paper",
+        "paper/alphaxiv"
+      ],
+      "title_ka": "Puro-2B: Poor Lab's Qwen2-1.5B გაწვრთნილი RTX 5090-ზე 5090 დოლარის ფარგლებში (Trained)",
+      "excerpt_ka": "ენობრივი მოდელის წინასწარი მომზადება თითქმის სინონიმი გახდა აკრძალული ღირებულებისა, რაც მიუწვდომელია აკადემიური და ღია წყაროების თემებისთვის.… (Language)",
+      "description_ka": "ენობრივი მოდელის წინასწარი მომზადება თითქმის სინონიმი გახდა აკრძალული ღირებულებისა, რაც მიუწვდომელია აკადემიური და ღია წყაროების თემებისთვის. მიუხედავად იმისა, რომ უკვე არსებობს ძლიერი ღია კოდის მცდელობები, მათ შორის ღია წონის მოდელები და ღია კოდის სასწავლო რეცეპტები, ხარჯთეფექტური, ტექნიკისთვის ხელმისაწვდომი და ღია კოდის წინასწარ მომზადების რეცეპტი დიდი ხანია არ არსებობს. მცირე მასშტაბითაც კი, Llama-3.2-3B სწავლება ღირს $1.5 მილიონზე მეტი, ხოლო SmolLM3-3B-ის რეპროდუცირება სჭირდება $700 ათასზე მეტი. ამ მოხსენებაში წარმოგიდგენთ ღია წინასწარ მომზადების რეცეპტს, რომელიც შექმნილია ამ ბარიერის შესამცირებლად. ამ რეცეპტის გამოყენებით, ჩვენ ვამზადებთ Puro-2B მოდელების კოლექციას ნულიდან 1,4 ტრილიონამდე ჟეტონზე FP8 სიზუსტით სამომხმარებლო კლასის RTX 5090 GPU-ებზე. კოლექციის მოდელები განსხვავდება სიმბოლური ბიუჯეტით და შერჩეული რეცეპტის ვარიანტებით. ჩვენი საუკეთესო მოდელი გაწვრთნილია $6.9K-ზე ნაკლები გამოთვლითი ღირებულებით და უახლოვდება Qwen2.5-1.5B შესრულებას ჩვენი შეფასების პროტოკოლით. ეს ხარჯების ეფექტურობა უზრუნველყოფილია მიდგომების კომბინაციით, მათ შორის ტექნიკის შერჩევა, დაბალი სიზუსტით სწავლება, ჰიპერბოლის ოპტიმიზაცია, სასწავლო გეგმის მოდელის საშუალო შეფასება და მონაცემთა რეცეპტი. თავად რეცეპტის გარდა, ჩვენ გთავაზობთ ორ დამატებით შედეგს. პირველი, Puro-2B კოლექციაში, ჩვენ გამოვიყვანთ Puro Cost Scaling-ის კანონს, რომელიც აკავშირებს ტრენინგის ღირებულებას საშუალო მოდიფიკაციასთან (Affiliation, Although, Apache, Beyond, Even, First, GPUs, Institutions, Investments, Lab, Laboratory, Language, Law, Our, Pengcheng, Second, Source, Such, This, Trained, Tsinghua, URL, University, Using, Votes, We, Yanfu)"
+    },
+    {
+      "uid": "paper|Mon, 31 Aug 2026 18:09:08 GMT|WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "description_en": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework that co-evolves agent skills with a persistent knowledge base (wiki). At a high level, WikiSkill separates raw execution experience, accumulated knowledge, and executable skills, while continuously consolidating experience into the wiki, which subsequent skill updates can build on. Across diverse benchmarks and models, WikiSkill consistently outperforms state-of-the-art skill-evolution methods and improves over no-skill baselines in most model-benchmark settings. We find that skill evolution complements model scaling: larger models generally benefit more from evolved skills, while smaller models with skills can outperform substantially larger models without them. We also find that evolved skills transfer effectively across models and model families, and skills evolved by other models can outperform self-evolved skills. Finally, our ablation studies confirm that persistent knowledge accumulation in the wiki is critical for effective skill evolution. These results demonstrate the benefits of systematically accumulating and refining agent experience for developing reusable and transferable skills. · Institutions: Affiliation: Google Research, Google Research · Source: alphaxiv · Votes: 86",
+      "excerpt_en": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction.",
+      "link": "https://www.alphaxiv.org/overview/2608.27454",
+      "pub_date": "Mon, 31 Aug 2026 18:09:08 GMT",
+      "categories": [
+        "paper",
+        "paper/alphaxiv"
+      ],
+      "title_ka": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "excerpt_ka": "აგენტის უნარები აერთიანებს სპეციალიზებულ ცოდნას და სამუშაო ნაკადებს მრავალჯერად გამოყენებად რესურსებში, რაც აფართოებს AI აგენტის შესაძლებლობებს. ბოლო ნამუშევარი ავტომატურად აღმოაჩენს ასეთ უნარებს აგენტის გამოცდილებიდან, რაც აგენტებს საშუალებას აძლევს თანდათანობით მოერგონ ურთიერთქმედების გზით. (Agent, Recent)",
+      "description_ka": "აგენტის უნარები აერთიანებს სპეციალიზებულ ცოდნას და სამუშაო ნაკადებს მრავალჯერად გამოყენებად რესურსებში, რაც აფართოებს AI აგენტის შესაძლებლობებს. ბოლო ნამუშევარი ავტომატურად აღმოაჩენს ასეთ უნარებს აგენტის გამოცდილებიდან, რაც აგენტებს საშუალებას აძლევს თანდათანობით მოერგონ ურთიერთქმედების გზით. თუმცა, ცოდნა, რომელიც ხელმძღვანელობს უნარების განვითარებას, ჩვეულებრივ რჩება მიმოფანტული ოპტიმიზაციის ისტორიაში, რაც ზღუდავს მათ სისტემატურ ხელახლა გამოყენებას გამეორებებში. ჩვენ წარმოგიდგენთ WikiSkill-ს, ჩარჩოს, რომელიც ავითარებს აგენტის უნარებს მუდმივი ცოდნის ბაზასთან (ვიკი). მაღალ დონეზე, WikiSkill გამოყოფს დაუმუშავებელ გამოცდილებას, დაგროვილ ცოდნას და შესრულებადი უნარებს, ხოლო გამოცდილებას მუდმივად აერთიანებს ვიკიში, რომლის საფუძველზეც შესაძლებელია უნარების შემდგომი განახლებები. სხვადასხვა კრიტერიუმებსა და მოდელებს შორის, WikiSkill მუდმივად აჯობებს უნარების განვითარების უახლესი მეთოდებს და აუმჯობესებს უნარების გარეშე საბაზისო ხაზებს უმეტეს მოდელის საორიენტაციო პარამეტრებში. ჩვენ აღმოვაჩენთ, რომ უნარების ევოლუცია ავსებს მოდელის სკალირებას: უფრო დიდი მოდელები ზოგადად უფრო მეტ სარგებელს იღებენ განვითარებული უნარებიდან, მაშინ როცა უნარების მქონე პატარა მოდელებს შეუძლიათ აჯობონ არსებითად დიდ მოდელებს მათ გარეშე. ჩვენ ასევე აღმოვაჩენთ, რომ განვითარებული უნარები ეფექტურად გადადის მოდელებსა და სამოდელო ოჯახებს შორის, ხოლო სხვა მოდელების მიერ განვითარებული უნარები შეიძლება აღემატებოდეს თვითგანვითარებულ უნარებს. და ბოლოს, ჩვენი აბლაცია (Across, Affiliation, Agent, At, Finally, Google, However, Institutions, Recent, Research, Source, These, Votes, We)"
     },
     {
       "uid": "paper|Sat, 29 Aug 2026 17:51:45 GMT|Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
@@ -1473,7 +1949,7 @@
       "feed": "event",
       "source_label": "ივენთი",
       "title_en": "Singapore Defense Tech Hackathon",
-      "description_en": "Time: Fri, 25 Sep 2026 04:00:00 GMT · Deterring Aggression Through Technological Superiority. Join the EDTH Community and ​get free access to all EDTH Community events for one year: https://community.eurodefense.tech/ Hosted by EDTH and Benjamin Wolba. 347+ attendees interested. In Singapore.",
+      "description_en": "Time: Fri, 25 Sep 2026 04:00:00 GMT · Deterring Aggression Through Technological Superiority. Join the EDTH Community and ​get free access to all EDTH Community events for one year: https://community.eurodefense.tech/ Hosted by EDTH and Benjamin Wolba. 378+ attendees interested. In Singapore.",
       "excerpt_en": "Time: Fri, 25 Sep 2026 04:00:00 GMT · Deterring Aggression Through Technological Superiority. Join the EDTH Community and ​get free access to all EDTH Community events for one year: https://community.eurodefense.tech/ Hosted by EDTH and Benjamin Wolba.",
       "link": "https://lu.ma/sdth-2026",
       "pub_date": "Fri, 25 Sep 2026 04:00:00 GMT",
@@ -1483,7 +1959,7 @@
       ],
       "title_ka": "Singapore Defense Tech Hackathon",
       "excerpt_ka": "დრო: პარასკევი, 2026 წლის 25 სექტემბერი, 04:00:00 GMT · აგრესიის შეკავება ტექნოლოგიური უპირატესობის მეშვეობით. შეუერთდით EDTH საზოგადოებას და მიიღეთ უფასო წვდომა EDTH საზოგადოების ყველა ღონისძიებაზე ერთი წლის განმავლობაში: https://community. eurodefense. tech/ მასპინძლობს EDTH და ბენჯამინ ვოლბა. (Aggression, Benjamin, Community, Deterring, Fri, Hosted, Join, Sep, Superiority, Technological, Through, Time, Wolba)",
-      "description_ka": "დრო: პარასკევი, 2026 წლის 25 სექტემბერი, 04:00:00 GMT · აგრესიის შეკავება ტექნოლოგიური უპირატესობის მეშვეობით. შეუერთდით EDTH საზოგადოებას და მიიღეთ უფასო წვდომა EDTH საზოგადოების ყველა ღონისძიებაზე ერთი წლის განმავლობაში: https://community. eurodefense. tech/ მასპინძლობს EDTH და ბენჯამინ ვოლბა. დაინტერესებულია 347+ დამსწრე. სინგაპურში. (Aggression, Benjamin, Community, Deterring, Fri, Hosted, Join, Sep, Singapore, Superiority, Technological, Through, Time, Wolba)"
+      "description_ka": "დრო: პარასკევი, 2026 წლის 25 სექტემბერი, 04:00:00 GMT · აგრესიის შეკავება ტექნოლოგიური უპირატესობის მეშვეობით. შეუერთდით EDTH საზოგადოებას და მიიღეთ უფასო წვდომა EDTH საზოგადოების ყველა ღონისძიებაზე ერთი წლის განმავლობაში: https://community. eurodefense. tech/ მასპინძლობს EDTH და ბენჯამინ ვოლბა. 378+ დამსწრე დაინტერესებულია. სინგაპურში. (Aggression, Benjamin, Community, Deterring, Fri, Hosted, Join, Sep, Singapore, Superiority, Technological, Through, Time, Wolba)"
     },
     {
       "uid": "event|Fri, 18 Sep 2026 21:00:00 GMT|#24. AI/ML Code And Learn",
@@ -1686,8 +2162,8 @@
         "event/meetup"
       ],
       "title_ka": "Microsoft 365 Summit 2026 – Community Day",
-      "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
-      "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
+      "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
+      "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
     }
   ],
   "feed_labels": {
@@ -1705,6 +2181,6 @@
   "newsgraph_meta": {
     "translator": "google_corrected_smoothed",
     "duplicate_items_dropped": 2,
-    "total_items": 44
+    "total_items": 58
   }
 }
