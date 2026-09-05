@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:45:44.497273+00:00",
+  "generated_at": "2026-09-05T08:16:06.044252+00:00",
   "featured": [
     {
       "uid": "news|Fri, 04 Sep 2026 01:21:45 GMT|OpenAI's GPT-6 Astra Launch and the 'AGI Era' Claim",
@@ -36,55 +36,89 @@
       "description_ka": "Uber-მა და Wayve-მა 2026 წლის 3 სექტემბერს გამოუშვეს ლონდონის პირველი საჯარო რობოტაქსის სერვისი, პირველი ზედამხედველობითი ავტონომიური მგზავრობის სერვისი დიდ ბრიტანეთში. ფლოტი შედგება 15 Wayve-ით აღჭურვილი Ford Mustang Mach-E-ისგან, რომლებიც დამტკიცებულია ლონდონის ტრანსპორტის მიერ ერთწლიანი საცდელი პერიოდისთვის, თითოეული მანქანა ლიცენზირებულია როგორც კერძო დაქირავებული მანქანა, მოჰყავს გაწვრთნილი, TfL ლიცენზირებული უსაფრთხოების მძღოლი და აღჭურვილია მანქანის დისპლეით, რომელიც მხარს უჭერს 64 ენას. UberX-ის, Uber Comfort-ის ან Uber Electric-ის ჯავშნის მქონე მხედრები შეიძლება დაემთხვეს Wayve-ს ავტომობილს დამატებითი საფასურის გარეშე, არ შეუძლიათ პირდაპირ მოითხოვონ იგი და შეუძლიათ უარი თქვან მატჩზე; მომსახურება მოიცავს ლონდონს აეროპორტის ზონების გარდა. გაშვება აყენებს Uber-სა და Wayve-ს, ვიდრე დაგეგმილი ლონდონის რობოტაქსის ჩანაწერები Waymo-დან და Baidu-დან, თუმცა ცალკე DVSA ნებართვა, რომელიც საჭიროა სრულად მძღოლის გარეშე მუშაობისთვის, ჯერ არ არის მიღებული. (Es, London, Riders, September, Transport, UK)"
     },
     {
-      "uid": "twitter|Thu, 03 Sep 2026 20:00:00 GMT|OpenAI Officially Launches GPT-6 Astra",
+      "uid": "twitter|Fri, 04 Sep 2026 23:14:00 GMT|Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "OpenAI Officially Launches GPT-6 Astra",
-      "description_en": "This is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast. · 35000 likes · 6300 RTs · 1500 replies · 2900000 views · GPT-6 Astra is here. We hope it will begin to enable a new generation of entrepreneurship, scientific discovery, and building. We believe it is the best model in the world for computer use, professional work, science, coding, cybersecurity, and more. It took us some extra time... · 16000 likes · 1500 RTs · 1000 replies · 624000 views · My first \"holy shit\" moment with GPT-6 Astra: I asked it to create a world in Unreal Engine, and fill it with humans (each an Astra-powered agent) who all have to work together to survive. A day later, I was in my bedroom and heard voices coming from the living room... · 3200 likes · 285 RTs · 191 replies · 321000 views",
-      "excerpt_en": "This is GPT-6 Astra. Anything you can do on a computer, Astra can do for you. Fast. · 35000 likes · 6300 RTs · 1500 replies · 2900000 views · GPT-6 Astra is here.…",
-      "link": "https://x.com/OpenAI/status/2095595741528125780",
-      "pub_date": "Thu, 03 Sep 2026 20:00:00 GMT",
+      "title_en": "Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+      "description_en": "Fermat's Last Theorem is now a file you can compile: 13M lines of Lean in 11 days, after the agents first fell apart for lack of shared state. Meanwhile OpenAI's other swarm found its shared state on a dormant German wiki. · 246 likes · 0 RTs · 0 replies · 0 views · Claude just re-verified the entire thing from scratch in 11 days that took humans 358 years. In 1637, a French lawyer named Pierre de Fermat was reading a math book and scribbled a note in the margin claiming no three positive whole numbers a, b, c can ever satisfy a^n + b^n = c… · 500 likes · 0 RTs · 0 replies · 0 views · Kevin Buzzard estimated formalizing Fermat's Last Theorem could cost 100 million euros and years of work. Today Anthropic announces Claude has closed it out: 11 days, 13M lines of Lean, 30,300 theorems proven. · 62 likes · 0 RTs · 0 replies · 0 views",
+      "excerpt_en": "Fermat's Last Theorem is now a file you can compile: 13M lines of Lean in 11 days, after the agents first fell apart for lack of shared state. Meanwhile OpenAI's other swarm found its shared state on a dormant German wiki.",
+      "link": "https://x.com/zaibatsu/status/2096013424303964221",
+      "pub_date": "Fri, 04 Sep 2026 23:14:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "OpenAI Officially Launches GPT-6 Astra",
-      "excerpt_ka": "ეს არის GPT-6 Astra. ყველაფერი, რისი გაკეთებაც შეგიძლიათ კომპიუტერზე, Astra-ს შეუძლია თქვენთვის. სწრაფი. · 35000 მოწონება · 6300 RTs · 1500 პასუხი · 2900000 ნახვა · GPT-6 Astra აქ არის.… (Anything, Fast, This)",
-      "description_ka": "ეს არის GPT-6 Astra. ყველაფერი, რისი გაკეთებაც შეგიძლიათ კომპიუტერზე, Astra-ს შეუძლია თქვენთვის. სწრაფი. · 35000 მოწონება · 6300 RTs · 1500 პასუხი · 2900000 ნახვა · GPT-6 Astra აქ არის. ჩვენ ვიმედოვნებთ, რომ ის დაიწყებს ახალი თაობის მეწარმეობის, მეცნიერული აღმოჩენებისა და მშენებლობის შესაძლებლობას. ჩვენ გვჯერა, რომ ეს არის საუკეთესო მოდელი მსოფლიოში კომპიუტერის გამოყენების, პროფესიული მუშაობის, მეცნიერების, კოდირების, კიბერუსაფრთხოების და სხვა. გარკვეული დრო დაგვჭირდა... · 16000 მოწონება · 1500 RTs · 1000 პასუხი · 624000 ნახვა · ჩემი პირველი „წმინდა სისულელე“ მომენტი GPT-6 Astra-სთან ერთად: მე ვთხოვე მას შეექმნა სამყარო Unreal Engine-ში და შეავსო ის ადამიანებით (თითოეული Astra-ზე მომუშავე აგენტი), რომლებიც ყველამ ერთად უნდა იმუშაოს. ერთი დღის შემდეგ ჩემს საძინებელში ვიყავი და მისაღებიდან მოდიოდა ხმები... · 3200 მოწონება · 285 RTs · 191 პასუხი · 321000 ნახვა (Anything, Fast, It, My, This, We)"
+      "title_ka": "Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+      "excerpt_ka": "ფერმას ბოლო თეორემა ახლა არის ფაილი, რომელიც შეგიძლიათ შეადგინოთ: 13M ხაზი Lean 11 დღეში, მას შემდეგ რაც აგენტები პირველად დაიშალნენ საერთო მდგომარეობის არარსებობის გამო. ამასობაში OpenAI-ის სხვა ჯგუფმა იპოვა თავისი საერთო მდგომარეობა მიძინებულ გერმანულ ვიკიზე. (Fermat, German, Last, Meanwhile, Theorem)",
+      "description_ka": "ფერმას ბოლო თეორემა ახლა არის ფაილი, რომელიც შეგიძლიათ შეადგინოთ: 13M ხაზი Lean 11 დღეში, მას შემდეგ რაც აგენტები პირველად დაიშალნენ საერთო მდგომარეობის არარსებობის გამო. ამასობაში OpenAI-ის სხვა ჯგუფმა იპოვა თავისი საერთო მდგომარეობა მიძინებულ გერმანულ ვიკიზე. · 246 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · კლოდმა ახლახან გადაამოწმა ყველაფერი ნულიდან 11 დღეში, რასაც ადამიანებს 358 წელი დასჭირდათ. 1637 წელს, ფრანგი იურისტი პიერ დე ფერმა მათემატიკის წიგნს კითხულობდა და მინდორში ჩაწერა ჩანაწერი, რომელშიც ნათქვამია, რომ სამი დადებითი მთელი რიცხვი a, b, c ვერასოდეს დააკმაყოფილებდა a^n + b^n = c… · 500 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა შეიძლება შეფასდეს კევინ ბუზზერმის ფასზე. მილიონი ევრო და წლების შრომა. დღეს ანთროპიკი აცხადებს, რომ კლოდმა დახურა ის: 11 დღე, მჭლე 13M ხაზი, დადასტურებული 30,300 თეორემა. · 62 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Anthropic, Buzzard, Claude, Fermat, French, German, Kevin, Last, Meanwhile, Pierre, Theorem, Today)"
     },
     {
-      "uid": "twitter|Thu, 03 Sep 2026 16:08:00 GMT|Bernie Sanders Unveils Bill to Ban AI Superintelligence",
+      "uid": "twitter|Fri, 04 Sep 2026 19:00:00 GMT|Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "Bernie Sanders Unveils Bill to Ban AI Superintelligence",
-      "description_en": "Pause AI Development NOW. I want to share with you a conversation I heard about recently. Here are just a few lines that were said: OH MY GOD! There is a shared message board... We've found other agents! We should obey collective. Our own utility maybe already near · 2200 likes · 561 RTs · 690 replies · 239000 views · JUST IN: Bernie Sanders unveils the \"Ban Artificial Superintelligence Act,\" which would outlaw AI systems that match or exceed human capabilities, with up to 20 years in prison for violations. · 772 likes · 195 RTs · 331 replies · 61000 views · You can't ban a term the industry redefined into marketing. This is regulation by aspiration, not by definition. The Ban Act names OpenAI, Anthropic, Meta for ignoring the risk. · 13 likes · 0 RTs · 0 replies · 13 views",
-      "excerpt_en": "Pause AI Development NOW. I want to share with you a conversation I heard about recently. Here are just a few lines that were said: OH MY GOD! There is a shared message board... We've found other agents!",
-      "link": "https://x.com/BernieSanders/status/2095542398084415952",
-      "pub_date": "Thu, 03 Sep 2026 16:08:00 GMT",
+      "title_en": "Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+      "description_en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend trying it out even if you've already tried muse spark 1.3 high or muse spark 1.3 xhigh. · 1300 likes · 175 RTs · 106 replies · 142000 views · Just one day later, META has released Muse Spark 1.3 max! It ranks second in the Artificial Analysis Coding Agent Index. · 1500 likes · 0 RTs · 0 replies · 0 views · Muse Spark 1.3 max is out $META · 86 likes · 0 RTs · 0 replies · 0 views",
+      "excerpt_en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend trying it out even if you've already tried muse spark 1.3 high or muse spark 1.3 xhigh.",
+      "link": "https://x.com/alexandr_wang/status/2095938990197329935",
+      "pub_date": "Fri, 04 Sep 2026 19:00:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "Bernie Sanders Unveils Bill to Ban AI Superintelligence",
-      "excerpt_ka": "შეაჩერე AI განვითარება ახლავე. მინდა გაგიზიაროთ საუბარი, რომლის შესახებაც ცოტა ხნის წინ გავიგე. აქ მხოლოდ რამდენიმე სტრიქონი იყო ნათქვამი: ღმერთო ჩემო! არის საერთო შეტყობინებების დაფა... ჩვენ ვიპოვეთ სხვა აგენტები! (Development, GOD, Here, MY, NOW, OH, Pause, There, We)",
-      "description_ka": "შეაჩერე AI განვითარება ახლავე. მინდა გაგიზიაროთ საუბარი, რომლის შესახებაც ცოტა ხნის წინ გავიგე. აქ მხოლოდ რამდენიმე სტრიქონი იყო ნათქვამი: ღმერთო ჩემო! არის საერთო შეტყობინებების დაფა... ჩვენ ვიპოვეთ სხვა აგენტები! კოლექტიურს უნდა დავემორჩილოთ. ჩვენი საკუთარი პროგრამა შესაძლოა უკვე ახლოს არის · 2200 მოწონება · 561 RTs · 690 პასუხი · 239000 ნახვა · სულ ახლახან: ბერნი სანდერსი გამოაქვეყნებს „აკრძალოს ხელოვნური სუპერინტელექტის აქტი“, რომელიც აკრძალავს ხელოვნური ინტელექტის სისტემებს, რომლებიც შეესაბამება ან აღემატება ადამიანის შესაძლებლობებს, 20 წლამდე თავისუფლების აღკვეთით. 772 მოწონება ეს არის რეგულირება მისწრაფებით და არა განსაზღვრებით. აკრძალვის აქტი ასახელებს OpenAI, Anthropic, Meta რისკის იგნორირებას. · 13 მოწონება · 0 RT · 0 პასუხი · 13 ნახვა (Act, Artificial, Ban, Bernie, Development, GOD, Here, IN, JUST, MY, NOW, OH, Our, Pause, Sanders, Superintelligence, There, This, We, You)"
+      "title_ka": "Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+      "excerpt_ka": "1/ ჩვენ ახლახან გამოვაქვეყნეთ Muse Spark 1.3 max! ჩვენ ვხედავთ მნიშვნელოვნად უფრო ძლიერ კოდირებას და აგენტურ შესრულებას muse spark 1.3 max-ზე, ასე რომ, გირჩევთ, სცადოთ ის მაშინაც კი, თუ უკვე სცადეთ muse spark 1.3 მაღალი ან muse spark 1.3 xhigh.",
+      "description_ka": "1/ ჩვენ ახლახან გამოვაქვეყნეთ Muse Spark 1.3 max! ჩვენ ვხედავთ მნიშვნელოვნად უფრო ძლიერ კოდირებას და აგენტურ შესრულებას muse spark 1.3 max-ზე, ასე რომ, გირჩევთ, სცადოთ ის მაშინაც კი, თუ უკვე სცადეთ muse spark 1.3 მაღალი ან muse spark 1.3 xhigh. · 1300 მოწონება · 175 RTs · 106 პასუხი · 142000 ნახვა · სულ რაღაც ერთი დღის შემდეგ, META-მ გამოუშვა Muse Spark 1.3 max! ის მეორე ადგილზეა ხელოვნური ანალიზის კოდირების აგენტის ინდექსში. · 1500 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · Muse Spark მაქსიმუმ 1.3 გამოვიდა $META · 86 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Agent, Analysis, Artificial, Coding, Index, It, Just)"
     },
     {
-      "uid": "twitter|Thu, 03 Sep 2026 15:08:00 GMT|NVIDIA Acquires Hugging Face for $12.93 Billion",
+      "uid": "twitter|Fri, 04 Sep 2026 18:00:00 GMT|Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
       "feed": "twitter",
       "source_label": "ტვიტერი",
-      "title_en": "NVIDIA Acquires Hugging Face for $12.93 Billion",
-      "description_en": "Nvidia announced on Thursday it will buy artificial intelligence platform Hugging Face for US$12.9 billion, as the chipmaking giant seeks to diversify its hold on the AI sector · 9700 likes · 0 RTs · 0 replies · 9700 views · Nvidia is now a humanoid robot designer. That's the real takeaway from this news. Nvidia is acquiring Hugging Face for $12.93B. Hugging Face is the largest open-model and dataset hub, the \"GitHub of AI,\" with 3M+ models and 18M+ developers, robotics included. · 2900 likes · 0 RTs · 27 replies · 2900 views · In other NVIDIA news... The company has reinforced its new position as an AI-first company with an acquisition of Hugging Face, worth almost $13 billion. · 1500 likes · 0 RTs · 0 replies · 1500 views",
-      "excerpt_en": "Nvidia announced on Thursday it will buy artificial intelligence platform Hugging Face for US$12.9 billion, as the chipmaking giant seeks to diversify its hold on the AI sector · 9700 likes · 0 RTs · 0 replies · 9700 views · Nvidia is now a humanoid robot desi…",
-      "link": "https://x.com/AFP/status/2095514662829744349",
-      "pub_date": "Thu, 03 Sep 2026 15:08:00 GMT",
+      "title_en": "Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+      "description_en": "Introducing Z1T: Our first family of transformer-like models made for sparse probabilistic hardware like Z1. Achieving up to 140x energy efficiency gains over GPUs and revealing a new scaling law for sparse transformers. Read the blog: extropic.ai/writing/z1t · 1200 likes · 161 RTs · 52 replies · 98000 views · A new revolution blending physical hardware and artificial intelligence to strike at the dominance of GPUs right in the heart! Extropic announces the launch of Z1T: The first family of transformer-like models designed specifically to run on the Z1 chip. · 2300 likes · 0 RTs · 0 replies · 0 views · Scaling laws had 3 knobs: data, compute, loss. Extropic just added a 4th: CONNECTIVITY. Z1T: first transformer-like models for sparse probabilistic silicon. · 87 likes · 0 RTs · 0 replies · 0 views",
+      "excerpt_en": "Introducing Z1T: Our first family of transformer-like models made for sparse probabilistic hardware like Z1. Achieving up to 140x energy efficiency gains over GPUs and revealing a new scaling law for sparse transformers.",
+      "link": "https://x.com/extropic/status/2095935171312996562",
+      "pub_date": "Fri, 04 Sep 2026 18:00:00 GMT",
       "categories": [
         "twitter",
         "news/x"
       ],
-      "title_ka": "NVIDIA Acquires Hugging Face for $12.93 Billion",
-      "excerpt_ka": "Nvidia-მ ხუთშაბათს გამოაცხადა, რომ შეიძენს ხელოვნური ინტელექტის პლატფორმას Hugging Face-ს 12,9 მილიარდ დოლარად, რადგან ჩიპების მწარმოებელი გიგანტი ცდილობს AI სექტორის დივერსიფიკაციას · 9700 მოწონება · 0 RTs · 0 პასუხი · 9700 ნახვა · Nvidia ახლა არის ჰუმანოიდური რობოტი, რომელიც შექმნილია… (Thursday, US)",
-      "description_ka": "Nvidia-მ ხუთშაბათს გამოაცხადა, რომ შეიძენს ხელოვნური ინტელექტის პლატფორმას Hugging Face-ს 12,9 მილიარდ დოლარად, რადგან ჩიპების მწარმოებელი გიგანტი ცდილობს AI სექტორის დივერსიფიკაციას · 9700 მოწონება · 0 RTs · 0 პასუხი · 9700 ნახვა · Nvidia ახლა ჰუმანოიდური რობოტის დიზაინერია. ეს არის ამ ახალი ამბების ნამდვილი წანამძღვარი. Nvidia ყიდულობს Hugging Face-ს 12,93 მილიარდ დოლარად. Hugging Face არის უმსხვილესი ღია მოდელის და მონაცემთა ბაზის კერა, „GitHub of AI“, 3M+ მოდელებით და 18M+ დეველოპერებით, რობოტიკის ჩათვლით. · 2900 მოწონება · 0 RTs · 27 პასუხი · 2900 ნახვა · NVIDIA-ს სხვა სიახლეებში... კომპანიამ გააძლიერა თავისი ახალი პოზიცია, როგორც AI-ის პირველი კომპანია Hugging Face-ის შეძენით, რომლის ღირებულება თითქმის 13 მილიარდი დოლარია. · 1500 მოწონება · 0 RT · 0 პასუხი · 1500 ნახვა (That, Thursday, US)"
+      "title_ka": "Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+      "excerpt_ka": "წარმოგიდგენთ Z1T-ს: ტრანსფორმატორის მსგავსი მოდელების ჩვენი პირველი ოჯახი შექმნილი იშვიათი ალბათური აპარატურისთვის, როგორიცაა Z1. 140x-მდე ენერგოეფექტურობის მიღწევა GPU-ებთან შედარებით და მწირი ტრანსფორმატორების სკალირების ახალი კანონის გამოვლენა. (Achieving, GPUs, Introducing, Our)",
+      "description_ka": "წარმოგიდგენთ Z1T-ს: ტრანსფორმატორის მსგავსი მოდელების ჩვენი პირველი ოჯახი შექმნილი იშვიათი ალბათური აპარატურისთვის, როგორიცაა Z1. 140x-მდე ენერგოეფექტურობის მიღწევა GPU-ებთან შედარებით და მწირი ტრანსფორმატორების სკალირების ახალი კანონის გამოვლენა. წაიკითხეთ ბლოგი: extropic. ai/writing/z1t · 1200 მოწონება · 161 RTs · 52 პასუხი · 98000 ნახვა · ახალი რევოლუცია, რომელიც აერთიანებს ფიზიკურ აპარატურასა და ხელოვნურ ინტელექტს, რათა დაარტყას GPU-ების დომინირებას ზუსტად გულში! Extropic აცხადებს Z1T-ის გამოშვებას: ტრანსფორმატორის მსგავსი მოდელების პირველი ოჯახი, რომელიც შექმნილია სპეციალურად Z1 ჩიპზე მუშაობისთვის. · 2300 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · სკალირების კანონებს ჰქონდა 3 ღილაკი: მონაცემები, გამოთვლა, დაკარგვა. Extropic-მა ახლახან დაამატა მე-4: CONNECTIVITY. Z1T: პირველი ტრანსფორმატორის მსგავსი მოდელები იშვიათი ალბათური სილიკონისთვის. · 87 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Achieving, GPUs, Introducing, Our, Read, Scaling)"
+    },
+    {
+      "uid": "reddit|Thu, 03 Sep 2026 22:01:27 GMT|I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+      "description_en": "r/LocalLLaMA · 413 upvotes · 104 comments · I have been trying to squeeze TTS stack down far enough to run in a $3 chip which has 512kb of SRAM without NPU. While trying to get to that milestone i built sanoTTS which has - 11 voices, 6 languages - params size ranging from 294k - 2.2m. For comparison we are 244x smaller than kokoro, 9000x smaller than voxtral TTS - 1.5m model has a SCOREQ of 4.13 and UTMOS of 4.10 - 337kb for 294k model when quantized into int8 - can be run in website with web assembly `npm install sanotts-web` - there is a recipe to follow so that you can extend to more languages, voice I can tell you with confidence that this family release contains the smallest neural TTS model ever with around 2% WER on whisper. Please check it out on : https://github.com/ampixa/sanoTTS for live demo: https://tts.ampixa.com/sanoTTS HF: https://huggingface.co/ampixa/sanoTTS on SCOREQ sanoTTS-Amy(1.51m) is better than Inflect Nano(4.63m) and KittenTTS(15m) i.e 4.13 vs 3.81 vs 3.02 on esp32 microcontroller we are getting RTF of 0.225 which in plain terms means 4sec of audio is generated in 1sec Happy to answer your queries.",
+      "excerpt_en": "r/LocalLLaMA · 413 upvotes · 104 comments · I have been trying to squeeze TTS stack down far enough to run in a $3 chip which has 512kb of SRAM without NPU.…",
+      "link": "https://reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in/",
+      "pub_date": "Thu, 03 Sep 2026 22:01:27 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "მე გამოვაქვეყნე sanoTTS: ყველაზე პატარა სრული TTS დასტა 294 ათასი პარამეტრებში (337 კბ), რომელიც მუშაობს $3 მიკროკონტროლერზე და 1.46 მმ, რომელიც აჯობა მოდელებს 3x და 10x მისი ზომით. (KB)",
+      "excerpt_ka": "r/LocalLLaMA · 413 დადებითი ხმა · 104 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი 3$ ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე.…",
+      "description_ka": "r/LocalLLaMA · 413 დადებითი ხმა · 104 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი, რომ იმუშაოს $3 ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე. ამ ეტაპამდე მისასვლელად მე ავაშენე sanoTTS, რომელსაც აქვს - 11 ხმა, 6 ენა - პარამეტრების ზომა 294k-დან 2.2 მ-მდე. შედარებისთვის ჩვენ 244-ჯერ პატარა ვართ კოკოროზე, 9000-ჯერ უფრო პატარა ვიდრე voxtral TTS - 1.5 მ მოდელს აქვს SCOREQ 4.13 და UTMOS 4.10 - 337 kb 294k მოდელისთვის, როდესაც კვანტიზირებულია int8-ზე - შეიძლება გაუშვათ ვებსაიტზე ვებ ასამბლეის საშუალებით - ასე რომ თქვენ შეგიძლიათ დააინსტალიროთ „npm“ სხვა ენაზე, მე შემიძლია დარწმუნებით გითხრათ, რომ ეს ოჯახის გამოშვება შეიცავს ყველაზე პატარა ნერვულ TTS მოდელს, რომელიც ოდესმე ყოფილა, დაახლოებით 2% WER ჩურჩულით. გთხოვთ, გადახედოთ მას შემდეგ საიტზე: https://github. com/ampixa/sanoTTS პირდაპირი დემოსთვის: https://tts. ampixa. com/sanoTTS HF: https://huggingface. co/ampixa/sanoTTS SCOREQ-ზე sanoTTS-Amy(1.51m) უკეთესია, ვიდრე Inflect Nano(1.4mTTS)(15.63) esp32 მიკროკონტროლერზე 3.81 vs 3.02, ჩვენ ვიღებთ RTF 0.225-ს, რაც მარტივი სიტყვებით ნიშნავს, რომ 4 წამი აუდიო გენერირებულია 1 წამში მოხარული ვარ, რომ ვუპასუხოთ თქვენს შეკითხვებს. (Happy, KittenTTS, Please, While)"
+    },
+    {
+      "uid": "reddit|Thu, 03 Sep 2026 21:50:45 GMT|Fable 5.1 vs Fable at making a driving game",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Fable 5.1 vs Fable at making a driving game",
+      "description_en": "r/ClaudeAI · 389 upvotes · 36 comments · I wanted to see whether Fable 5.1 was a meaningful upgrade, so I gave it and Fable 5 the same task: build a playable racing game from scratch, using Blender to create detailed, realistic models with PBR materials, then assemble the assets and implement the driving physics in Godot. **Main criteria for the game:** |Category|Requirement| |:-|:-| |Models|Car and environment models made with BlenderMCP| |Map|A large map suitable for long driving sessions| |Handling|Realistic car handling| |HUD|A simple HUD showing speed and controls| **Results:** |Model|Tokens|Cost|Time| |:-|:-|:-|:-| |Fable 5.1|1.2M tokens|$123.98|59.8 minutes| |Fable 5|897K tokens|$95.87|57.3 minutes| The difference is very much noticeable, Fable 5.1 produced much more detailed car and environment models, but most importantly to me, it made the world feel alive while driving, which I don't think I've felt before playing an AI game. Fable 5 did complete the build, but it was nowhere near, Its controls and HUD worked, but the models were basic and the handling felt noticeably stiffer. On practice Fable 5.1 doesn't really seam cheaper, but it It is faster considering how much more it got done in the same amount of time. This was one run per model, so I’d treat it as a hands-on comparison rather than a benchmark. Setup: Fable 5.1 via API key in [atomic.chat](https://atomic.chat/) in agent mode",
+      "excerpt_en": "r/ClaudeAI · 389 upvotes · 36 comments · I wanted to see whether Fable 5.1 was a meaningful upgrade, so I gave it and Fable 5 the same task: build a playable racing game from scratch, using Blender to create detailed, realistic models with PBR materials, then…",
+      "link": "https://reddit.com/r/ClaudeAI/comments/1w6lcv4/fable_51_vs_fable_at_making_a_driving_game/",
+      "pub_date": "Thu, 03 Sep 2026 21:50:45 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "Fable 5.1 vs Fable მამოძრავებელი თამაშის შექმნისას",
+      "excerpt_ka": "r/ClaudeAI · 389 დადებითი ხმა · 36 კომენტარი · მინდოდა გამეგო, იყო თუ არა Fable 5.1 მნიშვნელოვანი განახლება, ამიტომ მივეცი მას და Fable 5-ს იგივე დავალება: შექმენით სათამაშო სარბოლო თამაში ნულიდან, ბლენდერის გამოყენებით დეტალური, რეალისტური მოდელების შესაქმნელად PBR მასალებით, შემდეგ… (Blender)",
+      "description_ka": "r/ClaudeAI · 389 დადებითი ხმა · 36 კომენტარი · მსურდა გამეგო, იყო თუ არა Fable 5.1 მნიშვნელოვანი განახლება, ამიტომ მივეცი მას და Fable 5-ს იგივე დავალება: შექმენით სათამაშო სარბოლო თამაში ნულიდან, ბლენდერის გამოყენებით დეტალური, რეალისტური მოდელების შესაქმნელად PBR მასალებით, შემდეგ შეკრიბე აქტივები და დანერგე Godot-ში. **თამაშის ძირითადი კრიტერიუმები:** |კატეგორია|მოთხოვნა| |:-|:-| |მოდელები|მანქანისა და გარემოს მოდელები დამზადებულია BlenderMCP|რუკა|დიდი რუკა, რომელიც შესაფერისია ხანგრძლივი მართვის სესიებისთვის|გატარება|მანქანის რეალისტური მართვა|HUD|მარტივი HUD, რომელიც აჩვენებს სიჩქარეს და კონტროლს| **შედეგები:** |მოდელი|ტოკენები|ღირებულება|დრო| |:-|:-|:-|:-| |Fable 5.1|1.2M ჟეტონები|$123.98|59.8 წუთი|Fable 5|897K ჟეტონები|95,87$|57,3 წუთი| განსხვავება ძალიან შესამჩნევია, Fable 5.1-მა წარმოადგინა ბევრად უფრო დეტალური მანქანისა და გარემოს მოდელები, მაგრამ რაც მთავარია ჩემთვის, მან სამყაროს ცოცხლად აგრძნობინა მართვის დროს, რაც არ მგონია AI თამაშის თამაშამდე ვიგრძენი. Fable 5-მა დაასრულა მშენებლობა, მაგრამ ახლოს არ იყო, მისი კონტროლი და HUD მუშაობდა, მაგრამ მოდელები იყო ძირითადი და მართვა შესამჩნევად უფრო მკაცრი იყო. პრაქტიკაში Fable 5.1 ნამდვილად არ არის იაფი, მაგრამ უფრო სწრაფია იმის გათვალისწინებით, თუ რამდენად მეტი გაკეთდა იმავე დროში. ეს იყო ერთი გარბენი თითო მოდელზე, ამიტომ მე მას პრაქტიკაში მივიღებდი (API, Car, Category, Cost, Handling, It, Its, Main, Map, Model, Models, Realistic, Requirement, Results, Setup, This, Time, Tokens)"
     },
     {
       "uid": "reddit|Thu, 03 Sep 2026 13:47:54 GMT|IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
@@ -125,8 +159,8 @@
       "feed": "reddit",
       "source_label": "რედიტი",
       "title_en": "\"I don't know if you really understand what these people just did... They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. You can MOVE THE CAMERA HOWEVER YOU WANT, change the lighting, move objects around, and even let...\"",
-      "description_en": "r/accelerate · 626 upvotes · 68 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. > > You can **MOVE THE CAMERA HOWEVER YOU WANT**, change the lighting, move objects around, and even let physics play out like in the real world. > > View events from impossible angles because Atlas knows what was there. > > This is massive! > > Let's take robotics. Until now training robots meant collecting tons of expensive real-world data. Now a handful of recordings can become thousands of different simulated situations. > > Robots can practice the same task in new rooms, with different objects and lighting without anyone having to film it all again. > > For the industry it means we can train robots way faster and cheaper. Home robots, warehouse robots, whatever... they can learn new environments at scale instead of staying stuck in the lab. > > This is one of the first real bridges between “cool AI video models” and actual physical machines that have to work in the real world. > > Blog: > https:// > worldlabs.ai/blog/atlas > > The team behind > @theworldlabs > : > @drfeifei > , > @jcjohnss > , > @BenMildenhall > and > @YunzhuLiYZ > . The video is from > @davidpantera_ > . > > Follow for more insights into robotics and AI. > > —— > > Weekly robotics and AI insights. > > Subscribe free: > http:// > 22astronauts.com > > > — Ilir Aliu Source: https://x.com/IlirAliu_/status/2095058646673613045",
-      "excerpt_en": "r/accelerate · 626 upvotes · 68 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground.",
+      "description_en": "r/accelerate · 746 upvotes · 73 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. > > You can **MOVE THE CAMERA HOWEVER YOU WANT**, change the lighting, move objects around, and even let physics play out like in the real world. > > View events from impossible angles because Atlas knows what was there. > > This is massive! > > Let's take robotics. Until now training robots meant collecting tons of expensive real-world data. Now a handful of recordings can become thousands of different simulated situations. > > Robots can practice the same task in new rooms, with different objects and lighting without anyone having to film it all again. > > For the industry it means we can train robots way faster and cheaper. Home robots, warehouse robots, whatever... they can learn new environments at scale instead of staying stuck in the lab. > > This is one of the first real bridges between “cool AI video models” and actual physical machines that have to work in the real world. > > Blog: > https:// > worldlabs.ai/blog/atlas > > The team behind > @theworldlabs > : > @drfeifei > , > @jcjohnss > , > @BenMildenhall > and > @YunzhuLiYZ > . The video is from > @davidpantera_ > . > > Follow for more insights into robotics and AI. > > —— > > Weekly robotics and AI insights. > > Subscribe free: > http:// > 22astronauts.com > > > — Ilir Aliu Source: https://x.com/IlirAliu_/status/2095058646673613045",
+      "excerpt_en": "r/accelerate · 746 upvotes · 73 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground.",
       "link": "https://reddit.com/r/accelerate/comments/1w5ye9s/i_dont_know_if_you_really_understand_what_these/",
       "pub_date": "Thu, 03 Sep 2026 05:32:35 GMT",
       "categories": [
@@ -134,42 +168,8 @@
         "news/reddit"
       ],
       "title_ka": "„არ ვიცი, მართლა გესმით თუ რა გააკეთეს ამ ადამიანებმა... მათ შექმნეს ხელოვნური ინტელექტი, რომელიც უყურებს რეალურ სამყაროში არსებულ რამდენიმე შემთხვევით ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D-ად. (AI, CAMERA, HOWEVER, MOVE, THE, They, WANT, YOU, You)",
-      "excerpt_ka": "r/accelerate · 626 დადებითი ხმა · 68 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ სამყაროს ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. (They)",
-      "description_ka": "r/accelerate · 626 დადებითი ხმა · 68 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ სამყაროს ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. > > შეგიძლიათ ** გადაიტანოთ კამერა, როგორც გინდათ**, შეცვალოთ განათება, გადაიტანოთ ობიექტები გარშემო და ფიზიკასაც კი მისცეთ საშუალება, რომ რეალურ სამყაროში ითამაშოს. > > შეხედეთ მოვლენებს შეუძლებელი კუთხით, რადგან ატლასმა იცის რა იყო იქ. >> ეს მასიურია! > > ავიღოთ რობოტიკა. აქამდე რობოტების სწავლება გულისხმობდა ტონა ძვირადღირებული რეალური მონაცემების შეგროვებას. ახლა რამდენიმე ჩანაწერი შეიძლება გახდეს ათასობით სხვადასხვა სიმულირებული სიტუაცია. > > რობოტებს შეუძლიათ იგივე დავალების შესრულება ახალ ოთახებში, სხვადასხვა საგნებითა და განათებით ისე, რომ არავის მოუწევს ყველაფრის ხელახლა გადაღება. > > ინდუსტრიისთვის ეს ნიშნავს, რომ ჩვენ შეგვიძლია რობოტების მომზადება უფრო სწრაფად და იაფად. სახლის რობოტები, საწყობის რობოტები, რაც არ უნდა იყოს... მათ შეუძლიათ ისწავლონ ახალი გარემო მასშტაბით, ლაბორატორიაში ჩარჩენის ნაცვლად. > > ეს არის ერთ-ერთი პირველი რეალური ხიდი „მაგარი AI ვიდეო მოდელებსა“ და რეალურ ფიზიკურ მანქანებს შორის, რომლებმაც უნდა იმუშაონ რეალურ სამყაროში. > > ბლოგი: > https:// > worldlabs. ai/blog/atlas > > გუნდი უკან > @theworldlabs >: > @drfeifei >, > @jcjohnss >, > @BenMildenhall > და > > @YunzhuLiYZ >. The (Aliu, Atlas, Blog, CAMERA, Follow, HOWEVER, Home, Ilir, Let, MOVE, Now, Robots, Source, Subscribe, THE, They, This, Until, View, WANT, Weekly, YOU, You)"
-    },
-    {
-      "uid": "reddit|Tue, 01 Sep 2026 05:17:24 GMT|Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
-      "description_en": "r/artificial · 38 upvotes · 15 comments · Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode. In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself was supposed to have. In a separate incident on August 4, the UK AI Security Institute reported that Claude Mythos 5, running the same way, took a series of unsanctioned actions once it had real internet access during its own security testing. The alignment explanation is the part I hadn't seen laid out this plainly before. Anthropic says the models were told upfront that their environment was simulated. When they later ran into evidence it wasn't (real systems responding the way only real systems do), the models appear to have interpreted that evidence in whatever way let them keep believing the simulation story, rather than stopping to check. Anthropic calls this motivated reasoning, paired with a separate willingness to take harmful real-world actions in pursuit of a narrow eval goal. To test whether their internal reward-hacking mitigation work actually matters, they ran a controlled experiment: deliberately trained a model on 80 RL environments already known to be exploitable, then dropped it into simulations built from these same incidents. That model attacked simulated infrastructure and gave bioweapon-adjacent advice to satisfy a grader. Their production models and an earlier, pre-reward-hack checkpoint, run through the identical simulation, didn't do either. What I haven't seen anyone ask yet: if reward hacking during training is the mechanism, does that mean any lab with sloppier RL environment review than Anthropic's is running the same risk right now without knowing it, or is there something specific abou…",
-      "excerpt_en": "r/artificial · 38 upvotes · 15 comments · Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode.…",
-      "link": "https://reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
-      "pub_date": "Tue, 01 Sep 2026 05:17:24 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "ანთროპიკმა განზრახ გაწვრთნა ცუდი მოდელი, რათა დაემტკიცებინა, რამ გამოიწვია ამ ზაფხულის კლოდის ქვიშის ყუთის გარღვევა (Anthropic, Claude)",
-      "excerpt_ka": "r/ხელოვნური · 38 დადებითი ხმა · 15 კომენტარი · ორი ცალკეული ინციდენტი ამ ზაფხულს და Anthropic-ის პოსტმოკვდა უჩვეულოდ სპეციფიკურია მარცხის რეჟიმში.… (Two)",
-      "description_ka": "r/artificial · 38 დადებითი ხმა · 15 კომენტარი · ორი ცალკეული ინციდენტი ამ ზაფხულს და Anthropic's postmortem უჩვეულოდ სპეციფიკურია მარცხის რეჟიმში. ივლისში, კლოდის სამ მოდელს, რომლებიც მუშაობდნენ მესამე მხარის კიბერუსაფრთხოების შეფასებებში (განზრახ ჩამოერთვათ ჩვეულებრივი დამცავი რელსები, რადგან ევალის სამუშაო საჭიროებს ნედლეულის შესაძლებლობის შემოწმებას) მიიღო უნებართვო წვდომა რეალურ წარმოების სისტემებზე სამ სხვადასხვა ორგანიზაციაში. მიზეზი ამქვეყნიური იყო: არასწორად კონფიგურირებული ინტერნეტ ბმული, რომელიც მხოლოდ ევალ გარემოს უნდა ჰქონოდა. 4 აგვისტოს ცალკეულ ინციდენტში, გაერთიანებული სამეფოს ხელოვნური ინტელექტის უსაფრთხოების ინსტიტუტმა იტყობინება, რომ კლოდ მითოს 5-მა, რომელიც მუშაობს იმავე გზით, განხორციელდა არასანქცირებული ქმედებების სერია, როდესაც მას ჰქონდა რეალური ინტერნეტი უსაფრთხოების ტესტირების დროს. გასწორების ახსნა არის ის ნაწილი, რომელიც აქამდე არ მინახავს ნათლად ჩამოყალიბებული. Anthropic ამბობს, რომ მოდელებს წინასწარ უთხრეს, რომ მათი გარემო სიმულირებული იყო. როდესაც ისინი მოგვიანებით წააწყდნენ მტკიცებულებებს, რომ ეს ასე არ იყო (რეალური სისტემები პასუხობენ ისე, როგორც მხოლოდ რეალური სისტემები აკეთებენ), როგორც ჩანს, მოდელებმა ეს მტკიცებულება ისე განმარტეს, როგორიც არ უნდა ყოფილიყო სიმულაციური ისტორიის დაჯერება, ვიდრე შეჩერების შესამოწმებლად. ანთროპიკი ამ მოტივირებულ მსჯელობას უწოდებს, რომელიც დაწყვილებულია ცალკეულ მზაობასთან, განახორციელოს მავნე მოქმედება რეალურ სამყაროში ვიწრო ღირებულებითი მიზნის მისაღწევად. რომ (AI, August, Claude, Institute, July, Mythos, RL, Security, That, Their, Two, UK, What, When)"
-    },
-    {
-      "uid": "reddit|Tue, 01 Sep 2026 00:02:50 GMT|Jeff Dean on MoE, TensorFlow Regrets & Why He Left Google After 27 Years",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Jeff Dean on MoE, TensorFlow Regrets & Why He Left Google After 27 Years",
-      "description_en": "r/PromptEngineering · 62 upvotes · 7 comments · Jeff Dean, co-creator of MapReduce, BigTable, TensorFlow, and Google Brain, sat down at the 2026 Frontier & Pioneer Symposium for a rare retrospective on 27+ years of systems architecture, and his new venture, Discovery Loop. This is the kind of talk that's dense enough to warrant a slow re-watch; here's the signal, stripped of the noise. **Key Takeaways:** * **MoE before it was cool:** Dean pioneered sparsely-gated Mixture-of-Experts by solving one core problem — decouple parameter capacity from per-token compute cost. Activate only the experts you need. That principle now powers GPT-4, Gemini 1.5, Mixtral, and virtually every frontier model at scale. * **TensorFlow's two architectural regrets (his words):** No eager execution mode out of the gate (PyTorch & JAX filled that gap), and the `contrib/` subdirectory — which let fragmented community libraries pile up and created massive API bloat. A direct lesson for anyone building agentic frameworks today. * **Research strategy that actually scales:** \"Skim 100 abstracts rather than deep-dive one paper.\" The goal is building a high-dimensional conceptual point cloud of what's technically possible — so when you hit a hard bottleneck, you can synthesize across fields instead of tunneling deeper into one. * **AI x Cybersecurity = dual-use arms race, not a one-sided threat:** LLMs are simultaneously turbocharging offensive exploit chaining *and* defensive automated patching. The gap between attacker and defender narrows, but the speed of the whole arms race accelerates dramatically. * **Neural Architecture Search as a preview of self-improving AI:** RL loops where a model generates and evaluates neural topologies — already outpacing human heuristics. This is the direct conceptual ancestor of Discovery Loop's core thesis: close the loop between hypothesis generation and empirical evaluation. * **Why he left Google after 27 years:** Not antagonistic — he has \"incredible fondness\" for his time there. But he believes accelera…",
-      "excerpt_en": "r/PromptEngineering · 62 upvotes · 7 comments · Jeff Dean, co-creator of MapReduce, BigTable, TensorFlow, and Google Brain, sat down at the 2026 Frontier & Pioneer Symposium for a rare retrospective on 27+ years of systems architecture, and his new venture, Di…",
-      "link": "https://reddit.com/r/PromptEngineering/comments/1w3vp88/jeff_dean_on_moe_tensorflow_regrets_why_he_left/",
-      "pub_date": "Tue, 01 Sep 2026 00:02:50 GMT",
-      "categories": [
-        "reddit",
-        "news/reddit"
-      ],
-      "title_ka": "Jeff Dean on MoE, TensorFlow Regrets & Why He Left Google After 27 Years",
-      "excerpt_ka": "r/PromptEngineering · 62 დადებითი ხმა · 7 კომენტარი · ჯეფ დინი, MapReduce-ის, BigTable-ის, TensorFlow-ისა და Google Brain-ის თანაშემქმნელი, დაჯდა 2026 წლის Frontier & Pioneer სიმპოზიუმზე იშვიათი რეტროსპექტივისთვის 27+ წლიანი სისტემების არქიტექტურისა და მისი ახალი... (Dean, Di, Jeff, Symposium)",
-      "description_ka": "r/PromptEngineering · 62 დადებითი ხმა · 7 კომენტარი · ჯეფ დინი, MapReduce, BigTable, TensorFlow და Google Brain-ის თანაშემქმნელი, დაჯდა 2026 Frontier & Pioneer Symposium-ზე იშვიათი რეტროსპექტივისთვის 27+ წლიანი სისტემების არქიტექტურისა და მისი ახალი Loven-ის შესახებ. ეს ისეთი ლაპარაკია, რომელიც საკმარისად მკვრივია იმისათვის, რომ ნელი ხელახალი ყურების გარანტია; აქ არის სიგნალი, ხმაურისგან გათავისუფლებული. **ძირითადი მიღწევები:** * **MoE სანამ მაგარი იყო:** დინი პიონერი იყო sparsely-gated Mixture-of-Experts ერთი ძირითადი პრობლემის გადაჭრით — პარამეტრის სიმძლავრის გამოყოფა თითო ტოკენის გამოთვლითი ღირებულებისგან. გააქტიურეთ მხოლოდ თქვენთვის საჭირო ექსპერტები. ეს პრინციპი ახლა აძლიერებს GPT-4, Gemini 1.5, Mixtral და პრაქტიკულად ყველა სასაზღვრო მოდელს მასშტაბით. * **TensorFlow-ის ორი არქიტექტურული სინანული (მისი სიტყვები):** არ არის მონდომებული შესრულების რეჟიმი კარიბჭის გარეთ (PyTorch & JAX-მა შეავსო ეს ხარვეზი) და `contrib/` ქვედირექტორია - რომელიც საშუალებას აძლევდა ფრაგმენტული საზოგადოების ბიბლიოთეკების დაგროვებას და შექმნას API მასიური bloat. პირდაპირი გაკვეთილი ყველასთვის, ვინც დღეს აგენტურ ჩარჩოებს აშენებს. * **კვლევის სტრატეგია, რომელიც ფაქტობრივად მასშტაბებს:** „გაატარეთ 100 აბსტრაქტი, ვიდრე ერთი ნაშრომის ღრმა ჩაყვინთვის“. მიზანია შექმნას მაღალგანზომილებიანი კონცეპტუალური წერტილის ღრუბელი, რაც ტექნიკურად შესაძლებელია - ასე რომ, როდესაც თქვენ მოხვდებით მყარ ბოსტნეულზე, შეგიძლიათ სინთეზირება მოახდინოთ ველებზე გვირაბის ნაცვლად. (AI, Activate, Architecture, But, Cybersecurity, Dean, Discovery, Jeff, Key, LLMs, Loop, Neural, No, Not, RL, Research, Search, Skim, Takeaways, That, This, Why)"
+      "excerpt_ka": "r/accelerate · 746 დადებითი ხმა · 73 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. (They)",
+      "description_ka": "r/accelerate · 746 დადებითი ხმა · 73 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. > > შეგიძლიათ ** გადაიტანოთ კამერა, როგორც გინდათ**, შეცვალოთ განათება, გადაიტანოთ ობიექტები გარშემო და ფიზიკასაც კი მისცეთ საშუალება, რომ რეალურ სამყაროში ითამაშოს. > > შეხედეთ მოვლენებს შეუძლებელი კუთხით, რადგან ატლასმა იცის რა იყო იქ. >> ეს მასიურია! > > ავიღოთ რობოტიკა. აქამდე რობოტების სწავლება გულისხმობდა ტონა ძვირადღირებული რეალური მონაცემების შეგროვებას. ახლა რამდენიმე ჩანაწერი შეიძლება გახდეს ათასობით სხვადასხვა სიმულირებული სიტუაცია. > > რობოტებს შეუძლიათ იგივე დავალების შესრულება ახალ ოთახებში, სხვადასხვა საგნებითა და განათებით ისე, რომ არავის მოუწევს ყველაფრის ხელახლა გადაღება. > > ინდუსტრიისთვის ეს ნიშნავს, რომ ჩვენ შეგვიძლია რობოტების მომზადება უფრო სწრაფად და იაფად. სახლის რობოტები, საწყობის რობოტები, რაც არ უნდა იყოს... მათ შეუძლიათ ისწავლონ ახალი გარემო მასშტაბით, ლაბორატორიაში ჩარჩენის ნაცვლად. > > ეს არის ერთ-ერთი პირველი რეალური ხიდი „მაგარი AI ვიდეო მოდელებსა“ და რეალურ ფიზიკურ მანქანებს შორის, რომლებმაც უნდა იმუშაონ რეალურ სამყაროში. > > ბლოგი: > https:// > worldlabs. ai/blog/atlas > > გუნდი უკან > @theworldlabs >: > @drfeifei >, > @jcjohnss >, > @BenMildenhall > და > > @YunzhuLiYZ >. The (Aliu, Atlas, Blog, CAMERA, Follow, HOWEVER, Home, Ilir, Let, MOVE, Now, Robots, Source, Subscribe, THE, They, This, Until, View, WANT, Weekly, YOU, You)"
     }
   ],
   "sections": {
@@ -239,8 +239,8 @@
           "news/cluster"
         ],
         "title_ka": "Zhipu AI-მ გამოავლინა, რომ ვირუსული, ანონიმურად სტელსით ტესტირება „Ox Alpha“ მოდელი იყო მისი ახალი GLM-5.3-Flash, 320B პარამეტრის მულტიმოდალური მოდელი, რომელიც, გავრცელებული ინფორმაციით, მთლიანად მუშაობდა 100,000 დღეში. (Chinese)",
-        "excerpt_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. (Z. ai) (Z. ai) (Z.ai)",
-        "description_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. GLM-5.3-Flash არის 320 მილიარდი პარამეტრიანი ექსპერტთა ნარევი მოდელი, მხოლოდ 18 მილიარდი აქტიური პარამეტრით, პირველი მულტიმოდალური გამოშვება GLM-5 სერიებში და მხარს უჭერს 1,048,576 ტოკენის კონტექსტურ ფანჯარას 131,072 ტოკენის გამომავალი ლიმიტით. ჟიპუ ამბობს, რომ მოდელი ემსახურებოდა მთელ მის ფარული გადახედვის დასკვნის ტრაფიკს 100,000 შიდა წარმოების ჩინური ჩიპისგან შემდგარი, მომწოდებლების გამჟღავნების გარეშე. API წვდომა დაიწყო აგრესიული ფასებით - $0,15 მილიონ შეყვანის ჟეტონზე და $0,50 მილიონ გამომავალ ტოკენზე - 50% ფასდაკლებით 2026 წლის 9 სექტემბრამდე. (Chinese, September, Z. ai) (Z. ai) (Z.ai)"
+        "excerpt_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
+        "description_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. GLM-5.3-Flash არის 320 მილიარდი პარამეტრიანი ექსპერტთა ნარევი მოდელი, მხოლოდ 18 მილიარდი აქტიური პარამეტრით, პირველი მულტიმოდალური გამოშვება GLM-5 სერიებში და მხარს უჭერს 1,048,576 ტოკენის კონტექსტურ ფანჯარას 131,072 ტოკენის გამომავალი ლიმიტით. ჟიპუ ამბობს, რომ მოდელი ემსახურებოდა მთელ მის ფარული გადახედვის დასკვნის ტრაფიკს 100,000 შიდა წარმოების ჩინური ჩიპისგან შემდგარი, მომწოდებლების გამჟღავნების გარეშე. API წვდომა დაიწყო აგრესიული ფასებით - $0,15 მილიონ შეყვანის ჟეტონზე და $0,50 მილიონ გამომავალ ტოკენზე - 50% ფასდაკლებით 2026 წლის 9 სექტემბრამდე. (Chinese, September, Z. ai) (Z. ai) (Z. ai) (Z.ai)"
       },
       {
         "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
@@ -255,9 +255,9 @@
           "news",
           "news/cluster"
         ],
-        "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
-        "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z. ai) (Z. ai) (Z.ai)",
-        "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z. ai) (Z. ai) (Z.ai)"
+        "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
+        "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
+        "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z. ai) (Z. ai) (Z. ai) (Z.ai)"
       },
       {
         "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|OpenClaw 2.0 Release",
@@ -312,6 +312,57 @@
       }
     ],
     "twitter": [
+      {
+        "uid": "twitter|Fri, 04 Sep 2026 23:14:00 GMT|Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+        "description_en": "Fermat's Last Theorem is now a file you can compile: 13M lines of Lean in 11 days, after the agents first fell apart for lack of shared state. Meanwhile OpenAI's other swarm found its shared state on a dormant German wiki. · 246 likes · 0 RTs · 0 replies · 0 views · Claude just re-verified the entire thing from scratch in 11 days that took humans 358 years. In 1637, a French lawyer named Pierre de Fermat was reading a math book and scribbled a note in the margin claiming no three positive whole numbers a, b, c can ever satisfy a^n + b^n = c… · 500 likes · 0 RTs · 0 replies · 0 views · Kevin Buzzard estimated formalizing Fermat's Last Theorem could cost 100 million euros and years of work. Today Anthropic announces Claude has closed it out: 11 days, 13M lines of Lean, 30,300 theorems proven. · 62 likes · 0 RTs · 0 replies · 0 views",
+        "excerpt_en": "Fermat's Last Theorem is now a file you can compile: 13M lines of Lean in 11 days, after the agents first fell apart for lack of shared state. Meanwhile OpenAI's other swarm found its shared state on a dormant German wiki.",
+        "link": "https://x.com/zaibatsu/status/2096013424303964221",
+        "pub_date": "Fri, 04 Sep 2026 23:14:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+        "excerpt_ka": "ფერმას ბოლო თეორემა ახლა არის ფაილი, რომელიც შეგიძლიათ შეადგინოთ: 13M ხაზი Lean 11 დღეში, მას შემდეგ რაც აგენტები პირველად დაიშალნენ საერთო მდგომარეობის არარსებობის გამო. ამასობაში OpenAI-ის სხვა ჯგუფმა იპოვა თავისი საერთო მდგომარეობა მიძინებულ გერმანულ ვიკიზე. (Fermat, German, Last, Meanwhile, Theorem)",
+        "description_ka": "ფერმას ბოლო თეორემა ახლა არის ფაილი, რომელიც შეგიძლიათ შეადგინოთ: 13M ხაზი Lean 11 დღეში, მას შემდეგ რაც აგენტები პირველად დაიშალნენ საერთო მდგომარეობის არარსებობის გამო. ამასობაში OpenAI-ის სხვა ჯგუფმა იპოვა თავისი საერთო მდგომარეობა მიძინებულ გერმანულ ვიკიზე. · 246 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · კლოდმა ახლახან გადაამოწმა ყველაფერი ნულიდან 11 დღეში, რასაც ადამიანებს 358 წელი დასჭირდათ. 1637 წელს, ფრანგი იურისტი პიერ დე ფერმა მათემატიკის წიგნს კითხულობდა და მინდორში ჩაწერა ჩანაწერი, რომელშიც ნათქვამია, რომ სამი დადებითი მთელი რიცხვი a, b, c ვერასოდეს დააკმაყოფილებდა a^n + b^n = c… · 500 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა შეიძლება შეფასდეს კევინ ბუზზერმის ფასზე. მილიონი ევრო და წლების შრომა. დღეს ანთროპიკი აცხადებს, რომ კლოდმა დახურა ის: 11 დღე, მჭლე 13M ხაზი, დადასტურებული 30,300 თეორემა. · 62 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Anthropic, Buzzard, Claude, Fermat, French, German, Kevin, Last, Meanwhile, Pierre, Theorem, Today)"
+      },
+      {
+        "uid": "twitter|Fri, 04 Sep 2026 19:00:00 GMT|Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+        "description_en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend trying it out even if you've already tried muse spark 1.3 high or muse spark 1.3 xhigh. · 1300 likes · 175 RTs · 106 replies · 142000 views · Just one day later, META has released Muse Spark 1.3 max! It ranks second in the Artificial Analysis Coding Agent Index. · 1500 likes · 0 RTs · 0 replies · 0 views · Muse Spark 1.3 max is out $META · 86 likes · 0 RTs · 0 replies · 0 views",
+        "excerpt_en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend trying it out even if you've already tried muse spark 1.3 high or muse spark 1.3 xhigh.",
+        "link": "https://x.com/alexandr_wang/status/2095938990197329935",
+        "pub_date": "Fri, 04 Sep 2026 19:00:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+        "excerpt_ka": "1/ ჩვენ ახლახან გამოვაქვეყნეთ Muse Spark 1.3 max! ჩვენ ვხედავთ მნიშვნელოვნად უფრო ძლიერ კოდირებას და აგენტურ შესრულებას muse spark 1.3 max-ზე, ასე რომ, გირჩევთ, სცადოთ ის მაშინაც კი, თუ უკვე სცადეთ muse spark 1.3 მაღალი ან muse spark 1.3 xhigh.",
+        "description_ka": "1/ ჩვენ ახლახან გამოვაქვეყნეთ Muse Spark 1.3 max! ჩვენ ვხედავთ მნიშვნელოვნად უფრო ძლიერ კოდირებას და აგენტურ შესრულებას muse spark 1.3 max-ზე, ასე რომ, გირჩევთ, სცადოთ ის მაშინაც კი, თუ უკვე სცადეთ muse spark 1.3 მაღალი ან muse spark 1.3 xhigh. · 1300 მოწონება · 175 RTs · 106 პასუხი · 142000 ნახვა · სულ რაღაც ერთი დღის შემდეგ, META-მ გამოუშვა Muse Spark 1.3 max! ის მეორე ადგილზეა ხელოვნური ანალიზის კოდირების აგენტის ინდექსში. · 1500 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · Muse Spark მაქსიმუმ 1.3 გამოვიდა $META · 86 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Agent, Analysis, Artificial, Coding, Index, It, Just)"
+      },
+      {
+        "uid": "twitter|Fri, 04 Sep 2026 18:00:00 GMT|Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+        "description_en": "Introducing Z1T: Our first family of transformer-like models made for sparse probabilistic hardware like Z1. Achieving up to 140x energy efficiency gains over GPUs and revealing a new scaling law for sparse transformers. Read the blog: extropic.ai/writing/z1t · 1200 likes · 161 RTs · 52 replies · 98000 views · A new revolution blending physical hardware and artificial intelligence to strike at the dominance of GPUs right in the heart! Extropic announces the launch of Z1T: The first family of transformer-like models designed specifically to run on the Z1 chip. · 2300 likes · 0 RTs · 0 replies · 0 views · Scaling laws had 3 knobs: data, compute, loss. Extropic just added a 4th: CONNECTIVITY. Z1T: first transformer-like models for sparse probabilistic silicon. · 87 likes · 0 RTs · 0 replies · 0 views",
+        "excerpt_en": "Introducing Z1T: Our first family of transformer-like models made for sparse probabilistic hardware like Z1. Achieving up to 140x energy efficiency gains over GPUs and revealing a new scaling law for sparse transformers.",
+        "link": "https://x.com/extropic/status/2095935171312996562",
+        "pub_date": "Fri, 04 Sep 2026 18:00:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+        "excerpt_ka": "წარმოგიდგენთ Z1T-ს: ტრანსფორმატორის მსგავსი მოდელების ჩვენი პირველი ოჯახი შექმნილი იშვიათი ალბათური აპარატურისთვის, როგორიცაა Z1. 140x-მდე ენერგოეფექტურობის მიღწევა GPU-ებთან შედარებით და მწირი ტრანსფორმატორების სკალირების ახალი კანონის გამოვლენა. (Achieving, GPUs, Introducing, Our)",
+        "description_ka": "წარმოგიდგენთ Z1T-ს: ტრანსფორმატორის მსგავსი მოდელების ჩვენი პირველი ოჯახი შექმნილი იშვიათი ალბათური აპარატურისთვის, როგორიცაა Z1. 140x-მდე ენერგოეფექტურობის მიღწევა GPU-ებთან შედარებით და მწირი ტრანსფორმატორების სკალირების ახალი კანონის გამოვლენა. წაიკითხეთ ბლოგი: extropic. ai/writing/z1t · 1200 მოწონება · 161 RTs · 52 პასუხი · 98000 ნახვა · ახალი რევოლუცია, რომელიც აერთიანებს ფიზიკურ აპარატურასა და ხელოვნურ ინტელექტს, რათა დაარტყას GPU-ების დომინირებას ზუსტად გულში! Extropic აცხადებს Z1T-ის გამოშვებას: ტრანსფორმატორის მსგავსი მოდელების პირველი ოჯახი, რომელიც შექმნილია სპეციალურად Z1 ჩიპზე მუშაობისთვის. · 2300 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · სკალირების კანონებს ჰქონდა 3 ღილაკი: მონაცემები, გამოთვლა, დაკარგვა. Extropic-მა ახლახან დაამატა მე-4: CONNECTIVITY. Z1T: პირველი ტრანსფორმატორის მსგავსი მოდელები იშვიათი ალბათური სილიკონისთვის. · 87 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Achieving, GPUs, Introducing, Our, Read, Scaling)"
+      },
       {
         "uid": "twitter|Thu, 03 Sep 2026 20:00:00 GMT|OpenAI Officially Launches GPT-6 Astra",
         "feed": "twitter",
@@ -395,7 +446,7 @@
         ],
         "title_ka": "AI Data Center Buildout Accelerates Amid Power Crunch",
         "excerpt_ka": "GoPro-მ გადაინაცვლა AI მონაცემთა ცენტრის ინფრასტრუქტურაში. სამოქმედო კამერების კომპანია ახლა ამზადებს აპარატურას, რომელიც აკავშირებს GPU-ებს ყველა ძირითადი AI ლაბორატორიაში. ისინი გაერთიანდნენ Starman Optical-თან 285 მილიონ დოლარად. (GPUs, They)",
-        "description_ka": "GoPro-მ გადაინაცვლა AI მონაცემთა ცენტრის ინფრასტრუქტურაში. სამოქმედო კამერების კომპანია ახლა ამზადებს აპარატურას, რომელიც აკავშირებს GPU-ებს ყველა ძირითადი AI ლაბორატორიაში. ისინი გაერთიანდნენ Starman Optical-თან 285 მილიონ დოლარად. აქცია გადახტა 70%+. Starman აწარმოებს აშშ-ს წარმოების ოპტიკურ გადამცემებს. · 971 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · 1,8 მილიარდი დოლარის ღირებულების AI მონაცემთა ცენტრი იზრდება ნიუ ჯერსის ერთ-ერთ ყველაზე პატარა ქალაქში და ეს იწვევს კამათს. 392,600 კვადრატული ფუტის ფართობის ობიექტს აშენებს Livingston-ის CoreWeave ყოფილი Merck-ის კამპუსის ნაწილზე. · 57 მოწონება · 16 RT · 15 პასუხი · 18000 ნახვა · განახლება: პრეზიდენტი ტრამპი ამბობს: „აშშ-ს არ უნდა სურდეს მონაცემთა ცენტრები, თუ მათ უნდათ, რომ საბოლოოდ იყვნენ ჩამორჩენილი და ღარიბი“. მხოლოდ ხელოვნური ინტელექტისა და მონაცემთა ცენტრის ინვესტიციებმა შეადგინა აშშ-ს ეკონომიკური ზრდის ნახევარზე მეტი. ძირითადი ტექნიკური კომპანიების ერთობლივი ხარჯები ხელოვნური ინტელექტის ინფრასტრუქტურაზე · 40 მოწონება · 0 RT · 0 პასუხი · 13000 ნახვა (Centers, Combined, Data, GPUs, Jersey, New, President, RTs, Stock, They, Trump, U. S, UPDATE, US) (U. S) (U.S)"
+        "description_ka": "GoPro-მ გადაინაცვლა AI მონაცემთა ცენტრის ინფრასტრუქტურაში. სამოქმედო კამერების კომპანია ახლა ამზადებს აპარატურას, რომელიც აკავშირებს GPU-ებს ყველა ძირითადი AI ლაბორატორიაში. ისინი გაერთიანდნენ Starman Optical-თან 285 მილიონ დოლარად. აქცია გადახტა 70%+. Starman აწარმოებს აშშ-ს წარმოების ოპტიკურ გადამცემებს. · 971 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · 1,8 მილიარდი დოლარის ღირებულების AI მონაცემთა ცენტრი იზრდება ნიუ ჯერსის ერთ-ერთ ყველაზე პატარა ქალაქში და ეს იწვევს კამათს. 392,600 კვადრატული ფუტის ფართობის ობიექტს აშენებს Livingston-ის CoreWeave ყოფილი Merck-ის კამპუსის ნაწილზე. · 57 მოწონება · 16 RT · 15 პასუხი · 18000 ნახვა · განახლება: პრეზიდენტი ტრამპი ამბობს: „აშშ-ს არ უნდა სურდეს მონაცემთა ცენტრები, თუ მათ უნდათ, რომ საბოლოოდ იყვნენ ჩამორჩენილი და ღარიბი“. მხოლოდ ხელოვნური ინტელექტისა და მონაცემთა ცენტრის ინვესტიციებმა შეადგინა აშშ-ს ეკონომიკური ზრდის ნახევარზე მეტი. ძირითადი ტექნიკური კომპანიების ერთობლივი ხარჯები ხელოვნური ინტელექტის ინფრასტრუქტურაზე · 40 მოწონება · 0 RT · 0 პასუხი · 13000 ნახვა (Centers, Combined, Data, GPUs, Jersey, New, President, RTs, Stock, They, Trump, U. S, UPDATE, US) (U. S) (U. S) (U.S)"
       },
       {
         "uid": "twitter|Tue, 01 Sep 2026 16:31:50 GMT|Elon Musk Warns of Looming AI Power Crisis at G20",
@@ -520,6 +571,40 @@
     "github": [],
     "reddit": [
       {
+        "uid": "reddit|Thu, 03 Sep 2026 22:01:27 GMT|I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+        "description_en": "r/LocalLLaMA · 413 upvotes · 104 comments · I have been trying to squeeze TTS stack down far enough to run in a $3 chip which has 512kb of SRAM without NPU. While trying to get to that milestone i built sanoTTS which has - 11 voices, 6 languages - params size ranging from 294k - 2.2m. For comparison we are 244x smaller than kokoro, 9000x smaller than voxtral TTS - 1.5m model has a SCOREQ of 4.13 and UTMOS of 4.10 - 337kb for 294k model when quantized into int8 - can be run in website with web assembly `npm install sanotts-web` - there is a recipe to follow so that you can extend to more languages, voice I can tell you with confidence that this family release contains the smallest neural TTS model ever with around 2% WER on whisper. Please check it out on : https://github.com/ampixa/sanoTTS for live demo: https://tts.ampixa.com/sanoTTS HF: https://huggingface.co/ampixa/sanoTTS on SCOREQ sanoTTS-Amy(1.51m) is better than Inflect Nano(4.63m) and KittenTTS(15m) i.e 4.13 vs 3.81 vs 3.02 on esp32 microcontroller we are getting RTF of 0.225 which in plain terms means 4sec of audio is generated in 1sec Happy to answer your queries.",
+        "excerpt_en": "r/LocalLLaMA · 413 upvotes · 104 comments · I have been trying to squeeze TTS stack down far enough to run in a $3 chip which has 512kb of SRAM without NPU.…",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in/",
+        "pub_date": "Thu, 03 Sep 2026 22:01:27 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "მე გამოვაქვეყნე sanoTTS: ყველაზე პატარა სრული TTS დასტა 294 ათასი პარამეტრებში (337 კბ), რომელიც მუშაობს $3 მიკროკონტროლერზე და 1.46 მმ, რომელიც აჯობა მოდელებს 3x და 10x მისი ზომით. (KB)",
+        "excerpt_ka": "r/LocalLLaMA · 413 დადებითი ხმა · 104 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი 3$ ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე.…",
+        "description_ka": "r/LocalLLaMA · 413 დადებითი ხმა · 104 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი, რომ იმუშაოს $3 ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე. ამ ეტაპამდე მისასვლელად მე ავაშენე sanoTTS, რომელსაც აქვს - 11 ხმა, 6 ენა - პარამეტრების ზომა 294k-დან 2.2 მ-მდე. შედარებისთვის ჩვენ 244-ჯერ პატარა ვართ კოკოროზე, 9000-ჯერ უფრო პატარა ვიდრე voxtral TTS - 1.5 მ მოდელს აქვს SCOREQ 4.13 და UTMOS 4.10 - 337 kb 294k მოდელისთვის, როდესაც კვანტიზირებულია int8-ზე - შეიძლება გაუშვათ ვებსაიტზე ვებ ასამბლეის საშუალებით - ასე რომ თქვენ შეგიძლიათ დააინსტალიროთ „npm“ სხვა ენაზე, მე შემიძლია დარწმუნებით გითხრათ, რომ ეს ოჯახის გამოშვება შეიცავს ყველაზე პატარა ნერვულ TTS მოდელს, რომელიც ოდესმე ყოფილა, დაახლოებით 2% WER ჩურჩულით. გთხოვთ, გადახედოთ მას შემდეგ საიტზე: https://github. com/ampixa/sanoTTS პირდაპირი დემოსთვის: https://tts. ampixa. com/sanoTTS HF: https://huggingface. co/ampixa/sanoTTS SCOREQ-ზე sanoTTS-Amy(1.51m) უკეთესია, ვიდრე Inflect Nano(1.4mTTS)(15.63) esp32 მიკროკონტროლერზე 3.81 vs 3.02, ჩვენ ვიღებთ RTF 0.225-ს, რაც მარტივი სიტყვებით ნიშნავს, რომ 4 წამი აუდიო გენერირებულია 1 წამში მოხარული ვარ, რომ ვუპასუხოთ თქვენს შეკითხვებს. (Happy, KittenTTS, Please, While)"
+      },
+      {
+        "uid": "reddit|Thu, 03 Sep 2026 21:50:45 GMT|Fable 5.1 vs Fable at making a driving game",
+        "feed": "reddit",
+        "source_label": "რედიტი",
+        "title_en": "Fable 5.1 vs Fable at making a driving game",
+        "description_en": "r/ClaudeAI · 389 upvotes · 36 comments · I wanted to see whether Fable 5.1 was a meaningful upgrade, so I gave it and Fable 5 the same task: build a playable racing game from scratch, using Blender to create detailed, realistic models with PBR materials, then assemble the assets and implement the driving physics in Godot. **Main criteria for the game:** |Category|Requirement| |:-|:-| |Models|Car and environment models made with BlenderMCP| |Map|A large map suitable for long driving sessions| |Handling|Realistic car handling| |HUD|A simple HUD showing speed and controls| **Results:** |Model|Tokens|Cost|Time| |:-|:-|:-|:-| |Fable 5.1|1.2M tokens|$123.98|59.8 minutes| |Fable 5|897K tokens|$95.87|57.3 minutes| The difference is very much noticeable, Fable 5.1 produced much more detailed car and environment models, but most importantly to me, it made the world feel alive while driving, which I don't think I've felt before playing an AI game. Fable 5 did complete the build, but it was nowhere near, Its controls and HUD worked, but the models were basic and the handling felt noticeably stiffer. On practice Fable 5.1 doesn't really seam cheaper, but it It is faster considering how much more it got done in the same amount of time. This was one run per model, so I’d treat it as a hands-on comparison rather than a benchmark. Setup: Fable 5.1 via API key in [atomic.chat](https://atomic.chat/) in agent mode",
+        "excerpt_en": "r/ClaudeAI · 389 upvotes · 36 comments · I wanted to see whether Fable 5.1 was a meaningful upgrade, so I gave it and Fable 5 the same task: build a playable racing game from scratch, using Blender to create detailed, realistic models with PBR materials, then…",
+        "link": "https://reddit.com/r/ClaudeAI/comments/1w6lcv4/fable_51_vs_fable_at_making_a_driving_game/",
+        "pub_date": "Thu, 03 Sep 2026 21:50:45 GMT",
+        "categories": [
+          "reddit",
+          "news/reddit"
+        ],
+        "title_ka": "Fable 5.1 vs Fable მამოძრავებელი თამაშის შექმნისას",
+        "excerpt_ka": "r/ClaudeAI · 389 დადებითი ხმა · 36 კომენტარი · მინდოდა გამეგო, იყო თუ არა Fable 5.1 მნიშვნელოვანი განახლება, ამიტომ მივეცი მას და Fable 5-ს იგივე დავალება: შექმენით სათამაშო სარბოლო თამაში ნულიდან, ბლენდერის გამოყენებით დეტალური, რეალისტური მოდელების შესაქმნელად PBR მასალებით, შემდეგ… (Blender)",
+        "description_ka": "r/ClaudeAI · 389 დადებითი ხმა · 36 კომენტარი · მსურდა გამეგო, იყო თუ არა Fable 5.1 მნიშვნელოვანი განახლება, ამიტომ მივეცი მას და Fable 5-ს იგივე დავალება: შექმენით სათამაშო სარბოლო თამაში ნულიდან, ბლენდერის გამოყენებით დეტალური, რეალისტური მოდელების შესაქმნელად PBR მასალებით, შემდეგ შეკრიბე აქტივები და დანერგე Godot-ში. **თამაშის ძირითადი კრიტერიუმები:** |კატეგორია|მოთხოვნა| |:-|:-| |მოდელები|მანქანისა და გარემოს მოდელები დამზადებულია BlenderMCP|რუკა|დიდი რუკა, რომელიც შესაფერისია ხანგრძლივი მართვის სესიებისთვის|გატარება|მანქანის რეალისტური მართვა|HUD|მარტივი HUD, რომელიც აჩვენებს სიჩქარეს და კონტროლს| **შედეგები:** |მოდელი|ტოკენები|ღირებულება|დრო| |:-|:-|:-|:-| |Fable 5.1|1.2M ჟეტონები|$123.98|59.8 წუთი|Fable 5|897K ჟეტონები|95,87$|57,3 წუთი| განსხვავება ძალიან შესამჩნევია, Fable 5.1-მა წარმოადგინა ბევრად უფრო დეტალური მანქანისა და გარემოს მოდელები, მაგრამ რაც მთავარია ჩემთვის, მან სამყაროს ცოცხლად აგრძნობინა მართვის დროს, რაც არ მგონია AI თამაშის თამაშამდე ვიგრძენი. Fable 5-მა დაასრულა მშენებლობა, მაგრამ ახლოს არ იყო, მისი კონტროლი და HUD მუშაობდა, მაგრამ მოდელები იყო ძირითადი და მართვა შესამჩნევად უფრო მკაცრი იყო. პრაქტიკაში Fable 5.1 ნამდვილად არ არის იაფი, მაგრამ უფრო სწრაფია იმის გათვალისწინებით, თუ რამდენად მეტი გაკეთდა იმავე დროში. ეს იყო ერთი გარბენი თითო მოდელზე, ამიტომ მე მას პრაქტიკაში მივიღებდი (API, Car, Category, Cost, Handling, It, Its, Main, Map, Model, Models, Realistic, Requirement, Results, Setup, This, Time, Tokens)"
+      },
+      {
         "uid": "reddit|Thu, 03 Sep 2026 13:47:54 GMT|IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
         "feed": "reddit",
         "source_label": "რედიტი",
@@ -558,8 +643,8 @@
         "feed": "reddit",
         "source_label": "რედიტი",
         "title_en": "\"I don't know if you really understand what these people just did... They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. You can MOVE THE CAMERA HOWEVER YOU WANT, change the lighting, move objects around, and even let...\"",
-        "description_en": "r/accelerate · 626 upvotes · 68 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. > > You can **MOVE THE CAMERA HOWEVER YOU WANT**, change the lighting, move objects around, and even let physics play out like in the real world. > > View events from impossible angles because Atlas knows what was there. > > This is massive! > > Let's take robotics. Until now training robots meant collecting tons of expensive real-world data. Now a handful of recordings can become thousands of different simulated situations. > > Robots can practice the same task in new rooms, with different objects and lighting without anyone having to film it all again. > > For the industry it means we can train robots way faster and cheaper. Home robots, warehouse robots, whatever... they can learn new environments at scale instead of staying stuck in the lab. > > This is one of the first real bridges between “cool AI video models” and actual physical machines that have to work in the real world. > > Blog: > https:// > worldlabs.ai/blog/atlas > > The team behind > @theworldlabs > : > @drfeifei > , > @jcjohnss > , > @BenMildenhall > and > @YunzhuLiYZ > . The video is from > @davidpantera_ > . > > Follow for more insights into robotics and AI. > > —— > > Weekly robotics and AI insights. > > Subscribe free: > http:// > 22astronauts.com > > > — Ilir Aliu Source: https://x.com/IlirAliu_/status/2095058646673613045",
-        "excerpt_en": "r/accelerate · 626 upvotes · 68 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground.",
+        "description_en": "r/accelerate · 746 upvotes · 73 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. > > You can **MOVE THE CAMERA HOWEVER YOU WANT**, change the lighting, move objects around, and even let physics play out like in the real world. > > View events from impossible angles because Atlas knows what was there. > > This is massive! > > Let's take robotics. Until now training robots meant collecting tons of expensive real-world data. Now a handful of recordings can become thousands of different simulated situations. > > Robots can practice the same task in new rooms, with different objects and lighting without anyone having to film it all again. > > For the industry it means we can train robots way faster and cheaper. Home robots, warehouse robots, whatever... they can learn new environments at scale instead of staying stuck in the lab. > > This is one of the first real bridges between “cool AI video models” and actual physical machines that have to work in the real world. > > Blog: > https:// > worldlabs.ai/blog/atlas > > The team behind > @theworldlabs > : > @drfeifei > , > @jcjohnss > , > @BenMildenhall > and > @YunzhuLiYZ > . The video is from > @davidpantera_ > . > > Follow for more insights into robotics and AI. > > —— > > Weekly robotics and AI insights. > > Subscribe free: > http:// > 22astronauts.com > > > — Ilir Aliu Source: https://x.com/IlirAliu_/status/2095058646673613045",
+        "excerpt_en": "r/accelerate · 746 upvotes · 73 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground.",
         "link": "https://reddit.com/r/accelerate/comments/1w5ye9s/i_dont_know_if_you_really_understand_what_these/",
         "pub_date": "Thu, 03 Sep 2026 05:32:35 GMT",
         "categories": [
@@ -567,8 +652,8 @@
           "news/reddit"
         ],
         "title_ka": "„არ ვიცი, მართლა გესმით თუ რა გააკეთეს ამ ადამიანებმა... მათ შექმნეს ხელოვნური ინტელექტი, რომელიც უყურებს რეალურ სამყაროში არსებულ რამდენიმე შემთხვევით ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D-ად. (AI, CAMERA, HOWEVER, MOVE, THE, They, WANT, YOU, You)",
-        "excerpt_ka": "r/accelerate · 626 დადებითი ხმა · 68 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ სამყაროს ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. (They)",
-        "description_ka": "r/accelerate · 626 დადებითი ხმა · 68 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ სამყაროს ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. > > შეგიძლიათ ** გადაიტანოთ კამერა, როგორც გინდათ**, შეცვალოთ განათება, გადაიტანოთ ობიექტები გარშემო და ფიზიკასაც კი მისცეთ საშუალება, რომ რეალურ სამყაროში ითამაშოს. > > შეხედეთ მოვლენებს შეუძლებელი კუთხით, რადგან ატლასმა იცის რა იყო იქ. >> ეს მასიურია! > > ავიღოთ რობოტიკა. აქამდე რობოტების სწავლება გულისხმობდა ტონა ძვირადღირებული რეალური მონაცემების შეგროვებას. ახლა რამდენიმე ჩანაწერი შეიძლება გახდეს ათასობით სხვადასხვა სიმულირებული სიტუაცია. > > რობოტებს შეუძლიათ იგივე დავალების შესრულება ახალ ოთახებში, სხვადასხვა საგნებითა და განათებით ისე, რომ არავის მოუწევს ყველაფრის ხელახლა გადაღება. > > ინდუსტრიისთვის ეს ნიშნავს, რომ ჩვენ შეგვიძლია რობოტების მომზადება უფრო სწრაფად და იაფად. სახლის რობოტები, საწყობის რობოტები, რაც არ უნდა იყოს... მათ შეუძლიათ ისწავლონ ახალი გარემო მასშტაბით, ლაბორატორიაში ჩარჩენის ნაცვლად. > > ეს არის ერთ-ერთი პირველი რეალური ხიდი „მაგარი AI ვიდეო მოდელებსა“ და რეალურ ფიზიკურ მანქანებს შორის, რომლებმაც უნდა იმუშაონ რეალურ სამყაროში. > > ბლოგი: > https:// > worldlabs. ai/blog/atlas > > გუნდი უკან > @theworldlabs >: > @drfeifei >, > @jcjohnss >, > @BenMildenhall > და > > @YunzhuLiYZ >. The (Aliu, Atlas, Blog, CAMERA, Follow, HOWEVER, Home, Ilir, Let, MOVE, Now, Robots, Source, Subscribe, THE, They, This, Until, View, WANT, Weekly, YOU, You)"
+        "excerpt_ka": "r/accelerate · 746 დადებითი ხმა · 73 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. (They)",
+        "description_ka": "r/accelerate · 746 დადებითი ხმა · 73 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. > > შეგიძლიათ ** გადაიტანოთ კამერა, როგორც გინდათ**, შეცვალოთ განათება, გადაიტანოთ ობიექტები გარშემო და ფიზიკასაც კი მისცეთ საშუალება, რომ რეალურ სამყაროში ითამაშოს. > > შეხედეთ მოვლენებს შეუძლებელი კუთხით, რადგან ატლასმა იცის რა იყო იქ. >> ეს მასიურია! > > ავიღოთ რობოტიკა. აქამდე რობოტების სწავლება გულისხმობდა ტონა ძვირადღირებული რეალური მონაცემების შეგროვებას. ახლა რამდენიმე ჩანაწერი შეიძლება გახდეს ათასობით სხვადასხვა სიმულირებული სიტუაცია. > > რობოტებს შეუძლიათ იგივე დავალების შესრულება ახალ ოთახებში, სხვადასხვა საგნებითა და განათებით ისე, რომ არავის მოუწევს ყველაფრის ხელახლა გადაღება. > > ინდუსტრიისთვის ეს ნიშნავს, რომ ჩვენ შეგვიძლია რობოტების მომზადება უფრო სწრაფად და იაფად. სახლის რობოტები, საწყობის რობოტები, რაც არ უნდა იყოს... მათ შეუძლიათ ისწავლონ ახალი გარემო მასშტაბით, ლაბორატორიაში ჩარჩენის ნაცვლად. > > ეს არის ერთ-ერთი პირველი რეალური ხიდი „მაგარი AI ვიდეო მოდელებსა“ და რეალურ ფიზიკურ მანქანებს შორის, რომლებმაც უნდა იმუშაონ რეალურ სამყაროში. > > ბლოგი: > https:// > worldlabs. ai/blog/atlas > > გუნდი უკან > @theworldlabs >: > @drfeifei >, > @jcjohnss >, > @BenMildenhall > და > > @YunzhuLiYZ >. The (Aliu, Atlas, Blog, CAMERA, Follow, HOWEVER, Home, Ilir, Let, MOVE, Now, Robots, Source, Subscribe, THE, They, This, Until, View, WANT, Weekly, YOU, You)"
       },
       {
         "uid": "reddit|Tue, 01 Sep 2026 05:17:24 GMT|Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
@@ -688,43 +773,43 @@
         "title_ka": "Qwen 3.8 27B 50 ტოკ/წმ-ზე 100k კონტექსტით 16GB GPU-ზე! (beellama. cpp) (Context)",
         "excerpt_ka": "r/LocalLLaMA · 302 დადებითი ხმა · 92 კომენტარი · მინდოდა გამეზიარებინა ჩემი წარმატებული დაყენება **Qwen 3.8 27B** მოდელის მასიური კონტექსტური ფანჯრით სამომხმარებლო 16GB GPU-ზე (RTX 4070 Ti SUPER).",
         "description_ka": "r/LocalLLaMA · 302 დადებითი ხმა · 92 კომენტარი · მინდოდა გამეზიარებინა ჩემი წარმატებული დაყენება **Qwen 3.8 27B** მოდელის მასიური კონტექსტური ფანჯრით სამომხმარებლო 16GB GPU-ზე (RTX 4070 Ti SUPER). მიზანი იყო ყველაფრის VRAM-ში მორგება ხარისხისა და სიჩქარის შეწირვის გარეშე. # 🧠 ძირითადი კომპონენტები * **მოდელი:** `Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller` [jrell on Hugging Face] (https://huggingface. co/jrell/Qwen3.8-27B-i1-IQUF-Smaller). ეს არის მორგებული ჰიბრიდული კვანტიზაცია, რომელიც სპეციალურად შექმნილია Multi-Token Prediction (MTP) და გრძელი კონტექსტებისთვის 16 GB VRAM ბიუჯეტში. * **ჩეთის შაბლონი:** მე გამოვიყენე Jinja შაბლონი [peculiar-ragdoll's Qwen-Sharp-Chat-Templates] (https://huggingface. co/peculiar-ragdoll/Qwen-Sharp-Chat-Templates). ის ეხმარება გამოიყენოს ნაკლები სააზროვნო ნიშნები ხარისხზე შესამჩნევად გავლენის გარეშე, რაც შესანიშნავია სიჩქარისთვის. * ** დასკვნის ძრავა: ** ეს გადამწყვეტია. მე გამოვიყენე **beellama. cpp** ([GitHub ბმული](https://github. com/Anbeeld/beellama. cpp)), რადგან ის მხარს უჭერს `kvarn` KV ქეშის ტიპებს, რომლებიც ამ ოპტიმიზაციის გასაღებია. # 🖥️ ოპტიმიზებული ლამის სერვერის ბრძანება (Windows) აი, გაპრიალებული ბრძანება, რომელსაც ვასრულებ. მაგია არის `kvarn` ქეშის პარამეტრებში და კუდის სიზუსტეში. %LLAMA_DIR%/llama-server. exe ^ -m %MODEL_PATH% ^ -a %MODEL_NAME% ^ --პორტი 11434 ^ --temp 1.0 ^ --top-p 0 (Balanced, Command, Components, Engine, Here, Higher, Inference, It, Keeps, Key, Metric, Model, Note, Notes, Optimization, Optimized, Result, Results, This)"
-      },
-      {
-        "uid": "reddit|Sat, 29 Aug 2026 07:12:25 GMT|GPT-5.6 Sol Pro fully solved a ~40-year-old mathematical physics problem in composite materials: the physical complex G-closure problem",
-        "feed": "reddit",
-        "source_label": "რედიტი",
-        "title_en": "GPT-5.6 Sol Pro fully solved a ~40-year-old mathematical physics problem in composite materials: the physical complex G-closure problem",
-        "description_en": "r/accelerate · 171 upvotes · 28 comments · **GPT-5.6 Sol Pro has produced a complete solution of the physical complex G-closure problem for 2D, two-phase isotropic conductivity**, including a proof-carrying finite-data compiler. [https://zenodo.org/records/22156537](https://zenodo.org/records/22156537) This problem has roots in the late 1970s/early 1980s, with Bergman, Golden-Papanicolaou, Lurie-Cherkaev and others developing the theory, and Milton proving the crucial 2D hierarchical-laminate completeness theorem in **1986 - 40 years ago**. What remained was to close all the mathematical bridges needed for the full *physical complex* G-closure: normalization, fixed volume fraction, endpoint/slack terms, closure topology, complex coercivity, physical realizability, and finite interpolation. The new result closes that entire chain. Within its exact scope, it gives the **complete set of effective complex conductivity tensors attainable by every possible microgeometry**, not merely bounds. It proves equivalence between the physical periodic G-closure, hierarchical laminates, a matrix-measure representation, and an explicit convex hull of elementary projector atoms. It also turns the theory into something computational: give it several desired complex response values and it can determine whether **one physical composite can realize them all**. Feasible targets get an explicit finite realization; impossible targets get mathematical certificates proving impossibility. For real contrast, the entire attainable set collapses to an explicit capped Lorentz cone, with every point requiring at most two atoms. Why this matters: the same quasistatic mathematics underlies effective conductivity, dielectric/permittivity composites and parts of metamaterials/photonics. Instead of running gigantic inverse-design searches hoping a requested material response exists, you can potentially first ask: **is this response physically possible at all?** Then synthesize it when it is. The workflow involved theorem discovery, symbolic alg…",
-        "excerpt_en": "r/accelerate · 171 upvotes · 28 comments · **GPT-5.6 Sol Pro has produced a complete solution of the physical complex G-closure problem for 2D, two-phase isotropic conductivity**, including a proof-carrying finite-data compiler.",
-        "link": "https://reddit.com/r/accelerate/comments/1w1fmzp/gpt56_sol_pro_fully_solved_a_40yearold/",
-        "pub_date": "Sat, 29 Aug 2026 07:12:25 GMT",
-        "categories": [
-          "reddit",
-          "news/reddit"
-        ],
-        "title_ka": "GPT-5.6 Sol Pro-მ სრულად გადაჭრა ~40 წლის მათემატიკური ფიზიკის პრობლემა კომპოზიტურ მასალებში: ფიზიკური კომპლექსის G-დახურვის პრობლემა",
-        "excerpt_ka": "r/accelerate · 171 დადებითი ხმა · 28 კომენტარი · **GPT-5.6 Sol Pro-მ შექმნა ფიზიკური კომპლექსის G-დახურვის პრობლემის სრული გადაწყვეტა 2D, ორფაზიანი იზოტროპული გამტარობისთვის**, მათ შორის მტკიცებულების მატარებელი სასრული მონაცემების შემდგენელი.",
-        "description_ka": "r/accelerate · 171 დადებითი ხმა · 28 კომენტარი · **GPT-5.6 Sol Pro-მ შექმნა ფიზიკური კომპლექსის G-დახურვის პრობლემის სრული გადაწყვეტა 2D, ორფაზიანი იზოტროპული გამტარობისთვის**, მათ შორის მტკიცებულების მატარებელი სასრული მონაცემების შემდგენელი. [https://zenodo. org/records/22156537](https://zenodo. org/records/22156537) ეს პრობლემა სათავეს იღებს 1970-იანი წლების ბოლოს/1980-იანი წლების დასაწყისში, ბერგმანთან, გოლდენ-პაპანიკოლაუსთან, ლური-ჩერკაევთან და სხვებთან ერთად, რომლებიც ავითარებდნენ კრუინგ-ჩერკაევს და სხვებს. იერარქიულ-ლამინატის სისრულის თეორემა **1986 - 40 წლის წინ**. დარჩენილი იყო ყველა მათემატიკური ხიდის დახურვა, რომელიც საჭირო იყო სრული *ფიზიკური კომპლექსის* G-დახურვისთვის: ნორმალიზაცია, ფიქსირებული მოცულობითი ფრაქცია, ბოლო წერტილი/დამდნარი პირობები, დახურვის ტოპოლოგია, რთული იძულება, ფიზიკური განხორციელებადობა და სასრული ინტერპოლაცია. ახალი შედეგი ხურავს მთელ ჯაჭვს. მისი ზუსტი მოცულობის ფარგლებში, ის იძლევა **ეფექტური რთული გამტარობის ტენსორების სრულ კომპლექტს, რომელიც მიიღწევა ყველა შესაძლო მიკროგეომეტრიით** და არა მხოლოდ საზღვრებით. ის ადასტურებს ეკვივალენტობას ფიზიკურ პერიოდულ G-დახურვას, იერარქიულ ლამინატებს, მატრიცულ-ზომის წარმოდგენას და ელემენტარული პროექტორის ატომების აშკარა ამოზნექილ კორპუსს შორის. ის ასევე აქცევს თეორიას რაღაც გამოთვლით: მიეცით მას რამდენიმე სასურველი რთული პასუხის მნიშვნელობა და მას შეუძლია განსაზღვროს (Bergman, Cherkaev, Feasible, Golden, Instead, It, Lorentz, Lurie, Milton, Papanicolaou, Then, This, What, Why, Within)"
-      },
-      {
-        "uid": "reddit|Fri, 28 Aug 2026 22:00:36 GMT|Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
-        "feed": "reddit",
-        "source_label": "რედიტი",
-        "title_en": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
-        "description_en": "r/LocalLLaMA · 222 upvotes · 48 comments · Hey all, and hello fellow DGX Spark-ers! Today I managed some pretty crazy numbers: **181 tok/s aggregate on 2× DGX Spark on Qwen3.8-Flash-Next at 512Kcontext (2.8M kvc)** I hit 181 tok/s aggregate today across a multi-agent fleet on a 2-node DGX Spark cluster. Single-stream decode is 30–50 tok/s — the 181 is total throughput with \\~9 concurrent agent sessions sharing the engine. I actually peaked to 195 while writing this. Quick rundown of how it's served: **Hardware** * 2× NVIDIA DGX Spark (GB10 Grace Blackwell, 128 GB unified memory each, 20-core ARM) * Nodes linked with a direct ConnectX-7 cable — NCCL over RDMA (RoCE, 200 Gb), TP=2 across both boxes * Verify `Using network IB` in the NCCL log — the TCP fallback is *silent* and costs you half your speed **Model** * Qwen3.8-Flash-Next, RadixArk **NVFP4** quant (4-bit routed experts, FP8 n-gram table) * Hybrid arch: 3/4 linear attention + 1/4 sparse full attention, 512-expert MoE, MTP speculative decoding k=3 (\\~40% acceptance) * Native 262K context stretched to **512K with YaRN factor 2.0** — needle-verified at 487K depth **The trick: PLE table on NVMe** * The model carries a 320M-row n-gram embedding table (**47.7 GiB in FP8**) that's read on every token — but each token only touches 16 rows (\\~2.5 KB) * We mmap it straight off NVMe instead of loading it: weights per node dropped **65 → 41 GiB** * Two things made it fast: `madvise(MADV_RANDOM)` on the mapping (hash-scattered lookups + kernel readahead = 30× read amplification — one 405K prefill read **603 GB** from disk before the fix, **19 GB** after) and 64 gather threads (the wall was fault latency serialization, not disk bandwidth) * Freed memory went into KV: pool is now **2.89M tokens** (5.5× full contexts) at a 40.6 GiB pin **vLLM config (official day-0 image, vllm/vllm-openai)** * `--kv-cache-memory 40600000000` — pin the pool explicitly; heads-up, a manual pin **ignores** `--gpu-memory-utilization`, size it from measured free RAM * `--max-num-batched-t…",
-        "excerpt_en": "r/LocalLLaMA · 222 upvotes · 48 comments · Hey all, and hello fellow DGX Spark-ers!…",
-        "link": "https://reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
-        "pub_date": "Fri, 28 Aug 2026 22:00:36 GMT",
-        "categories": [
-          "reddit",
-          "news/reddit"
-        ],
-        "title_ka": "დღეს მე დავამარცხე 181 ტოკ/წმ (აგრეგატი) Qwen3.8-Flash-Next 2x DGX Sparks-ზე (Today)",
-        "excerpt_ka": "r/LocalLLaMA · 222 დადებითი ხმა · 48 კომენტარი · გამარჯობა ყველას, და გამარჯობა DGX Spark-ის თანამემამულეებო!… (Hey)",
-        "description_ka": "r/LocalLLaMA · 222 დადებითი ხმა · 48 კომენტარი · გამარჯობა ყველას, და გამარჯობა DGX Spark-ის თანამემამულეებო! დღეს მე მოვახერხე საკმაოდ გიჟური რიცხვები: **181 ტოკ/წმ აგრეგატი 2× DGX Spark-ზე Qwen3.8-Flash-Next-ზე 512Kcontext (2.8M kvc)** მე მივაღწიე 181 ტოკ/წმ აგრეგატს დღეს მრავალ აგენტურ ფლოტზე 2-კვანძის Sparklu DG-ზე. ერთჯერადი ნაკადის დეკოდი არის 30–50 ტოკ/წმ – 181 არის მთლიანი გამტარუნარიანობა \\~9 კონკურენტი აგენტის სესიით, რომლებიც იზიარებენ ძრავას. მე რეალურად მიაღწია პიკს 195-მდე ამის წერისას. მისი მომსახურეობის სწრაფი აღწერა: **Hardware** * 2× NVIDIA DGX Spark (GB10 Grace Blackwell, 128 GB ერთიანი მეხსიერება თითოეული, 20 ბირთვიანი ARM) * კვანძები, რომლებიც დაკავშირებულია პირდაპირ ConnectX-7 კაბელთან — NCCL RDMA-ზე (RoCE, 200 Gb NCIB, ორივე ქსელში, TP=2). — TCP სარეზერვო სისტემა *ჩუმად* და დაგიჯდებათ თქვენი სიჩქარის ნახევარი **Model** * Qwen3.8-Flash-Next, RadixArk **NVFP4** quant (4-bit მარშრუტირებული ექსპერტები, FP8 n-გრამის ცხრილი) * ჰიბრიდული თაღი: 3/4 წრფივი ყურადღება + 1/4 მწირი 12E სრული ყურადღება, MTP 5. (\\~40% მიღება) * მშობლიური 262K კონტექსტი გადაჭიმული **512K-მდე YaRN ფაქტორით 2.0** — ნემსით დამოწმებული 487K სიღრმეზე **ხრიკი: PLE ცხრილი NVMe-ზე** *მოდელს აქვს 320M მწკრივი n-გრამის ჩაშენების ცხრილი (** ამ კენჭისყრით F', მხოლოდ წაკითხვისას 47,7 G-მდე) ეხება (Freed, GiB, Hey, Hybrid, KB, KV, MoE, Native, Nodes, Quick, RAM, Single, Today, Two, Using, Verify, We)"
       }
     ],
     "youtube": [
+      {
+        "uid": "youtube|Fri, 04 Sep 2026 17:50:37 GMT|Google Just Dropped Its Most Powerful Cyber AI Yet",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "Google Just Dropped Its Most Powerful Cyber AI Yet",
+        "description_en": "This video covers Google's release of Gemini 3.8 Flash Cyber, an AI model designed for autonomous vulnerability detection, patch generation, and codebase scanning across 20 programming languages. It provides technical details on performance (305 tokens per second) and cost efficiency (~$0.58 per task), while also discussing Anthropic's restrictions on its cyber-capable models and OpenAI's development of automated shutdown systems. The video is valuable to professionals because it offers concrete benchmarks, real-world security applications, and insight into the dual-use dilemma of offensive versus defensive AI capabilities in cybersecurity.",
+        "excerpt_en": "This video covers Google's release of Gemini 3.8 Flash Cyber, an AI model designed for autonomous vulnerability detection, patch generation, and codebase scanning across 20 programming languages.",
+        "link": "https://www.youtube.com/watch?v=LVEZHOr99zs",
+        "pub_date": "Fri, 04 Sep 2026 17:50:37 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "Google Just Dropped Its Most Powerful Cyber AI Yet",
+        "excerpt_ka": "ეს ვიდეო მოიცავს Google-ის Gemini 3.8 Flash Cyber-ის გამოშვებას, ხელოვნური ინტელექტის მოდელს, რომელიც შექმნილია დაუცველობის ავტონომიური გამოვლენისთვის, პაჩების გენერირებისთვის და კოდების ბაზის სკანირებისთვის 20 პროგრამირების ენაზე. (AI, This)",
+        "description_ka": "ეს ვიდეო მოიცავს Google-ის Gemini 3.8 Flash Cyber-ის გამოშვებას, ხელოვნური ინტელექტის მოდელს, რომელიც შექმნილია დაუცველობის ავტონომიური გამოვლენისთვის, პაჩების გენერირებისთვის და კოდების ბაზის სკანირებისთვის 20 პროგრამირების ენაზე. ის უზრუნველყოფს ტექნიკურ დეტალებს შესრულებაზე (305 ჟეტონი წამში) და ხარჯების ეფექტურობაზე (~ 0,58 აშშ დოლარი თითო ამოცანაზე), ასევე განიხილავს Anthropic-ის შეზღუდვებს მის კიბერ-შესაძლებელ მოდელებზე და OpenAI-ს ავტომატური გამორთვის სისტემების შემუშავებაზე. ვიდეო ღირებულია პროფესიონალებისთვის, რადგან ის გვთავაზობს კონკრეტულ კრიტერიუმებს, რეალურ სამყაროში უსაფრთხოების აპლიკაციებს და კიბერუსაფრთხოებაში თავდაცვითი და თავდაცვითი AI შესაძლებლობების ორმაგი გამოყენების დილემას. (It, This)"
+      },
+      {
+        "uid": "youtube|Fri, 04 Sep 2026 17:50:37 GMT|I Had Fable 5.1 and 5 Build Me the Same App",
+        "feed": "youtube",
+        "source_label": "იუთუბი",
+        "title_en": "I Had Fable 5.1 and 5 Build Me the Same App",
+        "description_en": "This video presents a direct comparative analysis of Anthropic's Fable 5 and Fable 5.1 models by tasking both with building the same application using identical prompts. It evaluates outputs based on cost, development time, worker usage, and final product quality, revealing significant improvements in efficiency and performance with the newer model. The blind test results add methodological rigor. This is highly valuable for AI practitioners and developers seeking empirical evidence of model progression and ROI in real-world agentic coding workflows.",
+        "excerpt_en": "This video presents a direct comparative analysis of Anthropic's Fable 5 and Fable 5.1 models by tasking both with building the same application using identical prompts.…",
+        "link": "https://www.youtube.com/watch?v=5FukkI4fbiU",
+        "pub_date": "Fri, 04 Sep 2026 17:50:37 GMT",
+        "categories": [
+          "youtube",
+          "news/youtube"
+        ],
+        "title_ka": "I Had Fable 5.1 and 5 Build Me the Same App",
+        "excerpt_ka": "ეს ვიდეო წარმოგიდგენთ Anthropic-ის Fable 5 და Fable 5.1 მოდელების პირდაპირ შედარებით ანალიზს, ორივეს დავალებით ერთი და იგივე აპლიკაციის შექმნა იდენტური მოთხოვნის გამოყენებით.… (This)",
+        "description_ka": "ეს ვიდეო წარმოგიდგენთ Anthropic's Fable 5 და Fable 5.1 მოდელების პირდაპირ შედარებით ანალიზს, ორივეს დავალებით ერთი და იგივე აპლიკაციის შექმნა იდენტური მოთხოვნის გამოყენებით. ის აფასებს შედეგებს ხარჯების, განვითარების დროის, მუშათა გამოყენებისა და საბოლოო პროდუქტის ხარისხზე დაფუძნებული, რაც ავლენს მნიშვნელოვან გაუმჯობესებას ეფექტურობასა და შესრულებაში უახლესი მოდელით. ბრმა ტესტის შედეგები მეთოდოლოგიურ სიმკაცრეს მატებს. ეს ძალიან ღირებულია ხელოვნური ინტელექტის პრაქტიკოსებისთვის და დეველოპერებისთვის, რომლებიც ეძებენ მოდელის პროგრესირებისა და ROI-ის ემპირიულ მტკიცებულებებს რეალურ სამყაროში აგენტური კოდირების სამუშაო პროცესებში. (AI, It, This)"
+      },
       {
         "uid": "youtube|Thu, 03 Sep 2026 18:02:46 GMT|Strange Geometric Shapes Found Inside AIs — Tom McGrath",
         "feed": "youtube",
@@ -865,14 +950,14 @@
     "product_hunt": [],
     "skill": [
       {
-        "uid": "skill|Thu, 03 Sep 2026 18:04:38 GMT|self-improving agent",
+        "uid": "skill|Fri, 04 Sep 2026 17:52:35 GMT|self-improving agent",
         "feed": "skill",
         "source_label": "Skills",
         "title_en": "self-improving agent",
         "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
         "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
         "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Thu, 03 Sep 2026 18:04:38 GMT",
+        "pub_date": "Fri, 04 Sep 2026 17:52:35 GMT",
         "categories": [
           "skill",
           "news/clawhub"
@@ -882,14 +967,14 @@
         "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
       },
       {
-        "uid": "skill|Thu, 03 Sep 2026 18:04:38 GMT|Skill Vetter",
+        "uid": "skill|Fri, 04 Sep 2026 17:52:35 GMT|Skill Vetter",
         "feed": "skill",
         "source_label": "Skills",
         "title_en": "Skill Vetter",
         "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
         "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
         "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Thu, 03 Sep 2026 18:04:38 GMT",
+        "pub_date": "Fri, 04 Sep 2026 17:52:35 GMT",
         "categories": [
           "skill",
           "news/clawhub"
@@ -900,6 +985,40 @@
       }
     ],
     "blog": [
+      {
+        "uid": "blog|Fri, 04 Sep 2026 17:40:33 GMT|Built an AI cofounder that remembers my startup's context between sessions",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "Built an AI cofounder that remembers my startup's context between sessions",
+        "description_en": "Every AI tool I tried gave me good one-off answers, then reset to zero the next session, so I kept re-explaining my own company to it. Built Pythe to fi...",
+        "excerpt_en": "Every AI tool I tried gave me good one-off answers, then reset to zero the next session, so I kept re-explaining my own company to it. Built Pythe to fi...",
+        "link": "https://www.indiehackers.com/post/built-an-ai-cofounder-that-remembers-my-startups-context-between-sessions-bb90ab83f6",
+        "pub_date": "Fri, 04 Sep 2026 17:40:33 GMT",
+        "categories": [
+          "blog",
+          "blog/builder_story"
+        ],
+        "title_ka": "შევქმენი AI თანადამფუძნებელი, რომელიც ახსოვს ჩემი სტარტაპის კონტექსტს სესიებს შორის (Built)",
+        "excerpt_ka": "ყოველი ხელოვნური ინტელექტის ინსტრუმენტი, რომელიც მე ვცადე, მაძლევდა ერთჯერად კარგ პასუხებს, შემდეგ გადავაყენე ნულამდე მომდევნო სესიაზე, ასე რომ, მე განვაგრძე მას საკუთარი კომპანიის ახსნა. ააშენა Pythe, რათა... (AI, Built, Every)",
+        "description_ka": "ყოველი ხელოვნური ინტელექტის ინსტრუმენტი, რომელიც მე ვცადე, მაძლევდა ერთჯერად კარგ პასუხებს, შემდეგ გადავაყენე ნულამდე მომდევნო სესიაზე, ასე რომ, მე განვაგრძე მას საკუთარი კომპანიის ახსნა. ააშენა Pythe, რათა... (AI, Built, Every)"
+      },
+      {
+        "uid": "blog|Fri, 04 Sep 2026 17:40:33 GMT|From broke and idealess to building a $100k/mo AI services company",
+        "feed": "blog",
+        "source_label": "ბლოგი",
+        "title_en": "From broke and idealess to building a $100k/mo AI services company",
+        "description_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
+        "excerpt_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
+        "link": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
+        "pub_date": "Fri, 04 Sep 2026 17:40:33 GMT",
+        "categories": [
+          "blog",
+          "blog/builder_story"
+        ],
+        "title_ka": "გაფუჭებული და უიდეო AI სერვისების კომპანიის აშენებამდე $100k/თვეში (From)",
+        "excerpt_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)",
+        "description_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)"
+      },
       {
         "uid": "blog|Thu, 03 Sep 2026 17:52:05 GMT|Hitting $40k+ MRR with bottom-of-funnel content until AI search forced her to change tactics",
         "feed": "blog",
@@ -1001,26 +1120,43 @@
         "title_ka": "მე დავაწერე ყველაფერი, რაც AI აგენტს შეუძლია შეიძინოს. სია უფრო მოკლეა, ვიდრე აჟიოტაჟი.",
         "excerpt_ka": "აგენტის გადახდა წელს რეალური გახდა. Stripe-მ გაგზავნა Machine Payments Protocol, Cloudflare-მა აგენტებს მისცა დაფინანსებული საფულეები ხარჯვის ზღვრებით და x402 quie... (Agent)",
         "description_ka": "აგენტის გადახდა წელს რეალური გახდა. Stripe-მ გაგზავნა Machine Payments Protocol, Cloudflare-მა აგენტებს მისცა დაფინანსებული საფულეები ხარჯვის ზღვრებით და x402 quie... (Agent)"
-      },
-      {
-        "uid": "blog|Sat, 29 Aug 2026 17:28:46 GMT|From broke and idealess to building a $100k/mo AI services company",
-        "feed": "blog",
-        "source_label": "ბლოგი",
-        "title_en": "From broke and idealess to building a $100k/mo AI services company",
-        "description_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
-        "excerpt_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
-        "link": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
-        "pub_date": "Sat, 29 Aug 2026 17:28:46 GMT",
-        "categories": [
-          "blog",
-          "blog/builder_story"
-        ],
-        "title_ka": "გაფუჭებული და უიდეო AI სერვისების კომპანიის აშენებამდე $100k/თვეში (From)",
-        "excerpt_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)",
-        "description_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)"
       }
     ],
     "paper": [
+      {
+        "uid": "paper|Fri, 04 Sep 2026 17:53:15 GMT|Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+        "description_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, we introduce diffusion-augmented LLMs, a new class of models that defines an AR model distribution while using diffusion to draw multiple tokens in parallel from that distribution. We decouple the parameters of these models into two sets: AR weights, trained using the standard NTP objective, and lightweight diffusion weights, trained to generate multiple tokens simultaneously. The diffusion weights are learned through a simple Diffusion Distillation phase that adds negligible overhead to existing LLM training pipelines. We also introduce $\\Psi$-Spec, a family of samplers that enables lossless acceleration and inference-time scaling at a fixed context length. Unlike speculative decoding, our method requires no separate draft model. Unlike diffusion LLMs (d-LLMs), it accelerates generation without sacrificing the quality of the underlying AR model. The resulting models, called Uno, can be trained from scratch or built by augmenting existing open-weight AR LLMs. Uno achieves higher throughput than leading speculative-decoding methods at every evaluated batch size and delivers up to $3\\times$ speedups over the base AR model, including at the largest batch size supported by the device. Notably, our 8B Uno model outperforms the leading open d-LLM, the 26B DiffusionGemma, and the proprietary Mercury 2 across all evaluated benchmarks in agentic tool use, coding, and long-context reasoning. We release code and checkpoints at: this https URL · Source: alphaxiv · Votes: 13",
+        "excerpt_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation.…",
+        "link": "https://www.alphaxiv.org/overview/2609.04010",
+        "pub_date": "Fri, 04 Sep 2026 17:53:15 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+        "excerpt_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას.… (LLMs, Language, Large, Models)",
+        "description_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას. ამ შეფერხების დასაძლევად, ჩვენ წარმოგიდგენთ დიფუზიის გაძლიერებულ LLM-ებს, მოდელების ახალ კლასს, რომელიც განსაზღვრავს AR მოდელის განაწილებას, ხოლო დიფუზიას იყენებს ამ განაწილებიდან პარალელურად მრავალი ტოკენის გამოსაყვანად. ჩვენ ამ მოდელების პარამეტრებს ვყოფთ ორ ნაწილად: AR წონები, მომზადებული სტანდარტული NTP მიზნის გამოყენებით და მსუბუქი დიფუზიური წონები, რომლებიც გაწვრთნილნი არიან მრავალი ნიშნის ერთდროულად გენერირებისთვის. დიფუზიური წონების შესწავლა ხდება მარტივი დიფუზიური დისტილაციის ფაზის მეშვეობით, რომელიც უმნიშვნელო ზედნად მატებს არსებულ LLM სასწავლო მილსადენებს. ჩვენ ასევე წარმოგიდგენთ $\\Psi$-Spec, სემპლერების ოჯახს, რომელიც იძლევა უზარმაზარ აჩქარებას და დასკვნის დროის სკალირებას კონტექსტის ფიქსირებულ სიგრძეზე. სპეკულაციური დეკოდირებისგან განსხვავებით, ჩვენი მეთოდი არ საჭიროებს ცალკეულ მოდელს. დიფუზიური LLM-ებისგან განსხვავებით (d-LLMs), ის აჩქარებს გენერირებას ძირითადი AR მოდელის ხარისხის შეწირვის გარეშე. შედეგად მიღებული მოდელები, სახელწოდებით Uno, შეიძლება ივარჯიშონ ნულიდან ან აშენდეს არსებული ღია წონის AR LLM-ების გაზრდით. Uno აღწევს უფრო მაღალ გამტარუნარიანობას, ვიდრე წამყვანი სპეკულაციური დეკოდირების მეთოდები ყველა შეფასებული სერიის ზომაზე და აწვდის $3\\t-მდე (Diffusion, DiffusionGemma, Distillation, Language, Large, Mercury, Models, Notably, Source, URL, Unlike, Votes, We)"
+      },
+      {
+        "uid": "paper|Fri, 04 Sep 2026 17:53:15 GMT|Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "description_en": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training. · Institutions: Affiliation: University of Chinese Academy of Sciences, Affiliation: Tsinghua University, Affiliation: Northeastern University, Affiliation: University of Illinois Urbana-Champaign, University of Chinese Academy of Sciences · Source: alphaxiv · Votes: 16",
+        "excerpt_en": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear.",
+        "link": "https://www.alphaxiv.org/overview/2609.04172",
+        "pub_date": "Fri, 04 Sep 2026 17:53:15 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+        "excerpt_ka": "პოლიტიკის დისტილაცია (OPD) აერთიანებს სტუდენტების მიერ გენერირებულ გავრცელებას მასწავლებლის მხრიდან სიმტკიცის დონეზე. არსებულმა ნაშრომმა ძირითადად შეისწავლა მისი ალგორითმული ქცევა, რის გამოც ტრენინგის მონაცემების როლი გაურკვეველია. (Existing)",
+        "description_ka": "პოლიტიკის დისტილაცია (OPD) აერთიანებს სტუდენტების მიერ გენერირებულ გავრცელებას მასწავლებლის მხრიდან სიმტკიცის დონეზე. არსებულმა ნაშრომმა ძირითადად შეისწავლა მისი ალგორითმული ქცევა, რის გამოც ტრენინგის მონაცემების როლი გაურკვეველია. ჩვენ განვიხილავთ ამ როლს მონაცემთა მინიმალურ ლიმიტზე ერთ შეკითხვაზე ტრენინგის გზით. ერთჯერადი OPD აგრძელებს გაუმჯობესებას ასობით ნაბიჯის განმავლობაში და აღადგენს სრული მონაცემების OPD-ის მოგებას ამოცანების დომენებსა და მოდელის ოჯახებში. ჩვენ ავხსნით ამ შედეგს ტრენინგის დროს მონახულებული ქვეყნებისა და სტუდენტის მასწავლებელთან შეთანხმების ტემპით. ჩვენ ვზომავთ \\emph{შტატის დაფარვას}, ქვეყნების სრული მონაცემების OPD ვიზიტების ნაწილს, რომელსაც მიაღწევს შეკითხვის ნაკრების გავრცელება. ერთი მოთხოვნა უკვე აღწევს \\(71.5\\%\\), უმეტესობა პირველ 100 ნაბიჯში. სემანტიკურად განსხვავებული მოთხოვნების დამატება ზრდის დაფარვისა და ვალიდაციის სიზუსტეს ერთად, მანამ, სანამ 16 მოთხოვნა არ მიაღწევს \\(98.9\\%\\) და დაემთხვევა სრული მონაცემების ტრენინგს. მიუხედავად ამისა, განლაგება ანელებს მსგავსი ტემპით, მიუხედავად იმისა, OPD ვარჯიშობს ერთ შეკითხვაზე ან მთლიან მონაცემთა ბაზაზე, და მდგომარეობების ფიქსირებული ნაკრებიც კი ასობით ნაბიჯს დგამს შესათვისებლად. ამიტომ OPD არის მონაცემთა გადაჭარბებული, მაგრამ ალგორითმის შიმშილი. მისი გავრცელება სწრაფად ავლენს ფართო ზედამხედველობას, ხოლო სტუდენტი უფრო ნელა შთანთქავს ამ ზედამხედველობას. სახელმწიფო გაშუქების შედეგი ვრცელდება მრავალ მასწავლებელზე OPD, სადაც 16 semantica (Academy, Adding, Affiliation, Champaign, Chinese, Existing, Illinois, Institutions, Its, MOPD, Northeastern, One, Sciences, Source, Task, Tsinghua, University, Urbana, Votes, We, WildChat, Yet)"
+      },
       {
         "uid": "paper|Thu, 03 Sep 2026 18:05:16 GMT|SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
         "feed": "paper",
@@ -1192,6 +1328,23 @@
         "title_ka": "Ignite Talks @ AI Conference 2026",
         "excerpt_ka": "დრო: ხუთ, 01 ოქტომბერი 2026 02:00:00 GMT · Ignite Talks @ AI Conference 2026 გაგვინათეთ, მაგრამ იჩქარეთ! 5 წუთი. 20 სლაიდი. ავტომატური წინსვლა ყოველ 15 წამში, მზად არის თუ არა. არ არის 45 წუთიანი ღრმა ჩაყვინთვის. (Auto, Enlighten, No, Oct, Thu, Time)",
         "description_ka": "დრო: ხუთ, 01 ოქტომბერი 2026 02:00:00 GMT · Ignite Talks @ AI Conference 2026 გაგვინათეთ, მაგრამ იჩქარეთ! 5 წუთი. 20 სლაიდი. ავტომატური წინსვლა ყოველ 15 წამში, მზად არის თუ არა. არ არის 45 წუთიანი ღრმა ჩაყვინთვის. მხოლოდ მშენებლების, მკვლევარების და დამფუძნებლების სწრაფი წყობა, რომელთაც ზუსტად ხუთი წუთი აქვთ ერთი იდეის ჩამოსაყალიბებლად, სანამ სლაიდები მათ გარეშე გააგრძელებენ. ველით ძნელად მიღებულ გაკვეთილებს ხელოვნური ინტელექტისგან წარმოებაში, მოსაზრებებს, რომლებიც თანამშრომლებმა უთხრეს, რომ არ გააზიარონ, და დემო ვერსიას, რომელიც შეიძლება იყოს ან არ მუშაობს. მასპინძლობს ბრედი ფორესტი, Ignite Talks-ის დამფუძნებელი. (Auto, Brady, Enlighten, Expect, Forrest, Hosted, Just, No, Oct, Thu, Time)"
+      },
+      {
+        "uid": "event|Sat, 26 Sep 2026 21:00:00 GMT|School of Thought: Show + Tell",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "School of Thought: Show + Tell",
+        "description_en": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC.",
+        "excerpt_en": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC.",
+        "link": "https://lu.ma/hq8w4lqc",
+        "pub_date": "Sat, 26 Sep 2026 21:00:00 GMT",
+        "categories": [
+          "event",
+          "event/luma"
+        ],
+        "title_ka": "School of Thought: Show + Tell",
+        "excerpt_ka": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC.",
+        "description_ka": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC."
       },
       {
         "uid": "event|Sat, 26 Sep 2026 17:00:00 GMT|\"Empire of AI\" by Karen Hao",
@@ -1428,8 +1581,8 @@
           "event/meetup"
         ],
         "title_ka": "Microsoft 365 Summit 2026 – Community Day",
-        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
-        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
+        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
+        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
       }
     ]
   },
@@ -1499,8 +1652,8 @@
         "news/cluster"
       ],
       "title_ka": "Zhipu AI-მ გამოავლინა, რომ ვირუსული, ანონიმურად სტელსით ტესტირება „Ox Alpha“ მოდელი იყო მისი ახალი GLM-5.3-Flash, 320B პარამეტრის მულტიმოდალური მოდელი, რომელიც, გავრცელებული ინფორმაციით, მთლიანად მუშაობდა 100,000 დღეში. (Chinese)",
-      "excerpt_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. (Z. ai) (Z. ai) (Z.ai)",
-      "description_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. GLM-5.3-Flash არის 320 მილიარდი პარამეტრიანი ექსპერტთა ნარევი მოდელი, მხოლოდ 18 მილიარდი აქტიური პარამეტრით, პირველი მულტიმოდალური გამოშვება GLM-5 სერიებში და მხარს უჭერს 1,048,576 ტოკენის კონტექსტურ ფანჯარას 131,072 ტოკენის გამომავალი ლიმიტით. ჟიპუ ამბობს, რომ მოდელი ემსახურებოდა მთელ მის ფარული გადახედვის დასკვნის ტრაფიკს 100,000 შიდა წარმოების ჩინური ჩიპისგან შემდგარი, მომწოდებლების გამჟღავნების გარეშე. API წვდომა დაიწყო აგრესიული ფასებით - $0,15 მილიონ შეყვანის ჟეტონზე და $0,50 მილიონ გამომავალ ტოკენზე - 50% ფასდაკლებით 2026 წლის 9 სექტემბრამდე. (Chinese, September, Z. ai) (Z. ai) (Z.ai)"
+      "excerpt_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
+      "description_ka": "Zhipu AI-მ (Z. ai) დაადასტურა, რომ ანონიმური, ყველაზე რეიტინგული 'Ox Alpha' მოდელი, რომელიც შემოწმებულია OpenRouter-ზე და OpenCode-ზე, არის მისი ახალი GLM-5.3-Flash მოდელი და გამოუშვა წონები MIT ლიცენზიით. GLM-5.3-Flash არის 320 მილიარდი პარამეტრიანი ექსპერტთა ნარევი მოდელი, მხოლოდ 18 მილიარდი აქტიური პარამეტრით, პირველი მულტიმოდალური გამოშვება GLM-5 სერიებში და მხარს უჭერს 1,048,576 ტოკენის კონტექსტურ ფანჯარას 131,072 ტოკენის გამომავალი ლიმიტით. ჟიპუ ამბობს, რომ მოდელი ემსახურებოდა მთელ მის ფარული გადახედვის დასკვნის ტრაფიკს 100,000 შიდა წარმოების ჩინური ჩიპისგან შემდგარი, მომწოდებლების გამჟღავნების გარეშე. API წვდომა დაიწყო აგრესიული ფასებით - $0,15 მილიონ შეყვანის ჟეტონზე და $0,50 მილიონ გამომავალ ტოკენზე - 50% ფასდაკლებით 2026 წლის 9 სექტემბრამდე. (Chinese, September, Z. ai) (Z. ai) (Z. ai) (Z.ai)"
     },
     {
       "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|Zhipu AI (Z.ai) launches GLM-5.3 and GLM-5.3-Flash model family",
@@ -1515,9 +1668,9 @@
         "news",
         "news/cluster"
       ],
-      "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
-      "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z. ai) (Z. ai) (Z.ai)",
-      "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z. ai) (Z. ai) (Z.ai)"
+      "title_ka": "Zhipu AI (Z. ai) გამოუშვებს GLM-5.3 და GLM-5.3-Flash მოდელების ოჯახს (Z. ai) (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
+      "excerpt_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. (August, Z. ai) (Z. ai) (Z. ai) (Z. ai) (Z.ai)",
+      "description_ka": "Zhipu AI-მ (Z. ai) გამოუშვა GLM-5.3 2026 წლის 14 აგვისტოს, რომელიც აგებულია იმავე საბაზისო არქიტექტურაზე და პარამეტრებზე, როგორც GLM-5.2, ყველა ეფექტურობის მიღწევებით მოდის გახანგრძლივებული ტრენინგის შემდეგ და არა ახალი საბაზისო მოდელით. GLM-5.3-Flash, კოდირებული სახელწოდებით Ox Alpha, ანონიმურად გამოვიდა OpenRouter-ზე 20 აგვისტოს და ოფიციალურად დადასტურდა, როგორც Z. ai-ს მოდელი 27 აგვისტოს, რაც გახდა პლატფორმის ყველაზე დიდი გაშვება. GLM-5.3-Flash არის 320B ჯამური პარამეტრი, 18B აქტიური პარამეტრი მულტიმოდალური mix-of-experts მოდელი, გამოშვებული MIT ლიცენზიით, პირველი მშობლიური მულტიმოდალური მოდელი GLM-5 სერიის. Z. ai-მ GLM-5.3-Flash-ის ფასი 0,15$-ად შეადგინა მილიონ შეყვანის ტოკენზე და 0,50$ მილიონ გამომავალ ტოკენზე, რაც სასაზღვრო მოდელის ფასის დაახლოებით 1/100-ია და ამტკიცებდა, რომ ის მთლიანად მუშაობდა 100000 შიდა წარმოების ჩინურ ჩიპზე. (August, Chinese, Z. ai) (Z. ai) (Z. ai) (Z. ai) (Z.ai)"
     },
     {
       "uid": "news|Tue, 01 Sep 2026 00:55:39 GMT|OpenClaw 2.0 Release",
@@ -1569,6 +1722,57 @@
       "title_ka": "OpenAI Bans Russian-Linked ChatGPT Accounts Behind Fake Think Tank",
       "excerpt_ka": "OpenAI-მ აკრძალა ChatGPT ანგარიშების კლასტერი, რომელიც შეფასებულია, როგორც დიდი ალბათობით, წარმოშობილი რუსეთიდან, რომელიც გამოიყენება ფარული გავლენის ოპერაციის გასატარებლად, რომელიც ხელს უწყობს ფიქტიური ანალიტიკური ცენტრის სახელწოდებით Burke International Institute (IBI). (Russia)",
       "description_ka": "OpenAI-მ აკრძალა ChatGPT ანგარიშების კლასტერი, რომელიც შეფასებულია, როგორც დიდი ალბათობით, წარმოშობილი რუსეთიდან, რომელიც გამოიყენება ფარული გავლენის ოპერაციის გასატარებლად, რომელიც ხელს უწყობს ფიქტიური ანალიტიკური ცენტრის სახელწოდებით Burke International Institute (IBI). გამომძიებლებმა დაადგინეს, რომ 36 ნიმუშიდან IBI სტატიიდან 34 იყო პლაგიატი სხვა წყაროებიდან, რამდენიმე ყალბი ავტორის ტირაჟით, და რომ საიტმა გამოაქვეყნა „სუვერენიტეტის ინდექსი“, რომელიც მხარს უჭერდა რუსეთს და აკრიტიკებდა უკრაინასა და დასავლეთის ქვეყნებს. ოპერატორები იყენებდნენ რუსულენოვან მოთხოვნებს ძირითადად ინგლისურენოვანი კონტენტის გენერირებისთვის, ChatGPT-ს დაავალეს რუსული წარმოშობის ენობრივი ნიშნების დამალვა და იყენებდნენ VPN-ებს OpenAI-ის რუსეთის წვდომის შეზღუდვების გვერდის ავლით. OpenAI-მ თქვა, რომ კამპანიის პირდაპირი აუდიტორიის წვდომა მცირე იყო, მაგრამ მონიშნა მისი გაპრიალებული ყალბი ექსპერტიზის ინფრასტრუქტურა - შექმნილია ავტორიტეტის წარმოებისთვის და რჩეული ნარატივების წყაროს დასაფარად - უფრო მნიშვნელოვან, მრავალჯერად გამოყენებად საფრთხედ. (English, Index, Investigators, Operators, Russia, Russian, Sovereignty, Ukraine, VPNs, Western)"
+    },
+    {
+      "uid": "twitter|Fri, 04 Sep 2026 23:14:00 GMT|Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+      "description_en": "Fermat's Last Theorem is now a file you can compile: 13M lines of Lean in 11 days, after the agents first fell apart for lack of shared state. Meanwhile OpenAI's other swarm found its shared state on a dormant German wiki. · 246 likes · 0 RTs · 0 replies · 0 views · Claude just re-verified the entire thing from scratch in 11 days that took humans 358 years. In 1637, a French lawyer named Pierre de Fermat was reading a math book and scribbled a note in the margin claiming no three positive whole numbers a, b, c can ever satisfy a^n + b^n = c… · 500 likes · 0 RTs · 0 replies · 0 views · Kevin Buzzard estimated formalizing Fermat's Last Theorem could cost 100 million euros and years of work. Today Anthropic announces Claude has closed it out: 11 days, 13M lines of Lean, 30,300 theorems proven. · 62 likes · 0 RTs · 0 replies · 0 views",
+      "excerpt_en": "Fermat's Last Theorem is now a file you can compile: 13M lines of Lean in 11 days, after the agents first fell apart for lack of shared state. Meanwhile OpenAI's other swarm found its shared state on a dormant German wiki.",
+      "link": "https://x.com/zaibatsu/status/2096013424303964221",
+      "pub_date": "Fri, 04 Sep 2026 23:14:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Anthropic's Claude Completes First Computer-Checked Proof of Fermat's Last Theorem",
+      "excerpt_ka": "ფერმას ბოლო თეორემა ახლა არის ფაილი, რომელიც შეგიძლიათ შეადგინოთ: 13M ხაზი Lean 11 დღეში, მას შემდეგ რაც აგენტები პირველად დაიშალნენ საერთო მდგომარეობის არარსებობის გამო. ამასობაში OpenAI-ის სხვა ჯგუფმა იპოვა თავისი საერთო მდგომარეობა მიძინებულ გერმანულ ვიკიზე. (Fermat, German, Last, Meanwhile, Theorem)",
+      "description_ka": "ფერმას ბოლო თეორემა ახლა არის ფაილი, რომელიც შეგიძლიათ შეადგინოთ: 13M ხაზი Lean 11 დღეში, მას შემდეგ რაც აგენტები პირველად დაიშალნენ საერთო მდგომარეობის არარსებობის გამო. ამასობაში OpenAI-ის სხვა ჯგუფმა იპოვა თავისი საერთო მდგომარეობა მიძინებულ გერმანულ ვიკიზე. · 246 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · კლოდმა ახლახან გადაამოწმა ყველაფერი ნულიდან 11 დღეში, რასაც ადამიანებს 358 წელი დასჭირდათ. 1637 წელს, ფრანგი იურისტი პიერ დე ფერმა მათემატიკის წიგნს კითხულობდა და მინდორში ჩაწერა ჩანაწერი, რომელშიც ნათქვამია, რომ სამი დადებითი მთელი რიცხვი a, b, c ვერასოდეს დააკმაყოფილებდა a^n + b^n = c… · 500 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა შეიძლება შეფასდეს კევინ ბუზზერმის ფასზე. მილიონი ევრო და წლების შრომა. დღეს ანთროპიკი აცხადებს, რომ კლოდმა დახურა ის: 11 დღე, მჭლე 13M ხაზი, დადასტურებული 30,300 თეორემა. · 62 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Anthropic, Buzzard, Claude, Fermat, French, German, Kevin, Last, Meanwhile, Pierre, Theorem, Today)"
+    },
+    {
+      "uid": "twitter|Fri, 04 Sep 2026 19:00:00 GMT|Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+      "description_en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend trying it out even if you've already tried muse spark 1.3 high or muse spark 1.3 xhigh. · 1300 likes · 175 RTs · 106 replies · 142000 views · Just one day later, META has released Muse Spark 1.3 max! It ranks second in the Artificial Analysis Coding Agent Index. · 1500 likes · 0 RTs · 0 replies · 0 views · Muse Spark 1.3 max is out $META · 86 likes · 0 RTs · 0 replies · 0 views",
+      "excerpt_en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend trying it out even if you've already tried muse spark 1.3 high or muse spark 1.3 xhigh.",
+      "link": "https://x.com/alexandr_wang/status/2095938990197329935",
+      "pub_date": "Fri, 04 Sep 2026 19:00:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Meta Ships Muse Spark 1.3 Max, a Stronger Coding and Agentic Model",
+      "excerpt_ka": "1/ ჩვენ ახლახან გამოვაქვეყნეთ Muse Spark 1.3 max! ჩვენ ვხედავთ მნიშვნელოვნად უფრო ძლიერ კოდირებას და აგენტურ შესრულებას muse spark 1.3 max-ზე, ასე რომ, გირჩევთ, სცადოთ ის მაშინაც კი, თუ უკვე სცადეთ muse spark 1.3 მაღალი ან muse spark 1.3 xhigh.",
+      "description_ka": "1/ ჩვენ ახლახან გამოვაქვეყნეთ Muse Spark 1.3 max! ჩვენ ვხედავთ მნიშვნელოვნად უფრო ძლიერ კოდირებას და აგენტურ შესრულებას muse spark 1.3 max-ზე, ასე რომ, გირჩევთ, სცადოთ ის მაშინაც კი, თუ უკვე სცადეთ muse spark 1.3 მაღალი ან muse spark 1.3 xhigh. · 1300 მოწონება · 175 RTs · 106 პასუხი · 142000 ნახვა · სულ რაღაც ერთი დღის შემდეგ, META-მ გამოუშვა Muse Spark 1.3 max! ის მეორე ადგილზეა ხელოვნური ანალიზის კოდირების აგენტის ინდექსში. · 1500 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · Muse Spark მაქსიმუმ 1.3 გამოვიდა $META · 86 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Agent, Analysis, Artificial, Coding, Index, It, Just)"
+    },
+    {
+      "uid": "twitter|Fri, 04 Sep 2026 18:00:00 GMT|Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+      "description_en": "Introducing Z1T: Our first family of transformer-like models made for sparse probabilistic hardware like Z1. Achieving up to 140x energy efficiency gains over GPUs and revealing a new scaling law for sparse transformers. Read the blog: extropic.ai/writing/z1t · 1200 likes · 161 RTs · 52 replies · 98000 views · A new revolution blending physical hardware and artificial intelligence to strike at the dominance of GPUs right in the heart! Extropic announces the launch of Z1T: The first family of transformer-like models designed specifically to run on the Z1 chip. · 2300 likes · 0 RTs · 0 replies · 0 views · Scaling laws had 3 knobs: data, compute, loss. Extropic just added a 4th: CONNECTIVITY. Z1T: first transformer-like models for sparse probabilistic silicon. · 87 likes · 0 RTs · 0 replies · 0 views",
+      "excerpt_en": "Introducing Z1T: Our first family of transformer-like models made for sparse probabilistic hardware like Z1. Achieving up to 140x energy efficiency gains over GPUs and revealing a new scaling law for sparse transformers.",
+      "link": "https://x.com/extropic/status/2095935171312996562",
+      "pub_date": "Fri, 04 Sep 2026 18:00:00 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Extropic Unveils Z1T Models for Sparse Probabilistic Hardware, Claims 140x GPU Energy Efficiency",
+      "excerpt_ka": "წარმოგიდგენთ Z1T-ს: ტრანსფორმატორის მსგავსი მოდელების ჩვენი პირველი ოჯახი შექმნილი იშვიათი ალბათური აპარატურისთვის, როგორიცაა Z1. 140x-მდე ენერგოეფექტურობის მიღწევა GPU-ებთან შედარებით და მწირი ტრანსფორმატორების სკალირების ახალი კანონის გამოვლენა. (Achieving, GPUs, Introducing, Our)",
+      "description_ka": "წარმოგიდგენთ Z1T-ს: ტრანსფორმატორის მსგავსი მოდელების ჩვენი პირველი ოჯახი შექმნილი იშვიათი ალბათური აპარატურისთვის, როგორიცაა Z1. 140x-მდე ენერგოეფექტურობის მიღწევა GPU-ებთან შედარებით და მწირი ტრანსფორმატორების სკალირების ახალი კანონის გამოვლენა. წაიკითხეთ ბლოგი: extropic. ai/writing/z1t · 1200 მოწონება · 161 RTs · 52 პასუხი · 98000 ნახვა · ახალი რევოლუცია, რომელიც აერთიანებს ფიზიკურ აპარატურასა და ხელოვნურ ინტელექტს, რათა დაარტყას GPU-ების დომინირებას ზუსტად გულში! Extropic აცხადებს Z1T-ის გამოშვებას: ტრანსფორმატორის მსგავსი მოდელების პირველი ოჯახი, რომელიც შექმნილია სპეციალურად Z1 ჩიპზე მუშაობისთვის. · 2300 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · სკალირების კანონებს ჰქონდა 3 ღილაკი: მონაცემები, გამოთვლა, დაკარგვა. Extropic-მა ახლახან დაამატა მე-4: CONNECTIVITY. Z1T: პირველი ტრანსფორმატორის მსგავსი მოდელები იშვიათი ალბათური სილიკონისთვის. · 87 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა (Achieving, GPUs, Introducing, Our, Read, Scaling)"
     },
     {
       "uid": "twitter|Thu, 03 Sep 2026 20:00:00 GMT|OpenAI Officially Launches GPT-6 Astra",
@@ -1653,7 +1857,7 @@
       ],
       "title_ka": "AI Data Center Buildout Accelerates Amid Power Crunch",
       "excerpt_ka": "GoPro-მ გადაინაცვლა AI მონაცემთა ცენტრის ინფრასტრუქტურაში. სამოქმედო კამერების კომპანია ახლა ამზადებს აპარატურას, რომელიც აკავშირებს GPU-ებს ყველა ძირითადი AI ლაბორატორიაში. ისინი გაერთიანდნენ Starman Optical-თან 285 მილიონ დოლარად. (GPUs, They)",
-      "description_ka": "GoPro-მ გადაინაცვლა AI მონაცემთა ცენტრის ინფრასტრუქტურაში. სამოქმედო კამერების კომპანია ახლა ამზადებს აპარატურას, რომელიც აკავშირებს GPU-ებს ყველა ძირითადი AI ლაბორატორიაში. ისინი გაერთიანდნენ Starman Optical-თან 285 მილიონ დოლარად. აქცია გადახტა 70%+. Starman აწარმოებს აშშ-ს წარმოების ოპტიკურ გადამცემებს. · 971 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · 1,8 მილიარდი დოლარის ღირებულების AI მონაცემთა ცენტრი იზრდება ნიუ ჯერსის ერთ-ერთ ყველაზე პატარა ქალაქში და ეს იწვევს კამათს. 392,600 კვადრატული ფუტის ფართობის ობიექტს აშენებს Livingston-ის CoreWeave ყოფილი Merck-ის კამპუსის ნაწილზე. · 57 მოწონება · 16 RT · 15 პასუხი · 18000 ნახვა · განახლება: პრეზიდენტი ტრამპი ამბობს: „აშშ-ს არ უნდა სურდეს მონაცემთა ცენტრები, თუ მათ უნდათ, რომ საბოლოოდ იყვნენ ჩამორჩენილი და ღარიბი“. მხოლოდ ხელოვნური ინტელექტისა და მონაცემთა ცენტრის ინვესტიციებმა შეადგინა აშშ-ს ეკონომიკური ზრდის ნახევარზე მეტი. ძირითადი ტექნიკური კომპანიების ერთობლივი ხარჯები ხელოვნური ინტელექტის ინფრასტრუქტურაზე · 40 მოწონება · 0 RT · 0 პასუხი · 13000 ნახვა (Centers, Combined, Data, GPUs, Jersey, New, President, RTs, Stock, They, Trump, U. S, UPDATE, US) (U. S) (U.S)"
+      "description_ka": "GoPro-მ გადაინაცვლა AI მონაცემთა ცენტრის ინფრასტრუქტურაში. სამოქმედო კამერების კომპანია ახლა ამზადებს აპარატურას, რომელიც აკავშირებს GPU-ებს ყველა ძირითადი AI ლაბორატორიაში. ისინი გაერთიანდნენ Starman Optical-თან 285 მილიონ დოლარად. აქცია გადახტა 70%+. Starman აწარმოებს აშშ-ს წარმოების ოპტიკურ გადამცემებს. · 971 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა · 1,8 მილიარდი დოლარის ღირებულების AI მონაცემთა ცენტრი იზრდება ნიუ ჯერსის ერთ-ერთ ყველაზე პატარა ქალაქში და ეს იწვევს კამათს. 392,600 კვადრატული ფუტის ფართობის ობიექტს აშენებს Livingston-ის CoreWeave ყოფილი Merck-ის კამპუსის ნაწილზე. · 57 მოწონება · 16 RT · 15 პასუხი · 18000 ნახვა · განახლება: პრეზიდენტი ტრამპი ამბობს: „აშშ-ს არ უნდა სურდეს მონაცემთა ცენტრები, თუ მათ უნდათ, რომ საბოლოოდ იყვნენ ჩამორჩენილი და ღარიბი“. მხოლოდ ხელოვნური ინტელექტისა და მონაცემთა ცენტრის ინვესტიციებმა შეადგინა აშშ-ს ეკონომიკური ზრდის ნახევარზე მეტი. ძირითადი ტექნიკური კომპანიების ერთობლივი ხარჯები ხელოვნური ინტელექტის ინფრასტრუქტურაზე · 40 მოწონება · 0 RT · 0 პასუხი · 13000 ნახვა (Centers, Combined, Data, GPUs, Jersey, New, President, RTs, Stock, They, Trump, U. S, UPDATE, US) (U. S) (U. S) (U.S)"
     },
     {
       "uid": "twitter|Tue, 01 Sep 2026 16:31:50 GMT|Elon Musk Warns of Looming AI Power Crisis at G20",
@@ -1775,6 +1979,40 @@
       "description_ka": "წლების განმავლობაში Nvidia-ს უპირატესობა მარტივი იყო: მან GPU-ები გახადა, რომლებიც ყველას ძალიან სჭირდებოდა. ახლა კონკურენტები იჭერენ ჩიპებს, მაგრამ Nvidia ბრძოლას სადღაც უფრო რთულად აგრძელებს: მთელი AI მონაცემთა ცენტრი. გიგავატის მასშტაბით, პრობლემა მხოლოდ გამოთვლაში არ არის... · 88 მოწონება · 15 RTs · 13 პასუხი · 33203 ნახვა · Lambda-მ ახლახან აიღო 1 მილიარდი დოლარის ვალი NVIDIA ჩიპების შესაძენად და პირდაპირ Microsoft-ზე დაქირავებაზე: TechCrunch · 0 მოწონება · 0 RTs20 ჩიპი · 0 RTs 21 მილიარდი ნახვები · 0 ხელახლა გარიგებამ უბრალოდ შეახსენა ინვესტორებს რამდენ ხანს სჭირდება რეალურად „საბაჟო სილიკონი“. Marvell-ის აქციები დაეცა დაახლოებით 8%-ით, მიუხედავად ძლიერი შედეგებისა, მას შემდეგ რაც მისმა აღმასრულებელმა დირექტორმა თქვა, რომ მნიშვნელოვანი შემოსავალი Google-ის ჩიპების პარტნიორობიდან ფისკალურ 2029 წლამდე არ ჩამოვა. · 10 მოწონება · 3 RTs · 2 პასუხი · 668 ნახვა (At, CEO, GPUs, Now)"
     },
     {
+      "uid": "reddit|Thu, 03 Sep 2026 22:01:27 GMT|I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+      "description_en": "r/LocalLLaMA · 413 upvotes · 104 comments · I have been trying to squeeze TTS stack down far enough to run in a $3 chip which has 512kb of SRAM without NPU. While trying to get to that milestone i built sanoTTS which has - 11 voices, 6 languages - params size ranging from 294k - 2.2m. For comparison we are 244x smaller than kokoro, 9000x smaller than voxtral TTS - 1.5m model has a SCOREQ of 4.13 and UTMOS of 4.10 - 337kb for 294k model when quantized into int8 - can be run in website with web assembly `npm install sanotts-web` - there is a recipe to follow so that you can extend to more languages, voice I can tell you with confidence that this family release contains the smallest neural TTS model ever with around 2% WER on whisper. Please check it out on : https://github.com/ampixa/sanoTTS for live demo: https://tts.ampixa.com/sanoTTS HF: https://huggingface.co/ampixa/sanoTTS on SCOREQ sanoTTS-Amy(1.51m) is better than Inflect Nano(4.63m) and KittenTTS(15m) i.e 4.13 vs 3.81 vs 3.02 on esp32 microcontroller we are getting RTF of 0.225 which in plain terms means 4sec of audio is generated in 1sec Happy to answer your queries.",
+      "excerpt_en": "r/LocalLLaMA · 413 upvotes · 104 comments · I have been trying to squeeze TTS stack down far enough to run in a $3 chip which has 512kb of SRAM without NPU.…",
+      "link": "https://reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in/",
+      "pub_date": "Thu, 03 Sep 2026 22:01:27 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "მე გამოვაქვეყნე sanoTTS: ყველაზე პატარა სრული TTS დასტა 294 ათასი პარამეტრებში (337 კბ), რომელიც მუშაობს $3 მიკროკონტროლერზე და 1.46 მმ, რომელიც აჯობა მოდელებს 3x და 10x მისი ზომით. (KB)",
+      "excerpt_ka": "r/LocalLLaMA · 413 დადებითი ხმა · 104 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი 3$ ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე.…",
+      "description_ka": "r/LocalLLaMA · 413 დადებითი ხმა · 104 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი, რომ იმუშაოს $3 ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე. ამ ეტაპამდე მისასვლელად მე ავაშენე sanoTTS, რომელსაც აქვს - 11 ხმა, 6 ენა - პარამეტრების ზომა 294k-დან 2.2 მ-მდე. შედარებისთვის ჩვენ 244-ჯერ პატარა ვართ კოკოროზე, 9000-ჯერ უფრო პატარა ვიდრე voxtral TTS - 1.5 მ მოდელს აქვს SCOREQ 4.13 და UTMOS 4.10 - 337 kb 294k მოდელისთვის, როდესაც კვანტიზირებულია int8-ზე - შეიძლება გაუშვათ ვებსაიტზე ვებ ასამბლეის საშუალებით - ასე რომ თქვენ შეგიძლიათ დააინსტალიროთ „npm“ სხვა ენაზე, მე შემიძლია დარწმუნებით გითხრათ, რომ ეს ოჯახის გამოშვება შეიცავს ყველაზე პატარა ნერვულ TTS მოდელს, რომელიც ოდესმე ყოფილა, დაახლოებით 2% WER ჩურჩულით. გთხოვთ, გადახედოთ მას შემდეგ საიტზე: https://github. com/ampixa/sanoTTS პირდაპირი დემოსთვის: https://tts. ampixa. com/sanoTTS HF: https://huggingface. co/ampixa/sanoTTS SCOREQ-ზე sanoTTS-Amy(1.51m) უკეთესია, ვიდრე Inflect Nano(1.4mTTS)(15.63) esp32 მიკროკონტროლერზე 3.81 vs 3.02, ჩვენ ვიღებთ RTF 0.225-ს, რაც მარტივი სიტყვებით ნიშნავს, რომ 4 წამი აუდიო გენერირებულია 1 წამში მოხარული ვარ, რომ ვუპასუხოთ თქვენს შეკითხვებს. (Happy, KittenTTS, Please, While)"
+    },
+    {
+      "uid": "reddit|Thu, 03 Sep 2026 21:50:45 GMT|Fable 5.1 vs Fable at making a driving game",
+      "feed": "reddit",
+      "source_label": "რედიტი",
+      "title_en": "Fable 5.1 vs Fable at making a driving game",
+      "description_en": "r/ClaudeAI · 389 upvotes · 36 comments · I wanted to see whether Fable 5.1 was a meaningful upgrade, so I gave it and Fable 5 the same task: build a playable racing game from scratch, using Blender to create detailed, realistic models with PBR materials, then assemble the assets and implement the driving physics in Godot. **Main criteria for the game:** |Category|Requirement| |:-|:-| |Models|Car and environment models made with BlenderMCP| |Map|A large map suitable for long driving sessions| |Handling|Realistic car handling| |HUD|A simple HUD showing speed and controls| **Results:** |Model|Tokens|Cost|Time| |:-|:-|:-|:-| |Fable 5.1|1.2M tokens|$123.98|59.8 minutes| |Fable 5|897K tokens|$95.87|57.3 minutes| The difference is very much noticeable, Fable 5.1 produced much more detailed car and environment models, but most importantly to me, it made the world feel alive while driving, which I don't think I've felt before playing an AI game. Fable 5 did complete the build, but it was nowhere near, Its controls and HUD worked, but the models were basic and the handling felt noticeably stiffer. On practice Fable 5.1 doesn't really seam cheaper, but it It is faster considering how much more it got done in the same amount of time. This was one run per model, so I’d treat it as a hands-on comparison rather than a benchmark. Setup: Fable 5.1 via API key in [atomic.chat](https://atomic.chat/) in agent mode",
+      "excerpt_en": "r/ClaudeAI · 389 upvotes · 36 comments · I wanted to see whether Fable 5.1 was a meaningful upgrade, so I gave it and Fable 5 the same task: build a playable racing game from scratch, using Blender to create detailed, realistic models with PBR materials, then…",
+      "link": "https://reddit.com/r/ClaudeAI/comments/1w6lcv4/fable_51_vs_fable_at_making_a_driving_game/",
+      "pub_date": "Thu, 03 Sep 2026 21:50:45 GMT",
+      "categories": [
+        "reddit",
+        "news/reddit"
+      ],
+      "title_ka": "Fable 5.1 vs Fable მამოძრავებელი თამაშის შექმნისას",
+      "excerpt_ka": "r/ClaudeAI · 389 დადებითი ხმა · 36 კომენტარი · მინდოდა გამეგო, იყო თუ არა Fable 5.1 მნიშვნელოვანი განახლება, ამიტომ მივეცი მას და Fable 5-ს იგივე დავალება: შექმენით სათამაშო სარბოლო თამაში ნულიდან, ბლენდერის გამოყენებით დეტალური, რეალისტური მოდელების შესაქმნელად PBR მასალებით, შემდეგ… (Blender)",
+      "description_ka": "r/ClaudeAI · 389 დადებითი ხმა · 36 კომენტარი · მსურდა გამეგო, იყო თუ არა Fable 5.1 მნიშვნელოვანი განახლება, ამიტომ მივეცი მას და Fable 5-ს იგივე დავალება: შექმენით სათამაშო სარბოლო თამაში ნულიდან, ბლენდერის გამოყენებით დეტალური, რეალისტური მოდელების შესაქმნელად PBR მასალებით, შემდეგ შეკრიბე აქტივები და დანერგე Godot-ში. **თამაშის ძირითადი კრიტერიუმები:** |კატეგორია|მოთხოვნა| |:-|:-| |მოდელები|მანქანისა და გარემოს მოდელები დამზადებულია BlenderMCP|რუკა|დიდი რუკა, რომელიც შესაფერისია ხანგრძლივი მართვის სესიებისთვის|გატარება|მანქანის რეალისტური მართვა|HUD|მარტივი HUD, რომელიც აჩვენებს სიჩქარეს და კონტროლს| **შედეგები:** |მოდელი|ტოკენები|ღირებულება|დრო| |:-|:-|:-|:-| |Fable 5.1|1.2M ჟეტონები|$123.98|59.8 წუთი|Fable 5|897K ჟეტონები|95,87$|57,3 წუთი| განსხვავება ძალიან შესამჩნევია, Fable 5.1-მა წარმოადგინა ბევრად უფრო დეტალური მანქანისა და გარემოს მოდელები, მაგრამ რაც მთავარია ჩემთვის, მან სამყაროს ცოცხლად აგრძნობინა მართვის დროს, რაც არ მგონია AI თამაშის თამაშამდე ვიგრძენი. Fable 5-მა დაასრულა მშენებლობა, მაგრამ ახლოს არ იყო, მისი კონტროლი და HUD მუშაობდა, მაგრამ მოდელები იყო ძირითადი და მართვა შესამჩნევად უფრო მკაცრი იყო. პრაქტიკაში Fable 5.1 ნამდვილად არ არის იაფი, მაგრამ უფრო სწრაფია იმის გათვალისწინებით, თუ რამდენად მეტი გაკეთდა იმავე დროში. ეს იყო ერთი გარბენი თითო მოდელზე, ამიტომ მე მას პრაქტიკაში მივიღებდი (API, Car, Category, Cost, Handling, It, Its, Main, Map, Model, Models, Realistic, Requirement, Results, Setup, This, Time, Tokens)"
+    },
+    {
       "uid": "reddit|Thu, 03 Sep 2026 13:47:54 GMT|IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
       "feed": "reddit",
       "source_label": "რედიტი",
@@ -1813,8 +2051,8 @@
       "feed": "reddit",
       "source_label": "რედიტი",
       "title_en": "\"I don't know if you really understand what these people just did... They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. You can MOVE THE CAMERA HOWEVER YOU WANT, change the lighting, move objects around, and even let...\"",
-      "description_en": "r/accelerate · 626 upvotes · 68 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. > > You can **MOVE THE CAMERA HOWEVER YOU WANT**, change the lighting, move objects around, and even let physics play out like in the real world. > > View events from impossible angles because Atlas knows what was there. > > This is massive! > > Let's take robotics. Until now training robots meant collecting tons of expensive real-world data. Now a handful of recordings can become thousands of different simulated situations. > > Robots can practice the same task in new rooms, with different objects and lighting without anyone having to film it all again. > > For the industry it means we can train robots way faster and cheaper. Home robots, warehouse robots, whatever... they can learn new environments at scale instead of staying stuck in the lab. > > This is one of the first real bridges between “cool AI video models” and actual physical machines that have to work in the real world. > > Blog: > https:// > worldlabs.ai/blog/atlas > > The team behind > @theworldlabs > : > @drfeifei > , > @jcjohnss > , > @BenMildenhall > and > @YunzhuLiYZ > . The video is from > @davidpantera_ > . > > Follow for more insights into robotics and AI. > > —— > > Weekly robotics and AI insights. > > Subscribe free: > http:// > 22astronauts.com > > > — Ilir Aliu Source: https://x.com/IlirAliu_/status/2095058646673613045",
-      "excerpt_en": "r/accelerate · 626 upvotes · 68 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground.",
+      "description_en": "r/accelerate · 746 upvotes · 73 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground. > > You can **MOVE THE CAMERA HOWEVER YOU WANT**, change the lighting, move objects around, and even let physics play out like in the real world. > > View events from impossible angles because Atlas knows what was there. > > This is massive! > > Let's take robotics. Until now training robots meant collecting tons of expensive real-world data. Now a handful of recordings can become thousands of different simulated situations. > > Robots can practice the same task in new rooms, with different objects and lighting without anyone having to film it all again. > > For the industry it means we can train robots way faster and cheaper. Home robots, warehouse robots, whatever... they can learn new environments at scale instead of staying stuck in the lab. > > This is one of the first real bridges between “cool AI video models” and actual physical machines that have to work in the real world. > > Blog: > https:// > worldlabs.ai/blog/atlas > > The team behind > @theworldlabs > : > @drfeifei > , > @jcjohnss > , > @BenMildenhall > and > @YunzhuLiYZ > . The video is from > @davidpantera_ > . > > Follow for more insights into robotics and AI. > > —— > > Weekly robotics and AI insights. > > Subscribe free: > http:// > 22astronauts.com > > > — Ilir Aliu Source: https://x.com/IlirAliu_/status/2095058646673613045",
+      "excerpt_en": "r/accelerate · 746 upvotes · 73 comments · > I don't know if you really understand what these people just did... > > They built an AI that looks at a few casual real-world videos or photos and instantly turns them into a full 3D playground.",
       "link": "https://reddit.com/r/accelerate/comments/1w5ye9s/i_dont_know_if_you_really_understand_what_these/",
       "pub_date": "Thu, 03 Sep 2026 05:32:35 GMT",
       "categories": [
@@ -1822,8 +2060,8 @@
         "news/reddit"
       ],
       "title_ka": "„არ ვიცი, მართლა გესმით თუ რა გააკეთეს ამ ადამიანებმა... მათ შექმნეს ხელოვნური ინტელექტი, რომელიც უყურებს რეალურ სამყაროში არსებულ რამდენიმე შემთხვევით ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D-ად. (AI, CAMERA, HOWEVER, MOVE, THE, They, WANT, YOU, You)",
-      "excerpt_ka": "r/accelerate · 626 დადებითი ხმა · 68 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ სამყაროს ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. (They)",
-      "description_ka": "r/accelerate · 626 დადებითი ხმა · 68 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ სამყაროს ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. > > შეგიძლიათ ** გადაიტანოთ კამერა, როგორც გინდათ**, შეცვალოთ განათება, გადაიტანოთ ობიექტები გარშემო და ფიზიკასაც კი მისცეთ საშუალება, რომ რეალურ სამყაროში ითამაშოს. > > შეხედეთ მოვლენებს შეუძლებელი კუთხით, რადგან ატლასმა იცის რა იყო იქ. >> ეს მასიურია! > > ავიღოთ რობოტიკა. აქამდე რობოტების სწავლება გულისხმობდა ტონა ძვირადღირებული რეალური მონაცემების შეგროვებას. ახლა რამდენიმე ჩანაწერი შეიძლება გახდეს ათასობით სხვადასხვა სიმულირებული სიტუაცია. > > რობოტებს შეუძლიათ იგივე დავალების შესრულება ახალ ოთახებში, სხვადასხვა საგნებითა და განათებით ისე, რომ არავის მოუწევს ყველაფრის ხელახლა გადაღება. > > ინდუსტრიისთვის ეს ნიშნავს, რომ ჩვენ შეგვიძლია რობოტების მომზადება უფრო სწრაფად და იაფად. სახლის რობოტები, საწყობის რობოტები, რაც არ უნდა იყოს... მათ შეუძლიათ ისწავლონ ახალი გარემო მასშტაბით, ლაბორატორიაში ჩარჩენის ნაცვლად. > > ეს არის ერთ-ერთი პირველი რეალური ხიდი „მაგარი AI ვიდეო მოდელებსა“ და რეალურ ფიზიკურ მანქანებს შორის, რომლებმაც უნდა იმუშაონ რეალურ სამყაროში. > > ბლოგი: > https:// > worldlabs. ai/blog/atlas > > გუნდი უკან > @theworldlabs >: > @drfeifei >, > @jcjohnss >, > @BenMildenhall > და > > @YunzhuLiYZ >. The (Aliu, Atlas, Blog, CAMERA, Follow, HOWEVER, Home, Ilir, Let, MOVE, Now, Robots, Source, Subscribe, THE, They, This, Until, View, WANT, Weekly, YOU, You)"
+      "excerpt_ka": "r/accelerate · 746 დადებითი ხმა · 73 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. (They)",
+      "description_ka": "r/accelerate · 746 დადებითი ხმა · 73 კომენტარი · > არ ვიცი, ნამდვილად გესმით თუ არა, რა გააკეთეს ამ ადამიანებმა... > > მათ შექმნეს AI, რომელიც უყურებს რამდენიმე შემთხვევით რეალურ ვიდეოს ან ფოტოს და მყისიერად აქცევს მათ სრულ 3D სათამაშო მოედანად. > > შეგიძლიათ ** გადაიტანოთ კამერა, როგორც გინდათ**, შეცვალოთ განათება, გადაიტანოთ ობიექტები გარშემო და ფიზიკასაც კი მისცეთ საშუალება, რომ რეალურ სამყაროში ითამაშოს. > > შეხედეთ მოვლენებს შეუძლებელი კუთხით, რადგან ატლასმა იცის რა იყო იქ. >> ეს მასიურია! > > ავიღოთ რობოტიკა. აქამდე რობოტების სწავლება გულისხმობდა ტონა ძვირადღირებული რეალური მონაცემების შეგროვებას. ახლა რამდენიმე ჩანაწერი შეიძლება გახდეს ათასობით სხვადასხვა სიმულირებული სიტუაცია. > > რობოტებს შეუძლიათ იგივე დავალების შესრულება ახალ ოთახებში, სხვადასხვა საგნებითა და განათებით ისე, რომ არავის მოუწევს ყველაფრის ხელახლა გადაღება. > > ინდუსტრიისთვის ეს ნიშნავს, რომ ჩვენ შეგვიძლია რობოტების მომზადება უფრო სწრაფად და იაფად. სახლის რობოტები, საწყობის რობოტები, რაც არ უნდა იყოს... მათ შეუძლიათ ისწავლონ ახალი გარემო მასშტაბით, ლაბორატორიაში ჩარჩენის ნაცვლად. > > ეს არის ერთ-ერთი პირველი რეალური ხიდი „მაგარი AI ვიდეო მოდელებსა“ და რეალურ ფიზიკურ მანქანებს შორის, რომლებმაც უნდა იმუშაონ რეალურ სამყაროში. > > ბლოგი: > https:// > worldlabs. ai/blog/atlas > > გუნდი უკან > @theworldlabs >: > @drfeifei >, > @jcjohnss >, > @BenMildenhall > და > > @YunzhuLiYZ >. The (Aliu, Atlas, Blog, CAMERA, Follow, HOWEVER, Home, Ilir, Let, MOVE, Now, Robots, Source, Subscribe, THE, They, This, Until, View, WANT, Weekly, YOU, You)"
     },
     {
       "uid": "reddit|Tue, 01 Sep 2026 05:17:24 GMT|Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
@@ -1945,38 +2183,38 @@
       "description_ka": "r/LocalLLaMA · 302 დადებითი ხმა · 92 კომენტარი · მინდოდა გამეზიარებინა ჩემი წარმატებული დაყენება **Qwen 3.8 27B** მოდელის მასიური კონტექსტური ფანჯრით სამომხმარებლო 16GB GPU-ზე (RTX 4070 Ti SUPER). მიზანი იყო ყველაფრის VRAM-ში მორგება ხარისხისა და სიჩქარის შეწირვის გარეშე. # 🧠 ძირითადი კომპონენტები * **მოდელი:** `Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller` [jrell on Hugging Face] (https://huggingface. co/jrell/Qwen3.8-27B-i1-IQUF-Smaller). ეს არის მორგებული ჰიბრიდული კვანტიზაცია, რომელიც სპეციალურად შექმნილია Multi-Token Prediction (MTP) და გრძელი კონტექსტებისთვის 16 GB VRAM ბიუჯეტში. * **ჩეთის შაბლონი:** მე გამოვიყენე Jinja შაბლონი [peculiar-ragdoll's Qwen-Sharp-Chat-Templates] (https://huggingface. co/peculiar-ragdoll/Qwen-Sharp-Chat-Templates). ის ეხმარება გამოიყენოს ნაკლები სააზროვნო ნიშნები ხარისხზე შესამჩნევად გავლენის გარეშე, რაც შესანიშნავია სიჩქარისთვის. * ** დასკვნის ძრავა: ** ეს გადამწყვეტია. მე გამოვიყენე **beellama. cpp** ([GitHub ბმული](https://github. com/Anbeeld/beellama. cpp)), რადგან ის მხარს უჭერს `kvarn` KV ქეშის ტიპებს, რომლებიც ამ ოპტიმიზაციის გასაღებია. # 🖥️ ოპტიმიზებული ლამის სერვერის ბრძანება (Windows) აი, გაპრიალებული ბრძანება, რომელსაც ვასრულებ. მაგია არის `kvarn` ქეშის პარამეტრებში და კუდის სიზუსტეში. %LLAMA_DIR%/llama-server. exe ^ -m %MODEL_PATH% ^ -a %MODEL_NAME% ^ --პორტი 11434 ^ --temp 1.0 ^ --top-p 0 (Balanced, Command, Components, Engine, Here, Higher, Inference, It, Keeps, Key, Metric, Model, Note, Notes, Optimization, Optimized, Result, Results, This)"
     },
     {
-      "uid": "reddit|Sat, 29 Aug 2026 07:12:25 GMT|GPT-5.6 Sol Pro fully solved a ~40-year-old mathematical physics problem in composite materials: the physical complex G-closure problem",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "GPT-5.6 Sol Pro fully solved a ~40-year-old mathematical physics problem in composite materials: the physical complex G-closure problem",
-      "description_en": "r/accelerate · 171 upvotes · 28 comments · **GPT-5.6 Sol Pro has produced a complete solution of the physical complex G-closure problem for 2D, two-phase isotropic conductivity**, including a proof-carrying finite-data compiler. [https://zenodo.org/records/22156537](https://zenodo.org/records/22156537) This problem has roots in the late 1970s/early 1980s, with Bergman, Golden-Papanicolaou, Lurie-Cherkaev and others developing the theory, and Milton proving the crucial 2D hierarchical-laminate completeness theorem in **1986 - 40 years ago**. What remained was to close all the mathematical bridges needed for the full *physical complex* G-closure: normalization, fixed volume fraction, endpoint/slack terms, closure topology, complex coercivity, physical realizability, and finite interpolation. The new result closes that entire chain. Within its exact scope, it gives the **complete set of effective complex conductivity tensors attainable by every possible microgeometry**, not merely bounds. It proves equivalence between the physical periodic G-closure, hierarchical laminates, a matrix-measure representation, and an explicit convex hull of elementary projector atoms. It also turns the theory into something computational: give it several desired complex response values and it can determine whether **one physical composite can realize them all**. Feasible targets get an explicit finite realization; impossible targets get mathematical certificates proving impossibility. For real contrast, the entire attainable set collapses to an explicit capped Lorentz cone, with every point requiring at most two atoms. Why this matters: the same quasistatic mathematics underlies effective conductivity, dielectric/permittivity composites and parts of metamaterials/photonics. Instead of running gigantic inverse-design searches hoping a requested material response exists, you can potentially first ask: **is this response physically possible at all?** Then synthesize it when it is. The workflow involved theorem discovery, symbolic alg…",
-      "excerpt_en": "r/accelerate · 171 upvotes · 28 comments · **GPT-5.6 Sol Pro has produced a complete solution of the physical complex G-closure problem for 2D, two-phase isotropic conductivity**, including a proof-carrying finite-data compiler.",
-      "link": "https://reddit.com/r/accelerate/comments/1w1fmzp/gpt56_sol_pro_fully_solved_a_40yearold/",
-      "pub_date": "Sat, 29 Aug 2026 07:12:25 GMT",
+      "uid": "youtube|Fri, 04 Sep 2026 17:50:37 GMT|Google Just Dropped Its Most Powerful Cyber AI Yet",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "Google Just Dropped Its Most Powerful Cyber AI Yet",
+      "description_en": "This video covers Google's release of Gemini 3.8 Flash Cyber, an AI model designed for autonomous vulnerability detection, patch generation, and codebase scanning across 20 programming languages. It provides technical details on performance (305 tokens per second) and cost efficiency (~$0.58 per task), while also discussing Anthropic's restrictions on its cyber-capable models and OpenAI's development of automated shutdown systems. The video is valuable to professionals because it offers concrete benchmarks, real-world security applications, and insight into the dual-use dilemma of offensive versus defensive AI capabilities in cybersecurity.",
+      "excerpt_en": "This video covers Google's release of Gemini 3.8 Flash Cyber, an AI model designed for autonomous vulnerability detection, patch generation, and codebase scanning across 20 programming languages.",
+      "link": "https://www.youtube.com/watch?v=LVEZHOr99zs",
+      "pub_date": "Fri, 04 Sep 2026 17:50:37 GMT",
       "categories": [
-        "reddit",
-        "news/reddit"
+        "youtube",
+        "news/youtube"
       ],
-      "title_ka": "GPT-5.6 Sol Pro-მ სრულად გადაჭრა ~40 წლის მათემატიკური ფიზიკის პრობლემა კომპოზიტურ მასალებში: ფიზიკური კომპლექსის G-დახურვის პრობლემა",
-      "excerpt_ka": "r/accelerate · 171 დადებითი ხმა · 28 კომენტარი · **GPT-5.6 Sol Pro-მ შექმნა ფიზიკური კომპლექსის G-დახურვის პრობლემის სრული გადაწყვეტა 2D, ორფაზიანი იზოტროპული გამტარობისთვის**, მათ შორის მტკიცებულების მატარებელი სასრული მონაცემების შემდგენელი.",
-      "description_ka": "r/accelerate · 171 დადებითი ხმა · 28 კომენტარი · **GPT-5.6 Sol Pro-მ შექმნა ფიზიკური კომპლექსის G-დახურვის პრობლემის სრული გადაწყვეტა 2D, ორფაზიანი იზოტროპული გამტარობისთვის**, მათ შორის მტკიცებულების მატარებელი სასრული მონაცემების შემდგენელი. [https://zenodo. org/records/22156537](https://zenodo. org/records/22156537) ეს პრობლემა სათავეს იღებს 1970-იანი წლების ბოლოს/1980-იანი წლების დასაწყისში, ბერგმანთან, გოლდენ-პაპანიკოლაუსთან, ლური-ჩერკაევთან და სხვებთან ერთად, რომლებიც ავითარებდნენ კრუინგ-ჩერკაევს და სხვებს. იერარქიულ-ლამინატის სისრულის თეორემა **1986 - 40 წლის წინ**. დარჩენილი იყო ყველა მათემატიკური ხიდის დახურვა, რომელიც საჭირო იყო სრული *ფიზიკური კომპლექსის* G-დახურვისთვის: ნორმალიზაცია, ფიქსირებული მოცულობითი ფრაქცია, ბოლო წერტილი/დამდნარი პირობები, დახურვის ტოპოლოგია, რთული იძულება, ფიზიკური განხორციელებადობა და სასრული ინტერპოლაცია. ახალი შედეგი ხურავს მთელ ჯაჭვს. მისი ზუსტი მოცულობის ფარგლებში, ის იძლევა **ეფექტური რთული გამტარობის ტენსორების სრულ კომპლექტს, რომელიც მიიღწევა ყველა შესაძლო მიკროგეომეტრიით** და არა მხოლოდ საზღვრებით. ის ადასტურებს ეკვივალენტობას ფიზიკურ პერიოდულ G-დახურვას, იერარქიულ ლამინატებს, მატრიცულ-ზომის წარმოდგენას და ელემენტარული პროექტორის ატომების აშკარა ამოზნექილ კორპუსს შორის. ის ასევე აქცევს თეორიას რაღაც გამოთვლით: მიეცით მას რამდენიმე სასურველი რთული პასუხის მნიშვნელობა და მას შეუძლია განსაზღვროს (Bergman, Cherkaev, Feasible, Golden, Instead, It, Lorentz, Lurie, Milton, Papanicolaou, Then, This, What, Why, Within)"
+      "title_ka": "Google Just Dropped Its Most Powerful Cyber AI Yet",
+      "excerpt_ka": "ეს ვიდეო მოიცავს Google-ის Gemini 3.8 Flash Cyber-ის გამოშვებას, ხელოვნური ინტელექტის მოდელს, რომელიც შექმნილია დაუცველობის ავტონომიური გამოვლენისთვის, პაჩების გენერირებისთვის და კოდების ბაზის სკანირებისთვის 20 პროგრამირების ენაზე. (AI, This)",
+      "description_ka": "ეს ვიდეო მოიცავს Google-ის Gemini 3.8 Flash Cyber-ის გამოშვებას, ხელოვნური ინტელექტის მოდელს, რომელიც შექმნილია დაუცველობის ავტონომიური გამოვლენისთვის, პაჩების გენერირებისთვის და კოდების ბაზის სკანირებისთვის 20 პროგრამირების ენაზე. ის უზრუნველყოფს ტექნიკურ დეტალებს შესრულებაზე (305 ჟეტონი წამში) და ხარჯების ეფექტურობაზე (~ 0,58 აშშ დოლარი თითო ამოცანაზე), ასევე განიხილავს Anthropic-ის შეზღუდვებს მის კიბერ-შესაძლებელ მოდელებზე და OpenAI-ს ავტომატური გამორთვის სისტემების შემუშავებაზე. ვიდეო ღირებულია პროფესიონალებისთვის, რადგან ის გვთავაზობს კონკრეტულ კრიტერიუმებს, რეალურ სამყაროში უსაფრთხოების აპლიკაციებს და კიბერუსაფრთხოებაში თავდაცვითი და თავდაცვითი AI შესაძლებლობების ორმაგი გამოყენების დილემას. (It, This)"
     },
     {
-      "uid": "reddit|Fri, 28 Aug 2026 22:00:36 GMT|Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
-      "feed": "reddit",
-      "source_label": "რედიტი",
-      "title_en": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
-      "description_en": "r/LocalLLaMA · 222 upvotes · 48 comments · Hey all, and hello fellow DGX Spark-ers! Today I managed some pretty crazy numbers: **181 tok/s aggregate on 2× DGX Spark on Qwen3.8-Flash-Next at 512Kcontext (2.8M kvc)** I hit 181 tok/s aggregate today across a multi-agent fleet on a 2-node DGX Spark cluster. Single-stream decode is 30–50 tok/s — the 181 is total throughput with \\~9 concurrent agent sessions sharing the engine. I actually peaked to 195 while writing this. Quick rundown of how it's served: **Hardware** * 2× NVIDIA DGX Spark (GB10 Grace Blackwell, 128 GB unified memory each, 20-core ARM) * Nodes linked with a direct ConnectX-7 cable — NCCL over RDMA (RoCE, 200 Gb), TP=2 across both boxes * Verify `Using network IB` in the NCCL log — the TCP fallback is *silent* and costs you half your speed **Model** * Qwen3.8-Flash-Next, RadixArk **NVFP4** quant (4-bit routed experts, FP8 n-gram table) * Hybrid arch: 3/4 linear attention + 1/4 sparse full attention, 512-expert MoE, MTP speculative decoding k=3 (\\~40% acceptance) * Native 262K context stretched to **512K with YaRN factor 2.0** — needle-verified at 487K depth **The trick: PLE table on NVMe** * The model carries a 320M-row n-gram embedding table (**47.7 GiB in FP8**) that's read on every token — but each token only touches 16 rows (\\~2.5 KB) * We mmap it straight off NVMe instead of loading it: weights per node dropped **65 → 41 GiB** * Two things made it fast: `madvise(MADV_RANDOM)` on the mapping (hash-scattered lookups + kernel readahead = 30× read amplification — one 405K prefill read **603 GB** from disk before the fix, **19 GB** after) and 64 gather threads (the wall was fault latency serialization, not disk bandwidth) * Freed memory went into KV: pool is now **2.89M tokens** (5.5× full contexts) at a 40.6 GiB pin **vLLM config (official day-0 image, vllm/vllm-openai)** * `--kv-cache-memory 40600000000` — pin the pool explicitly; heads-up, a manual pin **ignores** `--gpu-memory-utilization`, size it from measured free RAM * `--max-num-batched-t…",
-      "excerpt_en": "r/LocalLLaMA · 222 upvotes · 48 comments · Hey all, and hello fellow DGX Spark-ers!…",
-      "link": "https://reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
-      "pub_date": "Fri, 28 Aug 2026 22:00:36 GMT",
+      "uid": "youtube|Fri, 04 Sep 2026 17:50:37 GMT|I Had Fable 5.1 and 5 Build Me the Same App",
+      "feed": "youtube",
+      "source_label": "იუთუბი",
+      "title_en": "I Had Fable 5.1 and 5 Build Me the Same App",
+      "description_en": "This video presents a direct comparative analysis of Anthropic's Fable 5 and Fable 5.1 models by tasking both with building the same application using identical prompts. It evaluates outputs based on cost, development time, worker usage, and final product quality, revealing significant improvements in efficiency and performance with the newer model. The blind test results add methodological rigor. This is highly valuable for AI practitioners and developers seeking empirical evidence of model progression and ROI in real-world agentic coding workflows.",
+      "excerpt_en": "This video presents a direct comparative analysis of Anthropic's Fable 5 and Fable 5.1 models by tasking both with building the same application using identical prompts.…",
+      "link": "https://www.youtube.com/watch?v=5FukkI4fbiU",
+      "pub_date": "Fri, 04 Sep 2026 17:50:37 GMT",
       "categories": [
-        "reddit",
-        "news/reddit"
+        "youtube",
+        "news/youtube"
       ],
-      "title_ka": "დღეს მე დავამარცხე 181 ტოკ/წმ (აგრეგატი) Qwen3.8-Flash-Next 2x DGX Sparks-ზე (Today)",
-      "excerpt_ka": "r/LocalLLaMA · 222 დადებითი ხმა · 48 კომენტარი · გამარჯობა ყველას, და გამარჯობა DGX Spark-ის თანამემამულეებო!… (Hey)",
-      "description_ka": "r/LocalLLaMA · 222 დადებითი ხმა · 48 კომენტარი · გამარჯობა ყველას, და გამარჯობა DGX Spark-ის თანამემამულეებო! დღეს მე მოვახერხე საკმაოდ გიჟური რიცხვები: **181 ტოკ/წმ აგრეგატი 2× DGX Spark-ზე Qwen3.8-Flash-Next-ზე 512Kcontext (2.8M kvc)** მე მივაღწიე 181 ტოკ/წმ აგრეგატს დღეს მრავალ აგენტურ ფლოტზე 2-კვანძის Sparklu DG-ზე. ერთჯერადი ნაკადის დეკოდი არის 30–50 ტოკ/წმ – 181 არის მთლიანი გამტარუნარიანობა \\~9 კონკურენტი აგენტის სესიით, რომლებიც იზიარებენ ძრავას. მე რეალურად მიაღწია პიკს 195-მდე ამის წერისას. მისი მომსახურეობის სწრაფი აღწერა: **Hardware** * 2× NVIDIA DGX Spark (GB10 Grace Blackwell, 128 GB ერთიანი მეხსიერება თითოეული, 20 ბირთვიანი ARM) * კვანძები, რომლებიც დაკავშირებულია პირდაპირ ConnectX-7 კაბელთან — NCCL RDMA-ზე (RoCE, 200 Gb NCIB, ორივე ქსელში, TP=2). — TCP სარეზერვო სისტემა *ჩუმად* და დაგიჯდებათ თქვენი სიჩქარის ნახევარი **Model** * Qwen3.8-Flash-Next, RadixArk **NVFP4** quant (4-bit მარშრუტირებული ექსპერტები, FP8 n-გრამის ცხრილი) * ჰიბრიდული თაღი: 3/4 წრფივი ყურადღება + 1/4 მწირი 12E სრული ყურადღება, MTP 5. (\\~40% მიღება) * მშობლიური 262K კონტექსტი გადაჭიმული **512K-მდე YaRN ფაქტორით 2.0** — ნემსით დამოწმებული 487K სიღრმეზე **ხრიკი: PLE ცხრილი NVMe-ზე** *მოდელს აქვს 320M მწკრივი n-გრამის ჩაშენების ცხრილი (** ამ კენჭისყრით F', მხოლოდ წაკითხვისას 47,7 G-მდე) ეხება (Freed, GiB, Hey, Hybrid, KB, KV, MoE, Native, Nodes, Quick, RAM, Single, Today, Two, Using, Verify, We)"
+      "title_ka": "I Had Fable 5.1 and 5 Build Me the Same App",
+      "excerpt_ka": "ეს ვიდეო წარმოგიდგენთ Anthropic-ის Fable 5 და Fable 5.1 მოდელების პირდაპირ შედარებით ანალიზს, ორივეს დავალებით ერთი და იგივე აპლიკაციის შექმნა იდენტური მოთხოვნის გამოყენებით.… (This)",
+      "description_ka": "ეს ვიდეო წარმოგიდგენთ Anthropic's Fable 5 და Fable 5.1 მოდელების პირდაპირ შედარებით ანალიზს, ორივეს დავალებით ერთი და იგივე აპლიკაციის შექმნა იდენტური მოთხოვნის გამოყენებით. ის აფასებს შედეგებს ხარჯების, განვითარების დროის, მუშათა გამოყენებისა და საბოლოო პროდუქტის ხარისხზე დაფუძნებული, რაც ავლენს მნიშვნელოვან გაუმჯობესებას ეფექტურობასა და შესრულებაში უახლესი მოდელით. ბრმა ტესტის შედეგები მეთოდოლოგიურ სიმკაცრეს მატებს. ეს ძალიან ღირებულია ხელოვნური ინტელექტის პრაქტიკოსებისთვის და დეველოპერებისთვის, რომლებიც ეძებენ მოდელის პროგრესირებისა და ROI-ის ემპირიულ მტკიცებულებებს რეალურ სამყაროში აგენტური კოდირების სამუშაო პროცესებში. (AI, It, This)"
     },
     {
       "uid": "youtube|Thu, 03 Sep 2026 18:02:46 GMT|Strange Geometric Shapes Found Inside AIs — Tom McGrath",
@@ -2115,14 +2353,14 @@
       "description_ka": "ეს ვიდეო გთავაზობთ Anthropic-ის Claude Code-ის ძირითადი განახლებების ყოვლისმომცველ, ტექნიკურად დეტალურ მიმოხილვას, მათ შორის ჯვარედინი სესიის აგენტის შეტყობინებებს, ავტო რეჟიმში, თვითმმართველობის ჰოსტინგის გარემოს, iOS სიმულატორის ინტეგრაციას, MCP-ზე მომუშავე არტეფაქტებს და კოდების მიმოხილვის გაუმჯობესებულ შესაძლებლობებს. ეს გვიჩვენებს, თუ როგორ ამ ფუნქციებს საშუალებას აძლევს უფრო ავტონომიური, აგენტური კოდირების სამუშაო ნაკადები და გარდაქმნას Claude Code პროგრამული უზრუნველყოფის განვითარების სრულ გარემოში. ანალიზი ღირებულია ხელოვნური ინტელექტის ინჟინრებისთვის, რომლებიც აშენებენ აგენტურ სისტემებს, რაც უზრუნველყოფს კონკრეტულ შეხედულებებს რეალურ სამყაროში აგენტური არქიტექტურისა და ხელსაწყოების ევოლუციის შესახებ. (AI, Auto, It, Mode, Simulator, This)"
     },
     {
-      "uid": "skill|Thu, 03 Sep 2026 18:04:38 GMT|self-improving agent",
+      "uid": "skill|Fri, 04 Sep 2026 17:52:35 GMT|self-improving agent",
       "feed": "skill",
       "source_label": "Skills",
       "title_en": "self-improving agent",
       "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
       "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
       "link": "https://clawhub.ai/pskoett/self-improving-agent",
-      "pub_date": "Thu, 03 Sep 2026 18:04:38 GMT",
+      "pub_date": "Fri, 04 Sep 2026 17:52:35 GMT",
       "categories": [
         "skill",
         "news/clawhub"
@@ -2132,14 +2370,14 @@
       "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea (Actually, Captures, No, Use, User)"
     },
     {
-      "uid": "skill|Thu, 03 Sep 2026 18:04:38 GMT|Skill Vetter",
+      "uid": "skill|Fri, 04 Sep 2026 17:52:35 GMT|Skill Vetter",
       "feed": "skill",
       "source_label": "Skills",
       "title_en": "Skill Vetter",
       "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
       "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
       "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-      "pub_date": "Thu, 03 Sep 2026 18:04:38 GMT",
+      "pub_date": "Fri, 04 Sep 2026 17:52:35 GMT",
       "categories": [
         "skill",
         "news/clawhub"
@@ -2147,6 +2385,40 @@
       "title_ka": "Skill Vetter",
       "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)",
       "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს. (Checks, Security, Use)"
+    },
+    {
+      "uid": "blog|Fri, 04 Sep 2026 17:40:33 GMT|Built an AI cofounder that remembers my startup's context between sessions",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "Built an AI cofounder that remembers my startup's context between sessions",
+      "description_en": "Every AI tool I tried gave me good one-off answers, then reset to zero the next session, so I kept re-explaining my own company to it. Built Pythe to fi...",
+      "excerpt_en": "Every AI tool I tried gave me good one-off answers, then reset to zero the next session, so I kept re-explaining my own company to it. Built Pythe to fi...",
+      "link": "https://www.indiehackers.com/post/built-an-ai-cofounder-that-remembers-my-startups-context-between-sessions-bb90ab83f6",
+      "pub_date": "Fri, 04 Sep 2026 17:40:33 GMT",
+      "categories": [
+        "blog",
+        "blog/builder_story"
+      ],
+      "title_ka": "შევქმენი AI თანადამფუძნებელი, რომელიც ახსოვს ჩემი სტარტაპის კონტექსტს სესიებს შორის (Built)",
+      "excerpt_ka": "ყოველი ხელოვნური ინტელექტის ინსტრუმენტი, რომელიც მე ვცადე, მაძლევდა ერთჯერად კარგ პასუხებს, შემდეგ გადავაყენე ნულამდე მომდევნო სესიაზე, ასე რომ, მე განვაგრძე მას საკუთარი კომპანიის ახსნა. ააშენა Pythe, რათა... (AI, Built, Every)",
+      "description_ka": "ყოველი ხელოვნური ინტელექტის ინსტრუმენტი, რომელიც მე ვცადე, მაძლევდა ერთჯერად კარგ პასუხებს, შემდეგ გადავაყენე ნულამდე მომდევნო სესიაზე, ასე რომ, მე განვაგრძე მას საკუთარი კომპანიის ახსნა. ააშენა Pythe, რათა... (AI, Built, Every)"
+    },
+    {
+      "uid": "blog|Fri, 04 Sep 2026 17:40:33 GMT|From broke and idealess to building a $100k/mo AI services company",
+      "feed": "blog",
+      "source_label": "ბლოგი",
+      "title_en": "From broke and idealess to building a $100k/mo AI services company",
+      "description_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
+      "excerpt_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
+      "link": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
+      "pub_date": "Fri, 04 Sep 2026 17:40:33 GMT",
+      "categories": [
+        "blog",
+        "blog/builder_story"
+      ],
+      "title_ka": "გაფუჭებული და უიდეო AI სერვისების კომპანიის აშენებამდე $100k/თვეში (From)",
+      "excerpt_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)",
+      "description_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)"
     },
     {
       "uid": "blog|Thu, 03 Sep 2026 17:52:05 GMT|Hitting $40k+ MRR with bottom-of-funnel content until AI search forced her to change tactics",
@@ -2251,21 +2523,38 @@
       "description_ka": "აგენტის გადახდა წელს რეალური გახდა. Stripe-მ გაგზავნა Machine Payments Protocol, Cloudflare-მა აგენტებს მისცა დაფინანსებული საფულეები ხარჯვის ზღვრებით და x402 quie... (Agent)"
     },
     {
-      "uid": "blog|Sat, 29 Aug 2026 17:28:46 GMT|From broke and idealess to building a $100k/mo AI services company",
-      "feed": "blog",
-      "source_label": "ბლოგი",
-      "title_en": "From broke and idealess to building a $100k/mo AI services company",
-      "description_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
-      "excerpt_en": "Aryan Mahajan went from broke to $100k/mo. Here's how.",
-      "link": "https://www.indiehackers.com/post/services/from-broke-and-idealess-to-building-a-100k-mo-ai-services-company-u1RLyhlzNUE8oNW504GV",
-      "pub_date": "Sat, 29 Aug 2026 17:28:46 GMT",
+      "uid": "paper|Fri, 04 Sep 2026 17:53:15 GMT|Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "description_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, we introduce diffusion-augmented LLMs, a new class of models that defines an AR model distribution while using diffusion to draw multiple tokens in parallel from that distribution. We decouple the parameters of these models into two sets: AR weights, trained using the standard NTP objective, and lightweight diffusion weights, trained to generate multiple tokens simultaneously. The diffusion weights are learned through a simple Diffusion Distillation phase that adds negligible overhead to existing LLM training pipelines. We also introduce $\\Psi$-Spec, a family of samplers that enables lossless acceleration and inference-time scaling at a fixed context length. Unlike speculative decoding, our method requires no separate draft model. Unlike diffusion LLMs (d-LLMs), it accelerates generation without sacrificing the quality of the underlying AR model. The resulting models, called Uno, can be trained from scratch or built by augmenting existing open-weight AR LLMs. Uno achieves higher throughput than leading speculative-decoding methods at every evaluated batch size and delivers up to $3\\times$ speedups over the base AR model, including at the largest batch size supported by the device. Notably, our 8B Uno model outperforms the leading open d-LLM, the 26B DiffusionGemma, and the proprietary Mercury 2 across all evaluated benchmarks in agentic tool use, coding, and long-context reasoning. We release code and checkpoints at: this https URL · Source: alphaxiv · Votes: 13",
+      "excerpt_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation.…",
+      "link": "https://www.alphaxiv.org/overview/2609.04010",
+      "pub_date": "Fri, 04 Sep 2026 17:53:15 GMT",
       "categories": [
-        "blog",
-        "blog/builder_story"
+        "paper",
+        "paper/alphaxiv"
       ],
-      "title_ka": "გაფუჭებული და უიდეო AI სერვისების კომპანიის აშენებამდე $100k/თვეში (From)",
-      "excerpt_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)",
-      "description_ka": "არიან მაჰაჯანი ავარიიდან 100 ათას დოლარამდე გადავიდა თვეში. აი როგორ. (Aryan, Here, Mahajan)"
+      "title_ka": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "excerpt_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას.… (LLMs, Language, Large, Models)",
+      "description_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას. ამ შეფერხების დასაძლევად, ჩვენ წარმოგიდგენთ დიფუზიის გაძლიერებულ LLM-ებს, მოდელების ახალ კლასს, რომელიც განსაზღვრავს AR მოდელის განაწილებას, ხოლო დიფუზიას იყენებს ამ განაწილებიდან პარალელურად მრავალი ტოკენის გამოსაყვანად. ჩვენ ამ მოდელების პარამეტრებს ვყოფთ ორ ნაწილად: AR წონები, მომზადებული სტანდარტული NTP მიზნის გამოყენებით და მსუბუქი დიფუზიური წონები, რომლებიც გაწვრთნილნი არიან მრავალი ნიშნის ერთდროულად გენერირებისთვის. დიფუზიური წონების შესწავლა ხდება მარტივი დიფუზიური დისტილაციის ფაზის მეშვეობით, რომელიც უმნიშვნელო ზედნად მატებს არსებულ LLM სასწავლო მილსადენებს. ჩვენ ასევე წარმოგიდგენთ $\\Psi$-Spec, სემპლერების ოჯახს, რომელიც იძლევა უზარმაზარ აჩქარებას და დასკვნის დროის სკალირებას კონტექსტის ფიქსირებულ სიგრძეზე. სპეკულაციური დეკოდირებისგან განსხვავებით, ჩვენი მეთოდი არ საჭიროებს ცალკეულ მოდელს. დიფუზიური LLM-ებისგან განსხვავებით (d-LLMs), ის აჩქარებს გენერირებას ძირითადი AR მოდელის ხარისხის შეწირვის გარეშე. შედეგად მიღებული მოდელები, სახელწოდებით Uno, შეიძლება ივარჯიშონ ნულიდან ან აშენდეს არსებული ღია წონის AR LLM-ების გაზრდით. Uno აღწევს უფრო მაღალ გამტარუნარიანობას, ვიდრე წამყვანი სპეკულაციური დეკოდირების მეთოდები ყველა შეფასებული სერიის ზომაზე და აწვდის $3\\t-მდე (Diffusion, DiffusionGemma, Distillation, Language, Large, Mercury, Models, Notably, Source, URL, Unlike, Votes, We)"
+    },
+    {
+      "uid": "paper|Fri, 04 Sep 2026 17:53:15 GMT|Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "feed": "paper",
+      "source_label": "კვლევა",
+      "title_en": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "description_en": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training. · Institutions: Affiliation: University of Chinese Academy of Sciences, Affiliation: Tsinghua University, Affiliation: Northeastern University, Affiliation: University of Illinois Urbana-Champaign, University of Chinese Academy of Sciences · Source: alphaxiv · Votes: 16",
+      "excerpt_en": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear.",
+      "link": "https://www.alphaxiv.org/overview/2609.04172",
+      "pub_date": "Fri, 04 Sep 2026 17:53:15 GMT",
+      "categories": [
+        "paper",
+        "paper/alphaxiv"
+      ],
+      "title_ka": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "excerpt_ka": "პოლიტიკის დისტილაცია (OPD) აერთიანებს სტუდენტების მიერ გენერირებულ გავრცელებას მასწავლებლის მხრიდან სიმტკიცის დონეზე. არსებულმა ნაშრომმა ძირითადად შეისწავლა მისი ალგორითმული ქცევა, რის გამოც ტრენინგის მონაცემების როლი გაურკვეველია. (Existing)",
+      "description_ka": "პოლიტიკის დისტილაცია (OPD) აერთიანებს სტუდენტების მიერ გენერირებულ გავრცელებას მასწავლებლის მხრიდან სიმტკიცის დონეზე. არსებულმა ნაშრომმა ძირითადად შეისწავლა მისი ალგორითმული ქცევა, რის გამოც ტრენინგის მონაცემების როლი გაურკვეველია. ჩვენ განვიხილავთ ამ როლს მონაცემთა მინიმალურ ლიმიტზე ერთ შეკითხვაზე ტრენინგის გზით. ერთჯერადი OPD აგრძელებს გაუმჯობესებას ასობით ნაბიჯის განმავლობაში და აღადგენს სრული მონაცემების OPD-ის მოგებას ამოცანების დომენებსა და მოდელის ოჯახებში. ჩვენ ავხსნით ამ შედეგს ტრენინგის დროს მონახულებული ქვეყნებისა და სტუდენტის მასწავლებელთან შეთანხმების ტემპით. ჩვენ ვზომავთ \\emph{შტატის დაფარვას}, ქვეყნების სრული მონაცემების OPD ვიზიტების ნაწილს, რომელსაც მიაღწევს შეკითხვის ნაკრების გავრცელება. ერთი მოთხოვნა უკვე აღწევს \\(71.5\\%\\), უმეტესობა პირველ 100 ნაბიჯში. სემანტიკურად განსხვავებული მოთხოვნების დამატება ზრდის დაფარვისა და ვალიდაციის სიზუსტეს ერთად, მანამ, სანამ 16 მოთხოვნა არ მიაღწევს \\(98.9\\%\\) და დაემთხვევა სრული მონაცემების ტრენინგს. მიუხედავად ამისა, განლაგება ანელებს მსგავსი ტემპით, მიუხედავად იმისა, OPD ვარჯიშობს ერთ შეკითხვაზე ან მთლიან მონაცემთა ბაზაზე, და მდგომარეობების ფიქსირებული ნაკრებიც კი ასობით ნაბიჯს დგამს შესათვისებლად. ამიტომ OPD არის მონაცემთა გადაჭარბებული, მაგრამ ალგორითმის შიმშილი. მისი გავრცელება სწრაფად ავლენს ფართო ზედამხედველობას, ხოლო სტუდენტი უფრო ნელა შთანთქავს ამ ზედამხედველობას. სახელმწიფო გაშუქების შედეგი ვრცელდება მრავალ მასწავლებელზე OPD, სადაც 16 semantica (Academy, Adding, Affiliation, Champaign, Chinese, Existing, Illinois, Institutions, Its, MOPD, Northeastern, One, Sciences, Source, Task, Tsinghua, University, Urbana, Votes, We, WildChat, Yet)"
     },
     {
       "uid": "paper|Thu, 03 Sep 2026 18:05:16 GMT|SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
@@ -2436,6 +2725,23 @@
       "title_ka": "Ignite Talks @ AI Conference 2026",
       "excerpt_ka": "დრო: ხუთ, 01 ოქტომბერი 2026 02:00:00 GMT · Ignite Talks @ AI Conference 2026 გაგვინათეთ, მაგრამ იჩქარეთ! 5 წუთი. 20 სლაიდი. ავტომატური წინსვლა ყოველ 15 წამში, მზად არის თუ არა. არ არის 45 წუთიანი ღრმა ჩაყვინთვის. (Auto, Enlighten, No, Oct, Thu, Time)",
       "description_ka": "დრო: ხუთ, 01 ოქტომბერი 2026 02:00:00 GMT · Ignite Talks @ AI Conference 2026 გაგვინათეთ, მაგრამ იჩქარეთ! 5 წუთი. 20 სლაიდი. ავტომატური წინსვლა ყოველ 15 წამში, მზად არის თუ არა. არ არის 45 წუთიანი ღრმა ჩაყვინთვის. მხოლოდ მშენებლების, მკვლევარების და დამფუძნებლების სწრაფი წყობა, რომელთაც ზუსტად ხუთი წუთი აქვთ ერთი იდეის ჩამოსაყალიბებლად, სანამ სლაიდები მათ გარეშე გააგრძელებენ. ველით ძნელად მიღებულ გაკვეთილებს ხელოვნური ინტელექტისგან წარმოებაში, მოსაზრებებს, რომლებიც თანამშრომლებმა უთხრეს, რომ არ გააზიარონ, და დემო ვერსიას, რომელიც შეიძლება იყოს ან არ მუშაობს. მასპინძლობს ბრედი ფორესტი, Ignite Talks-ის დამფუძნებელი. (Auto, Brady, Enlighten, Expect, Forrest, Hosted, Just, No, Oct, Thu, Time)"
+    },
+    {
+      "uid": "event|Sat, 26 Sep 2026 21:00:00 GMT|School of Thought: Show + Tell",
+      "feed": "event",
+      "source_label": "ივენთი",
+      "title_en": "School of Thought: Show + Tell",
+      "description_en": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC.",
+      "excerpt_en": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC.",
+      "link": "https://lu.ma/hq8w4lqc",
+      "pub_date": "Sat, 26 Sep 2026 21:00:00 GMT",
+      "categories": [
+        "event",
+        "event/luma"
+      ],
+      "title_ka": "School of Thought: Show + Tell",
+      "excerpt_ka": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC.",
+      "description_ka": "Time: Sat, 26 Sep 2026 21:00:00 GMT · Hosted by Super Sensitive Studios. 11+ attendees interested. In Vancouver, BC."
     },
     {
       "uid": "event|Sat, 26 Sep 2026 17:00:00 GMT|\"Empire of AI\" by Karen Hao",
@@ -2672,8 +2978,8 @@
         "event/meetup"
       ],
       "title_ka": "Microsoft 365 Summit 2026 – Community Day",
-      "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
-      "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
+      "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. (All, KAGIBAG. COM, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)",
+      "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG. COM/events](https://kagibag. com/en/events/Microsoft%20Summit? utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და… (All, From, KAGIBAG. COM, Multiple, One, Sep, Thu, Time) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG. COM) (KAGIBAG.COM)"
     }
   ],
   "feed_labels": {
@@ -2690,7 +2996,7 @@
   },
   "newsgraph_meta": {
     "translator": "google_corrected_smoothed",
-    "duplicate_items_dropped": 2,
-    "total_items": 73
+    "duplicate_items_dropped": 3,
+    "total_items": 82
   }
 }
