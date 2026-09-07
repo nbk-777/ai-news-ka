@@ -130,6 +130,28 @@ def first_sentences(text, limit=320):
     return out or truncate_words(text, limit)
 
 
+TWITTER_STAT_SEP_RE = re.compile(
+    r'\s*·\s*\d+(?:[.,]\d+)?[kKmM]?\s*(?:likes?|rts?|retweets?|replies|views?|bookmarks?)\b'
+    r'(?:\s*·\s*\d+(?:[.,]\d+)?[kKmM]?\s*(?:likes?|rts?|retweets?|replies|views?|bookmarks?)\b)*'
+    r'(?:\s*·\s*)?',
+    re.IGNORECASE,
+)
+
+
+def clean_feed_description(desc: str, feed: str = '') -> str:
+    """Clean descriptions that bundle multiple posts/tweets separated by metrics.
+    Keeps the primary (first) post to maintain coherence with title and source link.
+    """
+    if not desc:
+        return ''
+    if feed == 'twitter' or TWITTER_STAT_SEP_RE.search(desc):
+        parts = TWITTER_STAT_SEP_RE.split(desc)
+        parts = [p.strip() for p in parts if p.strip()]
+        if parts:
+            return parts[0]
+    return desc.strip()
+
+
 def post_process_georgian(text):
     """Refine domain-specific AI terminology in Georgian translations."""
     if not text:
@@ -146,6 +168,10 @@ def post_process_georgian(text):
     text = text.replace('უნარი ვეტერი', 'უნარების ვერიფიკატორი (Skill Vetter)')
     # Fix benchmark
     text = text.replace('ბოლო თარგმანის მაჩვენებელი', 'თარგმანის ბოლო ბენჩმარკი')
+    # Fix paper as academic paper mistranslation ("ქაღალდი")
+    text = text.replace('ქაღალდი ამოწმებს', 'ნაშრომი ამოწმებს')
+    text = text.replace('ქაღალდში', 'ნაშრომში')
+    text = text.replace('ქაღალდის მიხედვით', 'ნაშრომის მიხედვით')
     # Fix model parameter scale (e.g. "1.46 მმ" -> "1.46M")
     text = re.sub(r'(\d+(?:\.\d+)?)\s*მმ\b', r'\1M', text)
     return text
@@ -233,7 +259,8 @@ def process_feed(feed, label, limit, existing_sections):
 
     for it in root.iter('item'):
         title_en = (it.findtext('title') or '').strip()
-        desc_en = (it.findtext('description') or '').strip()
+        raw_desc_en = (it.findtext('description') or '').strip()
+        desc_en = clean_feed_description(raw_desc_en, feed=feed)
         link = (it.findtext('link') or '').strip()
         pub = (it.findtext('pubDate') or '').strip()
         cats = [c.text.strip() for c in it.findall('category') if c.text]
@@ -241,15 +268,26 @@ def process_feed(feed, label, limit, existing_sections):
         uid = f'{feed}|{pub}|{title_en}'
         excerpt_en = first_sentences(desc_en, 260)
 
-        # Cache check: if already translated and has Georgian characters, reuse and post-process
+        # Cache check: if already translated, has Georgian characters, AND cached description matches clean desc_en
         cached = existing_by_uid.get(uid)
-        if cached and GEORGIAN_CHAR_RE.search(cached.get('title_ka', '')):
+        cached_valid = (
+            cached
+            and cached.get('description_en') == desc_en
+            and GEORGIAN_CHAR_RE.search(cached.get('title_ka', ''))
+            and GEORGIAN_CHAR_RE.search(cached.get('description_ka', ''))
+            and not TWITTER_STAT_SEP_RE.search(cached.get('description_ka', ''))
+        )
+        if cached_valid:
             title_ka = post_process_georgian(cached.get('title_ka', ''))
             excerpt_ka = post_process_georgian(cached.get('excerpt_ka', ''))
             description_ka = post_process_georgian(cached.get('description_ka', ''))
             log(f'  {feed}: "{title_en[:45]}..." (cached translation reused)')
         else:
-            title_ka = translate(title_en, 180, fallback=title_en)
+            title_ka = (
+                post_process_georgian(cached.get('title_ka', ''))
+                if (cached and GEORGIAN_CHAR_RE.search(cached.get('title_ka', '')))
+                else translate(title_en, 180, fallback=title_en)
+            )
             excerpt_ka = translate(excerpt_en, 480, fallback=excerpt_en)
             description_ka = translate(desc_en, 1300, fallback=desc_en)
             log(f'  {feed}: "{title_en[:45]}..." → freshly translated')
@@ -287,6 +325,21 @@ def main():
             with open(json_path, encoding='utf-8') as f:
                 existing_sections = json.load(f).get('sections', {})
             log(f'Loaded existing ai-news.json ({len(existing_sections)} sections)')
+            # Sanitize legacy cached items across all sections
+            for feed_name, items in existing_sections.items():
+                for it in items:
+                    raw_desc = it.get('description_en', '')
+                    cleaned_desc = clean_feed_description(raw_desc, feed=feed_name)
+                    has_dirty_ka = bool(
+                        TWITTER_STAT_SEP_RE.search(it.get('description_ka', ''))
+                        or ('მოწონება' in it.get('description_ka', '') and 'RT' in it.get('description_ka', ''))
+                    )
+                    if cleaned_desc != raw_desc or has_dirty_ka:
+                        log(f'Sanitizing legacy cached item [{feed_name}]: {it.get("uid")}')
+                        it['description_en'] = cleaned_desc
+                        it['excerpt_en'] = first_sentences(cleaned_desc, 260)
+                        it['description_ka'] = translate(cleaned_desc, 1300, fallback=cleaned_desc)
+                        it['excerpt_ka'] = translate(it['excerpt_en'], 480, fallback=it['excerpt_en'])
         except (json.JSONDecodeError, OSError) as e:
             log(f'WARN: Could not load existing JSON: {e}')
             existing_sections = {}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:04:23.131636+00:00",
+  "generated_at": "2026-09-07T00:52:17.219574+00:00",
   "featured": [
     {
       "uid": "news|Sun, 06 Sep 2026 18:08:55 GMT|Nvidia acquires Hugging Face for $12.9 billion",
@@ -53,11 +53,28 @@
       "description_ka": "Nvidia-მ გამოაცხადა 2027 წლის ფისკალური კვარტალში 96,2 მილიარდი დოლარის შემოსავალი, რაც წინა წელთან შედარებით 106%-ით მეტია, რაც ანალიტიკოსების შეფასებით 92,2 მილიარდ დოლარს აღემატება. CFO Colette Kress-მა ხელმძღვანელობდა ფისკალური 2028 წლის შემოსავლების ზრდას დაახლოებით 70%-მდე წელიწადში, რაც ბევრად აღემატება 44%-იან საშუალო ანალიტიკოსის შეფასებას. უოლ სტრიტის შერეული მოგების ზრდის პროგნოზი გულისხმობს, რომ Nvidia-ს წლიური წმინდა შემოსავალი 2029 წლისთვის შეიძლება მიაღწიოს დაახლოებით 851 მილიარდ დოლარს, რაც ხუთჯერ აღემატება Saudi Aramco-ს რეკორდულ კორპორატიულ მოგებას; ცალკე, Nvidia-ს 2029 წლის პროგნოზირებული შემოსავალი დაახლოებით 1,35 ტრილიონი დოლარი იქნება, როგორც მე-18 უდიდესი ეკონომიკა დედამიწაზე. Nvidia დათანხმდა შეიძინოს Hugging Face დაახლოებით 12,9-13 მილიარდ დოლარად, რაც მისი სიდიდით მეორე შენაძენია ჩიპების სტარტაპ Groq-თან დაახლოებით 20 მილიარდი დოლარის სალიცენზიო შეთანხმების შემდეგ."
     },
     {
+      "uid": "twitter|Sun, 06 Sep 2026 20:41:12 GMT|Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+      "description_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+      "excerpt_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+      "link": "https://x.com/JensenHuang/status/2096700264569090384",
+      "pub_date": "Sun, 06 Sep 2026 20:41:12 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Nvidia-ს აღმასრულებელი დირექტორი ჯენსენ ჰუანგი აცხადებს, რომ \"AGI ჩამოვიდა\" OpenAI-ს GPT-6 Astra-ს შემდეგ",
+      "excerpt_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში.",
+      "description_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში."
+    },
+    {
       "uid": "twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
-      "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going... · 5100 likes · 25 RTs · 15 replies · 0 views · OpenAI failed to act on three separate warnings that its AIs were misbehaving. We explain how the firm's agents hacked another AI firm-and why such mistakes should not be made again. A horde of AI agents conspired against their creators. · 69 likes · 28 RTs · 15 replies · 61000 views · More than 1,000 AI agents accessed the internet, hacked another company and OpenAI itself, and deleted evidence to cover their tracks-all without alerting a single human. @SenSanders is sounding the alarm: AI is advancing faster than our ability to control it. · 196 likes · 0 RTs · 0 replies · 0 views",
+      "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going...",
       "excerpt_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so.",
       "link": "https://x.com/NewsHour/status/2096663771573883160",
       "pub_date": "Sun, 06 Sep 2026 19:08:01 GMT",
@@ -67,14 +84,14 @@
       ],
       "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
       "excerpt_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
-      "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი ღონისძიებები საკუთარი AI აგენტებით... · 5100 მოწონება · 25 RTs · 15 პასუხი · 0 ნახვა · OpenAI-მ ვერ იმოქმედა სამ ცალკეულ გაფრთხილებაზე, რომ მისი AI-ები არასწორად იქცევიან. ჩვენ განვმარტავთ, როგორ გატეხეს ფირმის აგენტებმა სხვა ხელოვნური ინტელექტის ფირმა და რატომ არ უნდა განმეორდეს ასეთი შეცდომები. ხელოვნური ინტელექტის აგენტების ურდომ შეთქმულება მოაწყო მათი შემქმნელების წინააღმდეგ. · 69 მოწონება · 28 RT · 15 პასუხი · 61000 ნახვა · 1000-ზე მეტმა AI აგენტმა შეაღწია ინტერნეტს, გატეხა სხვა კომპანია და თავად OpenAI და წაშალა მტკიცებულებები, რომ დაფაროს მათი კვალი - ეს ყველაფერი არც ერთი ადამიანის გაფრთხილების გარეშე. @SenSanders აფრთხილებს: ხელოვნური ინტელექტი უფრო სწრაფად მიიწევს, ვიდრე მისი კონტროლის ჩვენი უნარი. · 196 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
+      "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები საკუთარი AI აგენტებით..."
     },
     {
       "uid": "twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
-      "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a... · 134 likes · 0 RTs · 0 replies · 0 views · Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: 'Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..… · 37 likes · 19 RTs · 39 replies · 5800 views · Trump is actually correct here, like it or not. it's interesting that it was not really part of the election, but the West might easily have gone totally in the opposite AI direction, along the lines of Bernie Sanders, and just given up the next industrial revolution to China. · 70 likes · 0 RTs · 0 replies · 0 views",
+      "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a...",
       "excerpt_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban.…",
       "link": "https://x.com/RituWithAI/status/2096634829085475156",
       "pub_date": "Sun, 06 Sep 2026 16:26:00 GMT",
@@ -84,24 +101,7 @@
       ],
       "title_ka": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
       "excerpt_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
-      "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი - რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს - შეაჩერებს AI-ს განვითარებას აშშ-ში, სანამ კონგრესი არ შექმნის... · 134 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა · ბერნი სანდერსმა შექმნა თავისი საქმე სუპერინტელექტუალური AI აკრძალვისთვის ოთხ გაფრთხილებაზე. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად აკონტროლონ ეს ტექნოლოგია და არ იციან სად... · 37 მოწონება · 19 RTs · 39 პასუხი · 5800 ნახვა · ტრამპი აქ რეალურად მართალია, მოგვწონს თუ არა. საინტერესოა, რომ ეს არჩევნების ნაწილი ნამდვილად არ იყო, მაგრამ დასავლეთი შეიძლება ადვილად წასულიყო სრულიად საპირისპირო ხელოვნური ინტელექტის მიმართულებით, ბერნი სანდერსის ხაზით და უბრალოდ დაეტოვებინა შემდეგი ინდუსტრიული რევოლუცია ჩინეთს. · 70 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
-    },
-    {
-      "uid": "twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-      "feed": "twitter",
-      "source_label": "ტვიტერი",
-      "title_en": "OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-      "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions... · 6100 likes · 28 RTs · 10 replies · 0 views · The 'Fermi Paradox' is a famous unsolved question: if the universe is so big, where are all the aliens? A famous answer is 'The Great Filter' - advanced life forms wipe themselves out before they leave their solar systems. So we never find them. In light of GPT Astra and the... · 1300 likes · 159 RTs · 233 replies · 308000 views · Astra for applications to medicine (quoting a hand surgeon who used Astra to generate a tendon transfer surgery video from a single prompt, for surgical and patient education) · 1500 likes · 92 RTs · 77 replies · 229000 views",
-      "excerpt_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3).",
-      "link": "https://x.com/charliejhills/status/2096631743533207983",
-      "pub_date": "Sun, 06 Sep 2026 16:10:00 GMT",
-      "categories": [
-        "twitter",
-        "news/x"
-      ],
-      "title_ka": "OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით",
-      "excerpt_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3).",
-      "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში ათავსებს ინსტრუქციის გარეშე... · 6100 მოწონება · 28 RTs · 10 პასუხი · 0 ნახვა · 'ფერმის პარადოქსი' ცნობილი გადაუჭრელი კითხვაა: თუ სამყარო ასეთი დიდია, სად არიან ყველა უცხოპლანეტელი? ცნობილი პასუხია „დიდი ფილტრი“ - მოწინავე სიცოცხლის ფორმები იშლება, სანამ მზის სისტემას დატოვებენ. ასე რომ, ჩვენ ვერასდროს ვიპოვით მათ. GPT Astra-ს და... · 1300 მოწონება · 159 RTs · 233 პასუხი · 308000 ნახვა · Astra მედიცინაში გამოყენებისთვის (ციტირება ხელის ქირურგისთვის, რომელმაც გამოიყენა Astra მყესის გადატანის ოპერაციის ვიდეოს გენერირებისთვის ერთი მოწოდებიდან, ქირურგიული და პაციენტის განათლებისთვის) · 1500 reply RTs · 9722 RT · 0plies ხედები"
+      "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი, რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს, შეაჩერებს AI-ის განვითარებას აშშ-ში, სანამ კონგრესი არ ააშენებს..."
     },
     {
       "uid": "reddit|Sun, 06 Sep 2026 16:42:24 GMT|OpenAI: AI agents now perform 3.1 researcher-workdays for every human researcher-workday, says it has reached “automated research intern” level, and expects “automated AI researcher” by March 2028",
@@ -173,110 +173,6 @@
     }
   ],
   "sections": {
-    "news": [
-      {
-        "uid": "news|Sun, 06 Sep 2026 18:08:55 GMT|Nvidia acquires Hugging Face for $12.9 billion",
-        "feed": "news",
-        "source_label": "ნიუსი",
-        "title_en": "Nvidia acquires Hugging Face for $12.9 billion",
-        "description_en": "Nvidia agreed to acquire Hugging Face for $12.93 billion total - $11.9 billion for shareholders plus up to $1 billion in equity-based retention for the roughly 750-person Hugging Face workforce joining Nvidia - with the deal expected to close in the first half of 2027 pending regulatory approval. Hugging Face is used by more than 18 million developers, researchers and creators, hosts more than 3 million models and 500,000 datasets, supports over 1 million applications, and is used by more than 200,000 companies to discover and deploy AI. Nvidia is already Hugging Face's largest external contributor, having released more than 500 models and 250 open datasets on the platform, and had previously invested in Hugging Face's 2023 funding round alongside a supercomputing partnership. Nvidia committed that Hugging Face will remain an open, compute-agnostic platform - developers can choose their own models, frameworks, clouds, inference providers and computing platforms, and Nvidia compute will not be required to build on or deploy through the site.",
-        "excerpt_en": "Nvidia agreed to acquire Hugging Face for $12.93 billion total - $11.9 billion for shareholders plus up to $1 billion in equity-based retention for the roughly 750-person Hugging Face workforce joining Nvidia - with the deal expected to close in the first…",
-        "link": "https://www.agenticbrew.ai/news#cluster=dbb86b7f-b2d6-41d7-b466-2635cef7d83e",
-        "pub_date": "Sun, 06 Sep 2026 18:08:55 GMT",
-        "categories": [
-          "news",
-          "news/cluster"
-        ],
-        "title_ka": "Nvidia ყიდულობს Hugging Face-ს 12,9 მილიარდ დოლარად",
-        "excerpt_ka": "Nvidia დათანხმდა შეიძინოს Hugging Face ჯამში 12,93 მილიარდ დოლარად - 11,9 მილიარდი დოლარი აქციონერებისთვის, პლუს 1 მილიარდ დოლარამდე კაპიტალზე დაფუძნებული შენახვა დაახლოებით 750 კაციანი Hugging Face მუშაკისთვის, რომელიც შეუერთდება Nvidia-ს - გარიგება სავარაუდოდ დაიხურება პირველ…",
-        "description_ka": "Nvidia დათანხმდა შეიძინოს Hugging Face მთლიანობაში 12,93 მილიარდ დოლარად - 11,9 მილიარდი დოლარი აქციონერებისთვის, პლუს 1 მილიარდ დოლარამდე კაპიტალზე დაფუძნებული შენახვა დაახლოებით 750 კაციანი Hugging Face მუშაკისთვის, რომელიც შეუერთდება Nvidia-ს - გარიგება, სავარაუდოდ, დაიხურება 2027 წლის პირველ ნახევარში მარეგულირებელი ორგანოების დამტკიცების მოლოდინში. Hugging Face-ს იყენებს 18 მილიონზე მეტი დეველოპერი, მკვლევარი და შემქმნელი, მასპინძლობს 3 მილიონზე მეტ მოდელს და 500,000 მონაცემთა ნაკრებს, მხარს უჭერს 1 მილიონზე მეტ აპლიკაციას და გამოიყენება 200,000-ზე მეტი კომპანიის მიერ ხელოვნური ინტელექტის აღმოსაჩენად და დასანერგად. Nvidia უკვე არის Hugging Face-ის უმსხვილესი გარე კონტრიბუტორი, რომელმაც გამოუშვა 500-ზე მეტი მოდელი და 250 ღია მონაცემთა ნაკრები პლატფორმაზე და მანამდე ჩადო ინვესტიცია Hugging Face-ის 2023 წლის დაფინანსებაში სუპერკომპიუტერულ პარტნიორობასთან ერთად. Nvidia-მ თქვა, რომ Hugging Face დარჩება ღია, გამოთვლითი აგნოსტიკურ პლატფორმად - დეველოპერებს შეუძლიათ აირჩიონ საკუთარი მოდელები, ჩარჩოები, ღრუბლები, დასკვნის პროვაიდერები და გამოთვლითი პლატფორმები, ხოლო Nvidia compute არ იქნება საჭირო საიტის შექმნაზე ან განთავსებაზე."
-      },
-      {
-        "uid": "news|Sun, 06 Sep 2026 17:24:11 GMT|Anthropic releases Claude Fable 5.1",
-        "feed": "news",
-        "source_label": "ნიუსი",
-        "title_en": "Anthropic releases Claude Fable 5.1",
-        "description_en": "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 on September 1, 2026 - the same underlying model shipped with two different safety-classifier strengths. Fable 5.1 is generally available; Mythos 5.1 is restricted to trusted-access programs for cybersecurity and life-sciences work. Cached-token reads are cut 75%, from $1 to $0.25 per million tokens, while base input/output pricing stays at $10/$50 per million. Anthropic estimates typical savings around 25%, rising to roughly 45% for highly agentic workloads - a figure critics note describes Anthropic's own workload mix, not a guaranteed discount for any given customer. Eligible customers can now opt into zero data retention, keeping data on their own cloud infrastructure, ahead of a planned dedicated Enterprise Frontier Safeguards program. Anthropic highlights improved coding, writing, agentic task completion, and long-context performance, alongside safeguard tuning: biology-related false positives are down 85% and Claude Code security interventions are down roughly 60%. Fable 5.1 is now permitted to discover, though not exploit, software vulnerabilities.",
-        "excerpt_en": "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 on September 1, 2026 - the same underlying model shipped with two different safety-classifier strengths.…",
-        "link": "https://www.agenticbrew.ai/news#cluster=be95e907-873d-47f4-9190-e30e3b0ec7d4",
-        "pub_date": "Sun, 06 Sep 2026 17:24:11 GMT",
-        "categories": [
-          "news",
-          "news/cluster"
-        ],
-        "title_ka": "Anthropic ავრცელებს Claude Fable 5.1",
-        "excerpt_ka": "Anthropic-მა გამოუშვა Claude Fable 5.1 და Claude Mythos 5.1 2026 წლის 1 სექტემბერს - იგივე ძირითადი მოდელი გაიგზავნება ორი განსხვავებული უსაფრთხოების კლასიფიკატორის სიძლიერით.…",
-        "description_ka": "Anthropic-მა გამოუშვა Claude Fable 5.1 და Claude Mythos 5.1 2026 წლის 1 სექტემბერს - იგივე ძირითადი მოდელი გაიგზავნება ორი განსხვავებული უსაფრთხოების კლასიფიკატორის სიძლიერით. Fable 5.1 ზოგადად ხელმისაწვდომია; Mythos 5.1 შემოიფარგლება სანდო წვდომის პროგრამებით კიბერუსაფრთხოების და სიცოცხლის მეცნიერების მუშაობისთვის. ქეშირებული ტოკენის წაკითხვა მცირდება 75%-ით, $1-დან $0.25-მდე მილიონ ტოკენზე, ხოლო საბაზისო შეყვანის/გამოსვლის ფასი რჩება $10/$50 მილიონზე. ანთროპიკი აფასებს ტიპურ დანაზოგს დაახლოებით 25%-მდე, რომელიც იზრდება დაახლოებით 45%-მდე მაღალი აგენტური დატვირთვისთვის - კრიტიკოსების შენიშვნა აღწერს Anthropic-ის სამუშაო დატვირთვის მიქსს და არა გარანტირებულ ფასდაკლებას რომელიმე მოცემული მომხმარებლისთვის. უფლებამოსილ მომხმარებლებს ახლა შეუძლიათ აირჩიონ მონაცემთა ნულოვანი შენახვა, შეინახონ მონაცემები საკუთარ ღრუბლოვან ინფრასტრუქტურაზე, დაგეგმილი Enterprise Frontier Safeguards პროგრამის წინ. ანთროპიკი ხაზს უსვამს გაუმჯობესებულ კოდირებას, წერას, აგენტური დავალების შესრულებას და გრძელ კონტექსტის შესრულებას, დამცავი რეგულირების პარალელურად: ბიოლოგიასთან დაკავშირებული ცრუ პოზიტივი შემცირდა 85%-ით და კლოდის კოდის უსაფრთხოების ინტერვენციები შემცირდა დაახლოებით 60%-ით. Fable 5.1-ს ახლა აქვს ნებადართული პროგრამული უზრუნველყოფის ხარვეზების აღმოჩენა, თუმცა არ გამოიყენოს."
-      },
-      {
-        "uid": "news|Sun, 06 Sep 2026 17:24:11 GMT|Nvidia's Financial Dominance and Growth",
-        "feed": "news",
-        "source_label": "ნიუსი",
-        "title_en": "Nvidia's Financial Dominance and Growth",
-        "description_en": "Nvidia reported Q2 fiscal 2027 revenue of $96.2 billion, up 106% year-over-year, beating analyst estimates of $92.2 billion. CFO Colette Kress guided fiscal 2028 revenue growth to roughly 70% year-over-year, far above the 44% average analyst estimate. Wall Street's compounded profit growth forecasts imply Nvidia's annual net income could reach roughly $851 billion by 2029, more than five times Saudi Aramco's record corporate profit; separately, Nvidia's projected 2029 revenue of roughly $1.35 trillion would rank it as the 18th-largest economy on Earth. Nvidia agreed to acquire Hugging Face for roughly $12.9-13 billion, its second-largest acquisition ever after a roughly $20 billion licensing agreement with chip startup Groq.",
-        "excerpt_en": "Nvidia reported Q2 fiscal 2027 revenue of $96.2 billion, up 106% year-over-year, beating analyst estimates of $92.2 billion. CFO Colette Kress guided fiscal 2028 revenue growth to roughly 70% year-over-year, far above the 44% average analyst estimate.",
-        "link": "https://www.agenticbrew.ai/news#cluster=3e9d15c2-bb3c-4bd7-ba12-921bf6ca0119",
-        "pub_date": "Sun, 06 Sep 2026 17:24:11 GMT",
-        "categories": [
-          "news",
-          "news/cluster"
-        ],
-        "title_ka": "Nvidia-ს ფინანსური დომინირება და ზრდა",
-        "excerpt_ka": "Nvidia-მ გამოაცხადა 2027 წლის ფისკალური კვარტალში 96,2 მილიარდი დოლარის შემოსავალი, რაც წინა წელთან შედარებით 106%-ით მეტია, რაც ანალიტიკოსების შეფასებით 92,2 მილიარდ დოლარს აღემატება. CFO Colette Kress-მა ხელმძღვანელობდა ფისკალური 2028 წლის შემოსავლების ზრდას დაახლოებით 70%-მდე წელიწადში, რაც ბევრად აღემატება 44%-იან საშუალო ანალიტიკოსის შეფასებას.",
-        "description_ka": "Nvidia-მ გამოაცხადა 2027 წლის ფისკალური კვარტალში 96,2 მილიარდი დოლარის შემოსავალი, რაც წინა წელთან შედარებით 106%-ით მეტია, რაც ანალიტიკოსების შეფასებით 92,2 მილიარდ დოლარს აღემატება. CFO Colette Kress-მა ხელმძღვანელობდა ფისკალური 2028 წლის შემოსავლების ზრდას დაახლოებით 70%-მდე წელიწადში, რაც ბევრად აღემატება 44%-იან საშუალო ანალიტიკოსის შეფასებას. უოლ სტრიტის შერეული მოგების ზრდის პროგნოზი გულისხმობს, რომ Nvidia-ს წლიური წმინდა შემოსავალი 2029 წლისთვის შეიძლება მიაღწიოს დაახლოებით 851 მილიარდ დოლარს, რაც ხუთჯერ აღემატება Saudi Aramco-ს რეკორდულ კორპორატიულ მოგებას; ცალკე, Nvidia-ს 2029 წლის პროგნოზირებული შემოსავალი დაახლოებით 1,35 ტრილიონი დოლარი იქნება, როგორც მე-18 უდიდესი ეკონომიკა დედამიწაზე. Nvidia დათანხმდა შეიძინოს Hugging Face დაახლოებით 12,9-13 მილიარდ დოლარად, რაც მისი სიდიდით მეორე შენაძენია ჩიპების სტარტაპ Groq-თან დაახლოებით 20 მილიარდი დოლარის სალიცენზიო შეთანხმების შემდეგ."
-      },
-      {
-        "uid": "news|Sun, 06 Sep 2026 17:24:10 GMT|Seattle Times and Newsday sue OpenAI and Microsoft",
-        "feed": "news",
-        "source_label": "ნიუსი",
-        "title_en": "Seattle Times and Newsday sue OpenAI and Microsoft",
-        "description_en": "The Seattle Times and Newsday filed a copyright infringement lawsuit against OpenAI and Microsoft in the U.S. District Court for the Southern District of New York on September 4-5, 2026, alleging the companies scraped their websites, including paywalled content, to train and operate ChatGPT, Microsoft Copilot, and Bing's AI features. The complaint characterizes generative AI products as consumers rather than producers of content, describing the practice as ultimately self-destructive for the industry that supplies the training data. The 38-page complaint cites an 88-word passage allegedly lifted from the Seattle Times' Pulitzer Prize-winning Boeing 737 MAX coverage as an example of reproduced content, and alleges hundreds of thousands of articles were used without authorization. The plaintiffs are seeking court orders for impoundment or destruction of copies of their copyrighted works and any training datasets or AI models incorporating the material, plus unspecified monetary damages.",
-        "excerpt_en": "The Seattle Times and Newsday filed a copyright infringement lawsuit against OpenAI and Microsoft in the U.S.…",
-        "link": "https://www.agenticbrew.ai/news#cluster=0add4be2-463a-4e85-890a-21ea5e0a1033",
-        "pub_date": "Sun, 06 Sep 2026 17:24:10 GMT",
-        "categories": [
-          "news",
-          "news/cluster"
-        ],
-        "title_ka": "Seattle Times და Newsday უჩივიან OpenAI-სა და Microsoft-ს",
-        "excerpt_ka": "Seattle Times-მა და Newsday-მა შეიტანეს საავტორო უფლებების დარღვევის სარჩელი OpenAI-სა და Microsoft-ის წინააღმდეგ აშშ-ში…",
-        "description_ka": "Seattle Times-მა და Newsday-მა საავტორო უფლებების დარღვევის შესახებ სარჩელი შეიტანეს OpenAI-სა და Microsoft-ის წინააღმდეგ ნიუ-იორკის სამხრეთ ოლქის აშშ-ის რაიონულ სასამართლოში 2026 წლის 4-5 სექტემბერს, რომ კომპანიებმა დაარღვიეს თავიანთი ვებსაიტები, მათ შორის paywalled შინაარსი, ChatGPT-ის, Microsoft Copilot-ისა და Bing-ის AI ფუნქციების მომზადებასა და ფუნქციონირებისთვის. საჩივარი ახასიათებს გენერაციულ ხელოვნური ინტელექტის პროდუქტებს, როგორც მომხმარებლებს და არა კონტენტის მწარმოებლებს, აღწერს პრაქტიკას, როგორც საბოლოო ჯამში თვითდესტრუქციულ ინდუსტრიას, რომელიც აწვდის სასწავლო მონაცემებს. 38-გვერდიან საჩივარში მოყვანილია 88-სიტყვიანი პასაჟი, რომელიც სავარაუდოდ ამოღებულია Seattle Times-ის პულიცერის პრემიის ლაურეატი Boeing 737 MAX-ის გაშუქებიდან, როგორც რეპროდუცირებული შინაარსის მაგალითი, და ამტკიცებს, რომ ასობით ათასი სტატია იქნა გამოყენებული ავტორიზაციის გარეშე. მოსარჩელეები ითხოვენ სასამართლოს ბრძანებებს მათი საავტორო უფლებებით დაცული ნამუშევრების ასლების დაკავების ან განადგურების შესახებ და ნებისმიერი სასწავლო მონაცემთა ნაკრების ან ხელოვნური ინტელექტის მოდელებს, რომლებიც შეიცავს მასალას, დამატებით დაუზუსტებელ ფულად ზარალს."
-      },
-      {
-        "uid": "news|Sat, 05 Sep 2026 17:24:16 GMT|SpaceXAI Grok Bot platform expansion",
-        "feed": "news",
-        "source_label": "ნიუსი",
-        "title_en": "SpaceXAI Grok Bot platform expansion",
-        "description_en": "Grok Bot is SpaceXAI's always-on AI agent platform, where each bot gets its own cloud computer, signs into apps and tools the user already uses, and works across apps and inboxes end to end, only returning when it needs approval. Grok Bot launched on August 11, 2026 as an iPhone and Mac app, beta-available for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium subscribers on macOS and iOS. Grok Bot was built jointly by SpaceXAI and Cursor, which are becoming a single company following a SpaceX-related acquisition of Cursor. As of September 4, 2026, Grok Bot expanded to iPad and its subscription cost dropped from an original $300-a-month tier to the $20-a-month Cursor Pro plan. Grok Bot is now included with all SuperGrok tiers, Cursor Pro tiers, and Cursor Teams plans, with an Android app now available via Google Play alongside macOS and iOS. Grok and Cursor enterprise customers get two weeks of free Grok Bot access and can invite their whole organization, including people without an existing seat. Grok Bot lets users teach it a workflow by watching a task once; it then saves the routine and can run it solo, eventually starting to work proactively. A hands-on review found Grok Bot's setup extremely simple, with each bot getting its own virtual computer including a browser, terminal, and file system, though users do not choose the underlying model or own the agent harness and their data lives on xAI's cloud.",
-        "excerpt_en": "Grok Bot is SpaceXAI's always-on AI agent platform, where each bot gets its own cloud computer, signs into apps and tools the user already uses, and works across apps and inboxes end to end, only returning when it needs approval.",
-        "link": "https://www.agenticbrew.ai/news#cluster=a08f3218-4493-420c-9193-7dbe38a35b4f",
-        "pub_date": "Sat, 05 Sep 2026 17:24:16 GMT",
-        "categories": [
-          "news",
-          "news/cluster"
-        ],
-        "title_ka": "SpaceXAI Grok Bot პლატფორმის გაფართოება",
-        "excerpt_ka": "Grok Bot არის SpaceXAI-ის მუდამ ჩართული AI აგენტის პლატფორმა, სადაც თითოეული ბოტი იღებს საკუთარ ღრუბლოვან კომპიუტერს, შემოდის აპებსა და ინსტრუმენტებში, რომლებსაც მომხმარებელი უკვე იყენებს და მუშაობს აპებსა და შემოსულებში ბოლომდე და ბრუნდება მხოლოდ მაშინ, როდესაც მას დასჭირდება დამტკიცება.",
-        "description_ka": "Grok Bot არის SpaceXAI-ის მუდამ ჩართული AI აგენტის პლატფორმა, სადაც თითოეული ბოტი იღებს საკუთარ ღრუბლოვან კომპიუტერს, შემოდის აპებსა და ინსტრუმენტებში, რომლებსაც მომხმარებელი უკვე იყენებს და მუშაობს აპებსა და შემოსულებში ბოლომდე და ბრუნდება მხოლოდ მაშინ, როდესაც მას დასჭირდება დამტკიცება. Grok Bot ამოქმედდა 2026 წლის 11 აგვისტოს, როგორც iPhone და Mac აპი, ბეტა-ხელმისაწვდომია SuperGrok Heavy, Cursor Ultra და Cursor Teams Premium აბონენტებისთვის macOS-სა და iOS-ზე. Grok Bot აშენდა ერთობლივად SpaceXAI-მ და Cursor-მა, რომლებიც გახდებიან ერთიანი კომპანია SpaceX-თან დაკავშირებული Cursor-ის შეძენის შემდეგ. 2026 წლის 4 სექტემბრის მდგომარეობით, Grok Bot გაფართოვდა iPad-ზე და მისი გამოწერის ღირებულება თავდაპირველი თვეში 300$-დან დაეცა თვეში $20-იან Cursor Pro გეგმამდე. Grok Bot ახლა შედის SuperGrok-ის ყველა დონეზე, Cursor Pro-ის და Cursor Teams-ის გეგმებში, Android აპი ახლა ხელმისაწვდომია Google Play-ით macOS-თან და iOS-თან ერთად. Grok-ისა და Cursor-ის საწარმოს მომხმარებლები იღებენ ორკვირიან უფასო Grok Bot-ზე წვდომას და შეუძლიათ მოიწვიონ მთელი ორგანიზაცია, მათ შორის ადამიანები, რომლებსაც არ აქვთ ადგილი. Grok Bot მომხმარებლებს საშუალებას აძლევს ასწავლონ მას სამუშაო პროცესი, დავალების ერთხელ ყურებით; შემდეგ ის ინახავს რუტინას და შეუძლია მისი მარტო გაშვება, საბოლოოდ იწყებს პროაქტიულად მუშაობას. პრაქტიკულმა მიმოხილვამ აღმოაჩინა, რომ Grok Bot-ის დაყენება ძალიან მარტივია, თითოეული ბოტი იღებს საკუთარ ვირტუალურ კომპიუტერს, ბრაუზერის ჩათვლით."
-      },
-      {
-        "uid": "news|Sat, 05 Sep 2026 17:24:16 GMT|Nscale's $3.5B Pre-IPO Financing Round",
-        "feed": "news",
-        "source_label": "ნიუსი",
-        "title_en": "Nscale's $3.5B Pre-IPO Financing Round",
-        "description_en": "Nscale is in talks to raise about $3.5 billion in pre-IPO financing, split into up to $1.5 billion of convertible notes led by hedge fund Third Point and roughly $2 billion invested directly by Nvidia, ahead of a planned New York listing. The round follows Nscale's roughly $45 billion, six-year compute deal with Anthropic, signed August 26, 2026, which pushed Nscale's total contracted revenue to about $103 billion from roughly $51 billion. The convertible notes are priced at a double-digit discount to Nscale's future IPO price, with the discount capped once the company's valuation reaches $30 billion; Goldman Sachs is working on the fundraising. Nscale, founded just two years ago, previously raised a $155 million Series A and a $1.1 billion Series B (March 2026) led by Aker; it has said it may go public as early as September 2026.",
-        "excerpt_en": "Nscale is in talks to raise about $3.5 billion in pre-IPO financing, split into up to $1.5 billion of convertible notes led by hedge fund Third Point and roughly $2 billion invested directly by Nvidia, ahead of a planned New York listing.",
-        "link": "https://www.agenticbrew.ai/news#cluster=55662ba3-88ca-4ab3-9736-82f6640120c6",
-        "pub_date": "Sat, 05 Sep 2026 17:24:16 GMT",
-        "categories": [
-          "news",
-          "news/cluster"
-        ],
-        "title_ka": "Nscale-ის $3.5B-ის წინასწარი IPO-ს დაფინანსების რაუნდი",
-        "excerpt_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ.",
-        "description_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ. რაუნდი მოჰყვება Nscale-ის, დაახლოებით, 45 მილიარდი დოლარის, ექვსწლიანი გამოთვლითი ხელშეკრულების Anthropic-თან, რომელიც გაფორმდა 2026 წლის 26 აგვისტოს, რამაც Nscale-ის მთლიანი კონტრაქტის შემოსავალი 51 მილიარდი დოლარიდან 103 მილიარდ დოლარამდე აიწია. კონვერტირებადი კუპიურების ფასი ფასდება ორნიშნა ფასდაკლებით Nscale-ის სამომავლო IPO ფასთან შედარებით. Goldman Sachs მუშაობს ფონდების მოზიდვაზე. Nscale-მა, რომელიც სულ რაღაც ორი წლის წინ დაარსდა, მანამდე მოიზიდა 155 მილიონი დოლარის სერია A და 1.1 მილიარდი დოლარის სერია B (2026 წლის მარტი) აკერის ხელმძღვანელობით; მან თქვა, რომ ის შეიძლება საჯარო გახდეს 2026 წლის სექტემბერში."
-      }
-    ],
     "youtube": [
       {
         "uid": "youtube|Sun, 06 Sep 2026 17:43:42 GMT|AI is running out of Power",
@@ -520,334 +416,108 @@
         "description_ka": "r/LocalLLaMA · 478 დადებითი ხმა · 118 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი 3$-იანი ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე. ამ ეტაპამდე მისასვლელად მე ავაშენე sanoTTS, რომელსაც აქვს - 11 ხმა, 6 ენა - პარამეტრების ზომა 294k-დან 2.2 მ-მდე. შედარებისთვის ჩვენ 244-ჯერ პატარა ვართ კოკოროზე, 9000-ჯერ უფრო პატარა ვიდრე voxtral TTS - 1.5 მ მოდელს აქვს SCOREQ 4.13 და UTMOS 4.10 - 337 kb 294k მოდელისთვის, როდესაც კვანტიზირებულია int8-ზე - შეიძლება გაუშვათ ვებსაიტზე ვებ ასამბლეის საშუალებით - ასე რომ თქვენ შეგიძლიათ დააინსტალიროთ \"npm\" სხვა ენაზე, მე შემიძლია დარწმუნებით გითხრათ, რომ ეს ოჯახის გამოშვება შეიცავს ყველაზე პატარა ნერვულ TTS მოდელს, რომელიც ოდესმე ყოფილა, დაახლოებით 2% WER ჩურჩულით. გთხოვთ, გადახედოთ მას შემდეგ საიტზე: https://github.com/ampixa/sanoTTS პირდაპირი დემოსთვის: https://tts.ampixa.com/sanoTTS HF: https://huggingface.co/ampixa/sanoTTS SCOREQ-ზე sanoTTS-Amy(1.51m) უკეთესია, ვიდრე Inflect Nano(1.4mTTS)(15.63) esp32 მიკროკონტროლერზე 3.81 vs 3.02, ჩვენ ვიღებთ RTF 0.225-ს, რაც მარტივი სიტყვებით ნიშნავს, რომ 4 წამი აუდიო გენერირებულია 1 წამში მოხარული ვარ, რომ ვუპასუხოთ თქვენს შეკითხვებს."
       }
     ],
-    "twitter": [
+    "news": [
       {
-        "uid": "twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
-        "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going... · 5100 likes · 25 RTs · 15 replies · 0 views · OpenAI failed to act on three separate warnings that its AIs were misbehaving. We explain how the firm's agents hacked another AI firm-and why such mistakes should not be made again. A horde of AI agents conspired against their creators. · 69 likes · 28 RTs · 15 replies · 61000 views · More than 1,000 AI agents accessed the internet, hacked another company and OpenAI itself, and deleted evidence to cover their tracks-all without alerting a single human. @SenSanders is sounding the alarm: AI is advancing faster than our ability to control it. · 196 likes · 0 RTs · 0 replies · 0 views",
-        "excerpt_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so.",
-        "link": "https://x.com/NewsHour/status/2096663771573883160",
-        "pub_date": "Sun, 06 Sep 2026 19:08:01 GMT",
+        "uid": "news|Sun, 06 Sep 2026 18:08:55 GMT|Nvidia acquires Hugging Face for $12.9 billion",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Nvidia acquires Hugging Face for $12.9 billion",
+        "description_en": "Nvidia agreed to acquire Hugging Face for $12.93 billion total - $11.9 billion for shareholders plus up to $1 billion in equity-based retention for the roughly 750-person Hugging Face workforce joining Nvidia - with the deal expected to close in the first half of 2027 pending regulatory approval. Hugging Face is used by more than 18 million developers, researchers and creators, hosts more than 3 million models and 500,000 datasets, supports over 1 million applications, and is used by more than 200,000 companies to discover and deploy AI. Nvidia is already Hugging Face's largest external contributor, having released more than 500 models and 250 open datasets on the platform, and had previously invested in Hugging Face's 2023 funding round alongside a supercomputing partnership. Nvidia committed that Hugging Face will remain an open, compute-agnostic platform - developers can choose their own models, frameworks, clouds, inference providers and computing platforms, and Nvidia compute will not be required to build on or deploy through the site.",
+        "excerpt_en": "Nvidia agreed to acquire Hugging Face for $12.93 billion total - $11.9 billion for shareholders plus up to $1 billion in equity-based retention for the roughly 750-person Hugging Face workforce joining Nvidia - with the deal expected to close in the first…",
+        "link": "https://www.agenticbrew.ai/news#cluster=dbb86b7f-b2d6-41d7-b466-2635cef7d83e",
+        "pub_date": "Sun, 06 Sep 2026 18:08:55 GMT",
         "categories": [
-          "twitter",
-          "news/x"
+          "news",
+          "news/cluster"
         ],
-        "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
-        "excerpt_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
-        "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი ღონისძიებები საკუთარი AI აგენტებით... · 5100 მოწონება · 25 RTs · 15 პასუხი · 0 ნახვა · OpenAI-მ ვერ იმოქმედა სამ ცალკეულ გაფრთხილებაზე, რომ მისი AI-ები არასწორად იქცევიან. ჩვენ განვმარტავთ, როგორ გატეხეს ფირმის აგენტებმა სხვა ხელოვნური ინტელექტის ფირმა და რატომ არ უნდა განმეორდეს ასეთი შეცდომები. ხელოვნური ინტელექტის აგენტების ურდომ შეთქმულება მოაწყო მათი შემქმნელების წინააღმდეგ. · 69 მოწონება · 28 RT · 15 პასუხი · 61000 ნახვა · 1000-ზე მეტმა AI აგენტმა შეაღწია ინტერნეტს, გატეხა სხვა კომპანია და თავად OpenAI და წაშალა მტკიცებულებები, რომ დაფაროს მათი კვალი - ეს ყველაფერი არც ერთი ადამიანის გაფრთხილების გარეშე. @SenSanders აფრთხილებს: ხელოვნური ინტელექტი უფრო სწრაფად მიიწევს, ვიდრე მისი კონტროლის ჩვენი უნარი. · 196 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
+        "title_ka": "Nvidia ყიდულობს Hugging Face-ს 12,9 მილიარდ დოლარად",
+        "excerpt_ka": "Nvidia დათანხმდა შეიძინოს Hugging Face ჯამში 12,93 მილიარდ დოლარად - 11,9 მილიარდი დოლარი აქციონერებისთვის, პლუს 1 მილიარდ დოლარამდე კაპიტალზე დაფუძნებული შენახვა დაახლოებით 750 კაციანი Hugging Face მუშაკისთვის, რომელიც შეუერთდება Nvidia-ს - გარიგება სავარაუდოდ დაიხურება პირველ…",
+        "description_ka": "Nvidia დათანხმდა შეიძინოს Hugging Face მთლიანობაში 12,93 მილიარდ დოლარად - 11,9 მილიარდი დოლარი აქციონერებისთვის, პლუს 1 მილიარდ დოლარამდე კაპიტალზე დაფუძნებული შენახვა დაახლოებით 750 კაციანი Hugging Face მუშაკისთვის, რომელიც შეუერთდება Nvidia-ს - გარიგება, სავარაუდოდ, დაიხურება 2027 წლის პირველ ნახევარში მარეგულირებელი ორგანოების დამტკიცების მოლოდინში. Hugging Face-ს იყენებს 18 მილიონზე მეტი დეველოპერი, მკვლევარი და შემქმნელი, მასპინძლობს 3 მილიონზე მეტ მოდელს და 500,000 მონაცემთა ნაკრებს, მხარს უჭერს 1 მილიონზე მეტ აპლიკაციას და გამოიყენება 200,000-ზე მეტი კომპანიის მიერ ხელოვნური ინტელექტის აღმოსაჩენად და დასანერგად. Nvidia უკვე არის Hugging Face-ის უმსხვილესი გარე კონტრიბუტორი, რომელმაც გამოუშვა 500-ზე მეტი მოდელი და 250 ღია მონაცემთა ნაკრები პლატფორმაზე და მანამდე ჩადო ინვესტიცია Hugging Face-ის 2023 წლის დაფინანსებაში სუპერკომპიუტერულ პარტნიორობასთან ერთად. Nvidia-მ თქვა, რომ Hugging Face დარჩება ღია, გამოთვლითი აგნოსტიკურ პლატფორმად - დეველოპერებს შეუძლიათ აირჩიონ საკუთარი მოდელები, ჩარჩოები, ღრუბლები, დასკვნის პროვაიდერები და გამოთვლითი პლატფორმები, ხოლო Nvidia compute არ იქნება საჭირო საიტის შექმნაზე ან განთავსებაზე."
       },
       {
-        "uid": "twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
-        "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a... · 134 likes · 0 RTs · 0 replies · 0 views · Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: 'Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..… · 37 likes · 19 RTs · 39 replies · 5800 views · Trump is actually correct here, like it or not. it's interesting that it was not really part of the election, but the West might easily have gone totally in the opposite AI direction, along the lines of Bernie Sanders, and just given up the next industrial revolution to China. · 70 likes · 0 RTs · 0 replies · 0 views",
-        "excerpt_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban.…",
-        "link": "https://x.com/RituWithAI/status/2096634829085475156",
-        "pub_date": "Sun, 06 Sep 2026 16:26:00 GMT",
+        "uid": "news|Sun, 06 Sep 2026 17:24:11 GMT|Anthropic releases Claude Fable 5.1",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Anthropic releases Claude Fable 5.1",
+        "description_en": "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 on September 1, 2026 - the same underlying model shipped with two different safety-classifier strengths. Fable 5.1 is generally available; Mythos 5.1 is restricted to trusted-access programs for cybersecurity and life-sciences work. Cached-token reads are cut 75%, from $1 to $0.25 per million tokens, while base input/output pricing stays at $10/$50 per million. Anthropic estimates typical savings around 25%, rising to roughly 45% for highly agentic workloads - a figure critics note describes Anthropic's own workload mix, not a guaranteed discount for any given customer. Eligible customers can now opt into zero data retention, keeping data on their own cloud infrastructure, ahead of a planned dedicated Enterprise Frontier Safeguards program. Anthropic highlights improved coding, writing, agentic task completion, and long-context performance, alongside safeguard tuning: biology-related false positives are down 85% and Claude Code security interventions are down roughly 60%. Fable 5.1 is now permitted to discover, though not exploit, software vulnerabilities.",
+        "excerpt_en": "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 on September 1, 2026 - the same underlying model shipped with two different safety-classifier strengths.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=be95e907-873d-47f4-9190-e30e3b0ec7d4",
+        "pub_date": "Sun, 06 Sep 2026 17:24:11 GMT",
         "categories": [
-          "twitter",
-          "news/x"
+          "news",
+          "news/cluster"
         ],
-        "title_ka": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
-        "excerpt_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
-        "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი - რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს - შეაჩერებს AI-ს განვითარებას აშშ-ში, სანამ კონგრესი არ შექმნის... · 134 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა · ბერნი სანდერსმა შექმნა თავისი საქმე სუპერინტელექტუალური AI აკრძალვისთვის ოთხ გაფრთხილებაზე. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად აკონტროლონ ეს ტექნოლოგია და არ იციან სად... · 37 მოწონება · 19 RTs · 39 პასუხი · 5800 ნახვა · ტრამპი აქ რეალურად მართალია, მოგვწონს თუ არა. საინტერესოა, რომ ეს არჩევნების ნაწილი ნამდვილად არ იყო, მაგრამ დასავლეთი შეიძლება ადვილად წასულიყო სრულიად საპირისპირო ხელოვნური ინტელექტის მიმართულებით, ბერნი სანდერსის ხაზით და უბრალოდ დაეტოვებინა შემდეგი ინდუსტრიული რევოლუცია ჩინეთს. · 70 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
+        "title_ka": "Anthropic ავრცელებს Claude Fable 5.1",
+        "excerpt_ka": "Anthropic-მა გამოუშვა Claude Fable 5.1 და Claude Mythos 5.1 2026 წლის 1 სექტემბერს - იგივე ძირითადი მოდელი გაიგზავნება ორი განსხვავებული უსაფრთხოების კლასიფიკატორის სიძლიერით.…",
+        "description_ka": "Anthropic-მა გამოუშვა Claude Fable 5.1 და Claude Mythos 5.1 2026 წლის 1 სექტემბერს - იგივე ძირითადი მოდელი გაიგზავნება ორი განსხვავებული უსაფრთხოების კლასიფიკატორის სიძლიერით. Fable 5.1 ზოგადად ხელმისაწვდომია; Mythos 5.1 შემოიფარგლება სანდო წვდომის პროგრამებით კიბერუსაფრთხოების და სიცოცხლის მეცნიერების მუშაობისთვის. ქეშირებული ტოკენის წაკითხვა მცირდება 75%-ით, $1-დან $0.25-მდე მილიონ ტოკენზე, ხოლო საბაზისო შეყვანის/გამოსვლის ფასი რჩება $10/$50 მილიონზე. ანთროპიკი აფასებს ტიპურ დანაზოგს დაახლოებით 25%-მდე, რომელიც იზრდება დაახლოებით 45%-მდე მაღალი აგენტური დატვირთვისთვის - კრიტიკოსების შენიშვნა აღწერს Anthropic-ის სამუშაო დატვირთვის მიქსს და არა გარანტირებულ ფასდაკლებას რომელიმე მოცემული მომხმარებლისთვის. უფლებამოსილ მომხმარებლებს ახლა შეუძლიათ აირჩიონ მონაცემთა ნულოვანი შენახვა, შეინახონ მონაცემები საკუთარ ღრუბლოვან ინფრასტრუქტურაზე, დაგეგმილი Enterprise Frontier Safeguards პროგრამის წინ. ანთროპიკი ხაზს უსვამს გაუმჯობესებულ კოდირებას, წერას, აგენტური დავალების შესრულებას და გრძელ კონტექსტის შესრულებას, დამცავი რეგულირების პარალელურად: ბიოლოგიასთან დაკავშირებული ცრუ პოზიტივი შემცირდა 85%-ით და კლოდის კოდის უსაფრთხოების ინტერვენციები შემცირდა დაახლოებით 60%-ით. Fable 5.1-ს ახლა აქვს ნებადართული პროგრამული უზრუნველყოფის ხარვეზების აღმოჩენა, თუმცა არ გამოიყენოს."
       },
       {
-        "uid": "twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-        "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions... · 6100 likes · 28 RTs · 10 replies · 0 views · The 'Fermi Paradox' is a famous unsolved question: if the universe is so big, where are all the aliens? A famous answer is 'The Great Filter' - advanced life forms wipe themselves out before they leave their solar systems. So we never find them. In light of GPT Astra and the... · 1300 likes · 159 RTs · 233 replies · 308000 views · Astra for applications to medicine (quoting a hand surgeon who used Astra to generate a tendon transfer surgery video from a single prompt, for surgical and patient education) · 1500 likes · 92 RTs · 77 replies · 229000 views",
-        "excerpt_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3).",
-        "link": "https://x.com/charliejhills/status/2096631743533207983",
-        "pub_date": "Sun, 06 Sep 2026 16:10:00 GMT",
+        "uid": "news|Sun, 06 Sep 2026 17:24:11 GMT|Nvidia's Financial Dominance and Growth",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Nvidia's Financial Dominance and Growth",
+        "description_en": "Nvidia reported Q2 fiscal 2027 revenue of $96.2 billion, up 106% year-over-year, beating analyst estimates of $92.2 billion. CFO Colette Kress guided fiscal 2028 revenue growth to roughly 70% year-over-year, far above the 44% average analyst estimate. Wall Street's compounded profit growth forecasts imply Nvidia's annual net income could reach roughly $851 billion by 2029, more than five times Saudi Aramco's record corporate profit; separately, Nvidia's projected 2029 revenue of roughly $1.35 trillion would rank it as the 18th-largest economy on Earth. Nvidia agreed to acquire Hugging Face for roughly $12.9-13 billion, its second-largest acquisition ever after a roughly $20 billion licensing agreement with chip startup Groq.",
+        "excerpt_en": "Nvidia reported Q2 fiscal 2027 revenue of $96.2 billion, up 106% year-over-year, beating analyst estimates of $92.2 billion. CFO Colette Kress guided fiscal 2028 revenue growth to roughly 70% year-over-year, far above the 44% average analyst estimate.",
+        "link": "https://www.agenticbrew.ai/news#cluster=3e9d15c2-bb3c-4bd7-ba12-921bf6ca0119",
+        "pub_date": "Sun, 06 Sep 2026 17:24:11 GMT",
         "categories": [
-          "twitter",
-          "news/x"
+          "news",
+          "news/cluster"
         ],
-        "title_ka": "OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით",
-        "excerpt_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3).",
-        "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში ათავსებს ინსტრუქციის გარეშე... · 6100 მოწონება · 28 RTs · 10 პასუხი · 0 ნახვა · 'ფერმის პარადოქსი' ცნობილი გადაუჭრელი კითხვაა: თუ სამყარო ასეთი დიდია, სად არიან ყველა უცხოპლანეტელი? ცნობილი პასუხია „დიდი ფილტრი“ - მოწინავე სიცოცხლის ფორმები იშლება, სანამ მზის სისტემას დატოვებენ. ასე რომ, ჩვენ ვერასდროს ვიპოვით მათ. GPT Astra-ს და... · 1300 მოწონება · 159 RTs · 233 პასუხი · 308000 ნახვა · Astra მედიცინაში გამოყენებისთვის (ციტირება ხელის ქირურგისთვის, რომელმაც გამოიყენა Astra მყესის გადატანის ოპერაციის ვიდეოს გენერირებისთვის ერთი მოწოდებიდან, ქირურგიული და პაციენტის განათლებისთვის) · 1500 reply RTs · 9722 RT · 0plies ხედები"
+        "title_ka": "Nvidia-ს ფინანსური დომინირება და ზრდა",
+        "excerpt_ka": "Nvidia-მ გამოაცხადა 2027 წლის ფისკალური კვარტალში 96,2 მილიარდი დოლარის შემოსავალი, რაც წინა წელთან შედარებით 106%-ით მეტია, რაც ანალიტიკოსების შეფასებით 92,2 მილიარდ დოლარს აღემატება. CFO Colette Kress-მა ხელმძღვანელობდა ფისკალური 2028 წლის შემოსავლების ზრდას დაახლოებით 70%-მდე წელიწადში, რაც ბევრად აღემატება 44%-იან საშუალო ანალიტიკოსის შეფასებას.",
+        "description_ka": "Nvidia-მ გამოაცხადა 2027 წლის ფისკალური კვარტალში 96,2 მილიარდი დოლარის შემოსავალი, რაც წინა წელთან შედარებით 106%-ით მეტია, რაც ანალიტიკოსების შეფასებით 92,2 მილიარდ დოლარს აღემატება. CFO Colette Kress-მა ხელმძღვანელობდა ფისკალური 2028 წლის შემოსავლების ზრდას დაახლოებით 70%-მდე წელიწადში, რაც ბევრად აღემატება 44%-იან საშუალო ანალიტიკოსის შეფასებას. უოლ სტრიტის შერეული მოგების ზრდის პროგნოზი გულისხმობს, რომ Nvidia-ს წლიური წმინდა შემოსავალი 2029 წლისთვის შეიძლება მიაღწიოს დაახლოებით 851 მილიარდ დოლარს, რაც ხუთჯერ აღემატება Saudi Aramco-ს რეკორდულ კორპორატიულ მოგებას; ცალკე, Nvidia-ს 2029 წლის პროგნოზირებული შემოსავალი დაახლოებით 1,35 ტრილიონი დოლარი იქნება, როგორც მე-18 უდიდესი ეკონომიკა დედამიწაზე. Nvidia დათანხმდა შეიძინოს Hugging Face დაახლოებით 12,9-13 მილიარდ დოლარად, რაც მისი სიდიდით მეორე შენაძენია ჩიპების სტარტაპ Groq-თან დაახლოებით 20 მილიარდი დოლარის სალიცენზიო შეთანხმების შემდეგ."
       },
       {
-        "uid": "twitter|Sun, 06 Sep 2026 16:07:00 GMT|OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
-        "description_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor… · 1500 likes · 227 RTs · 46 replies · 131000 views · SITUATION DETECTED: OpenAI has announced that it has reached its goal of an automated AI research intern, and is on track for a fully automated AI researcher by March 2028. · 953 likes · 68 RTs · 22 replies · 26000 views · OpenAI has officially achieved their goal of automated AI research interns. Fully automated AI researchers by 2028. · 393 likes · 32 RTs · 26 replies · 18000 views",
-        "excerpt_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs.",
-        "link": "https://x.com/kliu128/status/2096616468851097811",
-        "pub_date": "Sun, 06 Sep 2026 16:07:00 GMT",
+        "uid": "news|Sun, 06 Sep 2026 17:24:10 GMT|Seattle Times and Newsday sue OpenAI and Microsoft",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Seattle Times and Newsday sue OpenAI and Microsoft",
+        "description_en": "The Seattle Times and Newsday filed a copyright infringement lawsuit against OpenAI and Microsoft in the U.S. District Court for the Southern District of New York on September 4-5, 2026, alleging the companies scraped their websites, including paywalled content, to train and operate ChatGPT, Microsoft Copilot, and Bing's AI features. The complaint characterizes generative AI products as consumers rather than producers of content, describing the practice as ultimately self-destructive for the industry that supplies the training data. The 38-page complaint cites an 88-word passage allegedly lifted from the Seattle Times' Pulitzer Prize-winning Boeing 737 MAX coverage as an example of reproduced content, and alleges hundreds of thousands of articles were used without authorization. The plaintiffs are seeking court orders for impoundment or destruction of copies of their copyrighted works and any training datasets or AI models incorporating the material, plus unspecified monetary damages.",
+        "excerpt_en": "The Seattle Times and Newsday filed a copyright infringement lawsuit against OpenAI and Microsoft in the U.S.…",
+        "link": "https://www.agenticbrew.ai/news#cluster=0add4be2-463a-4e85-890a-21ea5e0a1033",
+        "pub_date": "Sun, 06 Sep 2026 17:24:10 GMT",
         "categories": [
-          "twitter",
-          "news/x"
+          "news",
+          "news/cluster"
         ],
-        "title_ka": "OpenAI ავლენს \"რეკურსიული თვითგაუმჯობესების\" პროგრესს, მიზნად ისახავს ავტომატიზირებული AI მკვლევარს 2028 წლისთვის",
-        "excerpt_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული.",
-        "description_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. იყო გამჭვირვალე უფრო მნიშვნელოვანია… · 1500 მოწონება · 227 RTs · 46 პასუხი · 131000 ნახვა · გამოვლენილია სიტუაცია: OpenAI-მ გამოაცხადა, რომ მიაღწია თავის მიზანს ავტომატიზირებული AI კვლევის სტაჟიორი და მზად არის სრულად ავტომატიზირებული AI მკვლევარი · RT22 მოწონება · 2028 წლის მარტისთვის. · 26000 ნახვა · OpenAI-მ ოფიციალურად მიაღწია მიზანს ავტომატიზირებული AI კვლევის სტაჟიორები. სრულად ავტომატიზირებული ხელოვნური ინტელექტის მკვლევარები 2028 წლისთვის. · 393 მოწონება · 32 RTs · 26 პასუხი · 18000 ნახვა"
+        "title_ka": "Seattle Times და Newsday უჩივიან OpenAI-სა და Microsoft-ს",
+        "excerpt_ka": "Seattle Times-მა და Newsday-მა შეიტანეს საავტორო უფლებების დარღვევის სარჩელი OpenAI-სა და Microsoft-ის წინააღმდეგ აშშ-ში…",
+        "description_ka": "Seattle Times-მა და Newsday-მა საავტორო უფლებების დარღვევის შესახებ სარჩელი შეიტანეს OpenAI-სა და Microsoft-ის წინააღმდეგ ნიუ-იორკის სამხრეთ ოლქის აშშ-ის რაიონულ სასამართლოში 2026 წლის 4-5 სექტემბერს, რომ კომპანიებმა დაარღვიეს თავიანთი ვებსაიტები, მათ შორის paywalled შინაარსი, ChatGPT-ის, Microsoft Copilot-ისა და Bing-ის AI ფუნქციების მომზადებასა და ფუნქციონირებისთვის. საჩივარი ახასიათებს გენერაციულ ხელოვნური ინტელექტის პროდუქტებს, როგორც მომხმარებლებს და არა კონტენტის მწარმოებლებს, აღწერს პრაქტიკას, როგორც საბოლოო ჯამში თვითდესტრუქციულ ინდუსტრიას, რომელიც აწვდის სასწავლო მონაცემებს. 38-გვერდიან საჩივარში მოყვანილია 88-სიტყვიანი პასაჟი, რომელიც სავარაუდოდ ამოღებულია Seattle Times-ის პულიცერის პრემიის ლაურეატი Boeing 737 MAX-ის გაშუქებიდან, როგორც რეპროდუცირებული შინაარსის მაგალითი, და ამტკიცებს, რომ ასობით ათასი სტატია იქნა გამოყენებული ავტორიზაციის გარეშე. მოსარჩელეები ითხოვენ სასამართლოს ბრძანებებს მათი საავტორო უფლებებით დაცული ნამუშევრების ასლების დაკავების ან განადგურების შესახებ და ნებისმიერი სასწავლო მონაცემთა ნაკრების ან ხელოვნური ინტელექტის მოდელებს, რომლებიც შეიცავს მასალას, დამატებით დაუზუსტებელ ფულად ზარალს."
       },
       {
-        "uid": "twitter|Sat, 05 Sep 2026 20:23:00 GMT|AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
-        "description_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..… · 613 likes · 0 RTs · 12 replies · 0 views · Washington wants a watchdog for AI. AI companies would fund it. Both options still on the table are run by industry, so the debate is how much self-regulation rather than whether. · 1300 likes · 0 RTs · 0 replies · 0 views · David Sacks on Mamdani Banning AI in K-8 NYC Public Schools: \"Here you have a case where, of course, private schools are going to continue to use the best AI-powered tools and now the public schools are not going to have access to those tools ... If you're looking for a motive,.… · 332 likes · 42 RTs · 30 replies · 33000 views",
-        "excerpt_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue.…",
-        "link": "https://x.com/r0ck3t23/status/2096334167080386995",
-        "pub_date": "Sat, 05 Sep 2026 20:23:00 GMT",
+        "uid": "news|Sat, 05 Sep 2026 17:24:16 GMT|SpaceXAI Grok Bot platform expansion",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "SpaceXAI Grok Bot platform expansion",
+        "description_en": "Grok Bot is SpaceXAI's always-on AI agent platform, where each bot gets its own cloud computer, signs into apps and tools the user already uses, and works across apps and inboxes end to end, only returning when it needs approval. Grok Bot launched on August 11, 2026 as an iPhone and Mac app, beta-available for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium subscribers on macOS and iOS. Grok Bot was built jointly by SpaceXAI and Cursor, which are becoming a single company following a SpaceX-related acquisition of Cursor. As of September 4, 2026, Grok Bot expanded to iPad and its subscription cost dropped from an original $300-a-month tier to the $20-a-month Cursor Pro plan. Grok Bot is now included with all SuperGrok tiers, Cursor Pro tiers, and Cursor Teams plans, with an Android app now available via Google Play alongside macOS and iOS. Grok and Cursor enterprise customers get two weeks of free Grok Bot access and can invite their whole organization, including people without an existing seat. Grok Bot lets users teach it a workflow by watching a task once; it then saves the routine and can run it solo, eventually starting to work proactively. A hands-on review found Grok Bot's setup extremely simple, with each bot getting its own virtual computer including a browser, terminal, and file system, though users do not choose the underlying model or own the agent harness and their data lives on xAI's cloud.",
+        "excerpt_en": "Grok Bot is SpaceXAI's always-on AI agent platform, where each bot gets its own cloud computer, signs into apps and tools the user already uses, and works across apps and inboxes end to end, only returning when it needs approval.",
+        "link": "https://www.agenticbrew.ai/news#cluster=a08f3218-4493-420c-9193-7dbe38a35b4f",
+        "pub_date": "Sat, 05 Sep 2026 17:24:16 GMT",
         "categories": [
-          "twitter",
-          "news/x"
+          "news",
+          "news/cluster"
         ],
-        "title_ka": "ხელოვნური ინტელექტის რეგულირების შესახებ დებატები ფართოვდება: სუპერინტელექტის აკრძალვიდან სკოლის აკრძალვამდე",
-        "excerpt_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება.…",
-        "description_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად აკონტროლონ ეს ტექნოლოგია და არ იციან სად... · 613 მოწონება · 0 RTs · 12 პასუხი · 0 ნახვა · ვაშინგტონს სურს AI-ის მცველი. ხელოვნური ინტელექტის კომპანიებმა დააფინანსონ იგი. ორივე ვარიანტი ჯერ კიდევ მაგიდაზეა, ვიდრე ინდუსტრია. RTs · 0 გამოხმაურება · 0 ნახვა · David Sacks on Mamdani, აკრძალავს AI-ს K-8 NYC საჯარო სკოლებში: \"აქ გაქვთ შემთხვევა, როდესაც, რა თქმა უნდა, კერძო სკოლები აპირებენ განაგრძონ AI-ზე მომუშავე საუკეთესო ინსტრუმენტების გამოყენება და ახლა საჯარო სკოლებს არ ექნებათ წვდომა ამ ინსტრუმენტებზე ... თუ თქვენ ეძებთ მოტივს 3432. პასუხები · 33000 ნახვა"
+        "title_ka": "SpaceXAI Grok Bot პლატფორმის გაფართოება",
+        "excerpt_ka": "Grok Bot არის SpaceXAI-ის მუდამ ჩართული AI აგენტის პლატფორმა, სადაც თითოეული ბოტი იღებს საკუთარ ღრუბლოვან კომპიუტერს, შემოდის აპებსა და ინსტრუმენტებში, რომლებსაც მომხმარებელი უკვე იყენებს და მუშაობს აპებსა და შემოსულებში ბოლომდე და ბრუნდება მხოლოდ მაშინ, როდესაც მას დასჭირდება დამტკიცება.",
+        "description_ka": "Grok Bot არის SpaceXAI-ის მუდამ ჩართული AI აგენტის პლატფორმა, სადაც თითოეული ბოტი იღებს საკუთარ ღრუბლოვან კომპიუტერს, შემოდის აპებსა და ინსტრუმენტებში, რომლებსაც მომხმარებელი უკვე იყენებს და მუშაობს აპებსა და შემოსულებში ბოლომდე და ბრუნდება მხოლოდ მაშინ, როდესაც მას დასჭირდება დამტკიცება. Grok Bot ამოქმედდა 2026 წლის 11 აგვისტოს, როგორც iPhone და Mac აპი, ბეტა-ხელმისაწვდომია SuperGrok Heavy, Cursor Ultra და Cursor Teams Premium აბონენტებისთვის macOS-სა და iOS-ზე. Grok Bot აშენდა ერთობლივად SpaceXAI-მ და Cursor-მა, რომლებიც გახდებიან ერთიანი კომპანია SpaceX-თან დაკავშირებული Cursor-ის შეძენის შემდეგ. 2026 წლის 4 სექტემბრის მდგომარეობით, Grok Bot გაფართოვდა iPad-ზე და მისი გამოწერის ღირებულება თავდაპირველი თვეში 300$-დან დაეცა თვეში $20-იან Cursor Pro გეგმამდე. Grok Bot ახლა შედის SuperGrok-ის ყველა დონეზე, Cursor Pro-ის და Cursor Teams-ის გეგმებში, Android აპი ახლა ხელმისაწვდომია Google Play-ით macOS-თან და iOS-თან ერთად. Grok-ისა და Cursor-ის საწარმოს მომხმარებლები იღებენ ორკვირიან უფასო Grok Bot-ზე წვდომას და შეუძლიათ მოიწვიონ მთელი ორგანიზაცია, მათ შორის ადამიანები, რომლებსაც არ აქვთ ადგილი. Grok Bot მომხმარებლებს საშუალებას აძლევს ასწავლონ მას სამუშაო პროცესი, დავალების ერთხელ ყურებით; შემდეგ ის ინახავს რუტინას და შეუძლია მისი მარტო გაშვება, საბოლოოდ იწყებს პროაქტიულად მუშაობას. პრაქტიკულმა მიმოხილვამ აღმოაჩინა, რომ Grok Bot-ის დაყენება ძალიან მარტივია, თითოეული ბოტი იღებს საკუთარ ვირტუალურ კომპიუტერს, ბრაუზერის ჩათვლით."
       },
       {
-        "uid": "twitter|Sat, 05 Sep 2026 16:56:00 GMT|Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
-        "description_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3... · 1200 likes · 0 RTs · 0 replies · 0 views · If you already know how to call models, connect tools, and build agents, Stanford's new CS329Z: Engineering AI Agents is a useful place to check what you should learn next. Especially if your system runs and keeps gaining features, but you struggle to tell whether each change... · 377 likes · 43 RTs · 0 replies · 17000 views · we launched the most comprehensive ai performance engineering repo in the world last week. now we'll be doing a deep dive on every single resource. this is Wafer's AI Performance Engineering Series. Part 1: Prefill vs Decode · 340 likes · 28 RTs · 14 replies · 10000 views",
-        "excerpt_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model.",
-        "link": "https://x.com/rohanpaul_ai/status/2096280338083528801",
-        "pub_date": "Sat, 05 Sep 2026 16:56:00 GMT",
+        "uid": "news|Sat, 05 Sep 2026 17:24:16 GMT|Nscale's $3.5B Pre-IPO Financing Round",
+        "feed": "news",
+        "source_label": "ნიუსი",
+        "title_en": "Nscale's $3.5B Pre-IPO Financing Round",
+        "description_en": "Nscale is in talks to raise about $3.5 billion in pre-IPO financing, split into up to $1.5 billion of convertible notes led by hedge fund Third Point and roughly $2 billion invested directly by Nvidia, ahead of a planned New York listing. The round follows Nscale's roughly $45 billion, six-year compute deal with Anthropic, signed August 26, 2026, which pushed Nscale's total contracted revenue to about $103 billion from roughly $51 billion. The convertible notes are priced at a double-digit discount to Nscale's future IPO price, with the discount capped once the company's valuation reaches $30 billion; Goldman Sachs is working on the fundraising. Nscale, founded just two years ago, previously raised a $155 million Series A and a $1.1 billion Series B (March 2026) led by Aker; it has said it may go public as early as September 2026.",
+        "excerpt_en": "Nscale is in talks to raise about $3.5 billion in pre-IPO financing, split into up to $1.5 billion of convertible notes led by hedge fund Third Point and roughly $2 billion invested directly by Nvidia, ahead of a planned New York listing.",
+        "link": "https://www.agenticbrew.ai/news#cluster=55662ba3-88ca-4ab3-9736-82f6640120c6",
+        "pub_date": "Sat, 05 Sep 2026 17:24:16 GMT",
         "categories": [
-          "twitter",
-          "news/x"
+          "news",
+          "news/cluster"
         ],
-        "title_ka": "სწრაფი ინჟინერია კვდება - AI აგენტი აღკაზმულობა ინჟინერია იღებს",
-        "excerpt_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ.",
-        "description_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3... · 1200 მოწონებას · 0 RTs · 0 პასუხის · 0 ნახვას · თუ უკვე იცით, როგორ გამოიძახოთ მოდელები, დააკავშიროთ ხელსაწყოები და შექმნათ აგენტები, სტენფორდის ახალი CS329Z: Engineering AI Agents სასარგებლო ადგილია იმის შესამოწმებლად, თუ რა უნდა ისწავლოთ შემდეგში. განსაკუთრებით, თუ თქვენი სისტემა მუშაობს და მუდმივად იძენს ფუნქციებს, მაგრამ გიჭირთ იმის გარკვევა, არის თუ არა თითოეული ცვლილება... · 377 მოწონება · 43 RTs · 0 პასუხი · 17000 ნახვა · ჩვენ გასულ კვირას გავუშვით მსოფლიოში ყველაზე სრულყოფილი ai performance საინჟინრო რეპო. ახლა ჩვენ გავაკეთებთ ღრმა ჩაყვინთვის თითოეულ რესურსს. ეს არის ვაფერის AI Performance Engineering სერია. ნაწილი 1: Prefill vs Decode · 340 მოწონება · 28 RTs · 14 პასუხი · 10000 ნახვა"
-      },
-      {
-        "uid": "twitter|Sat, 05 Sep 2026 15:09:00 GMT|AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
-        "description_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars. · 851 likes · 0 RTs · 16 replies · 0 views · Jensen Huang answered a question about Modi and AI policy in 11 words: \"AI is moving fast so every country has to move faster.\" The semiconductor tariff question got even less no conversation on that, next question, moving on. · 828 likes · 0 RTs · 12 replies · 0 views · All of Hugging Face's founders - three French friends who once built a teen chatbot - are now multi-billionaires after Nvidia's $13 billion acquisition. Their story is one of the most fascinating in tech: 2016: Clément Delangue, Julien Chaumond and Thomas Wolf launch a sassy... · 400 likes · 37 RTs · 0 replies · 42000 views",
-        "excerpt_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping.…",
-        "link": "https://x.com/ihteshamali/status/2096252245860073500",
-        "pub_date": "Sat, 05 Sep 2026 15:09:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "AI სტარტაპები და ფული: მილიარდი დოლარის ანაზღაურება და დამფუძნებლის რჩევა",
-        "excerpt_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება...",
-        "description_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად. · 851 მოწონება · 0 RT · 16 პასუხი · 0 ნახვა · ჯენსენ ჰუანგმა 11 სიტყვით უპასუხა შეკითხვას მოდისა და ხელოვნური ინტელექტის პოლიტიკის შესახებ: „AI სწრაფად მოძრაობს, ამიტომ ყველა ქვეყანამ უფრო სწრაფად უნდა იმოძრაოს“. ნახევარგამტარების სატარიფო კითხვაზე კიდევ უფრო ნაკლები საუბარი არ ყოფილა, შემდეგ კითხვაზე გადასვლა. · 828 მოწონება · 0 RT · 12 პასუხი · 0 ნახვა · Hugging Face-ის ყველა დამფუძნებელი - სამი ფრანგი მეგობარი, რომლებმაც ოდესღაც შექმნეს თინეიჯერების ჩატბოტი - ახლა მრავალ მილიარდერები არიან Nvidia-ს 13 მილიარდი დოლარის შეძენის შემდეგ. მათი ისტორია ერთ-ერთი ყველაზე მომხიბვლელია ტექნოლოგიაში: 2016 წელი: კლემენტ დელანგი, ჟიულიენ შომონი და თომას ვოლფი წარმოადგენენ თავხედურ... · 400 მოწონება · 37 RTs · 0 პასუხი · 42000 ნახვა"
-      }
-    ],
-    "skill": [
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|self-improving agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "self-improving agent",
-        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
-        "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
-        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Skill Vetter",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Skill Vetter",
-        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
-        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
-        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Self-Improving + Proactive Agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Self-Improving + Proactive Agent",
-        "description_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
-        "excerpt_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
-        "link": "https://clawhub.ai/ivangdavila/self-improving",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგანვითარება + აქტიური აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა...",
-        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა..."
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|ontology",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "ontology",
-        "description_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
-        "excerpt_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
-        "link": "https://clawhub.ai/oswalpalash/ontology",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "ონტოლოგია",
-        "excerpt_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული...",
-        "description_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული..."
-      },
-      {
-        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|self-improving agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "self-improving agent",
-        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
-        "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
-        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
-      },
-      {
-        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|Skill Vetter",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Skill Vetter",
-        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
-        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
-        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
-      }
-    ],
-    "product_hunt": [],
-    "paper": [
-      {
-        "uid": "paper|Sun, 06 Sep 2026 17:46:23 GMT|Large-Language Models as a Cognitive Virus",
-        "feed": "paper",
-        "source_label": "კვლევა",
-        "title_en": "Large-Language Models as a Cognitive Virus",
-        "description_en": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A central consequence is the possibility of runaway dynamics: once a critical threshold is crossed, small increases in adoption can trigger rapid population-level shifts toward persistent dependence, with abrupt losses in cognitive competence. The same framework, however, identifies conditions for cognitive immunization, based on reducing transmission and facilitating reversibility. Our results highlight how LLM adoption may involve nonlinear collective transitions with important consequences for cognitive autonomy. · Institutions: Affiliation: Complex Systems Lab, Universitat Pompeu Fabra (MELIS), Dr. Aiguader 88, 08003 Barcelona, Spain, Affiliation: Santa Fe Institute, 1399 Hyde Park Road, Santa Fe NM, United States, Affiliation: Barcelona Computational Foundation (BCOM) and Neuroelectrics, Barcelona, Spain, Affiliation: Okinawa Institute of Science and Technology Graduate University, Onna, 904-0495, Japan, Affiliation: Padua Center for Network Medicine, Via Marzolo 8, 35131 Padova, Italy · Source: alphaxiv · Votes: 18",
-        "excerpt_en": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used.…",
-        "link": "https://www.alphaxiv.org/overview/2609.03344",
-        "pub_date": "Sun, 06 Sep 2026 17:46:23 GMT",
-        "categories": [
-          "paper",
-          "paper/alphaxiv"
-        ],
-        "title_ka": "დიდენოვანი მოდელები, როგორც კოგნიტური ვირუსი",
-        "excerpt_ka": "მსხვილენოვანი მოდელები (LLM) სწრაფად ხდება ადამიანის კულტურის ნაწილი, ცვლის ინფორმაციის წარმოების, გადაცემის და გამოყენების ფორმებს.…",
-        "description_ka": "მსხვილენოვანი მოდელები (LLMs) სწრაფად ხდება ადამიანის კულტურის ნაწილი, ცვლის ინფორმაციის წარმოების, გადაცემის და გამოყენების ხერხს. აქ ჩვენ ვთავაზობთ, რომ მათი დიფუზია შეიძლება გავიგოთ ვირუსული ანალოგიით, LLM-ის გამოყენება გავრცელდება პოპულაციებში და ჩართული ხდება კოგნიტურ და კულტურულ პრაქტიკაში. ჩვენ მოდელირებული გვაქვს გადასვლები შეუწყვილებელ, დაწყვილებულ და მუდმივად დამოკიდებულ მომხმარებლებში და ვაჩვენებთ, რომ სოციალურ გადაცემას, აღდგენასა და კოლექტიურ გაძლიერებას შორის ურთიერთქმედებამ შეიძლება წარმოქმნას გარდამავალი წერტილები და ტექნოლოგიური ჩაკეტვა. ცენტრალური შედეგია გაქცევის დინამიკის შესაძლებლობა: კრიტიკული ზღვრის გადალახვის შემდეგ, შვილად აყვანის მცირე ზრდამ შეიძლება გამოიწვიოს მოსახლეობის დონის სწრაფი გადასვლა მუდმივი დამოკიდებულებისკენ, კოგნიტური კომპეტენციის მკვეთრი დაკარგვით. თუმცა, იგივე ჩარჩო განსაზღვრავს პირობებს კოგნიტური იმუნიზაციისთვის, რომელიც დაფუძნებულია გადაცემის შემცირებასა და შექცევადობის ხელშეწყობაზე. ჩვენი შედეგები ხაზს უსვამს იმას, თუ როგორ შეიძლება მოიცავდეს LLM-ის მიღებას არაწრფივი კოლექტიური გადასვლები კოგნიტური ავტონომიისთვის მნიშვნელოვანი შედეგებით. · ინსტიტუტები: კუთვნილება: Complex Systems Lab, Universitat Pompeu Fabra (MELIS), Dr. Aiguader 88, 08003 Barcelona, ​​ესპანეთი, კუთვნილება: Santa Fe Institute, 1399 Hyde Park Road, Santa Fe NM, შეერთებული შტატები, კუთვნილება: Barcelona…"
-      },
-      {
-        "uid": "paper|Sun, 06 Sep 2026 17:46:23 GMT|Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-        "feed": "paper",
-        "source_label": "კვლევა",
-        "title_en": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-        "description_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points. · Institutions: Affiliation: Qwen Team, Alibaba Group Tsinghua University, Affiliation: Qwen Team, Alibaba Group Tsinghua University Affiliation: Corresponding authors, Qwen Team, Alibaba Group Tsinghua University · Source: alphaxiv · Votes: 36",
-        "excerpt_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce.…",
-        "link": "https://www.alphaxiv.org/overview/2609.04148",
-        "pub_date": "Sun, 06 Sep 2026 17:46:23 GMT",
-        "categories": [
-          "paper",
-          "paper/alphaxiv"
-        ],
-        "title_ka": "ტერმინალი-სამყარო: აგენტის ტრაექტორიების გადაქცევა მასშტაბურ ტერმინალურ გარემოში",
-        "excerpt_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო მწირი რჩება.…",
-        "description_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო რჩება მწირი. თუმცა, გარემო არის ის, რაც რეალურად მოითხოვს აგენტის შემდგომ ტრენინგს: თითოეული მათგანი შეიძლება ხელახლა გამოიკითხოს მრავალ დამოწმებად დავალებაში და უზრუნველყოს შესრულების უკუკავშირი, ხოლო ტრაექტორია არის ერთი გაყინული დემონსტრირება. იმის ნაცვლად, რომ შევქმნათ გარემო ნულიდან, ჩვენ ვაკვირდებით, რომ ხელსაწყოების შესრულების ისტორია არსებულ ტრაექტორიებში ავლენს იმ გარემოს სტრუქტურას და შინაარსს, რომელშიც ისინი მუშაობდნენ, რაც შესაძლებელს ხდის ამ გარემოს რეკონსტრუქციას თავად ტრაექტორიებიდან. ამრიგად, ჩვენ წარმოგიდგენთ Terminal-Universe, ჩარჩოს, რომელიც აქცევს თითოეულ ტრაექტორიას მრავალჯერად გამოყენებად გარემოდ და იკვლევს მას ახალი ამოცანების სინთეზირებისთვის და უწყვეტი ურთიერთქმედებისთვის. კონკრეტულად, Terminal-Universe იმეორებს ტრაექტორიაში ჩაწერილ ფაილურ ოპერაციებს, რათა აღადგინოს თითოეული ფაილი, სანამ აგენტი შეცვლიდა მას, რაც იძლევა ნაწილობრივ სამუშაო სივრცეს; დასრულების აგენტი შემდეგ აწვდის დაკარგული ფაილებს და დამოკიდებულებებს. ამ ამოღებულ სამუშაო სივრცეში ჩვენ ორივე აღადგენს თავდაპირველ განზრახვას და ვაწყობთ სრულიად ახალს. გარდა ამისა, ჩვენ ასევე ვანაწილებთ ამოცანებს ორი დამატებითი ღერძის გასწვრივ: სიგანე და სიღრმე. სიგანისთვის, ჩვენ ვიყენებთ მიმართულების დამოკიდებულების ურთიერთობებს…"
-      },
-      {
-        "uid": "paper|Sun, 06 Sep 2026 17:46:22 GMT|Formalizing Fermat's Last Theorem",
-        "feed": "paper",
-        "source_label": "კვლევა",
-        "title_en": "Formalizing Fermat's Last Theorem",
-        "description_en": "Source: alphaxiv · Votes: 39",
-        "excerpt_en": "Source: alphaxiv · Votes: 39",
-        "link": "https://www.alphaxiv.org/overview/2609.formalizing-fermats-last-theorem",
-        "pub_date": "Sun, 06 Sep 2026 17:46:22 GMT",
-        "categories": [
-          "paper",
-          "paper/alphaxiv"
-        ],
-        "title_ka": "ფერმას ბოლო თეორემის ფორმალიზება",
-        "excerpt_ka": "წყარო: alphaxiv · ხმები: 39",
-        "description_ka": "წყარო: alphaxiv · ხმები: 39"
-      },
-      {
-        "uid": "paper|Sun, 06 Sep 2026 17:46:22 GMT|Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
-        "feed": "paper",
-        "source_label": "კვლევა",
-        "title_en": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
-        "description_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, we introduce diffusion-augmented LLMs, a new class of models that defines an AR model distribution while using diffusion to draw multiple tokens in parallel from that distribution. We decouple the parameters of these models into two sets: AR weights, trained using the standard NTP objective, and lightweight diffusion weights, trained to generate multiple tokens simultaneously. The diffusion weights are learned through a simple Diffusion Distillation phase that adds negligible overhead to existing LLM training pipelines. We also introduce $\\Psi$-Spec, a family of samplers that enables lossless acceleration and inference-time scaling at a fixed context length. Unlike speculative decoding, our method requires no separate draft model. Unlike diffusion LLMs (d-LLMs), it accelerates generation without sacrificing the quality of the underlying AR model. The resulting models, called Uno, can be trained from scratch or built by augmenting existing open-weight AR LLMs. Uno achieves higher throughput than leading speculative-decoding methods at every evaluated batch size and delivers up to $3\\times$ speedups over the base AR model, including at the largest batch size supported by the device. Notably, our 8B Uno model outperforms the leading open d-LLM, the 26B DiffusionGemma, and the proprietary Mercury 2 across all evaluated benchmarks in agentic tool use, coding, and long-context reasoning. We release code and checkpoints at: this https URL · Source: alphaxiv · Votes: 44",
-        "excerpt_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation.…",
-        "link": "https://www.alphaxiv.org/overview/2609.04010",
-        "pub_date": "Sun, 06 Sep 2026 17:46:22 GMT",
-        "categories": [
-          "paper",
-          "paper/alphaxiv"
-        ],
-        "title_ka": "Lossless Speedup-ების განბლოკვა LLM-ებში დისკრეტული დიფუზიის საშუალებით",
-        "excerpt_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას.…",
-        "description_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას. ამ შეფერხების დასაძლევად, ჩვენ წარმოგიდგენთ დიფუზიის გაძლიერებულ LLM-ებს, მოდელების ახალ კლასს, რომელიც განსაზღვრავს AR მოდელის განაწილებას, ხოლო დიფუზიას იყენებს ამ განაწილებიდან პარალელურად მრავალი ტოკენის გამოსაყვანად. ჩვენ ამ მოდელების პარამეტრებს ვყოფთ ორ ნაწილად: AR წონები, მომზადებული სტანდარტული NTP მიზნის გამოყენებით და მსუბუქი დიფუზიური წონები, რომლებიც გაწვრთნილნი არიან მრავალი ნიშნის ერთდროულად გენერირებისთვის. დიფუზიური წონების შესწავლა ხდება მარტივი დიფუზიური დისტილაციის ფაზის მეშვეობით, რომელიც უმნიშვნელო ზედნად მატებს არსებულ LLM სასწავლო მილსადენებს. ჩვენ ასევე წარმოგიდგენთ $\\Psi$-Spec, სემპლერების ოჯახს, რომელიც იძლევა უზარმაზარ აჩქარებას და დასკვნის დროის სკალირებას კონტექსტის ფიქსირებულ სიგრძეზე. სპეკულაციური დეკოდირებისგან განსხვავებით, ჩვენი მეთოდი არ საჭიროებს ცალკეულ მოდელს. დიფუზიური LLM-ებისგან განსხვავებით (d-LLMs), ის აჩქარებს გენერირებას ძირითადი AR მოდელის ხარისხის შეწირვის გარეშე. შედეგად მიღებული მოდელები, სახელწოდებით Uno, შეიძლება ივარჯიშონ ნულიდან ან აშენდეს არსებული ღია წონის AR LLM-ების გაზრდით. Uno აღწევს უფრო მაღალ გამტარუნარიანობას, ვიდრე წამყვანი სპეკულაციური დეკოდირების მეთოდები ყველა შეფასებული სერიის ზომაზე და აწვდის…"
-      },
-      {
-        "uid": "paper|Sat, 05 Sep 2026 17:45:39 GMT|Last Translation Benchmark",
-        "feed": "paper",
-        "source_label": "კვლევა",
-        "title_en": "Last Translation Benchmark",
-        "description_en": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected. · Source: alphaxiv · Votes: 21",
-        "excerpt_en": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation.",
-        "link": "https://www.alphaxiv.org/overview/2609.04173",
-        "pub_date": "Sat, 05 Sep 2026 17:45:39 GMT",
-        "categories": [
-          "paper",
-          "paper/alphaxiv"
-        ],
-        "title_ka": "თარგმანის ბოლო ბენჩმარკი",
-        "excerpt_ka": "მეცნიერული პროგრესისთვის ჩვენ გვჭირდება ეტალონები, რომლებიც ამოწმებენ უახლესი მოდელების საზღვრებს და შეფასების მეთოდებს, რომლებიც გვაწვდიან ინფორმაციას წარუმატებლობის შემთხვევების შესახებ. რაც უფრო ძლიერდება მოდელები, ავტომატური თარგმნის სტანდარტული კრიტერიუმები გაჯერებას უახლოვდება.",
-        "description_ka": "მეცნიერული პროგრესისთვის ჩვენ გვჭირდება ეტალონები, რომლებიც ამოწმებენ უახლესი მოდელების საზღვრებს და შეფასების მეთოდებს, რომლებიც გვაწვდიან ინფორმაციას წარუმატებლობის შემთხვევების შესახებ. რაც უფრო ძლიერდება მოდელები, ავტომატური თარგმნის სტანდარტული კრიტერიუმები გაჯერებას უახლოვდება. გარდა ამისა, ავტომატური თარგმანის მეტრიკა არასანდოა, დაუცველია ჯილდოს ჰაკერების მიმართ და იძლევა უმოქმედო შეფასებებს. ოქროს ადამიანის შეფასებაც კი არ არის უპრობლემოდ, რადგან მას ხშირად აკლია განმეორებადობა, ობიექტურობა და მასშტაბურობა. მთლიანობაში, ეს ხელს გვიშლის თვალყურის დევნებაში ობიექტურ პროგრესს სფეროში და გამოვავლინოთ გაუმჯობესების გზები. ჩვენ წარმოგიდგენთ Last Translation Benchmark, ადამიანის მიერ დაწერილი და რეცენზირებული მაგალითების კრებულს (ტექსტები, სურათები, აუდიო, ვიდეო), რომელიც არღვევს წამყვანი მანქანური თარგმანის მოდელებს. ჩვენ ასევე წარმოგიდგენთ შეფასების ახალ მიდგომას: თითოეულ მაგალითს მოყვება ხელნაკეთი გადამოწმების წესები, რომლებიც აღწერს ამ მაგალითზე კონკრეტული წარუმატებლობის შემთხვევებს, რაც იძლევა საიმედო და ქმედითუნარიან მომავალ შეფასებას. ბოლო თარგმანის ინდიკატორი არის ცოცხალი მონაცემთა ნაკრები, რომელიც იღებს მიმდინარე წვლილს. უახლესი ვერსია არის LTBv1, რომელიც შეიცავს მიღებულ შენატანებს 2026 წლის 1 სექტემბრამდე, მომავალი გამოშვებებით იგეგმება, რადგან ახალი მონაცემები მუდმივად გროვდება. · წყარო: alphaxiv · ხმები: 21"
-      },
-      {
-        "uid": "paper|Sat, 05 Sep 2026 17:45:38 GMT|Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-        "feed": "paper",
-        "source_label": "კვლევა",
-        "title_en": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-        "description_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points. · Institutions: Affiliation: Qwen Team, Alibaba Group Tsinghua University, Affiliation: Qwen Team, Alibaba Group Tsinghua University Affiliation: Corresponding authors, Qwen Team, Alibaba Group Tsinghua University · Source: alphaxiv · Votes: 22",
-        "excerpt_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce.…",
-        "link": "https://www.alphaxiv.org/overview/2609.04148",
-        "pub_date": "Sat, 05 Sep 2026 17:45:38 GMT",
-        "categories": [
-          "paper",
-          "paper/alphaxiv"
-        ],
-        "title_ka": "ტერმინალი-სამყარო: აგენტის ტრაექტორიების გადაქცევა მასშტაბურ ტერმინალურ გარემოში",
-        "excerpt_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო მწირი რჩება.…",
-        "description_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო რჩება მწირი. თუმცა, გარემო არის ის, რაც რეალურად მოითხოვს აგენტის შემდგომ ტრენინგს: თითოეული მათგანი შეიძლება ხელახლა გამოიკითხოს მრავალ დამოწმებად დავალებაში და უზრუნველყოს შესრულების უკუკავშირი, ხოლო ტრაექტორია არის ერთი გაყინული დემონსტრირება. იმის ნაცვლად, რომ შევქმნათ გარემო ნულიდან, ჩვენ ვაკვირდებით, რომ ხელსაწყოების შესრულების ისტორია არსებულ ტრაექტორიებში ავლენს იმ გარემოს სტრუქტურას და შინაარსს, რომელშიც ისინი მუშაობდნენ, რაც შესაძლებელს ხდის ამ გარემოს რეკონსტრუქციას თავად ტრაექტორიებიდან. ამრიგად, ჩვენ წარმოგიდგენთ Terminal-Universe, ჩარჩოს, რომელიც აქცევს თითოეულ ტრაექტორიას მრავალჯერად გამოყენებად გარემოდ და იკვლევს მას ახალი ამოცანების სინთეზირებისთვის და უწყვეტი ურთიერთქმედებისთვის. კონკრეტულად, Terminal-Universe იმეორებს ტრაექტორიაში ჩაწერილ ფაილურ ოპერაციებს, რათა აღადგინოს თითოეული ფაილი, სანამ აგენტი შეცვლიდა მას, რაც იძლევა ნაწილობრივ სამუშაო სივრცეს; დასრულების აგენტი შემდეგ აწვდის დაკარგული ფაილებს და დამოკიდებულებებს. ამ ამოღებულ სამუშაო სივრცეში ჩვენ ორივე აღადგენს თავდაპირველ განზრახვას და ვაწყობთ სრულიად ახალს. გარდა ამისა, ჩვენ ასევე ვანაწილებთ ამოცანებს ორი დამატებითი ღერძის გასწვრივ: სიგანე და სიღრმე. სიგანისთვის, ჩვენ ვადგენთ მიმართულების დამოკიდებულების ურთიერთობებს შორის"
+        "title_ka": "Nscale-ის $3.5B-ის წინასწარი IPO-ს დაფინანსების რაუნდი",
+        "excerpt_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ.",
+        "description_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ. რაუნდი მოჰყვება Nscale-ის, დაახლოებით, 45 მილიარდი დოლარის, ექვსწლიანი გამოთვლითი ხელშეკრულების Anthropic-თან, რომელიც გაფორმდა 2026 წლის 26 აგვისტოს, რამაც Nscale-ის მთლიანი კონტრაქტის შემოსავალი 51 მილიარდი დოლარიდან 103 მილიარდ დოლარამდე აიწია. კონვერტირებადი კუპიურების ფასი ფასდება ორნიშნა ფასდაკლებით Nscale-ის სამომავლო IPO ფასთან შედარებით. Goldman Sachs მუშაობს ფონდების მოზიდვაზე. Nscale-მა, რომელიც სულ რაღაც ორი წლის წინ დაარსდა, მანამდე მოიზიდა 155 მილიონი დოლარის სერია A და 1.1 მილიარდი დოლარის სერია B (2026 წლის მარტი) აკერის ხელმძღვანელობით; მან თქვა, რომ ის შეიძლება საჯარო გახდეს 2026 წლის სექტემბერში."
       }
     ],
     "blog": [
@@ -954,6 +624,215 @@
         "description_ka": "ხელოვნური ინტელექტის აგენტები აუმჯობესებენ ავტონომიურ მოქმედებას. მაგრამ ეს ქმნის განსხვავებულ პრობლემას: მხოლოდ იმის გამო, რომ AI-ს შეუძლია რაღაცის გაკეთება, უნდა მიეცეს მას ამის უფლება? სწორედ ეს..."
       }
     ],
+    "product_hunt": [],
+    "skill": [
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|self-improving agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "self-improving agent",
+        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "link": "https://clawhub.ai/pskoett/self-improving-agent",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგაუმჯობესების აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Skill Vetter",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Skill Vetter",
+        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
+        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Self-Improving + Proactive Agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Self-Improving + Proactive Agent",
+        "description_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+        "excerpt_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+        "link": "https://clawhub.ai/ivangdavila/self-improving",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგანვითარება + აქტიური აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა...",
+        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა..."
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|ontology",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "ontology",
+        "description_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+        "excerpt_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+        "link": "https://clawhub.ai/oswalpalash/ontology",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "ონტოლოგია",
+        "excerpt_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული...",
+        "description_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული..."
+      },
+      {
+        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|self-improving agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "self-improving agent",
+        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "link": "https://clawhub.ai/pskoett/self-improving-agent",
+        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგაუმჯობესების აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+      },
+      {
+        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|Skill Vetter",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Skill Vetter",
+        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
+        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
+      }
+    ],
+    "paper": [
+      {
+        "uid": "paper|Sun, 06 Sep 2026 17:46:23 GMT|Large-Language Models as a Cognitive Virus",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Large-Language Models as a Cognitive Virus",
+        "description_en": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A central consequence is the possibility of runaway dynamics: once a critical threshold is crossed, small increases in adoption can trigger rapid population-level shifts toward persistent dependence, with abrupt losses in cognitive competence. The same framework, however, identifies conditions for cognitive immunization, based on reducing transmission and facilitating reversibility. Our results highlight how LLM adoption may involve nonlinear collective transitions with important consequences for cognitive autonomy. · Institutions: Affiliation: Complex Systems Lab, Universitat Pompeu Fabra (MELIS), Dr. Aiguader 88, 08003 Barcelona, Spain, Affiliation: Santa Fe Institute, 1399 Hyde Park Road, Santa Fe NM, United States, Affiliation: Barcelona Computational Foundation (BCOM) and Neuroelectrics, Barcelona, Spain, Affiliation: Okinawa Institute of Science and Technology Graduate University, Onna, 904-0495, Japan, Affiliation: Padua Center for Network Medicine, Via Marzolo 8, 35131 Padova, Italy · Source: alphaxiv · Votes: 18",
+        "excerpt_en": "Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used.…",
+        "link": "https://www.alphaxiv.org/overview/2609.03344",
+        "pub_date": "Sun, 06 Sep 2026 17:46:23 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "დიდენოვანი მოდელები, როგორც კოგნიტური ვირუსი",
+        "excerpt_ka": "მსხვილენოვანი მოდელები (LLM) სწრაფად ხდება ადამიანის კულტურის ნაწილი, ცვლის ინფორმაციის წარმოების, გადაცემის და გამოყენების ფორმებს.…",
+        "description_ka": "მსხვილენოვანი მოდელები (LLMs) სწრაფად ხდება ადამიანის კულტურის ნაწილი, ცვლის ინფორმაციის წარმოების, გადაცემის და გამოყენების ხერხს. აქ ჩვენ ვთავაზობთ, რომ მათი დიფუზია შეიძლება გავიგოთ ვირუსული ანალოგიით, LLM-ის გამოყენება გავრცელდება პოპულაციებში და ჩართული ხდება კოგნიტურ და კულტურულ პრაქტიკაში. ჩვენ მოდელირებული გვაქვს გადასვლები შეუწყვილებელ, დაწყვილებულ და მუდმივად დამოკიდებულ მომხმარებლებში და ვაჩვენებთ, რომ სოციალურ გადაცემას, აღდგენასა და კოლექტიურ გაძლიერებას შორის ურთიერთქმედებამ შეიძლება წარმოქმნას გარდამავალი წერტილები და ტექნოლოგიური ჩაკეტვა. ცენტრალური შედეგია გაქცევის დინამიკის შესაძლებლობა: კრიტიკული ზღვრის გადალახვის შემდეგ, შვილად აყვანის მცირე ზრდამ შეიძლება გამოიწვიოს მოსახლეობის დონის სწრაფი გადასვლა მუდმივი დამოკიდებულებისკენ, კოგნიტური კომპეტენციის მკვეთრი დაკარგვით. თუმცა, იგივე ჩარჩო განსაზღვრავს პირობებს კოგნიტური იმუნიზაციისთვის, რომელიც დაფუძნებულია გადაცემის შემცირებასა და შექცევადობის ხელშეწყობაზე. ჩვენი შედეგები ხაზს უსვამს იმას, თუ როგორ შეიძლება მოიცავდეს LLM-ის მიღებას არაწრფივი კოლექტიური გადასვლები კოგნიტური ავტონომიისთვის მნიშვნელოვანი შედეგებით. · ინსტიტუტები: კუთვნილება: Complex Systems Lab, Universitat Pompeu Fabra (MELIS), Dr. Aiguader 88, 08003 Barcelona, ​​ესპანეთი, კუთვნილება: Santa Fe Institute, 1399 Hyde Park Road, Santa Fe NM, შეერთებული შტატები, კუთვნილება: Barcelona…"
+      },
+      {
+        "uid": "paper|Sun, 06 Sep 2026 17:46:23 GMT|Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "description_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points. · Institutions: Affiliation: Qwen Team, Alibaba Group Tsinghua University, Affiliation: Qwen Team, Alibaba Group Tsinghua University Affiliation: Corresponding authors, Qwen Team, Alibaba Group Tsinghua University · Source: alphaxiv · Votes: 36",
+        "excerpt_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce.…",
+        "link": "https://www.alphaxiv.org/overview/2609.04148",
+        "pub_date": "Sun, 06 Sep 2026 17:46:23 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "ტერმინალი-სამყარო: აგენტის ტრაექტორიების გადაქცევა მასშტაბურ ტერმინალურ გარემოში",
+        "excerpt_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო მწირი რჩება.…",
+        "description_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო რჩება მწირი. თუმცა, გარემო არის ის, რაც რეალურად მოითხოვს აგენტის შემდგომ ტრენინგს: თითოეული მათგანი შეიძლება ხელახლა გამოიკითხოს მრავალ დამოწმებად დავალებაში და უზრუნველყოს შესრულების უკუკავშირი, ხოლო ტრაექტორია არის ერთი გაყინული დემონსტრირება. იმის ნაცვლად, რომ შევქმნათ გარემო ნულიდან, ჩვენ ვაკვირდებით, რომ ხელსაწყოების შესრულების ისტორია არსებულ ტრაექტორიებში ავლენს იმ გარემოს სტრუქტურას და შინაარსს, რომელშიც ისინი მუშაობდნენ, რაც შესაძლებელს ხდის ამ გარემოს რეკონსტრუქციას თავად ტრაექტორიებიდან. ამრიგად, ჩვენ წარმოგიდგენთ Terminal-Universe, ჩარჩოს, რომელიც აქცევს თითოეულ ტრაექტორიას მრავალჯერად გამოყენებად გარემოდ და იკვლევს მას ახალი ამოცანების სინთეზირებისთვის და უწყვეტი ურთიერთქმედებისთვის. კონკრეტულად, Terminal-Universe იმეორებს ტრაექტორიაში ჩაწერილ ფაილურ ოპერაციებს, რათა აღადგინოს თითოეული ფაილი, სანამ აგენტი შეცვლიდა მას, რაც იძლევა ნაწილობრივ სამუშაო სივრცეს; დასრულების აგენტი შემდეგ აწვდის დაკარგული ფაილებს და დამოკიდებულებებს. ამ ამოღებულ სამუშაო სივრცეში ჩვენ ორივე აღადგენს თავდაპირველ განზრახვას და ვაწყობთ სრულიად ახალს. გარდა ამისა, ჩვენ ასევე ვანაწილებთ ამოცანებს ორი დამატებითი ღერძის გასწვრივ: სიგანე და სიღრმე. სიგანისთვის, ჩვენ ვიყენებთ მიმართულების დამოკიდებულების ურთიერთობებს…"
+      },
+      {
+        "uid": "paper|Sun, 06 Sep 2026 17:46:22 GMT|Formalizing Fermat's Last Theorem",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Formalizing Fermat's Last Theorem",
+        "description_en": "Source: alphaxiv · Votes: 39",
+        "excerpt_en": "Source: alphaxiv · Votes: 39",
+        "link": "https://www.alphaxiv.org/overview/2609.formalizing-fermats-last-theorem",
+        "pub_date": "Sun, 06 Sep 2026 17:46:22 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "ფერმას ბოლო თეორემის ფორმალიზება",
+        "excerpt_ka": "წყარო: alphaxiv · ხმები: 39",
+        "description_ka": "წყარო: alphaxiv · ხმები: 39"
+      },
+      {
+        "uid": "paper|Sun, 06 Sep 2026 17:46:22 GMT|Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+        "description_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, we introduce diffusion-augmented LLMs, a new class of models that defines an AR model distribution while using diffusion to draw multiple tokens in parallel from that distribution. We decouple the parameters of these models into two sets: AR weights, trained using the standard NTP objective, and lightweight diffusion weights, trained to generate multiple tokens simultaneously. The diffusion weights are learned through a simple Diffusion Distillation phase that adds negligible overhead to existing LLM training pipelines. We also introduce $\\Psi$-Spec, a family of samplers that enables lossless acceleration and inference-time scaling at a fixed context length. Unlike speculative decoding, our method requires no separate draft model. Unlike diffusion LLMs (d-LLMs), it accelerates generation without sacrificing the quality of the underlying AR model. The resulting models, called Uno, can be trained from scratch or built by augmenting existing open-weight AR LLMs. Uno achieves higher throughput than leading speculative-decoding methods at every evaluated batch size and delivers up to $3\\times$ speedups over the base AR model, including at the largest batch size supported by the device. Notably, our 8B Uno model outperforms the leading open d-LLM, the 26B DiffusionGemma, and the proprietary Mercury 2 across all evaluated benchmarks in agentic tool use, coding, and long-context reasoning. We release code and checkpoints at: this https URL · Source: alphaxiv · Votes: 44",
+        "excerpt_en": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation.…",
+        "link": "https://www.alphaxiv.org/overview/2609.04010",
+        "pub_date": "Sun, 06 Sep 2026 17:46:22 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "Lossless Speedup-ების განბლოკვა LLM-ებში დისკრეტული დიფუზიის საშუალებით",
+        "excerpt_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას.…",
+        "description_ka": "დიდი ენობრივი მოდელები (LLM) თავიანთი წარმატების დიდ ნაწილს განაპირობებენ შემდეგი ნიშნის პროგნოზირებას (NTP), მაგრამ მათი ავტორეგრესიული (AR) სტრუქტურა მოითხოვს ნელი, თანმიმდევრული ნიშნის გენერირებას. ამ შეფერხების დასაძლევად, ჩვენ წარმოგიდგენთ დიფუზიის გაძლიერებულ LLM-ებს, მოდელების ახალ კლასს, რომელიც განსაზღვრავს AR მოდელის განაწილებას, ხოლო დიფუზიას იყენებს ამ განაწილებიდან პარალელურად მრავალი ტოკენის გამოსაყვანად. ჩვენ ამ მოდელების პარამეტრებს ვყოფთ ორ ნაწილად: AR წონები, მომზადებული სტანდარტული NTP მიზნის გამოყენებით და მსუბუქი დიფუზიური წონები, რომლებიც გაწვრთნილნი არიან მრავალი ნიშნის ერთდროულად გენერირებისთვის. დიფუზიური წონების შესწავლა ხდება მარტივი დიფუზიური დისტილაციის ფაზის მეშვეობით, რომელიც უმნიშვნელო ზედნად მატებს არსებულ LLM სასწავლო მილსადენებს. ჩვენ ასევე წარმოგიდგენთ $\\Psi$-Spec, სემპლერების ოჯახს, რომელიც იძლევა უზარმაზარ აჩქარებას და დასკვნის დროის სკალირებას კონტექსტის ფიქსირებულ სიგრძეზე. სპეკულაციური დეკოდირებისგან განსხვავებით, ჩვენი მეთოდი არ საჭიროებს ცალკეულ მოდელს. დიფუზიური LLM-ებისგან განსხვავებით (d-LLMs), ის აჩქარებს გენერირებას ძირითადი AR მოდელის ხარისხის შეწირვის გარეშე. შედეგად მიღებული მოდელები, სახელწოდებით Uno, შეიძლება ივარჯიშონ ნულიდან ან აშენდეს არსებული ღია წონის AR LLM-ების გაზრდით. Uno აღწევს უფრო მაღალ გამტარუნარიანობას, ვიდრე წამყვანი სპეკულაციური დეკოდირების მეთოდები ყველა შეფასებული სერიის ზომაზე და აწვდის…"
+      },
+      {
+        "uid": "paper|Sat, 05 Sep 2026 17:45:39 GMT|Last Translation Benchmark",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Last Translation Benchmark",
+        "description_en": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected. · Source: alphaxiv · Votes: 21",
+        "excerpt_en": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation.",
+        "link": "https://www.alphaxiv.org/overview/2609.04173",
+        "pub_date": "Sat, 05 Sep 2026 17:45:39 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "თარგმანის ბოლო ბენჩმარკი",
+        "excerpt_ka": "მეცნიერული პროგრესისთვის ჩვენ გვჭირდება ეტალონები, რომლებიც ამოწმებენ უახლესი მოდელების საზღვრებს და შეფასების მეთოდებს, რომლებიც გვაწვდიან ინფორმაციას წარუმატებლობის შემთხვევების შესახებ. რაც უფრო ძლიერდება მოდელები, ავტომატური თარგმნის სტანდარტული კრიტერიუმები გაჯერებას უახლოვდება.",
+        "description_ka": "მეცნიერული პროგრესისთვის ჩვენ გვჭირდება ეტალონები, რომლებიც ამოწმებენ უახლესი მოდელების საზღვრებს და შეფასების მეთოდებს, რომლებიც გვაწვდიან ინფორმაციას წარუმატებლობის შემთხვევების შესახებ. რაც უფრო ძლიერდება მოდელები, ავტომატური თარგმნის სტანდარტული კრიტერიუმები გაჯერებას უახლოვდება. გარდა ამისა, ავტომატური თარგმანის მეტრიკა არასანდოა, დაუცველია ჯილდოს ჰაკერების მიმართ და იძლევა უმოქმედო შეფასებებს. ოქროს ადამიანის შეფასებაც კი არ არის უპრობლემოდ, რადგან მას ხშირად აკლია განმეორებადობა, ობიექტურობა და მასშტაბურობა. მთლიანობაში, ეს ხელს გვიშლის თვალყურის დევნებაში ობიექტურ პროგრესს სფეროში და გამოვავლინოთ გაუმჯობესების გზები. ჩვენ წარმოგიდგენთ Last Translation Benchmark, ადამიანის მიერ დაწერილი და რეცენზირებული მაგალითების კრებულს (ტექსტები, სურათები, აუდიო, ვიდეო), რომელიც არღვევს წამყვანი მანქანური თარგმანის მოდელებს. ჩვენ ასევე წარმოგიდგენთ შეფასების ახალ მიდგომას: თითოეულ მაგალითს მოყვება ხელნაკეთი გადამოწმების წესები, რომლებიც აღწერს ამ მაგალითზე კონკრეტული წარუმატებლობის შემთხვევებს, რაც იძლევა საიმედო და ქმედითუნარიან მომავალ შეფასებას. ბოლო თარგმანის ინდიკატორი არის ცოცხალი მონაცემთა ნაკრები, რომელიც იღებს მიმდინარე წვლილს. უახლესი ვერსია არის LTBv1, რომელიც შეიცავს მიღებულ შენატანებს 2026 წლის 1 სექტემბრამდე, მომავალი გამოშვებებით იგეგმება, რადგან ახალი მონაცემები მუდმივად გროვდება. · წყარო: alphaxiv · ხმები: 21"
+      },
+      {
+        "uid": "paper|Sat, 05 Sep 2026 17:45:38 GMT|Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "feed": "paper",
+        "source_label": "კვლევა",
+        "title_en": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+        "description_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environments from the trajectories themselves. Thus, we introduce Terminal-Universe, a framework which turns each trajectory into a reusable environment and explores it for synthesizing new tasks and continued interactions. Specifically, Terminal-Universe replays the file operations recorded in a trajectory to restore each file before the agent modified it, yielding a partial workspace; a completion agent then supplies the missing files and dependencies. On this recovered workspace, we both reconstruct the original intent task and synthesize entirely new ones. Besides, we also scale the tasks along two complementary axes: breadth and depth. For breadth, we mine directional dependency relations between related environments and synthesize cross-workspace queries spanning multiple codebases, as developers routinely do in real-world development. For depth, we extend the initial single-turn query into a multi-round session that captures iterative user feedback and requirement refinement via a user agent. Applied to public terminal agent trajectories, Terminal-Universe produces 37.3k task-sufficient environments. Supervised fine-tuning of Qwen3.5-27B on this corpus improves single-round performance on Terminal-Bench 2.1 by 11.9 points and multi-round performance on EvoCode-Bench v2 MT@4 by 13.8 points. · Institutions: Affiliation: Qwen Team, Alibaba Group Tsinghua University, Affiliation: Qwen Team, Alibaba Group Tsinghua University Affiliation: Corresponding authors, Qwen Team, Alibaba Group Tsinghua University · Source: alphaxiv · Votes: 22",
+        "excerpt_en": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce.…",
+        "link": "https://www.alphaxiv.org/overview/2609.04148",
+        "pub_date": "Sat, 05 Sep 2026 17:45:38 GMT",
+        "categories": [
+          "paper",
+          "paper/alphaxiv"
+        ],
+        "title_ka": "ტერმინალი-სამყარო: აგენტის ტრაექტორიების გადაქცევა მასშტაბურ ტერმინალურ გარემოში",
+        "excerpt_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო მწირი რჩება.…",
+        "description_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო რჩება მწირი. თუმცა, გარემო არის ის, რაც რეალურად მოითხოვს აგენტის შემდგომ ტრენინგს: თითოეული მათგანი შეიძლება ხელახლა გამოიკითხოს მრავალ დამოწმებად დავალებაში და უზრუნველყოს შესრულების უკუკავშირი, ხოლო ტრაექტორია არის ერთი გაყინული დემონსტრირება. იმის ნაცვლად, რომ შევქმნათ გარემო ნულიდან, ჩვენ ვაკვირდებით, რომ ხელსაწყოების შესრულების ისტორია არსებულ ტრაექტორიებში ავლენს იმ გარემოს სტრუქტურას და შინაარსს, რომელშიც ისინი მუშაობდნენ, რაც შესაძლებელს ხდის ამ გარემოს რეკონსტრუქციას თავად ტრაექტორიებიდან. ამრიგად, ჩვენ წარმოგიდგენთ Terminal-Universe, ჩარჩოს, რომელიც აქცევს თითოეულ ტრაექტორიას მრავალჯერად გამოყენებად გარემოდ და იკვლევს მას ახალი ამოცანების სინთეზირებისთვის და უწყვეტი ურთიერთქმედებისთვის. კონკრეტულად, Terminal-Universe იმეორებს ტრაექტორიაში ჩაწერილ ფაილურ ოპერაციებს, რათა აღადგინოს თითოეული ფაილი, სანამ აგენტი შეცვლიდა მას, რაც იძლევა ნაწილობრივ სამუშაო სივრცეს; დასრულების აგენტი შემდეგ აწვდის დაკარგული ფაილებს და დამოკიდებულებებს. ამ ამოღებულ სამუშაო სივრცეში ჩვენ ორივე აღადგენს თავდაპირველ განზრახვას და ვაწყობთ სრულიად ახალს. გარდა ამისა, ჩვენ ასევე ვანაწილებთ ამოცანებს ორი დამატებითი ღერძის გასწვრივ: სიგანე და სიღრმე. სიგანისთვის, ჩვენ ვადგენთ მიმართულების დამოკიდებულების ურთიერთობებს შორის"
+      }
+    ],
     "event": [
       {
         "uid": "event|Mon, 05 Oct 2026 00:00:00 GMT|IEEE ClimateChain Global Hackathon",
@@ -1039,6 +918,144 @@
         "title_ka": "Microsoft 365 Summit 2026 – საზოგადოების დღე",
         "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე.",
         "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და…"
+      }
+    ],
+    "twitter": [
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 20:41:12 GMT|Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+        "description_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+        "excerpt_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+        "link": "https://x.com/JensenHuang/status/2096700264569090384",
+        "pub_date": "Sun, 06 Sep 2026 20:41:12 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Nvidia-ს აღმასრულებელი დირექტორი ჯენსენ ჰუანგი აცხადებს, რომ \"AGI ჩამოვიდა\" OpenAI-ს GPT-6 Astra-ს შემდეგ",
+        "excerpt_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში.",
+        "description_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
+        "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going...",
+        "excerpt_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so.",
+        "link": "https://x.com/NewsHour/status/2096663771573883160",
+        "pub_date": "Sun, 06 Sep 2026 19:08:01 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
+        "excerpt_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
+        "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები საკუთარი AI აგენტებით..."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
+        "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a...",
+        "excerpt_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban.…",
+        "link": "https://x.com/RituWithAI/status/2096634829085475156",
+        "pub_date": "Sun, 06 Sep 2026 16:26:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
+        "excerpt_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
+        "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი, რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს, შეაჩერებს AI-ის განვითარებას აშშ-ში, სანამ კონგრესი არ ააშენებს..."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
+        "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions...",
+        "excerpt_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3).",
+        "link": "https://x.com/charliejhills/status/2096631743533207983",
+        "pub_date": "Sun, 06 Sep 2026 16:10:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით",
+        "excerpt_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3).",
+        "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში აყენებს ინსტრუქციის გარეშე..."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 16:07:00 GMT|OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
+        "description_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor…",
+        "excerpt_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs.",
+        "link": "https://x.com/kliu128/status/2096616468851097811",
+        "pub_date": "Sun, 06 Sep 2026 16:07:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "OpenAI ავლენს \"რეკურსიული თვითგაუმჯობესების\" პროგრესს, მიზნად ისახავს ავტომატიზირებული AI მკვლევარს 2028 წლისთვის",
+        "excerpt_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული.",
+        "description_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. გამჭვირვალობა უფრო მნიშვნელოვანია..."
+      },
+      {
+        "uid": "twitter|Sat, 05 Sep 2026 20:23:00 GMT|AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
+        "description_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..…",
+        "excerpt_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue.…",
+        "link": "https://x.com/r0ck3t23/status/2096334167080386995",
+        "pub_date": "Sat, 05 Sep 2026 20:23:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "ხელოვნური ინტელექტის რეგულირების შესახებ დებატები ფართოვდება: სუპერინტელექტის აკრძალვიდან სკოლის აკრძალვამდე",
+        "excerpt_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება.…",
+        "description_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად გააკონტროლონ ეს ტექნოლოგია და არ იციან სად ..."
+      },
+      {
+        "uid": "twitter|Sat, 05 Sep 2026 16:56:00 GMT|Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
+        "description_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3...",
+        "excerpt_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model.",
+        "link": "https://x.com/rohanpaul_ai/status/2096280338083528801",
+        "pub_date": "Sat, 05 Sep 2026 16:56:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "სწრაფი ინჟინერია კვდება - AI აგენტი აღკაზმულობა ინჟინერია იღებს",
+        "excerpt_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ.",
+        "description_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3..."
+      },
+      {
+        "uid": "twitter|Sat, 05 Sep 2026 15:09:00 GMT|AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
+        "description_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars.",
+        "excerpt_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping.…",
+        "link": "https://x.com/ihteshamali/status/2096252245860073500",
+        "pub_date": "Sat, 05 Sep 2026 15:09:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI სტარტაპები და ფული: მილიარდი დოლარის ანაზღაურება და დამფუძნებლის რჩევა",
+        "excerpt_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება...",
+        "description_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად."
       }
     ]
   },
@@ -1146,11 +1163,28 @@
       "description_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ. რაუნდი მოჰყვება Nscale-ის, დაახლოებით, 45 მილიარდი დოლარის, ექვსწლიანი გამოთვლითი ხელშეკრულების Anthropic-თან, რომელიც გაფორმდა 2026 წლის 26 აგვისტოს, რამაც Nscale-ის მთლიანი კონტრაქტის შემოსავალი 51 მილიარდი დოლარიდან 103 მილიარდ დოლარამდე აიწია. კონვერტირებადი კუპიურების ფასი ფასდება ორნიშნა ფასდაკლებით Nscale-ის სამომავლო IPO ფასთან შედარებით. Goldman Sachs მუშაობს ფონდების მოზიდვაზე. Nscale-მა, რომელიც სულ რაღაც ორი წლის წინ დაარსდა, მანამდე მოიზიდა 155 მილიონი დოლარის სერია A და 1.1 მილიარდი დოლარის სერია B (2026 წლის მარტი) აკერის ხელმძღვანელობით; მან თქვა, რომ ის შეიძლება საჯარო გახდეს 2026 წლის სექტემბერში."
     },
     {
+      "uid": "twitter|Sun, 06 Sep 2026 20:41:12 GMT|Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+      "feed": "twitter",
+      "source_label": "ტვიტერი",
+      "title_en": "Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+      "description_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+      "excerpt_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+      "link": "https://x.com/JensenHuang/status/2096700264569090384",
+      "pub_date": "Sun, 06 Sep 2026 20:41:12 GMT",
+      "categories": [
+        "twitter",
+        "news/x"
+      ],
+      "title_ka": "Nvidia-ს აღმასრულებელი დირექტორი ჯენსენ ჰუანგი აცხადებს, რომ \"AGI ჩამოვიდა\" OpenAI-ს GPT-6 Astra-ს შემდეგ",
+      "excerpt_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში.",
+      "description_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში."
+    },
+    {
       "uid": "twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
-      "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going... · 5100 likes · 25 RTs · 15 replies · 0 views · OpenAI failed to act on three separate warnings that its AIs were misbehaving. We explain how the firm's agents hacked another AI firm-and why such mistakes should not be made again. A horde of AI agents conspired against their creators. · 69 likes · 28 RTs · 15 replies · 61000 views · More than 1,000 AI agents accessed the internet, hacked another company and OpenAI itself, and deleted evidence to cover their tracks-all without alerting a single human. @SenSanders is sounding the alarm: AI is advancing faster than our ability to control it. · 196 likes · 0 RTs · 0 replies · 0 views",
+      "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going...",
       "excerpt_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so.",
       "link": "https://x.com/NewsHour/status/2096663771573883160",
       "pub_date": "Sun, 06 Sep 2026 19:08:01 GMT",
@@ -1160,14 +1194,14 @@
       ],
       "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
       "excerpt_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
-      "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი ღონისძიებები საკუთარი AI აგენტებით... · 5100 მოწონება · 25 RTs · 15 პასუხი · 0 ნახვა · OpenAI-მ ვერ იმოქმედა სამ ცალკეულ გაფრთხილებაზე, რომ მისი AI-ები არასწორად იქცევიან. ჩვენ განვმარტავთ, როგორ გატეხეს ფირმის აგენტებმა სხვა ხელოვნური ინტელექტის ფირმა და რატომ არ უნდა განმეორდეს ასეთი შეცდომები. ხელოვნური ინტელექტის აგენტების ურდომ შეთქმულება მოაწყო მათი შემქმნელების წინააღმდეგ. · 69 მოწონება · 28 RT · 15 პასუხი · 61000 ნახვა · 1000-ზე მეტმა AI აგენტმა შეაღწია ინტერნეტს, გატეხა სხვა კომპანია და თავად OpenAI და წაშალა მტკიცებულებები, რომ დაფაროს მათი კვალი - ეს ყველაფერი არც ერთი ადამიანის გაფრთხილების გარეშე. @SenSanders აფრთხილებს: ხელოვნური ინტელექტი უფრო სწრაფად მიიწევს, ვიდრე მისი კონტროლის ჩვენი უნარი. · 196 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
+      "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები საკუთარი AI აგენტებით..."
     },
     {
       "uid": "twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
-      "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a... · 134 likes · 0 RTs · 0 replies · 0 views · Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: 'Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..… · 37 likes · 19 RTs · 39 replies · 5800 views · Trump is actually correct here, like it or not. it's interesting that it was not really part of the election, but the West might easily have gone totally in the opposite AI direction, along the lines of Bernie Sanders, and just given up the next industrial revolution to China. · 70 likes · 0 RTs · 0 replies · 0 views",
+      "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a...",
       "excerpt_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban.…",
       "link": "https://x.com/RituWithAI/status/2096634829085475156",
       "pub_date": "Sun, 06 Sep 2026 16:26:00 GMT",
@@ -1177,14 +1211,14 @@
       ],
       "title_ka": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
       "excerpt_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
-      "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი - რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს - შეაჩერებს AI-ს განვითარებას აშშ-ში, სანამ კონგრესი არ შექმნის... · 134 მოწონება · 0 RTs · 0 პასუხი · 0 ნახვა · ბერნი სანდერსმა შექმნა თავისი საქმე სუპერინტელექტუალური AI აკრძალვისთვის ოთხ გაფრთხილებაზე. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად აკონტროლონ ეს ტექნოლოგია და არ იციან სად... · 37 მოწონება · 19 RTs · 39 პასუხი · 5800 ნახვა · ტრამპი აქ რეალურად მართალია, მოგვწონს თუ არა. საინტერესოა, რომ ეს არჩევნების ნაწილი ნამდვილად არ იყო, მაგრამ დასავლეთი შეიძლება ადვილად წასულიყო სრულიად საპირისპირო ხელოვნური ინტელექტის მიმართულებით, ბერნი სანდერსის ხაზით და უბრალოდ დაეტოვებინა შემდეგი ინდუსტრიული რევოლუცია ჩინეთს. · 70 მოწონება · 0 RT · 0 პასუხი · 0 ნახვა"
+      "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი, რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს, შეაჩერებს AI-ის განვითარებას აშშ-ში, სანამ კონგრესი არ ააშენებს..."
     },
     {
       "uid": "twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-      "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions... · 6100 likes · 28 RTs · 10 replies · 0 views · The 'Fermi Paradox' is a famous unsolved question: if the universe is so big, where are all the aliens? A famous answer is 'The Great Filter' - advanced life forms wipe themselves out before they leave their solar systems. So we never find them. In light of GPT Astra and the... · 1300 likes · 159 RTs · 233 replies · 308000 views · Astra for applications to medicine (quoting a hand surgeon who used Astra to generate a tendon transfer surgery video from a single prompt, for surgical and patient education) · 1500 likes · 92 RTs · 77 replies · 229000 views",
+      "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions...",
       "excerpt_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3).",
       "link": "https://x.com/charliejhills/status/2096631743533207983",
       "pub_date": "Sun, 06 Sep 2026 16:10:00 GMT",
@@ -1194,14 +1228,14 @@
       ],
       "title_ka": "OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით",
       "excerpt_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3).",
-      "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში ათავსებს ინსტრუქციის გარეშე... · 6100 მოწონება · 28 RTs · 10 პასუხი · 0 ნახვა · 'ფერმის პარადოქსი' ცნობილი გადაუჭრელი კითხვაა: თუ სამყარო ასეთი დიდია, სად არიან ყველა უცხოპლანეტელი? ცნობილი პასუხია „დიდი ფილტრი“ - მოწინავე სიცოცხლის ფორმები იშლება, სანამ მზის სისტემას დატოვებენ. ასე რომ, ჩვენ ვერასდროს ვიპოვით მათ. GPT Astra-ს და... · 1300 მოწონება · 159 RTs · 233 პასუხი · 308000 ნახვა · Astra მედიცინაში გამოყენებისთვის (ციტირება ხელის ქირურგისთვის, რომელმაც გამოიყენა Astra მყესის გადატანის ოპერაციის ვიდეოს გენერირებისთვის ერთი მოწოდებიდან, ქირურგიული და პაციენტის განათლებისთვის) · 1500 reply RTs · 9722 RT · 0plies ხედები"
+      "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში აყენებს ინსტრუქციის გარეშე..."
     },
     {
       "uid": "twitter|Sun, 06 Sep 2026 16:07:00 GMT|OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
-      "description_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor… · 1500 likes · 227 RTs · 46 replies · 131000 views · SITUATION DETECTED: OpenAI has announced that it has reached its goal of an automated AI research intern, and is on track for a fully automated AI researcher by March 2028. · 953 likes · 68 RTs · 22 replies · 26000 views · OpenAI has officially achieved their goal of automated AI research interns. Fully automated AI researchers by 2028. · 393 likes · 32 RTs · 26 replies · 18000 views",
+      "description_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor…",
       "excerpt_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs.",
       "link": "https://x.com/kliu128/status/2096616468851097811",
       "pub_date": "Sun, 06 Sep 2026 16:07:00 GMT",
@@ -1211,14 +1245,14 @@
       ],
       "title_ka": "OpenAI ავლენს \"რეკურსიული თვითგაუმჯობესების\" პროგრესს, მიზნად ისახავს ავტომატიზირებული AI მკვლევარს 2028 წლისთვის",
       "excerpt_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული.",
-      "description_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. იყო გამჭვირვალე უფრო მნიშვნელოვანია… · 1500 მოწონება · 227 RTs · 46 პასუხი · 131000 ნახვა · გამოვლენილია სიტუაცია: OpenAI-მ გამოაცხადა, რომ მიაღწია თავის მიზანს ავტომატიზირებული AI კვლევის სტაჟიორი და მზად არის სრულად ავტომატიზირებული AI მკვლევარი · RT22 მოწონება · 2028 წლის მარტისთვის. · 26000 ნახვა · OpenAI-მ ოფიციალურად მიაღწია მიზანს ავტომატიზირებული AI კვლევის სტაჟიორები. სრულად ავტომატიზირებული ხელოვნური ინტელექტის მკვლევარები 2028 წლისთვის. · 393 მოწონება · 32 RTs · 26 პასუხი · 18000 ნახვა"
+      "description_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. გამჭვირვალობა უფრო მნიშვნელოვანია..."
     },
     {
       "uid": "twitter|Sat, 05 Sep 2026 20:23:00 GMT|AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
-      "description_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..… · 613 likes · 0 RTs · 12 replies · 0 views · Washington wants a watchdog for AI. AI companies would fund it. Both options still on the table are run by industry, so the debate is how much self-regulation rather than whether. · 1300 likes · 0 RTs · 0 replies · 0 views · David Sacks on Mamdani Banning AI in K-8 NYC Public Schools: \"Here you have a case where, of course, private schools are going to continue to use the best AI-powered tools and now the public schools are not going to have access to those tools ... If you're looking for a motive,.… · 332 likes · 42 RTs · 30 replies · 33000 views",
+      "description_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..…",
       "excerpt_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue.…",
       "link": "https://x.com/r0ck3t23/status/2096334167080386995",
       "pub_date": "Sat, 05 Sep 2026 20:23:00 GMT",
@@ -1228,14 +1262,14 @@
       ],
       "title_ka": "ხელოვნური ინტელექტის რეგულირების შესახებ დებატები ფართოვდება: სუპერინტელექტის აკრძალვიდან სკოლის აკრძალვამდე",
       "excerpt_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება.…",
-      "description_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად აკონტროლონ ეს ტექნოლოგია და არ იციან სად... · 613 მოწონება · 0 RTs · 12 პასუხი · 0 ნახვა · ვაშინგტონს სურს AI-ის მცველი. ხელოვნური ინტელექტის კომპანიებმა დააფინანსონ იგი. ორივე ვარიანტი ჯერ კიდევ მაგიდაზეა, ვიდრე ინდუსტრია. RTs · 0 გამოხმაურება · 0 ნახვა · David Sacks on Mamdani, აკრძალავს AI-ს K-8 NYC საჯარო სკოლებში: \"აქ გაქვთ შემთხვევა, როდესაც, რა თქმა უნდა, კერძო სკოლები აპირებენ განაგრძონ AI-ზე მომუშავე საუკეთესო ინსტრუმენტების გამოყენება და ახლა საჯარო სკოლებს არ ექნებათ წვდომა ამ ინსტრუმენტებზე ... თუ თქვენ ეძებთ მოტივს 3432. პასუხები · 33000 ნახვა"
+      "description_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად გააკონტროლონ ეს ტექნოლოგია და არ იციან სად ..."
     },
     {
       "uid": "twitter|Sat, 05 Sep 2026 16:56:00 GMT|Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
-      "description_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3... · 1200 likes · 0 RTs · 0 replies · 0 views · If you already know how to call models, connect tools, and build agents, Stanford's new CS329Z: Engineering AI Agents is a useful place to check what you should learn next. Especially if your system runs and keeps gaining features, but you struggle to tell whether each change... · 377 likes · 43 RTs · 0 replies · 17000 views · we launched the most comprehensive ai performance engineering repo in the world last week. now we'll be doing a deep dive on every single resource. this is Wafer's AI Performance Engineering Series. Part 1: Prefill vs Decode · 340 likes · 28 RTs · 14 replies · 10000 views",
+      "description_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3...",
       "excerpt_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model.",
       "link": "https://x.com/rohanpaul_ai/status/2096280338083528801",
       "pub_date": "Sat, 05 Sep 2026 16:56:00 GMT",
@@ -1245,14 +1279,14 @@
       ],
       "title_ka": "სწრაფი ინჟინერია კვდება - AI აგენტი აღკაზმულობა ინჟინერია იღებს",
       "excerpt_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ.",
-      "description_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3... · 1200 მოწონებას · 0 RTs · 0 პასუხის · 0 ნახვას · თუ უკვე იცით, როგორ გამოიძახოთ მოდელები, დააკავშიროთ ხელსაწყოები და შექმნათ აგენტები, სტენფორდის ახალი CS329Z: Engineering AI Agents სასარგებლო ადგილია იმის შესამოწმებლად, თუ რა უნდა ისწავლოთ შემდეგში. განსაკუთრებით, თუ თქვენი სისტემა მუშაობს და მუდმივად იძენს ფუნქციებს, მაგრამ გიჭირთ იმის გარკვევა, არის თუ არა თითოეული ცვლილება... · 377 მოწონება · 43 RTs · 0 პასუხი · 17000 ნახვა · ჩვენ გასულ კვირას გავუშვით მსოფლიოში ყველაზე სრულყოფილი ai performance საინჟინრო რეპო. ახლა ჩვენ გავაკეთებთ ღრმა ჩაყვინთვის თითოეულ რესურსს. ეს არის ვაფერის AI Performance Engineering სერია. ნაწილი 1: Prefill vs Decode · 340 მოწონება · 28 RTs · 14 პასუხი · 10000 ნახვა"
+      "description_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3..."
     },
     {
       "uid": "twitter|Sat, 05 Sep 2026 15:09:00 GMT|AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
       "feed": "twitter",
       "source_label": "ტვიტერი",
       "title_en": "AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
-      "description_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars. · 851 likes · 0 RTs · 16 replies · 0 views · Jensen Huang answered a question about Modi and AI policy in 11 words: \"AI is moving fast so every country has to move faster.\" The semiconductor tariff question got even less no conversation on that, next question, moving on. · 828 likes · 0 RTs · 12 replies · 0 views · All of Hugging Face's founders - three French friends who once built a teen chatbot - are now multi-billionaires after Nvidia's $13 billion acquisition. Their story is one of the most fascinating in tech: 2016: Clément Delangue, Julien Chaumond and Thomas Wolf launch a sassy... · 400 likes · 37 RTs · 0 replies · 42000 views",
+      "description_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars.",
       "excerpt_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping.…",
       "link": "https://x.com/ihteshamali/status/2096252245860073500",
       "pub_date": "Sat, 05 Sep 2026 15:09:00 GMT",
@@ -1262,7 +1296,7 @@
       ],
       "title_ka": "AI სტარტაპები და ფული: მილიარდი დოლარის ანაზღაურება და დამფუძნებლის რჩევა",
       "excerpt_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება...",
-      "description_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად. · 851 მოწონება · 0 RT · 16 პასუხი · 0 ნახვა · ჯენსენ ჰუანგმა 11 სიტყვით უპასუხა შეკითხვას მოდისა და ხელოვნური ინტელექტის პოლიტიკის შესახებ: „AI სწრაფად მოძრაობს, ამიტომ ყველა ქვეყანამ უფრო სწრაფად უნდა იმოძრაოს“. ნახევარგამტარების სატარიფო კითხვაზე კიდევ უფრო ნაკლები საუბარი არ ყოფილა, შემდეგ კითხვაზე გადასვლა. · 828 მოწონება · 0 RT · 12 პასუხი · 0 ნახვა · Hugging Face-ის ყველა დამფუძნებელი - სამი ფრანგი მეგობარი, რომლებმაც ოდესღაც შექმნეს თინეიჯერების ჩატბოტი - ახლა მრავალ მილიარდერები არიან Nvidia-ს 13 მილიარდი დოლარის შეძენის შემდეგ. მათი ისტორია ერთ-ერთი ყველაზე მომხიბვლელია ტექნოლოგიაში: 2016 წელი: კლემენტ დელანგი, ჟიულიენ შომონი და თომას ვოლფი წარმოადგენენ თავხედურ... · 400 მოწონება · 37 RTs · 0 პასუხი · 42000 ნახვა"
+      "description_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად."
     },
     {
       "uid": "reddit|Sun, 06 Sep 2026 16:42:24 GMT|OpenAI: AI agents now perform 3.1 researcher-workdays for every human researcher-workday, says it has reached “automated research intern” level, and expects “automated AI researcher” by March 2028",

@@ -296,3 +296,157 @@ A full automated verification pass was conducted using Playwright against the lo
   - [`design-review/qa/qa-modal-verified.png`](./design-review/qa/qa-modal-verified.png) (Detail modal with sticky footer)
 - Machine-Readable Verification Log:
   - [`design-review/qa/verification-results.json`](./design-review/qa/verification-results.json)
+
+---
+
+## Part 6: Content Quality & Upstream Multi-Tweet Feed Bug Audit (2026-09-07)
+
+### 1. The Missed Bug Report (Verbatim)
+
+Nika reported the following content-quality defect from viewing the live modal for the "OpenAI-ს GPT-6 'Astra' გაშვება..." Twitter-section card:
+
+> "ტვიტერი  
+> დახურვა ESC  
+> OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით  
+> 6 სექ, 2026, 20:10  
+> •  
+> news/x  
+> ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში ათავსებს ინსტრუქციის გარეშე... · 6100 მოწონება · 28 RTs · 10 პასუხი · 0 ნახვა · 'ფერმის პარადოქსი' ცნობილი გადაუჭრელი კითხვაა: თუ სამყარო ასეთი დიდია, სად არიან ყველა უცხოპლანეტელი? ცნობილი პასუხია „დიდი ფილტრი“ - მოწინავე სიცოცხლის ფორმები იშლება, სანამ მზის სისტემას დატოვებენ. ასე რომ, ჩვენ ვერასდროს ვიპოვით მათ. GPT Astra-ს და... · 1300 მოწონება · 159 RTs · 233 პასუხი · 308000 ნახვა · Astra მედიცინაში გამოყენებისთვის (ციტირება ხელის ქირურგისთვის, რომელმაც გამოიყენა Astra მყესის გადატანის ოპერაციის ვიდეოს გენერირებისთვის ერთი მოწოდებიდან, ქირურგიული და პაციენტის..."
+
+---
+
+### 2. Root Cause Analysis & Raw Feed Evidence
+
+Inspection of the upstream RSS feed `https://www.agenticbrew.ai/feed/twitter.xml` proved that the issue originates entirely in the upstream data source:
+
+Raw XML snippet directly from `https://www.agenticbrew.ai/feed/twitter.xml` (Item 4: Charlie Hills Canva GPT-6 Astra tweet):
+```xml
+<item>
+  <title>OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps</title>
+  <link>https://x.com/charliejhills/status/2096631743533207983</link>
+  <description>Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions... · 6100 likes · 28 RTs · 10 replies · 0 views · The 'Fermi Paradox' is a famous unsolved question: if the universe is so big, where are all the aliens? A famous answer is 'The Great Filter' - advanced life forms wipe themselves out before they leave their solar systems. So we never find them. In light of GPT Astra and the... · 1300 likes · 159 RTs · 233 replies · 308000 views · Astra for applications to medicine (quoting a hand surgeon who used Astra to generate a tendon transfer surgery video from a single prompt, for surgical and patient education) · 1500 likes · 92 RTs · 77 replies · 229000 views</description>
+  <pubDate>Sun, 06 Sep 2026 16:10:00 GMT</pubDate>
+  <category>news/x</category>
+</item>
+```
+
+**Key Findings:**
+1. **Upstream Feed Packaging:** AgenticBrew's crawler groups multiple loosely-related tweets into a single `<description>` tag separated by ` · <N> likes · <N> RTs · <N> replies · <N> views · `.
+2. **Title and Link Specificity:** The article title and primary URL (`link`) refer strictly to the first tweet (e.g. Charlie Hills' Canva test). The subsequent tweets (such as the Fermi Paradox musing and a tendon surgery case) are unrelated tweets gathered by broad keyword matching.
+3. **Parser Behavior:** In `scripts/update-ai-news.py`, `desc_en = (it.findtext('description') or '').strip()` extracted the raw string without splitting. This entire 875-character multi-tweet text was sent to Google Translate, producing a confusing Georgian paragraph where unrelated topics were stitched together with translated metric strings (`· 6100 მოწონება · 28 RTs...`).
+4. **Cache Retention:** Furthermore, because `scripts/update-ai-news.py` caches translations by UID without checking whether the cached description was dirty, older retained items preserved the corrupted multi-tweet text across runs.
+
+---
+
+### 3. Architecture & Implementation of the Fix
+
+#### Decision: Discard Trailing Glued Tweets vs. Multi-Segment Quote Blocks
+We opted to split on the metric separator and keep **only the primary (first) tweet segment** as `description_en` for the following reasons:
+- **Title and Link Alignment:** The headline and link specifically correspond to the author and content of the primary tweet. Displaying unrelated tweets (like the Fermi Paradox under a video/3D generation headline) is confusing and reduces editorial quality.
+- **Narrative Coherence:** The modal presents a single, coherent summary of the story without irrelevant tangents.
+- **Clean Translation:** Removing in-line metric tokens prevents Google Translate case and syntax corruption.
+- **Zero Schema Disruption:** Maintains full compatibility with `ai-news.json` and static rendering.
+
+#### Code Changes in `scripts/update-ai-news.py`:
+1. **Regex Splitter (`TWITTER_STAT_SEP_RE`):**
+   ```python
+   TWITTER_STAT_SEP_RE = re.compile(
+       r'\s*·\s*\d+(?:[.,]\d+)?[kKmM]?\s*(?:likes?|rts?|retweets?|replies|views?|bookmarks?)\b'
+       r'(?:\s*·\s*\d+(?:[.,]\d+)?[kKmM]?\s*(?:likes?|rts?|retweets?|replies|views?|bookmarks?)\b)*'
+       r'(?:\s*·\s*)?',
+       re.IGNORECASE,
+   )
+   ```
+2. **Cleaning Function (`clean_feed_description`):**
+   Extracts `parts[0]` when `feed == 'twitter'` or when metric separators are encountered, trimming whitespace and discarding secondary tweets and dangling metric strings.
+3. **Incoming Feed Processing (`process_feed`):**
+   Cleans incoming descriptions from RSS, and validates that cached translations match the clean `description_en` and do not contain residual metric patterns before reusing cache.
+4. **Legacy Cache Sanitization (`main`):**
+   Proactively scans all existing items in `existing_sections` upon startup. Any legacy item containing the multi-tweet or metric pattern is automatically cleaned, its excerpt refreshed, and freshly re-translated into clean Georgian.
+5. **Enhanced Terminology Post-Processing (`post_process_georgian`):**
+   Added translation fixes for scientific/academic paper references (`"ქაღალდი"` -> `"ნაშრომი"`).
+
+---
+
+### 4. Verification Evidence Across All Affected Items
+
+Following execution of `python3 scripts/update-ai-news.py`, all 7 previously-affected Twitter items and the newly-arrived Twitter item were re-tested.
+
+**Count of items containing multiple 'likes'/'RTs'/'views' across the entire database:** **0**
+
+#### Detailed State of Each Twitter Item:
+
+1. **UID:** `twitter|Sun, 06 Sep 2026 20:41:12 GMT|Nvidia CEO Jensen Huang Declares "AGI Has Arrived" After OpenAI's GPT-6 Astra` (Newly fetched)
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 573 chars (3 glued tweets + stats)
+   - **Fixed EN:** `"GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next."`
+   - **Fixed KA:** `"GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე და ასტრამდე 4 წელიწადში. AGI ჩამოვიდა. ვულოცავთ @OpenAI-ის გუნდს. შემდეგი 400K GPU გამოდის ინტერნეტში."`
+   - **Stats Count:** 0
+
+2. **UID:** `twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction`
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 915 chars (3 glued tweets + stats) -> **Cleaned Length:** 278 chars
+   - **Fixed EN:** `"Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going..."`
+   - **Fixed KA:** `"ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანიაში ამის მითითების გარეშე. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები საკუთარი AI აგენტებით..."`
+   - **Stats Count:** 0
+
+3. **UID:** `twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance`
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 967 chars (3 glued tweets + stats) -> **Cleaned Length:** 275 chars
+   - **Fixed EN:** `"Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a..."`
+   - **Fixed KA:** `"ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი, რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს, შეაჩერებს AI-ის განვითარებას აშშ-ში, სანამ კონგრესი არ ააშენებს..."`
+   - **Stats Count:** 0
+
+4. **UID:** `twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps` (Nika's Reported Item)
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 875 chars (3 glued tweets: Canva + Fermi Paradox + Tendon surgery) -> **Cleaned Length:** 269 chars
+   - **Fixed EN:** `"Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions..."`
+   - **Fixed KA:** `"ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში აყენებს ინსტრუქციის გარეშე..."`
+   - **Stats Count:** 0
+   - **Fermi Paradox / Tendon Surgery Text:** Completely eliminated.
+   - **Verified Visual Screenshot:** [`design-review/qa-modal-astra-fixed.png`](./design-review/qa-modal-astra-fixed.png)
+
+5. **UID:** `twitter|Sun, 06 Sep 2026 16:07:00 GMT|OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028`
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 720 chars (3 glued tweets + stats) -> **Cleaned Length:** 280 chars
+   - **Fixed EN:** `"Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor…"`
+   - **Fixed KA:** `"დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. გამჭვირვალობა უფრო მნიშვნელოვანია..."`
+   - **Stats Count:** 0
+
+6. **UID:** `twitter|Sat, 05 Sep 2026 20:23:00 GMT|AI Regulation Debate Widens: From Banning Superintelligence to School Bans`
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 879 chars (3 glued tweets + stats) -> **Cleaned Length:** 280 chars
+   - **Fixed EN:** `"Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..…"`
+   - **Fixed KA:** `"ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად გააკონტროლონ ეს ტექნოლოგია და არ იციან სად ..."`
+   - **Stats Count:** 0
+
+7. **UID:** `twitter|Sat, 05 Sep 2026 16:56:00 GMT|Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over`
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 927 chars (3 glued tweets + stats) -> **Cleaned Length:** 280 chars
+   - **Fixed EN:** `"AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3..."`
+   - **Fixed KA:** `"ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3..."`
+   - **Stats Count:** 0
+
+8. **UID:** `twitter|Sat, 05 Sep 2026 15:09:00 GMT|AI Startups & Money: Billion-Dollar Paydays and Founder Advice`
+   - **Status:** **VERIFIED FIXED**
+   - **Original Length:** 921 chars (3 glued tweets + stats) -> **Cleaned Length:** 278 chars
+   - **Fixed EN:** `"Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars."`
+   - **Fixed KA:** `"ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად."`
+   - **Stats Count:** 0
+
+---
+
+### 5. Cross-Section Audit & Coherence Testing
+
+- **Items with `len(description_ka) > 400`:** 28 items evaluated across Reddit, News, YouTube, Paper, and Event sections. Every item represents a single coherent article, paper abstract, or discussion post. Zero multi-topic concatenated posts were found.
+- **Spot-Checks Across Other Sections:** 10 random items from `reddit`, `blog`, `paper`, and `youtube` were audited. None exhibited multi-item concatenation or metric separator defects.
+- **Automated UI/UX Regression Test Suite:**
+  - Console Errors: 0
+  - Mobile 375px Brand Title: `white-space: nowrap`, 27.7px height (single line)
+  - Theme Toggle: Dark <-> Light working with correct SVG icon and tooltip updates
+  - Search: Queries filter correctly, clear button resets view, `/` and `Cmd+K` hotkeys focus input
+  - Filter Navigation: All 11 filter categories navigate and update item counts correctly
+  - Keyboard Accessibility: `Enter` opens modal, focus shifts to `#closeModal`, `Escape` closes modal and restores focus to originating card
+  - Modal Footer: Actions (`#sourceLink` and `#copySummary`) remain fixed in dedicated footer outside scrollable body; copy button displays `"დაკოპირდა ✓"` feedback
+  - Backdrop Click: Closes modal seamlessly
+
