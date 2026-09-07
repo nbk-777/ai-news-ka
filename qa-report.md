@@ -450,3 +450,15 @@ Following execution of `python3 scripts/update-ai-news.py`, all 7 previously-aff
   - Modal Footer: Actions (`#sourceLink` and `#copySummary`) remain fixed in dedicated footer outside scrollable body; copy button displays `"დაკოპირდა ✓"` feedback
   - Backdrop Click: Closes modal seamlessly
 
+### 6. Live Production Verification (GitHub Pages)
+
+- **Live URL:** [https://nbk-777.github.io/ai-news-ka/](https://nbk-777.github.io/ai-news-ka/)
+- **Live Verification Timestamp:** `2026-09-07T00:57:35Z` (Commit `86d5a06`)
+- **Live Modal Test:** Opened the Charlie Hills Canva Astra modal directly on the live production site.
+  - Content Text: 100% coherent single-tweet summary
+  - Metric Strings: 0 occurrences (`0 likes`, `0 RTs`, `0 მოწონება`)
+  - Out-of-context Fermi Paradox / Tendon Surgery: Completely absent
+  - Console Errors on Live Site: 0
+- **Live Screenshot Artifact:** [`design-review/live-modal-astra-verified.png`](./design-review/live-modal-astra-verified.png)
+
+
