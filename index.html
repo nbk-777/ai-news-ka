@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI News ქართულად | ყოველდღიური ხელოვნური ინტელექტის დაიჯესტი</title>
-  <meta name="description" content="ყოველდღიური ხელოვნური ინტელექტის სიახლეები ქართულად — Agentic Brew-ის 10 წყაროდან (News, Twitter, Reddit, GitHub, YouTube, Skills, Blog, Paper, Events)." />
+  <title>AI News ქართულად | ხელოვნური ინტელექტის ყოველდღიური დაიჯესტი</title>
+  <meta name="description" content="ხელოვნური ინტელექტის ყოველდღიური სიახლეები ქართულად — Agentic Brew-ის 10 წყაროდან (News, Twitter, Reddit, GitHub, YouTube, Skills, Blog, Paper, Events)." />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗞️</text></svg>" />
   <style>
     @font-face {
@@ -182,6 +182,7 @@
       font-weight: 800;
       letter-spacing: -0.02em;
       color: var(--text-main);
+      white-space: nowrap;
     }
 
     .brand-tag {
@@ -1124,13 +1125,14 @@
       white-space: pre-wrap;
     }
 
-    .detail-actions {
+    .modal-footer {
       display: flex;
       gap: 12px;
       flex-wrap: wrap;
-      margin-top: 6px;
-      padding-top: 18px;
+      padding: 16px 24px;
       border-top: 1px solid var(--border-subtle);
+      background: var(--bg-surface);
+      z-index: 10;
     }
 
     /* Footer */
@@ -1236,7 +1238,7 @@
       </a>
 
       <div class="topbar-right">
-        <div class="live-status" title="ავტომატური განახლება ყოველდღე 08:00 თბილისის დროით">
+        <div class="live-status" title="ავტომატური განახლება ყოველდღე, 08:00 საათზე (თბილისის დროით)">
           <span class="live-pulse" aria-hidden="true"></span>
           <span class="live-desktop-label">10 ნაკადი · </span>
           <span>Live</span>
@@ -1316,7 +1318,7 @@
         <!-- Filter Chips -->
         <div class="filter-pills-wrap" id="filterPills" role="tablist" aria-label="სექციების ფილტრი">
           <button class="chip-btn active" data-filter="all" role="tab" aria-selected="true">ყველა <span class="chip-count" id="countAll">0</span></button>
-          <button class="chip-btn" data-filter="news" role="tab" aria-selected="false">ნიუსი <span class="chip-count" id="countNews">0</span></button>
+          <button class="chip-btn" data-filter="news" role="tab" aria-selected="false">სიახლეები <span class="chip-count" id="countNews">0</span></button>
           <button class="chip-btn" data-filter="twitter" role="tab" aria-selected="false">ტვიტერი <span class="chip-count" id="countTwitter">0</span></button>
           <button class="chip-btn" data-filter="github" role="tab" aria-selected="false">გიტჰაბი <span class="chip-count" id="countGithub">0</span></button>
           <button class="chip-btn" data-filter="reddit" role="tab" aria-selected="false">რედიტი <span class="chip-count" id="countReddit">0</span></button>
@@ -1324,8 +1326,8 @@
           <button class="chip-btn" data-filter="product_hunt" role="tab" aria-selected="false">Product Hunt <span class="chip-count" id="countPh">0</span></button>
           <button class="chip-btn" data-filter="skill" role="tab" aria-selected="false">Skills <span class="chip-count" id="countSkill">0</span></button>
           <button class="chip-btn" data-filter="blog" role="tab" aria-selected="false">ბლოგი <span class="chip-count" id="countBlog">0</span></button>
-          <button class="chip-btn" data-filter="paper" role="tab" aria-selected="false">კვლევა <span class="chip-count" id="countPaper">0</span></button>
-          <button class="chip-btn" data-filter="event" role="tab" aria-selected="false">ივენთი <span class="chip-count" id="countEvent">0</span></button>
+          <button class="chip-btn" data-filter="paper" role="tab" aria-selected="false">კვლევები <span class="chip-count" id="countPaper">0</span></button>
+          <button class="chip-btn" data-filter="event" role="tab" aria-selected="false">ღონისძიებები <span class="chip-count" id="countEvent">0</span></button>
         </div>
 
         <!-- Hidden container kept for backward compatibility -->
@@ -1339,25 +1341,25 @@
     </section>
 
     <!-- Featured News Cards -->
-    <section class="section-container" aria-label="დღის მთავარი ამბები">
+    <section class="section-container" id="featuredSection" aria-label="დღის მთავარი ამბები">
       <div class="section-head">
         <div class="section-header-left">
           <span class="section-tag">Top Stories</span>
           <h2 class="section-title">დღის მთავარი ამბები</h2>
         </div>
-        <div class="section-sub">მოკლე, წასაკითხი და ქართული — სრულად იხსნება click-ით.</div>
+        <div class="section-sub">მოკლე, წასაკითხი და ქართული — სრულად იხსნება ბარათზე დაჭერით.</div>
       </div>
       <div id="featuredGrid" class="grid"></div>
     </section>
 
     <!-- Section Breakdown -->
-    <section class="section-container" aria-label="ყველა სექცია">
+    <section class="section-container" id="breakdownSection" aria-label="ყველა სექცია">
       <div class="section-head">
         <div class="section-header-left">
           <span class="section-tag">Feeds Breakdown</span>
           <h2 class="section-title">ყველა სექცია ცალ-ცალკე</h2>
         </div>
-        <div class="section-sub">news / twitter / github / reddit / youtube / product hunt / skill / blog / paper / event</div>
+        <div class="section-sub">დალაგებული კატეგორიებისა და წყაროების მიხედვით</div>
       </div>
       <div id="sectionArea"></div>
     </section>
@@ -1405,20 +1407,20 @@
         </div>
 
         <div class="detail-original-box" id="originalSection">
-          <div class="detail-original-header">English Original</div>
+          <div class="detail-original-header">ორიგინალი ტექსტი ინგლისურად (English Original)</div>
           <div class="detail-original-body" id="detailOriginal"></div>
         </div>
+      </div>
 
-        <div class="detail-actions">
-          <a class="btn primary" id="sourceLink" target="_blank" rel="noreferrer">
-            <span>წყაროზე გადასვლა</span>
-            <svg viewBox="0 0 24 24"><path d="M14 3h7v7M10 14L21 3M19 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </a>
-          <button class="btn" id="copySummary">
-            <svg viewBox="0 0 24 24"><rect width="14" height="14" x="8" y="8" rx="2" ry="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" fill="none" stroke="currentColor" stroke-width="2"/></svg>
-            <span id="copyText">ქართული ტექსტის კოპირება</span>
-          </button>
-        </div>
+      <div class="modal-footer">
+        <a class="btn primary" id="sourceLink" target="_blank" rel="noreferrer">
+          <span>წყაროზე გადასვლა</span>
+          <svg viewBox="0 0 24 24"><path d="M14 3h7v7M10 14L21 3M19 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <button class="btn" id="copySummary">
+          <svg viewBox="0 0 24 24"><rect width="14" height="14" x="8" y="8" rx="2" ry="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+          <span id="copyText">ქართული ტექსტის კოპირება</span>
+        </button>
       </div>
     </div>
   </div>
@@ -1485,7 +1487,7 @@
       const originalSection = document.getElementById('originalSection');
 
       const sourceNames = {
-        news: 'ნიუსი',
+        news: 'სიახლეები',
         twitter: 'ტვიტერი',
         github: 'გიტჰაბი',
         reddit: 'რედიტი',
@@ -1493,8 +1495,8 @@
         product_hunt: 'Product Hunt',
         skill: 'Skills',
         blog: 'ბლოგი',
-        paper: 'კვლევა',
-        event: 'ივენთი'
+        paper: 'კვლევები',
+        event: 'ღონისძიებები'
       };
 
       const sourceTokens = {
@@ -1510,6 +1512,9 @@
         event: { bg: 'rgba(236, 72, 153, 0.14)', border: 'rgba(236, 72, 153, 0.35)', text: '#f9a8d4' }
       };
 
+      const GE_MONTHS_SHORT = ['იან', 'თებ', 'მარ', 'აპრ', 'მაის', 'ივნ', 'ივლ', 'აგვ', 'სექ', 'ოქტ', 'ნოე', 'დეკ'];
+      const GE_MONTHS_FULL = ['იანვარი', 'თებერვალი', 'მარტი', 'აპრილი', 'მაისი', 'ივნისი', 'ივლისი', 'აგვისტო', 'სექტემბერი', 'ოქტომბერი', 'ნოემბერი', 'დეკემბერი'];
+
       function esc(s) {
         return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
       }
@@ -1518,10 +1523,15 @@
         if (!pubDate) return '';
         try {
           const d = new Date(pubDate);
-          if (isNaN(d.getTime())) return pubDate;
-          return d.toLocaleDateString('ka-GE', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+          if (isNaN(d.getTime())) return String(pubDate);
+          const day = d.getDate();
+          const month = GE_MONTHS_SHORT[d.getMonth()];
+          const year = d.getFullYear();
+          const hours = String(d.getHours()).padStart(2, '0');
+          const minutes = String(d.getMinutes()).padStart(2, '0');
+          return `${day} ${month}, ${year}, ${hours}:${minutes}`;
         } catch (e) {
-          return pubDate;
+          return String(pubDate);
         }
       }
 
@@ -1541,9 +1551,9 @@
         let item = null;
         if (state.filter !== 'all') {
           const sectionItems = (state.sections[state.filter] || []).filter(matches);
-          item = sectionItems[0] || state.featured.find(matches) || state.featured[0];
+          item = sectionItems[0] || state.featured.find(matches) || null;
         } else {
-          item = state.featured.find(matches) || state.featured[0];
+          item = state.featured.find(matches) || (state.query ? null : state.featured[0]);
         }
         if (!item) {
           deepDive.innerHTML = '';
@@ -1554,7 +1564,7 @@
         const formattedDate = formatDate(item.pub_date);
 
         deepDive.innerHTML = `
-          <div class="deep-dive" data-uid="${esc(item.uid || '')}">
+          <div class="deep-dive" data-uid="${esc(item.uid || '')}" role="button" tabindex="0" aria-label="${esc(item.title_ka || item.title_en)}">
             <div class="deep-dive-inner">
               <div class="deep-dive-top">
                 <div class="deep-dive-badge-group">
@@ -1587,8 +1597,8 @@
 
               <div class="deep-dive-footer">
                 <div style="display:flex; gap:10px; align-items:center;">
-                  <button type="button" class="btn" onclick="document.querySelector('.deep-dive').dispatchEvent(new CustomEvent('open-modal', {bubbles:true}))">
-                    დაწვრილებით წაკითხვა
+                  <button type="button" class="btn" id="deepDiveBtn">
+                    ვრცლად წაკითხვა
                   </button>
                 </div>
                 <a class="btn primary" href="${esc(item.link || '#')}" target="_blank" rel="noreferrer">
@@ -1601,7 +1611,10 @@
         `;
       }
 
+      let lastFocusedElement = null;
+
       function openDetail(item) {
+        lastFocusedElement = document.activeElement;
         detailTitle.textContent = item.title_ka || item.title_en;
         detailContent.textContent = item.description_ka || item.excerpt_ka || item.description_en || item.excerpt_en || '';
         
@@ -1648,12 +1661,16 @@
         modal.classList.add('open');
         modal.setAttribute('aria-hidden', 'false');
         document.body.style.overflow = 'hidden';
+        if (closeModal) closeModal.focus();
       }
 
       function closeDetail() {
         modal.classList.remove('open');
         modal.setAttribute('aria-hidden', 'true');
         document.body.style.overflow = '';
+        if (lastFocusedElement && typeof lastFocusedElement.focus === 'function') {
+          lastFocusedElement.focus();
+        }
       }
 
       function card(item, idx, featured = false) {
@@ -1678,7 +1695,7 @@
                 <span>${esc(formattedDate)}</span>
               </div>
               <span class="readmore">
-                <span>დაწვრილებით</span>
+                <span>ვრცლად</span>
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
               </span>
             </div>
@@ -1711,12 +1728,20 @@
       }
 
       function renderFeatured() {
+        const featuredSection = document.getElementById('featuredSection');
         const items = state.featured.filter(matches);
         statFeatured.textContent = `${items.length} ამბავი`;
+        if (!items.length) {
+          featuredGrid.innerHTML = '';
+          if (featuredSection) featuredSection.style.display = 'none';
+          return;
+        }
+        if (featuredSection) featuredSection.style.display = 'block';
         featuredGrid.innerHTML = items.map((item, idx) => card(item, idx, idx === 0)).join('');
       }
 
       function renderSections() {
+        const breakdownSection = document.getElementById('breakdownSection');
         const feeds = Object.keys(state.sections);
         let html = '';
         let visibleCount = 0;
@@ -1744,7 +1769,13 @@
         });
 
         sectionArea.innerHTML = html;
-        empty.style.display = visibleCount ? 'none' : 'block';
+        if (breakdownSection) {
+          breakdownSection.style.display = visibleCount ? 'block' : 'none';
+        }
+
+        const featuredVisible = state.featured.filter(matches).length;
+        const totalVisible = visibleCount + featuredVisible;
+        empty.style.display = totalVisible ? 'none' : 'block';
       }
 
       function renderFeedStrip() {
@@ -1823,7 +1854,8 @@
         if (item) openDetail(item);
       });
 
-      document.addEventListener('open-modal', e => {
+      deepDive.addEventListener('click', e => {
+        if (e.target.closest('a') || e.target.closest('details')) return;
         const target = e.target.closest('[data-uid]');
         if (target) {
           const item = findItemByUid(target.dataset.uid);
@@ -1833,7 +1865,7 @@
 
       function handleCardKey(e) {
         if (e.key === 'Enter' || e.key === ' ') {
-          const cardEl = e.target.closest('.card');
+          const cardEl = e.target.closest('.card, .deep-dive');
           if (!cardEl) return;
           e.preventDefault();
           const item = findItemByUid(cardEl.dataset.uid);
@@ -1843,13 +1875,14 @@
 
       featuredGrid.addEventListener('keydown', handleCardKey);
       sectionArea.addEventListener('keydown', handleCardKey);
+      deepDive.addEventListener('keydown', handleCardKey);
 
       closeModal.addEventListener('click', closeDetail);
       modal.addEventListener('click', e => {
         if (e.target === modal) closeDetail();
       });
       window.addEventListener('keydown', e => {
-        if (e.key === 'Escape') closeDetail();
+        if (e.key === 'Escape' && modal.classList.contains('open')) closeDetail();
       });
 
       // Initial Fetch
@@ -1861,7 +1894,14 @@
           state.items = data.all || [];
 
           if (data.generated_at) {
-            statUpdated.textContent = new Date(data.generated_at).toLocaleString('ka-GE', { dateStyle: 'medium', timeStyle: 'short' });
+            const d = new Date(data.generated_at);
+            if (!isNaN(d.getTime())) {
+              const day = d.getDate();
+              const month = GE_MONTHS_FULL[d.getMonth()];
+              const hours = String(d.getHours()).padStart(2, '0');
+              const minutes = String(d.getMinutes()).padStart(2, '0');
+              statUpdated.textContent = `${day} ${month}, ${hours}:${minutes}`;
+            }
           }
           statTotal.textContent = `${state.items.length} სიახლე`;
 
@@ -1872,7 +1912,7 @@
           renderSections();
         })
         .catch(() => {
-          featuredGrid.innerHTML = '<div class="empty" style="grid-column:1/-1;">AI news JSON ვერ ჩაიტვირთა.</div>';
+          featuredGrid.innerHTML = '<div class="empty" style="grid-column:1/-1;">სიახლეების ჩატვირთვა ვერ მოხერხდა. გთხოვთ, სცადოთ მოგვიანებით.</div>';
         });
     })();
   </script>

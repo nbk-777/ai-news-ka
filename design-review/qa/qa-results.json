@@ -1,0 +1,421 @@
+{
+  "consoleLogs": [],
+  "consoleErrors": [],
+  "networkErrors": [],
+  "requests": [],
+  "checks": {
+    "filterChips": {
+      "all": {
+        "activeFilter": "all",
+        "ariaSelected": "true",
+        "visibleCardsCount": 60,
+        "visibleSections": [
+          "",
+          "",
+          "section-news",
+          "section-youtube",
+          "section-reddit",
+          "section-twitter",
+          "section-skill",
+          "section-paper",
+          "section-blog",
+          "section-event"
+        ]
+      },
+      "news": {
+        "activeFilter": "news",
+        "ariaSelected": "true",
+        "visibleCardsCount": 9,
+        "visibleSections": [
+          "",
+          "",
+          "section-news"
+        ]
+      },
+      "twitter": {
+        "activeFilter": "twitter",
+        "ariaSelected": "true",
+        "visibleCardsCount": 10,
+        "visibleSections": [
+          "",
+          "",
+          "section-twitter"
+        ]
+      },
+      "github": {
+        "activeFilter": "github",
+        "ariaSelected": "true",
+        "visibleCardsCount": 0,
+        "visibleSections": [
+          "",
+          ""
+        ]
+      },
+      "reddit": {
+        "activeFilter": "reddit",
+        "ariaSelected": "true",
+        "visibleCardsCount": 12,
+        "visibleSections": [
+          "",
+          "",
+          "section-reddit"
+        ]
+      },
+      "youtube": {
+        "activeFilter": "youtube",
+        "ariaSelected": "true",
+        "visibleCardsCount": 6,
+        "visibleSections": [
+          "",
+          "",
+          "section-youtube"
+        ]
+      },
+      "product_hunt": {
+        "activeFilter": "product_hunt",
+        "ariaSelected": "true",
+        "visibleCardsCount": 0,
+        "visibleSections": [
+          "",
+          ""
+        ]
+      },
+      "skill": {
+        "activeFilter": "skill",
+        "ariaSelected": "true",
+        "visibleCardsCount": 6,
+        "visibleSections": [
+          "",
+          "",
+          "section-skill"
+        ]
+      },
+      "blog": {
+        "activeFilter": "blog",
+        "ariaSelected": "true",
+        "visibleCardsCount": 6,
+        "visibleSections": [
+          "",
+          "",
+          "section-blog"
+        ]
+      },
+      "paper": {
+        "activeFilter": "paper",
+        "ariaSelected": "true",
+        "visibleCardsCount": 6,
+        "visibleSections": [
+          "",
+          "",
+          "section-paper"
+        ]
+      },
+      "event": {
+        "activeFilter": "event",
+        "ariaSelected": "true",
+        "visibleCardsCount": 5,
+        "visibleSections": [
+          "",
+          "",
+          "section-event"
+        ]
+      }
+    },
+    "search": {
+      "searchMatchCards": 3,
+      "clearVisible": true,
+      "kbdVisible": false,
+      "searchAfterClearVal": "",
+      "cardsAfterClear": 60,
+      "cardsZeroMatch": 0,
+      "emptyStateVisible": true,
+      "emptyStateText": "შესაბამისი შედეგი ვერ მოიძებნა. სცადეთ სხვა საძიებო სიტყვა ან შეცვალეთ ფილტრი.",
+      "isSearchFocused": true
+    },
+    "modal": {
+      "opensOnClick": true,
+      "titleMatches": true,
+      "bodyScrollLocked": true,
+      "copyButton": {
+        "before": "ქართული ტექსტის კოპირება",
+        "after": "დაკოპირდა ✓",
+        "reverted": "ქართული ტექსტის კოპირება"
+      },
+      "closeViaButton": true,
+      "closeViaEsc": true,
+      "closeViaBackdrop": true
+    },
+    "keyboardNav": {
+      "tabSequence": [
+        {
+          "tag": "BUTTON",
+          "id": "themeToggle",
+          "className": "theme-toggle",
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "id": "searchInput",
+          "className": "search-input",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "id": "searchClear",
+          "className": "search-clear",
+          "text": "✕"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn active",
+          "text": "ყველა\n50"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn",
+          "text": "ნიუსი\n6"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn",
+          "text": "ტვიტერი\n7"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn",
+          "text": "გიტჰაბი\n0"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn",
+          "text": "რედიტი\n8"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn",
+          "text": "იუთუბი\n6"
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "className": "chip-btn",
+          "text": "Product Hunt\n0"
+        }
+      ],
+      "modalOpenViaEnter": true,
+      "modalOpenViaSpace": true
+    },
+    "theme": {
+      "initialThemeAttr": "dark",
+      "themeAfterClick": "light",
+      "themeInLocalStorage": "light",
+      "themeAfterToggleBack": "dark"
+    },
+    "reloadFilterState": {
+      "filterAfterReload": "all"
+    }
+  },
+  "georgianTexts": {
+    "headerBrand": "AI News\nქართულად",
+    "liveStatus": "10 ნაკადი ·\nLive",
+    "heroEyebrow": "DAILY AI DIGEST • AGENTIC BREW",
+    "heroHeading": "დღის AI დაიჯესტი ქართულად",
+    "heroLead": "მსოფლიოს წამყვანი 10 AI წყაროს სიახლეები, კვლევები, ტექნოლოგიური ანალიტიკა და ინსტრუმენტები — შეკრებილი და თარგმნილი ქართულად ყოველ დილით.",
+    "stats": [
+      {
+        "label": "რჩეული ამბავი",
+        "value": "10 ამბავი",
+        "sub": "დღის მთავარი ფოკუსი"
+      },
+      {
+        "label": "წყაროები",
+        "value": "10 ნაკადი",
+        "sub": "მედია, GitHub, კვლევა"
+      },
+      {
+        "label": "სულ სიახლე",
+        "value": "50 სიახლე",
+        "sub": "7-დღიანი ისტორია"
+      },
+      {
+        "label": "განახლება",
+        "value": "Sep 7, 2026, 4:04 AM",
+        "sub": "თბილისის დროით"
+      }
+    ],
+    "filterChips": [
+      {
+        "filter": "all",
+        "text": "ყველა\n50",
+        "selected": "true"
+      },
+      {
+        "filter": "news",
+        "text": "ნიუსი\n6",
+        "selected": "false"
+      },
+      {
+        "filter": "twitter",
+        "text": "ტვიტერი\n7",
+        "selected": "false"
+      },
+      {
+        "filter": "github",
+        "text": "გიტჰაბი\n0",
+        "selected": "false"
+      },
+      {
+        "filter": "reddit",
+        "text": "რედიტი\n8",
+        "selected": "false"
+      },
+      {
+        "filter": "youtube",
+        "text": "იუთუბი\n6",
+        "selected": "false"
+      },
+      {
+        "filter": "product_hunt",
+        "text": "Product Hunt\n0",
+        "selected": "false"
+      },
+      {
+        "filter": "skill",
+        "text": "Skills\n6",
+        "selected": "false"
+      },
+      {
+        "filter": "blog",
+        "text": "ბლოგი\n6",
+        "selected": "false"
+      },
+      {
+        "filter": "paper",
+        "text": "კვლევა\n6",
+        "selected": "false"
+      },
+      {
+        "filter": "event",
+        "text": "ივენთი\n5",
+        "selected": "false"
+      }
+    ],
+    "sectionHeads": [
+      {
+        "tag": "TOP STORIES",
+        "title": "დღის მთავარი ამბები",
+        "sub": "მოკლე, წასაკითხი და ქართული — სრულად იხსნება click-ით."
+      },
+      {
+        "tag": "FEEDS BREAKDOWN",
+        "title": "ყველა სექცია ცალ-ცალკე",
+        "sub": "news / twitter / github / reddit / youtube / product hunt / skill / blog / paper / event"
+      },
+      {
+        "title": "ნიუსი",
+        "sub": "6 სიახლე"
+      },
+      {
+        "title": "იუთუბი",
+        "sub": "6 სიახლე"
+      },
+      {
+        "title": "რედიტი",
+        "sub": "8 სიახლე"
+      },
+      {
+        "title": "ტვიტერი",
+        "sub": "7 სიახლე"
+      },
+      {
+        "title": "Skills",
+        "sub": "6 სიახლე"
+      },
+      {
+        "title": "კვლევა",
+        "sub": "6 სიახლე"
+      },
+      {
+        "title": "ბლოგი",
+        "sub": "6 სიახლე"
+      },
+      {
+        "title": "ივენთი",
+        "sub": "5 სიახლე"
+      }
+    ],
+    "emptyState": "შესაბამისი შედეგი ვერ მოიძებნა. სცადეთ სხვა საძიებო სიტყვა ან შეცვალეთ ფილტრი.",
+    "footerNote": "AI News ქართულად — ყოველდღიურად განახლებადი ხელოვნური ინტელექტის დაიჯესტი. განახლება ხდება ავტომატურად ყოველდღე 08:00 საათზე (თბილისის დროით) GitHub Actions-ის მეშვეობით.",
+    "footerLinks": [
+      {
+        "text": "GitHub რეპოზიტორი",
+        "href": "https://github.com/nbk-777/ai-news-ka"
+      },
+      {
+        "text": "Agentic Brew",
+        "href": "https://www.agenticbrew.ai"
+      }
+    ],
+    "deepDive": {
+      "spotlight": "დღის მთავარი ანალიტიკა",
+      "title": "Nvidia ყიდულობს Hugging Face-ს 12,9 მილიარდ დოლარად",
+      "date": "Sep 6, 2026, 10:08 PM",
+      "text": "Nvidia დათანხმდა შეიძინოს Hugging Face მთლიანობაში 12,93 მილიარდ დოლარად - 11,9 მილიარდი დოლარი აქციონერებისთვის, პლუს 1 მილიარდ დოლარამდე კაპიტალზე დაფუძნებული შენახვა დაახლოებით 750 კაციანი Hugging Face მუშაკისთვის, რომელიც შეუერთდება Nvidia-ს - გარიგება, სავარაუდოდ, დაიხურება 2027 წლის პირველ ნახევარში მარეგულირებელი ორგანოების დამტკიცების მოლოდინში. Hugging Face-ს იყენებს 18 მილიონზე მეტი დეველოპერი, მკვლევარი და შემქმნელი, მასპინძლობს 3 მილიონზე მეტ მოდელს და 500,000 მონაცემთა ნაკრებს, მხარს უჭერს 1 მილიონზე მეტ აპლიკაციას და გამოიყენება 200,000-ზე მეტი კომპანიის მიერ ხელოვნური ინტელექტის აღმოსაჩენად და დასანერგად. Nvidia უკვე არის Hugging Face-ის უმსხვილესი გარე კონტრიბუტორი, რომელმაც გამოუშვა 500-ზე მეტი მოდელი და 250 ღია მონაცემთა ნაკრები პლატფორმაზე და მანამდე ჩადო ინვესტიცია Hugging Face-ის 2023 წლის დაფინანსებაში სუპერკომპიუტერულ პარტნიორობასთან ერთად. Nvidia-მ თქვა, რომ Hugging Face დარჩება ღია, გამოთვლითი აგნოსტიკურ პლატფორმად - დეველოპერებს შეუძლიათ აირჩიონ საკუთარი მოდელები, ჩარჩოები, ღრუბლები, დასკვნის პროვაიდერები და გამოთვლითი პლატფორმები, ხოლო Nvidia compute არ იქნება საჭირო საიტის შექმნაზე ან განთავსებაზე.",
+      "originalSummary": "ორიგინალი ტექსტი ინგლისურად (English Original)",
+      "readMoreBtn": "დაწვრილებით წაკითხვა",
+      "sourceLink": "წყაროზე გადასვლა"
+    },
+    "sampleCards": [
+      {
+        "rank": "1",
+        "source": "ნიუსი",
+        "headline": "Nvidia ყიდულობს Hugging Face-ს 12,9 მილიარდ დოლარად",
+        "summary": "Nvidia დათანხმდა შეიძინოს Hugging Face ჯამში 12,93 მილიარდ დოლარად - 11,9 მილიარდი დოლარი აქციონერებისთვის, პლუს 1 მილიარდ დოლარამდე კაპიტალზე დაფუძნებული შენახვა დაახლოებით 750 კაციანი Hugging Face მუშაკისთვის, რომელიც შეუერთდება Nvidia-ს - გარიგება სავარაუდოდ დაიხურება პირველ…",
+        "date": "Sep 6, 2026, 10:08 PM",
+        "readmore": "დაწვრილებით"
+      },
+      {
+        "rank": "2",
+        "source": "ნიუსი",
+        "headline": "Anthropic ავრცელებს Claude Fable 5.1",
+        "summary": "Anthropic-მა გამოუშვა Claude Fable 5.1 და Claude Mythos 5.1 2026 წლის 1 სექტემბერს - იგივე ძირითადი მოდელი გაიგზავნება ორი განსხვავებული უსაფრთხოების კლასიფიკატორის სიძლიერით.…",
+        "date": "Sep 6, 2026, 09:24 PM",
+        "readmore": "დაწვრილებით"
+      },
+      {
+        "rank": "3",
+        "source": "ნიუსი",
+        "headline": "Nvidia-ს ფინანსური დომინირება და ზრდა",
+        "summary": "Nvidia-მ გამოაცხადა 2027 წლის ფისკალური კვარტალში 96,2 მილიარდი დოლარის შემოსავალი, რაც წინა წელთან შედარებით 106%-ით მეტია, რაც ანალიტიკოსების შეფასებით 92,2 მილიარდ დოლარს აღემატება. CFO Colette Kress-მა ხელმძღვანელობდა ფისკალური 2028 წლის შემოსავლების ზრდას დაახლოებით 70%-მდე წელიწადში, რაც ბევრად აღემატება 44%-იან საშუალო ანალიტიკოსის შეფასებას.",
+        "date": "Sep 6, 2026, 09:24 PM",
+        "readmore": "დაწვრილებით"
+      },
+      {
+        "rank": "4",
+        "source": "ტვიტერი",
+        "headline": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
+        "summary": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
+        "date": "Sep 6, 2026, 11:08 PM",
+        "readmore": "დაწვრილებით"
+      },
+      {
+        "rank": "5",
+        "source": "ტვიტერი",
+        "headline": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
+        "summary": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
+        "date": "Sep 6, 2026, 08:26 PM",
+        "readmore": "დაწვრილებით"
+      }
+    ]
+  },
+  "pageTitle": "AI News ქართულად | ყოველდღიური ხელოვნური ინტელექტის დაიჯესტი",
+  "metaDescription": "ყოველდღიური ხელოვნური ინტელექტის სიახლეები ქართულად — Agentic Brew-ის 10 წყაროდან (News, Twitter, Reddit, GitHub, YouTube, Skills, Blog, Paper, Events).",
+  "htmlLang": "ka",
+  "sampleItemsFromState": []
+}

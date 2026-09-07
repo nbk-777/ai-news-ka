@@ -1,0 +1,81 @@
+{
+  "consoleErrors": [],
+  "networkErrors": [],
+  "tests": {
+    "LANG_03": {
+      "title": "AI News ქართულად | ხელოვნური ინტელექტის ყოველდღიური დაიჯესტი",
+      "metaDesc": "ხელოვნური ინტელექტის ყოველდღიური სიახლეები ქართულად — Agentic Brew-ის 10 წყაროდან (News, Twitter, Reddit, GitHub, YouTube, Skills, Blog, Paper, Events).",
+      "titleCorrect": true,
+      "metaDescCorrect": true
+    },
+    "LANG_08": {
+      "tooltip": "ავტომატური განახლება ყოველდღე, 08:00 საათზე (თბილისის დროით)",
+      "passed": true
+    },
+    "LANG_01": {
+      "featuredSub": "მოკლე, წასაკითხი და ქართული — სრულად იხსნება ბარათზე დაჭერით.",
+      "passed": true
+    },
+    "LANG_06": {
+      "breakdownSub": "დალაგებული კატეგორიებისა და წყაროების მიხედვით",
+      "passed": true
+    },
+    "LANG_02": {
+      "chipNewsText": "სიახლეები\n6",
+      "chipEventText": "ღონისძიებები\n5",
+      "chipPaperText": "კვლევები\n6",
+      "passed": true
+    },
+    "BUG_F03": {
+      "statUpdatedText": "7 სექტემბერი, 04:04",
+      "deepDiveDateText": "6 სექ, 2026, 22:08",
+      "firstCardDate": "6 სექ, 2026, 22:08",
+      "passed": true
+    },
+    "LANG_07": {
+      "cardReadMore": "ვრცლად",
+      "deepDiveBtnText": "ვრცლად წაკითხვა",
+      "passed": true
+    },
+    "BUG_F01": {
+      "deepDiveHtmlWhenGithub": "",
+      "deepDiveHtmlWhenZeroSearch": "",
+      "passed": true
+    },
+    "BUG_F02": {
+      "whenZeroMatch": {
+        "featuredDisplay": "none",
+        "breakdownDisplay": "none",
+        "emptyStateDisplay": "block"
+      },
+      "whenNormal": {
+        "featuredDisplay": "block",
+        "breakdownDisplay": "block",
+        "emptyStateDisplay": "none"
+      },
+      "passed": true
+    },
+    "BUG_F04": {
+      "modalFooterExists": true,
+      "sourceBtnVisible": true,
+      "copyBtnVisible": true,
+      "passed": true
+    },
+    "LANG_05": {
+      "originalHeader": "ორიგინალი ტექსტი ინგლისურად (ENGLISH ORIGINAL)",
+      "passed": false
+    },
+    "BUG_F05": {
+      "isCloseModalFocused": true,
+      "isCardRefocused": true,
+      "passed": true
+    },
+    "BUG_F06": {
+      "brandTitleWrap": {
+        "whiteSpace": "nowrap",
+        "height": 27.703125
+      },
+      "passed": true
+    }
+  }
+}
