@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI News Blog ქართულად</title>
-  <meta name="description" content="Agentic Brew-ის news, twitter, github, reddit, youtube, product hunt, skill, blog, paper და event feed-ებიდან ქართული AI digest." />
+  <title>AI News ქართულად | ყოველდღიური ხელოვნური ინტელექტის დაიჯესტი</title>
+  <meta name="description" content="ყოველდღიური ხელოვნური ინტელექტის სიახლეები ქართულად — Agentic Brew-ის 10 წყაროდან (News, Twitter, Reddit, GitHub, YouTube, Skills, Blog, Paper, Events)." />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗞️</text></svg>" />
   <style>
     @font-face {
@@ -246,9 +246,9 @@
         <aside class="hero-panel">
           <p class="eyebrow">დღის სურათი</p>
           <div class="stats">
-            <div class="stat"><div class="k">featured</div><div class="v" id="statFeatured">10 ამბავი</div></div>
-            <div class="stat"><div class="k">წყაროები</div><div class="v">10 feed</div></div>
-            <div class="stat"><div class="k">სულ loaded</div><div class="v" id="statTotal">—</div></div>
+            <div class="stat"><div class="k">რჩეული</div><div class="v" id="statFeatured">10 ამბავი</div></div>
+            <div class="stat"><div class="k">წყაროები</div><div class="v">10 ნაკადი</div></div>
+            <div class="stat"><div class="k">სულ სიახლე</div><div class="v" id="statTotal">—</div></div>
             <div class="stat"><div class="k">ბოლო განახლება</div><div class="v" id="statUpdated">—</div></div>
           </div>
         </aside>
@@ -277,7 +277,7 @@
     </section>
 
     <div class="empty" id="emptyState" style="display:none;">შესაბამისი შედეგი ვერ მოიძებნა.</div>
-    <div class="footer-note">თუ გინდა, შემდეგში ამ გვერდს ავტომატურ daily refresh-ს, ახალი sources-ის რანგირებას და Obsidian note export-საც დავუმატებ.</div>
+    <div class="footer-note">AI News ქართულად — ყოველდღიურად განახლებადი ხელოვნური ინტელექტის დაიჯესტი. განახლება ხდება ავტომატურად ყოველდღე 08:00 საათზე (თბილისის დროით) GitHub Actions-ის მეშვეობით.</div>
   </main>
 
   <div class="modal" id="detailModal" aria-hidden="true">
@@ -298,7 +298,7 @@
         </div>
         <div class="detail-actions">
           <a class="btn primary" id="sourceLink" target="_blank" rel="noreferrer">წყაროზე გადასვლა ↗</a>
-          <button class="btn" id="copySummary">ქართულ ტექსტის კოპირება</button>
+          <button class="btn" id="copySummary">ქართული ტექსტის კოპირება</button>
         </div>
       </div>
     </div>
@@ -346,25 +346,42 @@
       function esc(s) {
         return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
       }
+      function formatDate(pubDate) {
+        if (!pubDate) return '';
+        try {
+          const d = new Date(pubDate);
+          if (isNaN(d.getTime())) return pubDate;
+          return d.toLocaleDateString('ka-GE', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+        } catch (e) {
+          return pubDate;
+        }
+      }
       function matches(item) {
         if (state.filter !== 'all' && item.feed !== state.filter) return false;
         const hay = [item.title_ka, item.excerpt_ka, item.description_ka, item.title_en, item.description_en, item.source_label].join(' ').toLowerCase();
         return !state.query || hay.includes(state.query);
       }
       function renderDeepDive() {
-        const item = state.featured.find(matches) || state.featured.find(Boolean);
+        let item = null;
+        if (state.filter !== 'all') {
+          const sectionItems = (state.sections[state.filter] || []).filter(matches);
+          item = sectionItems[0] || state.featured.find(matches) || state.featured[0];
+        } else {
+          item = state.featured.find(matches) || state.featured[0];
+        }
         if (!item) {
           deepDive.innerHTML = '';
           return;
         }
         const short = item.description_ka || item.excerpt_ka || item.description_en || item.excerpt_en || '';
         const original = item.description_en || item.excerpt_en || '';
+        const formattedDate = formatDate(item.pub_date);
         deepDive.innerHTML = `
           <div class="deep-dive">
             <div class="deep-dive-inner">
               <div class="deep-dive-head">
                 <div>
-                  <div class="deep-dive-label">დღის მთავარი მოკლე ანალიტიკა</div>
+                  <div class="deep-dive-label">დღის მთავარი ანალიტიკა</div>
                   <h3 class="deep-dive-title">${esc(item.title_ka || item.title_en)}</h3>
                 </div>
                 <div class="source-pill" style="margin:0;">${esc(sourceNames[item.feed] || item.feed)}</div>
@@ -380,7 +397,7 @@
                 </details>` : ''}
               </div>
               <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; justify-content:space-between;">
-                <div style="color: var(--muted); font-size: .9rem;">${esc(item.pub_date || '')}</div>
+                <div style="color: var(--muted); font-size: .9rem;">${esc(formattedDate)}</div>
                 <a class="readmore" href="${esc(item.link || '#')}" target="_blank" rel="noreferrer">წყაროზე გადასვლა →</a>
               </div>
             </div>
@@ -391,8 +408,9 @@
         detailTitle.textContent = item.title_ka || item.title_en;
         detailContent.textContent = item.description_ka || item.excerpt_ka || item.description_en || item.excerpt_en || '';
         detailOriginal.textContent = item.description_en || item.excerpt_en || '';
+        const formattedDate = formatDate(item.pub_date);
         detailMeta.innerHTML = `
-          <span>${esc(item.pub_date || '')}</span>
+          <span>${esc(formattedDate)}</span>
           <span>•</span>
           <span>${esc(sourceNames[item.feed] || item.feed)}</span>
           <span>•</span>
@@ -402,7 +420,11 @@
         sourceLink.href = item.link || '#';
         copySummary.onclick = async () => {
           const text = `${item.title_ka || item.title_en}\n\n${item.description_ka || item.excerpt_ka || ''}\n\nSource: ${item.link || ''}`;
-          try { await navigator.clipboard.writeText(text); copySummary.textContent = 'დაკოპირდა'; setTimeout(() => copySummary.textContent = 'ქართულ ტექსტის კოპირება', 1200); } catch (e) {}
+          try {
+            await navigator.clipboard.writeText(text);
+            copySummary.textContent = 'დაკოპირდა';
+            setTimeout(() => copySummary.textContent = 'ქართული ტექსტის კოპირება', 1500);
+          } catch (e) {}
         };
         modal.classList.add('open');
         modal.setAttribute('aria-hidden', 'false');
@@ -413,8 +435,9 @@
       }
       function card(item, idx, featured=false) {
         const styles = sourceStyles[item.feed] || ['rgba(255,255,255,.08)', 'rgba(255,255,255,.18)', '#fff'];
+        const formattedDate = formatDate(item.pub_date);
         return `
-          <article class="card ${featured ? 'featured' : ''}" data-feed="${esc(item.feed)}" data-uid="${esc(item.uid || '')}">
+          <article class="card ${featured ? 'featured' : ''}" data-feed="${esc(item.feed)}" data-uid="${esc(item.uid || '')}" tabindex="0" role="button" aria-label="${esc(item.title_ka || item.title_en)}">
             <div class="card-top">
               <div class="rank">${idx + 1}</div>
               <div>
@@ -424,8 +447,8 @@
             </div>
             <p class="summary">${esc(item.excerpt_ka || item.description_ka || item.excerpt_en || item.description_en || '')}</p>
             <div class="meta">
-              <div class="source-line">${esc(item.pub_date || '')}</div>
-              <a class="readmore" href="javascript:void(0)">სრულად წაიკითხე →</a>
+              <div class="source-line">${esc(formattedDate)}</div>
+              <span class="readmore">დაწვრილებით →</span>
             </div>
           </article>
         `;
@@ -448,7 +471,7 @@
               <div class="section-head">
                 <div>
                   <h3 class="section-title">${esc(sourceNames[feed] || feed)}</h3>
-                  <div class="section-sub">${esc(feed)} feed · ${items.length} item</div>
+                  <div class="section-sub">${esc(feed)} · ${items.length} სიახლე</div>
                 </div>
               </div>
               <div class="grid ${feed === 'event' || feed === 'product_hunt' ? 'one' : ''}">
@@ -506,6 +529,18 @@
         const item = [...state.featured, ...Object.values(state.sections).flat()].find(x => x.uid === uid);
         if (item) openDetail(item);
       });
+      function handleCardKey(e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          const cardEl = e.target.closest('.card');
+          if (!cardEl) return;
+          e.preventDefault();
+          const uid = cardEl.dataset.uid;
+          const item = [...state.featured, ...Object.values(state.sections).flat()].find(x => x.uid === uid);
+          if (item) openDetail(item);
+        }
+      }
+      featuredGrid.addEventListener('keydown', handleCardKey);
+      sectionArea.addEventListener('keydown', handleCardKey);
       closeModal.addEventListener('click', closeDetail);
       modal.addEventListener('click', e => { if (e.target === modal) closeDetail(); });
       window.addEventListener('keydown', e => { if (e.key === 'Escape') closeDetail(); });
@@ -517,7 +552,7 @@
           state.sections = data.sections || {};
           state.items = data.all || [];
           statUpdated.textContent = new Date(data.generated_at).toLocaleString('ka-GE', { dateStyle: 'medium', timeStyle: 'short' });
-          statTotal.textContent = `${state.items.length} item`;
+          statTotal.textContent = `${state.items.length} სიახლე`;
           renderFeedStrip();
           renderDeepDive();
           renderFeatured();

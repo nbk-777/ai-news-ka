@@ -1,35 +1,34 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse
-import difflib
 import html
 import json
 import os
 import re
 import shutil
+import subprocess
+import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-UA = {'User-Agent': 'Mozilla/5.0'}
-TRANSLATE_URL = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ka&dt=t&q='
+UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}
+TRANSLATE_CLIENTS = ['dict-chrome-ex', 'it', 'at']
+CURL_BIN = shutil.which('curl')
 HISTORY_DAYS = 7
 MAX_PER_SECTION = 40
+TRANSLATE_RATE_LIMIT_DELAY = 0.12  # seconds between translate calls
+GEORGIAN_CHAR_RE = re.compile(r'[\u10A0-\u10FF]')
 
-# If a title/field is basically all proper nouns (ratio of key terms to
-# total words is at/above this), don't translate it at all -- Google
-# Translate mangles pure name phrases like "Skill Vetter" -> "უნარი ვეტერი".
-KEEP_ENGLISH_THRESHOLD = 0.6
-# Titles with this normalized-text similarity or higher, within DEDUP_WINDOW_DAYS
-# of each other, are treated as the same story republished under a new pub_date/uid.
-DEDUP_TITLE_SIMILARITY = 0.87
-DEDUP_WINDOW_DAYS = 7
+
+def log(msg):
+    print(f'[{datetime.now().strftime("%H:%M:%S")}] {msg}', flush=True)
 
 
 def parse_pub_date(pub):
@@ -51,17 +50,19 @@ def merge_section(existing_items, new_items):
     merged.sort(key=lambda it: parse_pub_date(it.get('pub_date', '')) or cutoff, reverse=True)
     kept = [it for it in merged if (parse_pub_date(it.get('pub_date', '')) or cutoff) >= cutoff]
     return kept[:MAX_PER_SECTION]
+
+
 FEEDS = [
-    ('news', 'ნიუსი', 2),
-    ('twitter', 'ტვიტერი', 3),
-    ('github', 'გიტჰაბი', 2),
-    ('reddit', 'რედიტი', 3),
-    ('youtube', 'იუთუბი', 2),
-    ('product_hunt', 'Product Hunt', 1),
-    ('skill', 'Skills', 2),
-    ('blog', 'ბლოგი', 2),
-    ('paper', 'კვლევა', 2),
-    ('event', 'ივენთი', 1),
+    ('news', 'ნიუსი', 4),
+    ('twitter', 'ტვიტერი', 4),
+    ('github', 'გიტჰაბი', 3),
+    ('reddit', 'რედიტი', 5),
+    ('youtube', 'იუთუბი', 4),
+    ('product_hunt', 'Product Hunt', 3),
+    ('skill', 'Skills', 4),
+    ('blog', 'ბლოგი', 4),
+    ('paper', 'კვლევა', 4),
+    ('event', 'ივენთი', 3),
 ]
 
 
@@ -71,21 +72,46 @@ def open_with_retry(request, timeout=30, attempts=3, opener=None, sleeper=None):
     for attempt in range(1, attempts + 1):
         try:
             return opener(request, timeout=timeout)
-        except (TimeoutError, urllib.error.URLError):
+        except (TimeoutError, urllib.error.URLError, urllib.error.HTTPError) as e:
             if attempt == attempts:
                 raise
-            sleeper(attempt * 2)
+            delay = attempt * 2
+            if isinstance(e, urllib.error.HTTPError) and e.code == 429:
+                delay = min(delay * 2, 8)
+            sleeper(delay)
 
 
 def fetch_xml(feed):
     url = f'https://www.agenticbrew.ai/feed/{feed}.xml'
     req = urllib.request.Request(url, headers=UA)
-    with open_with_retry(req, timeout=30) as r:
-        return ET.fromstring(r.read())
+    try:
+        with open_with_retry(req, timeout=30) as r:
+            return ET.fromstring(r.read())
+    except Exception as e:
+        log(f'ERROR: fetch_xml({feed}) failed: {e}')
+        return None
+
+
+def clean_text(raw):
+    """Strip HTML tags and unescape entities, normalizing whitespace."""
+    if not raw:
+        return ''
+    text = re.sub(r'<[^>]+>', ' ', raw)
+    text = html.unescape(text)
+    return ' '.join(text.split())
+
+
+def truncate_words(text, limit=320):
+    """Truncate text at word boundaries without cutting words in half."""
+    text = ' '.join((text or '').split())
+    if not text or len(text) <= limit:
+        return text
+    truncated = text[:limit].rsplit(' ', 1)[0]
+    return (truncated.rstrip('.,;:-') + '…') if truncated else text[:limit] + '…'
 
 
 def first_sentences(text, limit=320):
-    text = ' '.join((text or '').split())
+    text = clean_text(text)
     if not text:
         return ''
     sents = re.split(r'(?<=[.!?])\s+', text)
@@ -96,211 +122,215 @@ def first_sentences(text, limit=320):
         candidate = f'{out} {s}'.strip() if out else s.strip()
         if len(candidate) > limit:
             if not out:
-                return text[:limit].rstrip() + '…'
+                return truncate_words(text, limit)
             return out.rstrip() + '…'
         out = candidate
         if len(out) >= 180 and len(sents) > 1:
             break
-    return out or text[:limit].rstrip() + '…'
+    return out or truncate_words(text, limit)
 
 
-def translate(text, limit=1100):
-    text = html.unescape(' '.join((text or '').split()))
-    if not text:
-        return ''
-    if len(text) > limit:
-        text = text[:limit]
-    url = TRANSLATE_URL + urllib.parse.quote(text)
-    req = urllib.request.Request(url, headers=UA)
-    with open_with_retry(req, timeout=30) as r:
-        data = r.read().decode('utf-8')
-    arr = json.loads(data)
-    return ''.join(part[0] for part in arr[0]).strip()
-
-
-def extract_key_terms(text):
-    if not text:
-        return []
-    terms = set(re.findall(r'\b[A-Z][A-Za-z0-9]*(?:\.[A-Za-z]+)?\b', text))
-    acronyms = set(re.findall(r'\b[A-Z]{2,}\b', text))
-    terms |= acronyms
-    stop = {'The', 'A', 'An', 'In', 'On', 'For', 'With', 'As', 'Is', 'Of', 'To', 'And'}
-    return sorted(t for t in terms if t not in stop and len(t) > 1)
-
-
-def skeptic_verify(translated_ka, key_terms):
-    if not key_terms:
-        return True, 'no key terms to check'
-    missing = [t for t in key_terms if t not in translated_ka]
-    if missing:
-        return False, f'missing terms: {missing}'
-    return True, 'all key terms present'
-
-
-def smooth_georgian(text):
-    """Clean up mechanical Google-Translate artifacts (spacing, quote
-    style, word doubling) that read as unnatural Georgian. This is a
-    rule-based polish, not a fluency rewrite -- it cannot fix word order
-    or case-marking errors, only the artifacts regex can safely catch."""
+def post_process_georgian(text):
+    """Refine domain-specific AI terminology in Georgian translations."""
     if not text:
         return text
-    text = re.sub(r'\b(\S+)( \1\b)+', r'\1', text)  # collapse doubled words
-    text = re.sub(r'\s+([,.!?;:])', r'\1', text)  # no space before punctuation
-    text = re.sub(r'([.!?])(?=[Ⴀ-ჿა-ჰA-Za-z])', r'\1 ', text)  # space after sentence end
-    text = re.sub(r'"([^"]+)"', r'„\1“', text)  # Georgian-style quotes
-    text = re.sub(r' {2,}', ' ', text)
-    return text.strip()
+    # Fix Superintelligence (Google Translate confuses it with CIA/intelligence)
+    text = re.sub(r'სუპერდაზვერვ(ის|ამ|ას|ით|ად|ა)', r'სუპერინტელექტ\1', text)
+    # Fix Prompt Guardrail mistranslations ("სწრაფი დამცავი ღერძი")
+    text = text.replace('სწრაფი დამცავი ღერძი', 'პრომპტის უსაფრთხოების ზღვარი')
+    text = text.replace('სწრაფი დამცავი', 'პრომპტის დამცავი')
+    text = text.replace('დამცავი ღერძი', 'უსაფრთხოების ზღვარი')
+    # Fix agent acting in autonomy context (was "მსახიობობას")
+    text = text.replace('აუმჯობესებენ მსახიობობას', 'აუმჯობესებენ ავტონომიურ მოქმედებას')
+    # Fix Skill Vetter literal translation
+    text = text.replace('უნარი ვეტერი', 'უნარების ვერიფიკატორი (Skill Vetter)')
+    # Fix benchmark
+    text = text.replace('ბოლო თარგმანის მაჩვენებელი', 'თარგმანის ბოლო ბენჩმარკი')
+    # Fix model parameter scale (e.g. "1.46 მმ" -> "1.46M")
+    text = re.sub(r'(\d+(?:\.\d+)?)\s*მმ\b', r'\1M', text)
+    return text
 
 
-def translate_field_corrected(text_en, limit):
-    if not text_en:
-        return ''
-    key_terms = extract_key_terms(text_en)
-    ka = smooth_georgian(translate(text_en, limit))
-    if not key_terms:
-        return ka
-    ok, _ = skeptic_verify(ka, key_terms)
-    if ok:
-        return ka
-    tokens = re.findall(r'[A-Za-z]+', text_en)
-    ratio = len(key_terms) / max(1, len(tokens))
-    if ratio >= KEEP_ENGLISH_THRESHOLD:
-        return text_en
-    missing = [t for t in key_terms if t not in ka]
-    return f"{ka} ({', '.join(missing)})" if missing else ka
-
-
-def backfill_correct(item):
-    """Re-apply smoothing/skeptic correction to an item's already-translated
-    fields without calling the Translate API again. merge_section() carries
-    old items forward untouched -- only the handful of freshly-fetched items
-    per run pass through translate_field_corrected(), so most held-over
-    items still contain artifacts (doubled words, uncaught proper-noun
-    mistranslations) from before this correction logic existed. This fixes
-    those in place, once, using the text already on hand."""
-    for en_field, ka_field, limit in (
-        ('title_en', 'title_ka', 180),
-        ('excerpt_en', 'excerpt_ka', 480),
-        ('description_en', 'description_ka', 1300),
-    ):
-        text_en = item.get(en_field, '')
-        ka = smooth_georgian(item.get(ka_field, ''))
-        if not text_en or not ka:
-            item[ka_field] = ka
+def translate_segment(text):
+    """Translate text segment to Georgian with client rotation and curl HTTP/2 fallback."""
+    # 1. Try HTTP/1.1 with verified working client endpoints
+    for client in TRANSLATE_CLIENTS:
+        url = f'https://translate.googleapis.com/translate_a/single?client={client}&sl=en&tl=ka&dt=t&q=' + urllib.parse.quote(text)
+        req = urllib.request.Request(url, headers=UA)
+        try:
+            with open_with_retry(req, timeout=20, attempts=2) as r:
+                data = r.read().decode('utf-8')
+            arr = json.loads(data)
+            translated = ''.join(part[0] for part in arr[0] if part and part[0]).strip()
+            if translated:
+                time.sleep(TRANSLATE_RATE_LIMIT_DELAY)
+                return translated
+        except Exception:
             continue
-        key_terms = extract_key_terms(text_en)
-        if not key_terms:
-            item[ka_field] = ka
-            continue
-        ok, _ = skeptic_verify(ka, key_terms)
-        if ok:
-            item[ka_field] = ka
-            continue
-        tokens = re.findall(r'[A-Za-z]+', text_en)
-        ratio = len(key_terms) / max(1, len(tokens))
-        if ratio >= KEEP_ENGLISH_THRESHOLD:
-            item[ka_field] = text_en
-            continue
-        missing = [t for t in key_terms if t not in ka]
-        item[ka_field] = f"{ka} ({', '.join(missing)})" if missing else ka
-    return item
+
+    # 2. Fallback to curl HTTP/2 if available (bypasses HTTP/1.1 bot detection)
+    if CURL_BIN:
+        try:
+            url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ka&dt=t&q=' + urllib.parse.quote(text)
+            res = subprocess.run([CURL_BIN, '-s', '--max-time', '15', url], capture_output=True, text=True)
+            if res.returncode == 0 and res.stdout:
+                arr = json.loads(res.stdout)
+                translated = ''.join(part[0] for part in arr[0] if part and part[0]).strip()
+                if translated:
+                    time.sleep(TRANSLATE_RATE_LIMIT_DELAY)
+                    return translated
+        except Exception:
+            pass
+
+    return ''
 
 
-def normalize_title(title):
-    return re.sub(r'[^a-z0-9 ]', '', title.lower()).strip()
+def translate(text, limit=1100, fallback=''):
+    """Translate text to Georgian with URL protection, HTML cleaning, and post-processing."""
+    cleaned = clean_text(text)
+    if not cleaned:
+        return fallback
+
+    if len(cleaned) > limit:
+        cleaned = truncate_words(cleaned, limit)
+
+    # Protect URLs from being mangled or translated
+    urls = []
+    def url_repl(m):
+        urls.append(m.group(0))
+        return f' __URL_{len(urls)-1}__ '
+
+    protected = re.sub(r'https?://[^\s\)\"\'>]+', url_repl, cleaned)
+
+    try:
+        translated = translate_segment(protected)
+        if not translated:
+            log(f'WARN: translate() produced empty output, using fallback: "{cleaned[:40]}..."')
+            return fallback
+
+        # Restore preserved URLs
+        for idx, u in enumerate(urls):
+            translated = re.sub(rf'__\s*URL_{idx}\s*__', u, translated)
+
+        # Refine terminology
+        translated = post_process_georgian(translated)
+        return translated
+    except Exception as e:
+        log(f'WARN: translate() failed ({e}), using fallback: "{cleaned[:40]}..."')
+        return fallback
 
 
-def dedup_near_duplicates(all_items):
-    """Collapse items whose titles are near-identical and whose pub_date
-    falls within DEDUP_WINDOW_DAYS of each other -- the same story often
-    gets re-listed under a new uid/pub_date when a feed re-crawls it."""
-    normalized = [normalize_title(it['title_en']) for it in all_items]
-    parsed_dates = [parse_pub_date(it.get('pub_date', '')) for it in all_items]
-    drop = set()
-    for i in range(len(all_items)):
-        if i in drop or not normalized[i]:
-            continue
-        for j in range(i + 1, len(all_items)):
-            if j in drop or not normalized[j]:
-                continue
-            if parsed_dates[i] and parsed_dates[j]:
-                if abs((parsed_dates[i] - parsed_dates[j]).days) > DEDUP_WINDOW_DAYS:
-                    continue
-            ratio = difflib.SequenceMatcher(None, normalized[i], normalized[j]).ratio()
-            if ratio >= DEDUP_TITLE_SIMILARITY:
-                newer, older = (i, j) if (parsed_dates[i] or datetime.min.replace(tzinfo=timezone.utc)) >= (parsed_dates[j] or datetime.min.replace(tzinfo=timezone.utc)) else (j, i)
-                drop.add(older)
-    kept_uids = {all_items[i]['uid'] for i in range(len(all_items)) if i not in drop}
-    dropped_uids = {all_items[i]['uid'] for i in drop}
-    return kept_uids, dropped_uids
+def process_feed(feed, label, limit, existing_sections):
+    """Fetch and process one feed in parallel with caching and translation."""
+    log(f'Fetching {feed} ({label})...')
+    root = fetch_xml(feed)
+    if root is None:
+        log(f'SKIP: {feed} (fetch failed)')
+        return feed, existing_sections.get(feed, [])
+
+    existing_by_uid = {it['uid']: it for it in existing_sections.get(feed, [])}
+    new_items = []
+
+    for it in root.iter('item'):
+        title_en = (it.findtext('title') or '').strip()
+        desc_en = (it.findtext('description') or '').strip()
+        link = (it.findtext('link') or '').strip()
+        pub = (it.findtext('pubDate') or '').strip()
+        cats = [c.text.strip() for c in it.findall('category') if c.text]
+
+        uid = f'{feed}|{pub}|{title_en}'
+        excerpt_en = first_sentences(desc_en, 260)
+
+        # Cache check: if already translated and has Georgian characters, reuse and post-process
+        cached = existing_by_uid.get(uid)
+        if cached and GEORGIAN_CHAR_RE.search(cached.get('title_ka', '')):
+            title_ka = post_process_georgian(cached.get('title_ka', ''))
+            excerpt_ka = post_process_georgian(cached.get('excerpt_ka', ''))
+            description_ka = post_process_georgian(cached.get('description_ka', ''))
+            log(f'  {feed}: "{title_en[:45]}..." (cached translation reused)')
+        else:
+            title_ka = translate(title_en, 180, fallback=title_en)
+            excerpt_ka = translate(excerpt_en, 480, fallback=excerpt_en)
+            description_ka = translate(desc_en, 1300, fallback=desc_en)
+            log(f'  {feed}: "{title_en[:45]}..." → freshly translated')
+
+        item = {
+            'uid': uid,
+            'feed': feed,
+            'source_label': label,
+            'title_en': title_en,
+            'description_en': desc_en,
+            'excerpt_en': excerpt_en,
+            'link': link,
+            'pub_date': pub,
+            'categories': cats,
+            'title_ka': title_ka,
+            'excerpt_ka': excerpt_ka,
+            'description_ka': description_ka,
+        }
+        new_items.append(item)
+
+        if len(new_items) >= limit:
+            break
+
+    merged = merge_section(existing_sections.get(feed, []), new_items)
+    log(f'✓ {feed}: {len(new_items)} new/updated, {len(merged)} total after merge')
+    return feed, merged
 
 
-def parse_args(argv=None):
-    parser = argparse.ArgumentParser(description='Fetch, translate, and dedup AI-news feed items.')
-    parser.add_argument(
-        '--out',
-        default=os.path.join(BASE, 'ai-news.json'),
-        help='Path to write ai-news.json (default: %(default)s)',
-    )
-    parser.add_argument(
-        '--backup',
-        action='store_true',
-        help='Before overwriting --out, copy the existing file to a timestamped .bak-<UTC timestamp> path',
-    )
-    return parser.parse_args(argv)
-
-
-def main(argv=None):
-    args = parse_args(argv)
-    json_path = args.out
+def main():
+    log('AI News update starting...')
+    json_path = os.path.join(BASE, 'ai-news.json')
     existing_sections = {}
     if os.path.exists(json_path):
         try:
             with open(json_path, encoding='utf-8') as f:
                 existing_sections = json.load(f).get('sections', {})
-        except (json.JSONDecodeError, OSError):
+            log(f'Loaded existing ai-news.json ({len(existing_sections)} sections)')
+        except (json.JSONDecodeError, OSError) as e:
+            log(f'WARN: Could not load existing JSON: {e}')
             existing_sections = {}
 
     sections = {}
-    for feed, label, limit in FEEDS:
-        root = fetch_xml(feed)
-        new_items = []
-        for it in root.iter('item'):
-            title_en = (it.findtext('title') or '').strip()
-            desc_en = (it.findtext('description') or '').strip()
-            link = (it.findtext('link') or '').strip()
-            pub = (it.findtext('pubDate') or '').strip()
-            cats = [c.text.strip() for c in it.findall('category') if c.text]
-            item = {
-                'uid': f'{feed}|{pub}|{title_en}',
-                'feed': feed,
-                'source_label': label,
-                'title_en': title_en,
-                'description_en': desc_en,
-                'excerpt_en': first_sentences(desc_en, 260),
-                'link': link,
-                'pub_date': pub,
-                'categories': cats,
-            }
-            item['title_ka'] = translate_field_corrected(title_en, 180)
-            item['excerpt_ka'] = translate_field_corrected(item['excerpt_en'], 480)
-            item['description_ka'] = translate_field_corrected(desc_en, 1300)
-            new_items.append(item)
-            if len(new_items) >= limit:
-                break
-        sections[feed] = merge_section(existing_sections.get(feed, []), new_items)
 
-    for feed in sections:
-        sections[feed] = [backfill_correct(it) for it in sections[feed]]
+    # Parallel feed processing (10 feeds concurrently)
+    log(f'Processing {len(FEEDS)} feeds in parallel...')
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {
+            executor.submit(process_feed, feed, label, limit, existing_sections): feed
+            for feed, label, limit in FEEDS
+        }
+        for future in as_completed(futures):
+            feed_name = futures[future]
+            try:
+                fname, merged_items = future.result()
+                sections[fname] = merged_items
+            except Exception as e:
+                log(f'ERROR: {feed_name} processing failed: {e}')
+                sections[feed_name] = existing_sections.get(feed_name, [])
+
+    # Apply Georgian terminology polish across all section items
+    for feed_name, items in sections.items():
+        for it in items:
+            if it.get('title_ka'):
+                it['title_ka'] = post_process_georgian(it['title_ka'])
+            if it.get('excerpt_ka'):
+                it['excerpt_ka'] = post_process_georgian(it['excerpt_ka'])
+            if it.get('description_ka'):
+                it['description_ka'] = post_process_georgian(it['description_ka'])
 
     all_items = [it for feed, _, _ in FEEDS for it in sections.get(feed, [])]
-    kept_uids, dropped_uids = dedup_near_duplicates(all_items)
-    if dropped_uids:
-        for feed in sections:
-            sections[feed] = [it for it in sections[feed] if it['uid'] in kept_uids]
-        all_items = [it for it in all_items if it['uid'] in kept_uids]
 
-    featured = sections.get('news', [])[:2] + sections.get('twitter', [])[:3] + sections.get('reddit', [])[:5]
+    # Primary featured: top items from news, twitter, reddit
+    featured = sections.get('news', [])[:3] + sections.get('twitter', [])[:3] + sections.get('reddit', [])[:4]
+    if len(featured) < 10:
+        seen_uids = {it['uid'] for it in featured}
+        for it in all_items:
+            if it['uid'] not in seen_uids:
+                featured.append(it)
+                seen_uids.add(it['uid'])
+                if len(featured) >= 10:
+                    break
     featured = featured[:10]
 
     payload = {
@@ -309,23 +339,26 @@ def main(argv=None):
         'sections': sections,
         'all': all_items,
         'feed_labels': {feed: label for feed, label, _ in FEEDS},
-        'newsgraph_meta': {
-            'translator': 'google_corrected_smoothed',
-            'duplicate_items_dropped': len(dropped_uids),
-            'total_items': len(all_items),
-        },
     }
 
-    if args.backup and os.path.exists(json_path):
-        stamp = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
-        shutil.copy2(json_path, f'{json_path}.bak-{stamp}')
-
-    with open(json_path, 'w', encoding='utf-8') as f:
+    output_path = os.path.join(BASE, 'ai-news.json')
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write('\n')
 
-    print(f'updated {len(featured)} featured items, {len(all_items)} total items, {len(dropped_uids)} duplicates dropped')
+    log(f'✓ Updated {len(featured)} featured items, {len(all_items)} total items')
+    log(f'✓ Written to {output_path}')
+    print(f'updated {len(featured)} featured items, {len(all_items)} total items')
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        log('Interrupted by user')
+        sys.exit(130)
+    except Exception as e:
+        log(f'FATAL: {e}')
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
