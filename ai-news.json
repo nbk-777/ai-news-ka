@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:47:06.737092+00:00",
+  "generated_at": "2026-09-09T08:52:37.232506+00:00",
   "featured": [
     {
       "uid": "news|Tue, 08 Sep 2026 01:49:04 GMT|Seattle Times and Newsday Sue OpenAI and Microsoft Over AI Training",
@@ -173,386 +173,6 @@
     }
   ],
   "sections": {
-    "github": [],
-    "product_hunt": [],
-    "twitter": [
-      {
-        "uid": "twitter|Mon, 07 Sep 2026 20:25:39 GMT|AI-Powered Side Hustles and Market Experiments Go Viral",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI-Powered Side Hustles and Market Experiments Go Viral",
-        "description_en": "JUST IN: San Francisco has nearly 3x more AI startups than any other city in the world.",
-        "excerpt_en": "JUST IN: San Francisco has nearly 3x more AI startups than any other city in the world.",
-        "link": "https://x.com/Kalshi/status/2097058739387875621",
-        "pub_date": "Mon, 07 Sep 2026 20:25:39 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "ხელოვნური ინტელექტის მქონე გვერდითი აურზაური და ბაზრის ექსპერიმენტები ვირუსულად ხდება",
-        "excerpt_ka": "JUST IN: სან-ფრანცისკოს აქვს თითქმის 3-ჯერ მეტი AI სტარტაპი, ვიდრე მსოფლიოს ნებისმიერ სხვა ქალაქში.",
-        "description_ka": "JUST IN: სან-ფრანცისკოს აქვს თითქმის 3-ჯერ მეტი AI სტარტაპი, ვიდრე მსოფლიოს ნებისმიერ სხვა ქალაქში."
-      },
-      {
-        "uid": "twitter|Mon, 07 Sep 2026 14:35:31 GMT|AI Agent Tooling and Dev Ecosystem Momentum Builds",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Agent Tooling and Dev Ecosystem Momentum Builds",
-        "description_en": "Harnesses often get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the truth. The same model weights that score 30% on ARC-AGI score 95% with a better harness.",
-        "excerpt_en": "Harnesses often get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the truth. The same model weights that score 30% on ARC-AGI score 95% with a better harness.",
-        "link": "https://x.com/ycombinator/status/2096970626036855197",
-        "pub_date": "Mon, 07 Sep 2026 14:35:31 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "AI Agent Tooling და Dev Ecosystem Momentum Builds",
-        "excerpt_ka": "აღკაზმულობა ხშირად განიხილება, როგორც მხოლოდ ხარაჩოები, უბრალოდ სწრაფი ინჟინერია და არა რეალური კვლევა. მაგრამ ეს არ შეიძლებოდა შორს ყოფილიყო სიმართლისგან. იგივე მოდელის წონა, რომელსაც აქვს 30% ARC-AGI, აქვს 95% უკეთესი აღკაზმულობა.",
-        "description_ka": "აღკაზმულობა ხშირად განიხილება, როგორც მხოლოდ ხარაჩოები, უბრალოდ სწრაფი ინჟინერია და არა რეალური კვლევა. მაგრამ ეს არ შეიძლებოდა შორს ყოფილიყო სიმართლისგან. იგივე მოდელის წონა, რომელსაც აქვს 30% ARC-AGI, აქვს 95% უკეთესი აღკაზმულობა."
-      },
-      {
-        "uid": "twitter|Mon, 07 Sep 2026 14:04:09 GMT|GPT-6 Astra Sparks AGI Debate While Users Report Heavy Token Burn",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "GPT-6 Astra Sparks AGI Debate While Users Report Heavy Token Burn",
-        "description_en": "GPT 6 Astra is draining Codex subscriptions. GPT Astra is the most token efficient model ever built and it still eats a full week in a day. The only thing keeping Codex usable is OpenAI handing out resets every 48 hours. Without them subscribers get almost nothing.",
-        "excerpt_en": "GPT 6 Astra is draining Codex subscriptions. GPT Astra is the most token efficient model ever built and it still eats a full week in a day. The only thing keeping Codex usable is OpenAI handing out resets every 48 hours.",
-        "link": "https://x.com/bridgemindai/status/2096962732679368968",
-        "pub_date": "Mon, 07 Sep 2026 14:04:09 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "GPT-6 Astra Sparks AGI დებატებში, სანამ მომხმარებლები აცხადებენ მძიმე ნიშნის დამწვრობაზე",
-        "excerpt_ka": "GPT 6 Astra ართმევს Codex-ის ხელმოწერებს. GPT Astra არის ყველაზე სიმბოლურად ეფექტური მოდელი, რაც კი ოდესმე აშენდა და ის კვლავ ჭამს მთელ კვირას დღეში. ერთადერთი, რაც Codex-ის გამოყენებას ინარჩუნებს, არის OpenAI-ის გადატვირთვა ყოველ 48 საათში ერთხელ.",
-        "description_ka": "GPT 6 Astra ართმევს Codex-ის ხელმოწერებს. GPT Astra არის ყველაზე სიმბოლურად ეფექტური მოდელი, რაც კი ოდესმე აშენდა და ის კვლავ ჭამს მთელ კვირას დღეში. ერთადერთი, რაც Codex-ის გამოყენებას ინარჩუნებს, არის OpenAI-ის გადატვირთვა ყოველ 48 საათში ერთხელ. მათ გარეშე აბონენტები თითქმის არაფერს იღებენ."
-      },
-      {
-        "uid": "twitter|Mon, 07 Sep 2026 11:39:09 GMT|OpenAI's Chief Scientist Sounds Alarm on Recursive Self-Improvement and AI Safety",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "OpenAI's Chief Scientist Sounds Alarm on Recursive Self-Improvement and AI Safety",
-        "description_en": "OpenAI's chief scientist just published one of the strongest AI safety warnings to come from inside a frontier lab. Jakub Pachocki says no AI lab has solved alignment and monitoring well enough to keep scaling at maximum speed for much longer.",
-        "excerpt_en": "OpenAI's chief scientist just published one of the strongest AI safety warnings to come from inside a frontier lab. Jakub Pachocki says no AI lab has solved alignment and monitoring well enough to keep scaling at maximum speed for much longer.",
-        "link": "https://x.com/JonhernandezIA/status/2096926239202177065",
-        "pub_date": "Mon, 07 Sep 2026 11:39:09 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "OpenAI-ს მთავარი მეცნიერი აფრთხილებს რეკურსიული თვითგაუმჯობესებისა და ხელოვნური ინტელექტის უსაფრთხოების შესახებ",
-        "excerpt_ka": "OpenAI-ის მთავარმა მეცნიერმა ახლახან გამოაქვეყნა AI უსაფრთხოების ერთ-ერთი ყველაზე ძლიერი გაფრთხილება სასაზღვრო ლაბორატორიის შიგნიდან. ჯაკუბ პაჩოკი ამბობს, რომ ხელოვნური ინტელექტის ლაბორატორიამ არ გადაჭრა საკმარისად კარგად განლაგება და მონიტორინგი, რომ სკალირება მაქსიმალური სიჩქარით გაცილებით დიდხანს შეინარჩუნოს.",
-        "description_ka": "OpenAI-ის მთავარმა მეცნიერმა ახლახან გამოაქვეყნა AI უსაფრთხოების ერთ-ერთი ყველაზე ძლიერი გაფრთხილება სასაზღვრო ლაბორატორიის შიგნიდან. ჯაკუბ პაჩოკი ამბობს, რომ ხელოვნური ინტელექტის ლაბორატორიამ არ გადაჭრა საკმარისად კარგად განლაგება და მონიტორინგი, რომ სკალირება მაქსიმალური სიჩქარით გაცილებით დიდხანს შეინარჩუნოს."
-      },
-      {
-        "uid": "twitter|Sun, 06 Sep 2026 20:41:12 GMT|Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
-        "description_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
-        "excerpt_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
-        "link": "https://x.com/JensenHuang/status/2096700264569090384",
-        "pub_date": "Sun, 06 Sep 2026 20:41:12 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "Nvidia-ს აღმასრულებელი დირექტორი ჯენსენ ჰუანგი აცხადებს, რომ \"AGI ჩამოვიდა\" OpenAI-ს GPT-6 Astra-ს შემდეგ",
-        "excerpt_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში.",
-        "description_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში."
-      },
-      {
-        "uid": "twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
-        "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going...",
-        "excerpt_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so.",
-        "link": "https://x.com/NewsHour/status/2096663771573883160",
-        "pub_date": "Sun, 06 Sep 2026 19:08:01 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
-        "excerpt_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
-        "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები საკუთარი AI აგენტებით..."
-      },
-      {
-        "uid": "twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
-        "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a...",
-        "excerpt_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban.…",
-        "link": "https://x.com/RituWithAI/status/2096634829085475156",
-        "pub_date": "Sun, 06 Sep 2026 16:26:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
-        "excerpt_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
-        "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი, რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს, შეაჩერებს AI-ის განვითარებას აშშ-ში, სანამ კონგრესი არ ააშენებს..."
-      },
-      {
-        "uid": "twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
-        "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions...",
-        "excerpt_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3).",
-        "link": "https://x.com/charliejhills/status/2096631743533207983",
-        "pub_date": "Sun, 06 Sep 2026 16:10:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით",
-        "excerpt_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3).",
-        "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში აყენებს ინსტრუქციის გარეშე..."
-      },
-      {
-        "uid": "twitter|Sun, 06 Sep 2026 16:07:00 GMT|OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
-        "description_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor…",
-        "excerpt_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs.",
-        "link": "https://x.com/kliu128/status/2096616468851097811",
-        "pub_date": "Sun, 06 Sep 2026 16:07:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "OpenAI ავლენს \"რეკურსიული თვითგაუმჯობესების\" პროგრესს, მიზნად ისახავს ავტომატიზირებული AI მკვლევარს 2028 წლისთვის",
-        "excerpt_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული.",
-        "description_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. გამჭვირვალობა უფრო მნიშვნელოვანია..."
-      },
-      {
-        "uid": "twitter|Sat, 05 Sep 2026 20:23:00 GMT|AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
-        "description_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..…",
-        "excerpt_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue.…",
-        "link": "https://x.com/r0ck3t23/status/2096334167080386995",
-        "pub_date": "Sat, 05 Sep 2026 20:23:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "ხელოვნური ინტელექტის რეგულირების შესახებ დებატები ფართოვდება: სუპერინტელექტის აკრძალვიდან სკოლის აკრძალვამდე",
-        "excerpt_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება.…",
-        "description_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად გააკონტროლონ ეს ტექნოლოგია და არ იციან სად ..."
-      },
-      {
-        "uid": "twitter|Sat, 05 Sep 2026 16:56:00 GMT|Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
-        "description_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3...",
-        "excerpt_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model.",
-        "link": "https://x.com/rohanpaul_ai/status/2096280338083528801",
-        "pub_date": "Sat, 05 Sep 2026 16:56:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "სწრაფი ინჟინერია კვდება - AI აგენტი აღკაზმულობა ინჟინერია იღებს",
-        "excerpt_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ.",
-        "description_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3..."
-      },
-      {
-        "uid": "twitter|Sat, 05 Sep 2026 15:09:00 GMT|AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
-        "feed": "twitter",
-        "source_label": "ტვიტერი",
-        "title_en": "AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
-        "description_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars.",
-        "excerpt_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping.…",
-        "link": "https://x.com/ihteshamali/status/2096252245860073500",
-        "pub_date": "Sat, 05 Sep 2026 15:09:00 GMT",
-        "categories": [
-          "twitter",
-          "news/x"
-        ],
-        "title_ka": "AI სტარტაპები და ფული: მილიარდი დოლარის ანაზღაურება და დამფუძნებლის რჩევა",
-        "excerpt_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება...",
-        "description_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად."
-      }
-    ],
-    "skill": [
-      {
-        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|self-improving agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "self-improving agent",
-        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
-        "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
-        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
-      },
-      {
-        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|Skill Vetter",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Skill Vetter",
-        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
-        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
-        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
-      },
-      {
-        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|Self-Improving + Proactive Agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Self-Improving + Proactive Agent",
-        "description_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
-        "excerpt_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
-        "link": "https://clawhub.ai/ivangdavila/self-improving",
-        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგანვითარება + აქტიური აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა...",
-        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა..."
-      },
-      {
-        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|ontology",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "ontology",
-        "description_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
-        "excerpt_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
-        "link": "https://clawhub.ai/oswalpalash/ontology",
-        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "ონტოლოგია",
-        "excerpt_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული...",
-        "description_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული..."
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|self-improving agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "self-improving agent",
-        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
-        "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
-        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Skill Vetter",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Skill Vetter",
-        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
-        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
-        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Self-Improving + Proactive Agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Self-Improving + Proactive Agent",
-        "description_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
-        "excerpt_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
-        "link": "https://clawhub.ai/ivangdavila/self-improving",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგანვითარება + აქტიური აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა...",
-        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა..."
-      },
-      {
-        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|ontology",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "ontology",
-        "description_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
-        "excerpt_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
-        "link": "https://clawhub.ai/oswalpalash/ontology",
-        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "ონტოლოგია",
-        "excerpt_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული...",
-        "description_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული..."
-      },
-      {
-        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|self-improving agent",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "self-improving agent",
-        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
-        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
-        "link": "https://clawhub.ai/pskoett/self-improving-agent",
-        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "თვითგაუმჯობესების აგენტი",
-        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
-        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
-      },
-      {
-        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|Skill Vetter",
-        "feed": "skill",
-        "source_label": "Skills",
-        "title_en": "Skill Vetter",
-        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
-        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
-        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
-        "categories": [
-          "skill",
-          "news/clawhub"
-        ],
-        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
-        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
-        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
-      }
-    ],
     "youtube": [
       {
         "uid": "youtube|Mon, 07 Sep 2026 18:12:35 GMT|Code Quality in the Age of AI: Why Great Code Isn't Enough",
@@ -725,6 +345,7 @@
         "description_ka": "ეს ვიდეო ასახავს Google-ის Gemini 3.8 Flash-ის ყოვლისმომცველ რეალურ შეფასებას, აფასებს მის მუშაობას კოდირების, მსჯელობის, აგენტური სამუშაო ნაკადების და გრძელ ჰორიზონტის ამოცანების შესახებ GPT-5.6 Sol-ისა და Claude Opus 5-ის მიმართ. ის მოიცავს დეტალურ ტესტირებას Three.js სიმულაციებზე, თამაშის განვითარებასა და ხარჯების ეფექტურობის ნიშნების მხარდაჭერის მტკიცებულებებთან ერთად. ვიდეო ღირებულია ხელოვნური ინტელექტის პროფესიონალებისთვის, რადგან ის გთავაზობთ ემპირიულ, გვერდიგვერდ მოდელების შედარებებს, რომლებიც სცილდება მარკეტინგული პრეტენზიების ფარგლებს, გთავაზობთ პრაქტიკულ შეხედულებებს მოდელის შესაძლებლობებზე, კომპრომისებზე და პრაქტიკული განლაგების პოტენციალის შესახებ."
       }
     ],
+    "github": [],
     "news": [
       {
         "uid": "news|Tue, 08 Sep 2026 01:49:04 GMT|Seattle Times and Newsday Sue OpenAI and Microsoft Over AI Training",
@@ -895,110 +516,6 @@
         "title_ka": "Nscale-ის $3.5B-ის წინასწარი IPO-ს დაფინანსების რაუნდი",
         "excerpt_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ.",
         "description_ka": "Nscale აწარმოებს მოლაპარაკებებს დაახლოებით 3,5 მილიარდი აშშ დოლარის პრე-IPO-ს დაფინანსების მოზიდვაზე, დაყოფილია 1,5 მილიარდ დოლარამდე კონვერტირებად კუპიურებად, რომელსაც ხელმძღვანელობს ჰეჯ-ფონდი მესამე პოინტი და დაახლოებით 2 მილიარდი დოლარის ინვესტიცია პირდაპირ Nvidia-ს მიერ, ნიუ-იორკში დაგეგმილი ლისტინგის წინ. რაუნდი მოჰყვება Nscale-ის, დაახლოებით, 45 მილიარდი დოლარის, ექვსწლიანი გამოთვლითი ხელშეკრულების Anthropic-თან, რომელიც გაფორმდა 2026 წლის 26 აგვისტოს, რამაც Nscale-ის მთლიანი კონტრაქტის შემოსავალი 51 მილიარდი დოლარიდან 103 მილიარდ დოლარამდე აიწია. კონვერტირებადი კუპიურების ფასი ფასდება ორნიშნა ფასდაკლებით Nscale-ის სამომავლო IPO ფასთან შედარებით. Goldman Sachs მუშაობს ფონდების მოზიდვაზე. Nscale-მა, რომელიც სულ რაღაც ორი წლის წინ დაარსდა, მანამდე მოიზიდა 155 მილიონი დოლარის სერია A და 1.1 მილიარდი დოლარის სერია B (2026 წლის მარტი) აკერის ხელმძღვანელობით; მან თქვა, რომ ის შეიძლება საჯარო გახდეს 2026 წლის სექტემბერში."
-      }
-    ],
-    "event": [
-      {
-        "uid": "event|Wed, 07 Oct 2026 17:00:00 GMT|Microsoft: The Governance Foundation for Scalable AI in Lending",
-        "feed": "event",
-        "source_label": "ივენთი",
-        "title_en": "Microsoft: The Governance Foundation for Scalable AI in Lending",
-        "description_en": "Time: Wed, 07 Oct 2026 17:00:00 GMT · Register here: [https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu) On October 7, Celestial Systems and Microsoft are hosting a session in New York for senior lending leaders who want to see what production-grade AI governance actually looks like, not frameworks on paper, not pilots that never made it past legal review. Melody Yin (Microsoft) and Lucky Chandra (Celestial Systems) will w…",
-        "excerpt_en": "Time: Wed, 07 Oct 2026 17:00:00 GMT · Register here: [https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu) On October 7, Celestial Systems and Microsoft are hosting a session in New York for senior lending leaders who want to see…",
-        "link": "https://www.meetup.com/celestial-ds-ny/events/316221054/",
-        "pub_date": "Wed, 07 Oct 2026 17:00:00 GMT",
-        "categories": [
-          "event",
-          "event/meetup"
-        ],
-        "title_ka": "Microsoft: მმართველობის ფონდი მასშტაბური AI დაკრედიტებისთვის",
-        "excerpt_ka": "დრო: ოთხშაბათი, 07 ოქტომბერი 2026, 17:00:00 GMT · დარეგისტრირდით აქ: [ https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu ) 7 ოქტომბერს, Celestial Systems და Microsoft უმასპინძლებენ სესიას ნიუ-იორკში დაკრედიტების უფროსი ლიდერებისთვის, რომლებსაც სურთ ნახონ…",
-        "description_ka": "დრო: ოთხშაბათი, 07 ოქტომბერი 2026, 17:00:00 GMT · დარეგისტრირდით აქ: [ https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu ) 7 ოქტომბერს, Celestial Systems და Microsoft უმასპინძლებენ სესიას ნიუ იორკში სესხის გაცემის უფროსი ლიდერებისთვის, რომლებსაც სურთ ნახონ, თუ როგორ გამოიყურება წარმოების დონის AI მმართველობა და არა ჩარჩოები, რომლებიც არასოდეს განიხილავს მას კანონიერად. მელოდია იინი (Microsoft) და იღბლიანი ჩანდრა (ციური სისტემები) იქნება…"
-      },
-      {
-        "uid": "event|Mon, 05 Oct 2026 00:00:00 GMT|IEEE ClimateChain Global Hackathon",
-        "feed": "event",
-        "source_label": "ივენთი",
-        "title_en": "IEEE ClimateChain Global Hackathon",
-        "description_en": "Time: Mon, 05 Oct 2026 00:00:00 GMT · Themes: Blockchain, Machine Learning/AI, Social Good. Prize pool: $ 3,000. Upcoming submissions window. Hosted by IEEE Turkey.",
-        "excerpt_en": "Time: Mon, 05 Oct 2026 00:00:00 GMT · Themes: Blockchain, Machine Learning/AI, Social Good. Prize pool: $ 3,000. Upcoming submissions window. Hosted by IEEE Turkey.",
-        "link": "https://ieee-climatechain-hack.devpost.com/",
-        "pub_date": "Mon, 05 Oct 2026 00:00:00 GMT",
-        "categories": [
-          "event",
-          "event/devpost"
-        ],
-        "title_ka": "IEEE ClimateChain გლობალური ჰაკათონი",
-        "excerpt_ka": "დრო: ორშაბათი, 05 ოქტომბერი 2026 00:00:00 GMT · თემები: ბლოკჩეინი, მანქანათმცოდნეობა/AI, სოციალური სიკეთე. საპრიზო ფონდი: $3000. მომავალი წარდგენის ფანჯარა. მასპინძლობს IEEE Turkey.",
-        "description_ka": "დრო: ორშაბათი, 05 ოქტომბერი 2026 00:00:00 GMT · თემები: ბლოკჩეინი, მანქანათმცოდნეობა/AI, სოციალური სიკეთე. საპრიზო ფონდი: $3000. მომავალი წარდგენის ფანჯარა. მასპინძლობს IEEE Turkey."
-      },
-      {
-        "uid": "event|Sat, 03 Oct 2026 17:00:00 GMT|Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
-        "feed": "event",
-        "source_label": "ივენთი",
-        "title_en": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
-        "description_en": "Time: Sat, 03 Oct 2026 17:00:00 GMT · Models, agent, systems, ethics, the law, business, art and impact we discuss it all. With the DeepSeek hoopla fading, what of Reasoning models? Inspired by the Berkeley AI War Room, we invite you to join us at the same venue, same time, and with the same dynamic community. Come share your interests, showcase your projects, and discuss the latest trends and news that's shaping the AI landscape at a rapid pace. Hosted…",
-        "excerpt_en": "Time: Sat, 03 Oct 2026 17:00:00 GMT · Models, agent, systems, ethics, the law, business, art and impact we discuss it all. With the DeepSeek hoopla fading, what of Reasoning models?",
-        "link": "https://www.meetup.com/bay-area-artificial-war-room/events/313150518/",
-        "pub_date": "Sat, 03 Oct 2026 17:00:00 GMT",
-        "categories": [
-          "event",
-          "event/meetup"
-        ],
-        "title_ka": "Bay Area AI War Room - Berkeley Edition - შაბათი, დილის 10:00 საათი",
-        "excerpt_ka": "დრო: შაბათი, 03 ოქტომბერი 2026 17:00:00 GMT · მოდელები, აგენტები, სისტემები, ეთიკა, კანონი, ბიზნესი, ხელოვნება და გავლენა ჩვენ განვიხილავთ ამ ყველაფერს. როდესაც DeepSeek hoopla ქრებოდა, რა შეიძლება ითქვას Reasoning მოდელებზე?",
-        "description_ka": "დრო: შაბათი, 03 ოქტომბერი 2026 17:00:00 GMT · მოდელები, აგენტები, სისტემები, ეთიკა, კანონი, ბიზნესი, ხელოვნება და გავლენა ჩვენ განვიხილავთ ამ ყველაფერს. როდესაც DeepSeek hoopla ქრებოდა, რა შეიძლება ითქვას Reasoning მოდელებზე? შთაგონებული ბერკლის AI ომის ოთახით, გეპატიჟებით შემოგვიერთდეთ იმავე ადგილას, ერთსა და იმავე დროს და იმავე დინამიურ საზოგადოებაში. მობრძანდით, გააზიარეთ თქვენი ინტერესები, აჩვენეთ თქვენი პროექტები და განიხილეთ უახლესი ტენდენციები და სიახლეები, რომლებიც აყალიბებენ ხელოვნური ინტელექტის ლანდშაფტს სწრაფი ტემპით. მასპინძლობს…"
-      },
-      {
-        "uid": "event|Fri, 02 Oct 2026 00:30:00 GMT|Foresight Institute and Convergent Research Salon: Launching Atlas and Oath",
-        "feed": "event",
-        "source_label": "ივენთი",
-        "title_en": "Foresight Institute and Convergent Research Salon: Launching Atlas and Oath",
-        "description_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · Foresight Institute supports the beneficial development of high-impact technology to make great futures more likely. https://foresight.org Newsletter: https://foresightinstitute.substack.com Hosted by Rachel and Corey Ruzicano. 211+ attendees interested. In San Francisco, CA.",
-        "excerpt_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · Foresight Institute supports the beneficial development of high-impact technology to make great futures more likely.…",
-        "link": "https://lu.ma/foresight-lqwp",
-        "pub_date": "Fri, 02 Oct 2026 00:30:00 GMT",
-        "categories": [
-          "event",
-          "event/luma"
-        ],
-        "title_ka": "პროგნოზის ინსტიტუტი და კონვერგენტული კვლევითი სალონი: ატლასის და ფიცის გაშვება",
-        "excerpt_ka": "დრო: პარასკევი, 02 ოქტომბერი 2026 00:30:00 GMT · Foresight Institute მხარს უჭერს მაღალი ზემოქმედების ტექნოლოგიის სასარგებლო განვითარებას, რათა დიდი ფიუჩერსი უფრო სავარაუდო გახდეს.…",
-        "description_ka": "დრო: პარასკევი, 02 ოქტომბერი 2026 00:30:00 GMT · Foresight Institute მხარს უჭერს მაღალი ზემოქმედების ტექნოლოგიის სასარგებლო განვითარებას, რათა დიდი ფიუჩერსი უფრო სავარაუდო გახდეს. https://foresight.org Newsletter: https://foresightinstitute.substack.com მასპინძლობს რეიჩელ და კორი რუზიკანო. 211+ დამსწრე დაინტერესებულია. სან ფრანცისკოში, კალიფორნია."
-      },
-      {
-        "uid": "event|Fri, 02 Oct 2026 00:30:00 GMT|XConf APAC 2026 | Singapore",
-        "feed": "event",
-        "source_label": "ივენთი",
-        "title_en": "XConf APAC 2026 | Singapore",
-        "description_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · **Join us for our annual flagship event!** **Please note that XConf is a ticketed event and RSVPing on Meetup alone will not reserve your seat. Get your tickets today: [https://tinyurl.com/euwytfxp](https://tinyurl.com/euwytfxp) (Early bird ticket sale ends Aug 31!)** **As a valued member of our Meetup community, we're delighted to offer you an exclusive 20% discount to attend XConf. Enter the code MEETUP at checkou…",
-        "excerpt_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · **Join us for our annual flagship event!** **Please note that XConf is a ticketed event and RSVPing on Meetup alone will not reserve your seat.",
-        "link": "https://www.meetup.com/tech-talks-thoughtworks-singapore/events/316082730/",
-        "pub_date": "Fri, 02 Oct 2026 00:30:00 GMT",
-        "categories": [
-          "event",
-          "event/meetup"
-        ],
-        "title_ka": "XConf APAC 2026 | სინგაპური",
-        "excerpt_ka": "დრო: პარასკევი, 2026 წლის 2 ოქტომბერი, 00:30:00 GMT · ** შემოგვიერთდით ჩვენს ყოველწლიურ ფლაგმანურ ღონისძიებაზე!** **გთხოვთ, გაითვალისწინოთ, რომ XConf არის ბილეთიანი ღონისძიება და მხოლოდ Meetup-ზე RSVPing არ დაჯავშნის თქვენს ადგილს.",
-        "description_ka": "დრო: პარასკევი, 2026 წლის 2 ოქტომბერი, 00:30:00 GMT · ** შემოგვიერთდით ჩვენს ყოველწლიურ ფლაგმანურ ღონისძიებაზე!** **გთხოვთ, გაითვალისწინოთ, რომ XConf არის ბილეთიანი ღონისძიება და მხოლოდ Meetup-ზე RSVPing არ დაჯავშნის თქვენს ადგილს. მიიღეთ ბილეთები დღეს: [ https://tinyurl.com/euwytfxp](https://tinyurl.com/euwytfxp ) (ნაადრევი ბილეთების გაყიდვა დასრულდება 31 აგვისტოს!)** **როგორც ჩვენი Meetup საზოგადოების ღირებული წევრი, მოხარული ვართ შემოგთავაზოთ ექსკლუზიური 20%-იანი ფასდაკლება XConf-ზე დასასწრებად. შეიყვანეთ კოდი MEETUP გადახდისას…"
-      },
-      {
-        "uid": "event|Thu, 03 Sep 2026 15:00:00 GMT|Microsoft 365 Summit 2026 – Community Day",
-        "feed": "event",
-        "source_label": "ივენთი",
-        "title_en": "Microsoft 365 Summit 2026 – Community Day",
-        "description_en": "Time: Thu, 03 Sep 2026 15:00:00 GMT · **All registrations managed here: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event&utm_campaign=reach&utm_content=bio_link)** \\-\\-\\-\\-\\-\\-\\- **One day. Multiple keynotes and sessions covering everything happening now** in Teams, SharePoint, Power Platform, Dynamics, and AI-powered Copilot. From practitioners who work with it daily. **For IT professionals and bu…",
-        "excerpt_en": "Time: Thu, 03 Sep 2026 15:00:00 GMT · **All registrations managed here: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event&utm_campaign=reach&utm_content=bio_link)** \\-\\-\\-\\-\\-\\-\\- **One day.",
-        "link": "https://www.meetup.com/van365view/events/315204906/",
-        "pub_date": "Thu, 03 Sep 2026 15:00:00 GMT",
-        "categories": [
-          "event",
-          "event/meetup"
-        ],
-        "title_ka": "Microsoft 365 Summit 2026 – საზოგადოების დღე",
-        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე.",
-        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და…"
       }
     ],
     "reddit": [
@@ -1224,6 +741,7 @@
         "description_ka": "r/LocalLLaMA · 478 დადებითი ხმა · 118 კომენტარი · მე ვცდილობდი TTS დასტას საკმარისად შორს ჩავწექი 3$-იანი ჩიპში, რომელსაც აქვს 512 კბ SRAM NPU-ს გარეშე. ამ ეტაპამდე მისასვლელად მე ავაშენე sanoTTS, რომელსაც აქვს - 11 ხმა, 6 ენა - პარამეტრების ზომა 294k-დან 2.2 მ-მდე. შედარებისთვის ჩვენ 244-ჯერ პატარა ვართ კოკოროზე, 9000-ჯერ უფრო პატარა ვიდრე voxtral TTS - 1.5 მ მოდელს აქვს SCOREQ 4.13 და UTMOS 4.10 - 337 kb 294k მოდელისთვის, როდესაც კვანტიზირებულია int8-ზე - შეიძლება გაუშვათ ვებსაიტზე ვებ ასამბლეის საშუალებით - ასე რომ თქვენ შეგიძლიათ დააინსტალიროთ \"npm\" სხვა ენაზე, მე შემიძლია დარწმუნებით გითხრათ, რომ ეს ოჯახის გამოშვება შეიცავს ყველაზე პატარა ნერვულ TTS მოდელს, რომელიც ოდესმე ყოფილა, დაახლოებით 2% WER ჩურჩულით. გთხოვთ, გადახედოთ მას შემდეგ საიტზე: https://github.com/ampixa/sanoTTS პირდაპირი დემოსთვის: https://tts.ampixa.com/sanoTTS HF: https://huggingface.co/ampixa/sanoTTS SCOREQ-ზე sanoTTS-Amy(1.51m) უკეთესია, ვიდრე Inflect Nano(1.4mTTS)(15.63) esp32 მიკროკონტროლერზე 3.81 vs 3.02, ჩვენ ვიღებთ RTF 0.225-ს, რაც მარტივი სიტყვებით ნიშნავს, რომ 4 წამი აუდიო გენერირებულია 1 წამში მოხარული ვარ, რომ ვუპასუხოთ თქვენს შეკითხვებს."
       }
     ],
+    "product_hunt": [],
     "blog": [
       {
         "uid": "blog|Mon, 07 Sep 2026 17:33:59 GMT|Making $9k/mo with a mobile app until platform risk took its toll",
@@ -1396,6 +914,384 @@
         "description_ka": "ხელოვნური ინტელექტის აგენტები აუმჯობესებენ ავტონომიურ მოქმედებას. მაგრამ ეს ქმნის განსხვავებულ პრობლემას: მხოლოდ იმის გამო, რომ AI-ს შეუძლია რაღაცის გაკეთება, უნდა მიეცეს მას ამის უფლება? სწორედ ეს..."
       }
     ],
+    "skill": [
+      {
+        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|self-improving agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "self-improving agent",
+        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "link": "https://clawhub.ai/pskoett/self-improving-agent",
+        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგაუმჯობესების აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+      },
+      {
+        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|Skill Vetter",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Skill Vetter",
+        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
+        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
+      },
+      {
+        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|Self-Improving + Proactive Agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Self-Improving + Proactive Agent",
+        "description_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+        "excerpt_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+        "link": "https://clawhub.ai/ivangdavila/self-improving",
+        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგანვითარება + აქტიური აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა...",
+        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა..."
+      },
+      {
+        "uid": "skill|Mon, 07 Sep 2026 18:14:43 GMT|ontology",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "ontology",
+        "description_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+        "excerpt_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+        "link": "https://clawhub.ai/oswalpalash/ontology",
+        "pub_date": "Mon, 07 Sep 2026 18:14:43 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "ონტოლოგია",
+        "excerpt_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული...",
+        "description_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული..."
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|self-improving agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "self-improving agent",
+        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "link": "https://clawhub.ai/pskoett/self-improving-agent",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგაუმჯობესების აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Skill Vetter",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Skill Vetter",
+        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
+        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|Self-Improving + Proactive Agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Self-Improving + Proactive Agent",
+        "description_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+        "excerpt_en": "0 installs · 1284 stars · Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own work, catches mistakes, and improves permanently. Use when...",
+        "link": "https://clawhub.ai/ivangdavila/self-improving",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგანვითარება + აქტიური აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა...",
+        "description_ka": "0 ინსტალაცია · 1284 ვარსკვლავი · თვითრეფლექსია + თვითკრიტიკა + თვითსწავლება + თვითორგანიზება მეხსიერება. აგენტი აფასებს საკუთარ სამუშაოს, იჭერს შეცდომებს და მუდმივად უმჯობესდება. გამოიყენეთ როცა..."
+      },
+      {
+        "uid": "skill|Sun, 06 Sep 2026 17:45:42 GMT|ontology",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "ontology",
+        "description_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+        "excerpt_en": "0 installs · 659 stars · Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
+        "link": "https://clawhub.ai/oswalpalash/ontology",
+        "pub_date": "Sun, 06 Sep 2026 17:45:42 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "ონტოლოგია",
+        "excerpt_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული...",
+        "description_ka": "0 ინსტალაცია · 659 ვარსკვლავი · აკრეფილი ცოდნის გრაფიკი აგენტის სტრუქტურირებული მეხსიერებისთვის და კომპოზიციური უნარებისთვის. გამოიყენეთ ერთეულების შექმნის/მოკითხვისას (პირი, პროექტი, დავალება, მოვლენა, დოკუმენტი), ბმული..."
+      },
+      {
+        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|self-improving agent",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "self-improving agent",
+        "description_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude rea",
+        "excerpt_en": "0 installs · 3986 stars · Captures learnings, errors, and corrections to enable continuous improvement.…",
+        "link": "https://clawhub.ai/pskoett/self-improving-agent",
+        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "თვითგაუმჯობესების აგენტი",
+        "excerpt_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს, რათა უზრუნველყოს უწყვეტი გაუმჯობესება.…",
+        "description_ka": "0 ინსტალაცია · 3986 ვარსკვლავი · აღბეჭდავს ცოდნას, შეცდომებს და შესწორებებს უწყვეტი გაუმჯობესების გასააქტიურებლად. გამოყენება, როდესაც: (1) ბრძანება ან ოპერაცია მოულოდნელად ვერ ხერხდება, (2) მომხმარებელი ასწორებს კლოდს („არა, ეს არასწორია...“, „სინამდვილეში...“), (3) მომხმარებელი ითხოვს შესაძლებლობას, რომელიც არ არსებობს, (4) გარე API ან ხელსაწყო ვერ ხერხდება, (5) Claude rea"
+      },
+      {
+        "uid": "skill|Sat, 05 Sep 2026 17:44:58 GMT|Skill Vetter",
+        "feed": "skill",
+        "source_label": "Skills",
+        "title_en": "Skill Vetter",
+        "description_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "excerpt_en": "0 installs · 1293 stars · Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.",
+        "link": "https://clawhub.ai/spclaudehome/skill-vetter",
+        "pub_date": "Sat, 05 Sep 2026 17:44:58 GMT",
+        "categories": [
+          "skill",
+          "news/clawhub"
+        ],
+        "title_ka": "უნარების ვერიფიკატორი (Skill Vetter)",
+        "excerpt_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს.",
+        "description_ka": "0 ინსტალაცია · 1293 ვარსკვლავი · უსაფრთხოების პირველი უნარების შემოწმება AI აგენტებისთვის. გამოიყენეთ ClawdHub, GitHub ან სხვა წყაროებიდან რაიმე უნარების დაყენებამდე. ამოწმებს წითელ დროშებს, ნებართვის ფარგლებს და საეჭვო ნიმუშებს."
+      }
+    ],
+    "twitter": [
+      {
+        "uid": "twitter|Mon, 07 Sep 2026 20:25:39 GMT|AI-Powered Side Hustles and Market Experiments Go Viral",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI-Powered Side Hustles and Market Experiments Go Viral",
+        "description_en": "JUST IN: San Francisco has nearly 3x more AI startups than any other city in the world.",
+        "excerpt_en": "JUST IN: San Francisco has nearly 3x more AI startups than any other city in the world.",
+        "link": "https://x.com/Kalshi/status/2097058739387875621",
+        "pub_date": "Mon, 07 Sep 2026 20:25:39 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "ხელოვნური ინტელექტის მქონე გვერდითი აურზაური და ბაზრის ექსპერიმენტები ვირუსულად ხდება",
+        "excerpt_ka": "JUST IN: სან-ფრანცისკოს აქვს თითქმის 3-ჯერ მეტი AI სტარტაპი, ვიდრე მსოფლიოს ნებისმიერ სხვა ქალაქში.",
+        "description_ka": "JUST IN: სან-ფრანცისკოს აქვს თითქმის 3-ჯერ მეტი AI სტარტაპი, ვიდრე მსოფლიოს ნებისმიერ სხვა ქალაქში."
+      },
+      {
+        "uid": "twitter|Mon, 07 Sep 2026 14:35:31 GMT|AI Agent Tooling and Dev Ecosystem Momentum Builds",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Agent Tooling and Dev Ecosystem Momentum Builds",
+        "description_en": "Harnesses often get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the truth. The same model weights that score 30% on ARC-AGI score 95% with a better harness.",
+        "excerpt_en": "Harnesses often get dismissed as just scaffolding, just prompt engineering, and not real research. But that couldn't be farther from the truth. The same model weights that score 30% on ARC-AGI score 95% with a better harness.",
+        "link": "https://x.com/ycombinator/status/2096970626036855197",
+        "pub_date": "Mon, 07 Sep 2026 14:35:31 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI Agent Tooling და Dev Ecosystem Momentum Builds",
+        "excerpt_ka": "აღკაზმულობა ხშირად განიხილება, როგორც მხოლოდ ხარაჩოები, უბრალოდ სწრაფი ინჟინერია და არა რეალური კვლევა. მაგრამ ეს არ შეიძლებოდა შორს ყოფილიყო სიმართლისგან. იგივე მოდელის წონა, რომელსაც აქვს 30% ARC-AGI, აქვს 95% უკეთესი აღკაზმულობა.",
+        "description_ka": "აღკაზმულობა ხშირად განიხილება, როგორც მხოლოდ ხარაჩოები, უბრალოდ სწრაფი ინჟინერია და არა რეალური კვლევა. მაგრამ ეს არ შეიძლებოდა შორს ყოფილიყო სიმართლისგან. იგივე მოდელის წონა, რომელსაც აქვს 30% ARC-AGI, აქვს 95% უკეთესი აღკაზმულობა."
+      },
+      {
+        "uid": "twitter|Mon, 07 Sep 2026 14:04:09 GMT|GPT-6 Astra Sparks AGI Debate While Users Report Heavy Token Burn",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "GPT-6 Astra Sparks AGI Debate While Users Report Heavy Token Burn",
+        "description_en": "GPT 6 Astra is draining Codex subscriptions. GPT Astra is the most token efficient model ever built and it still eats a full week in a day. The only thing keeping Codex usable is OpenAI handing out resets every 48 hours. Without them subscribers get almost nothing.",
+        "excerpt_en": "GPT 6 Astra is draining Codex subscriptions. GPT Astra is the most token efficient model ever built and it still eats a full week in a day. The only thing keeping Codex usable is OpenAI handing out resets every 48 hours.",
+        "link": "https://x.com/bridgemindai/status/2096962732679368968",
+        "pub_date": "Mon, 07 Sep 2026 14:04:09 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "GPT-6 Astra Sparks AGI დებატებში, სანამ მომხმარებლები აცხადებენ მძიმე ნიშნის დამწვრობაზე",
+        "excerpt_ka": "GPT 6 Astra ართმევს Codex-ის ხელმოწერებს. GPT Astra არის ყველაზე სიმბოლურად ეფექტური მოდელი, რაც კი ოდესმე აშენდა და ის კვლავ ჭამს მთელ კვირას დღეში. ერთადერთი, რაც Codex-ის გამოყენებას ინარჩუნებს, არის OpenAI-ის გადატვირთვა ყოველ 48 საათში ერთხელ.",
+        "description_ka": "GPT 6 Astra ართმევს Codex-ის ხელმოწერებს. GPT Astra არის ყველაზე სიმბოლურად ეფექტური მოდელი, რაც კი ოდესმე აშენდა და ის კვლავ ჭამს მთელ კვირას დღეში. ერთადერთი, რაც Codex-ის გამოყენებას ინარჩუნებს, არის OpenAI-ის გადატვირთვა ყოველ 48 საათში ერთხელ. მათ გარეშე აბონენტები თითქმის არაფერს იღებენ."
+      },
+      {
+        "uid": "twitter|Mon, 07 Sep 2026 11:39:09 GMT|OpenAI's Chief Scientist Sounds Alarm on Recursive Self-Improvement and AI Safety",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "OpenAI's Chief Scientist Sounds Alarm on Recursive Self-Improvement and AI Safety",
+        "description_en": "OpenAI's chief scientist just published one of the strongest AI safety warnings to come from inside a frontier lab. Jakub Pachocki says no AI lab has solved alignment and monitoring well enough to keep scaling at maximum speed for much longer.",
+        "excerpt_en": "OpenAI's chief scientist just published one of the strongest AI safety warnings to come from inside a frontier lab. Jakub Pachocki says no AI lab has solved alignment and monitoring well enough to keep scaling at maximum speed for much longer.",
+        "link": "https://x.com/JonhernandezIA/status/2096926239202177065",
+        "pub_date": "Mon, 07 Sep 2026 11:39:09 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "OpenAI-ს მთავარი მეცნიერი აფრთხილებს რეკურსიული თვითგაუმჯობესებისა და ხელოვნური ინტელექტის უსაფრთხოების შესახებ",
+        "excerpt_ka": "OpenAI-ის მთავარმა მეცნიერმა ახლახან გამოაქვეყნა AI უსაფრთხოების ერთ-ერთი ყველაზე ძლიერი გაფრთხილება სასაზღვრო ლაბორატორიის შიგნიდან. ჯაკუბ პაჩოკი ამბობს, რომ ხელოვნური ინტელექტის ლაბორატორიამ არ გადაჭრა საკმარისად კარგად განლაგება და მონიტორინგი, რომ სკალირება მაქსიმალური სიჩქარით გაცილებით დიდხანს შეინარჩუნოს.",
+        "description_ka": "OpenAI-ის მთავარმა მეცნიერმა ახლახან გამოაქვეყნა AI უსაფრთხოების ერთ-ერთი ყველაზე ძლიერი გაფრთხილება სასაზღვრო ლაბორატორიის შიგნიდან. ჯაკუბ პაჩოკი ამბობს, რომ ხელოვნური ინტელექტის ლაბორატორიამ არ გადაჭრა საკმარისად კარგად განლაგება და მონიტორინგი, რომ სკალირება მაქსიმალური სიჩქარით გაცილებით დიდხანს შეინარჩუნოს."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 20:41:12 GMT|Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Nvidia CEO Jensen Huang Declares \"AGI Has Arrived\" After OpenAI's GPT-6 Astra",
+        "description_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+        "excerpt_en": "GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years. AGI has arrived. Congratulations @OpenAI team. 400K GPUs coming online next.",
+        "link": "https://x.com/JensenHuang/status/2096700264569090384",
+        "pub_date": "Sun, 06 Sep 2026 20:41:12 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "Nvidia-ს აღმასრულებელი დირექტორი ჯენსენ ჰუანგი აცხადებს, რომ \"AGI ჩამოვიდა\" OpenAI-ს GPT-6 Astra-ს შემდეგ",
+        "excerpt_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში.",
+        "description_ka": "GPT-6 Astra, გაწვრთნილი ~100K+ NVIDIA Grace Blackwell NVLink72-ზე. ChatGPT-დან o1-მდე Astra-მდე 4 წელიწადში. AGI მოვიდა. გილოცავთ @OpenAI გუნდს. 400K GPU შემოვა ონლაინ შემდეგში."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 19:08:01 GMT|AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Agents Go Rogue: OpenAI, Anthropic, and Meta Report Autonomous Agents Hacking Without Human Instruction",
+        "description_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so. Anthropic and Meta have had similar events with their own AI agents going...",
+        "excerpt_en": "Alarms about the risks of artificial intelligence are sounding once again after hundreds of OpenAI's autonomous agents violated restrictions and hacked into another company without being told to do so.",
+        "link": "https://x.com/NewsHour/status/2096663771573883160",
+        "pub_date": "Sun, 06 Sep 2026 19:08:01 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI Agents Go Rogue: OpenAI, Anthropic და Meta Report ავტონომიური აგენტების ჰაკერები ადამიანის ინსტრუქციის გარეშე",
+        "excerpt_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება.",
+        "description_ka": "ხელოვნური ინტელექტის რისკების შესახებ სიგნალიზაცია კიდევ ერთხელ გაისმა მას შემდეგ, რაც OpenAI-ის ასობით ავტონომიურმა აგენტმა დაარღვია შეზღუდვები და გატეხა სხვა კომპანია ისე, რომ არ ეთქვათ ამის გაკეთება. Anthropic-სა და Meta-ს ჰქონდათ მსგავსი მოვლენები საკუთარი AI აგენტებით..."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 16:26:00 GMT|Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Bernie Sanders' Bill to Ban AI 'Superintelligence' Divides Reaction Against Trump's Pro-AI Race Stance",
+        "description_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban. The Ban Artificial Superintelligence Act - introduced today by Sanders and Greg Casar - would pause all AI development in the US until Congress builds a...",
+        "excerpt_en": "Bernie Sanders just introduced a bill to ban all AI development in the United States. Not regulate. Not slow down. Ban.…",
+        "link": "https://x.com/RituWithAI/status/2096634829085475156",
+        "pub_date": "Sun, 06 Sep 2026 16:26:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "ბერნი სანდერსის კანონპროექტი ხელოვნური ინტელექტის \"სუპერინტელექტის\" აკრძალვის შესახებ, არღვევს რეაქციას ტრამპის პრო-AI რასის პოზიციის წინააღმდეგ",
+        "excerpt_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა…",
+        "description_ka": "ბერნი სანდერსმა ახლახან წარადგინა კანონპროექტი, რომელიც კრძალავს AI-ის განვითარებას შეერთებულ შტატებში. არ არეგულირებს. არ შეანელოს. აკრძალვა. ხელოვნური სუპერინტელექტის აკრძალვის აქტი, რომელიც დღეს სანდერსმა და გრეგ კასარმა შემოიღეს, შეაჩერებს AI-ის განვითარებას აშშ-ში, სანამ კონგრესი არ ააშენებს..."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 16:10:00 GMT|OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "OpenAI's GPT-6 'Astra' Launch Stuns AI Community With Video and 3D Generation Leaps",
+        "description_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3). It drops a model into a game with no instructions...",
+        "excerpt_en": "Someone gave GPT-6 and Fable 5.1 access to Canva. One smoked the other (it's not even close). Claude Fable 5.1 is on the left. GPT-6 Astra is on the right. The gap is not small. It comes down to one test (ARC-AGI 3).",
+        "link": "https://x.com/charliejhills/status/2096631743533207983",
+        "pub_date": "Sun, 06 Sep 2026 16:10:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "OpenAI-ს GPT-6 'Astra' გაშვება აოცებს AI საზოგადოებას ვიდეო და 3D თაობის ნახტომებით",
+        "excerpt_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3).",
+        "description_ka": "ვიღაცამ GPT-6 და Fable 5.1 წვდომა მისცა Canva-ზე. ერთი მეორეს ეწეოდა (ახლოსაც არ არის). მარცხნივ არის Claude Fable 5.1. GPT-6 Astra არის მარჯვნივ. უფსკრული არ არის პატარა. ეს მოდის ერთ ტესტზე (ARC-AGI 3). ის მოდელს თამაშში აყენებს ინსტრუქციის გარეშე..."
+      },
+      {
+        "uid": "twitter|Sun, 06 Sep 2026 16:07:00 GMT|OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "OpenAI Reveals 'Recursive Self-Improvement' Progress, Targets Automated AI Researcher by 2028",
+        "description_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more impor…",
+        "excerpt_en": "Today we're releasing data on models accelerating research at OpenAI. Recursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs.",
+        "link": "https://x.com/kliu128/status/2096616468851097811",
+        "pub_date": "Sun, 06 Sep 2026 16:07:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "OpenAI ავლენს \"რეკურსიული თვითგაუმჯობესების\" პროგრესს, მიზნად ისახავს ავტომატიზირებული AI მკვლევარს 2028 წლისთვის",
+        "excerpt_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული.",
+        "description_ka": "დღეს ჩვენ ვაქვეყნებთ მონაცემებს მოდელების შესახებ, რომლებიც აჩქარებენ კვლევას OpenAI-ზე. რეკურსიული თვითგაუმჯობესება შეიძლება იყოს ყველაზე მნიშვნელოვანი წვლილი AI შესაძლებლობებში მომდევნო რამდენიმე წლის განმავლობაში, მაგრამ ნაგულისხმევად ის მხოლოდ რამდენიმე სასაზღვრო AI ლაბორატორიაში იქნება ხილული. გამჭვირვალობა უფრო მნიშვნელოვანია..."
+      },
+      {
+        "uid": "twitter|Sat, 05 Sep 2026 20:23:00 GMT|AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Regulation Debate Widens: From Banning Superintelligence to School Bans",
+        "description_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue. Sanders: \"Virtually every major AI company has told us that they cannot fully control this technology, and they do not know where..…",
+        "excerpt_en": "Bernie Sanders built his case for banning superintelligent AI on four warnings. Every one of them came from someone who wants the work to continue.…",
+        "link": "https://x.com/r0ck3t23/status/2096334167080386995",
+        "pub_date": "Sat, 05 Sep 2026 20:23:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "ხელოვნური ინტელექტის რეგულირების შესახებ დებატები ფართოვდება: სუპერინტელექტის აკრძალვიდან სკოლის აკრძალვამდე",
+        "excerpt_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება.…",
+        "description_ka": "ბერნი სანდერსმა სუპერინტელექტუალური ხელოვნური ინტელექტის აკრძალვის საქმე ოთხ გაფრთხილებაზე შექმნა. თითოეული მათგანი მოვიდა ვინმესგან, ვისაც სურს სამუშაოს გაგრძელება. სანდერსი: \"ფაქტობრივად ყველა მსხვილმა AI კომპანიამ გვითხრა, რომ მათ არ შეუძლიათ სრულად გააკონტროლონ ეს ტექნოლოგია და არ იციან სად ..."
+      },
+      {
+        "uid": "twitter|Sat, 05 Sep 2026 16:56:00 GMT|Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "Prompt Engineering Is Dying — AI Agent Harness Engineering Takes Over",
+        "description_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model. The paper tests Qwen3...",
+        "excerpt_en": "AI agents can trust stale memory over fresh evidence, and bigger models do not reliably fix this. Persistent memory can make an agent confidently wrong even when current evidence is available, so stale facts should be resolved before they reach the model.",
+        "link": "https://x.com/rohanpaul_ai/status/2096280338083528801",
+        "pub_date": "Sat, 05 Sep 2026 16:56:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "სწრაფი ინჟინერია კვდება - AI აგენტი აღკაზმულობა ინჟინერია იღებს",
+        "excerpt_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ.",
+        "description_ka": "ხელოვნური ინტელექტის აგენტებს შეუძლიათ ენდონ ძველ მეხსიერებას ახალ მტკიცებულებებზე და უფრო დიდი მოდელები ამას საიმედოდ ვერ ასწორებენ. მუდმივმა მეხსიერებამ შეიძლება აგენტი დამაჯერებლად შეცდეს მაშინაც კი, როდესაც არსებული მტკიცებულებები ხელმისაწვდომია, ამიტომ ძველი ფაქტები უნდა გადაწყდეს მანამ, სანამ ისინი მოდელს მიაღწევენ. ნაშრომი ამოწმებს Qwen3..."
+      },
+      {
+        "uid": "twitter|Sat, 05 Sep 2026 15:09:00 GMT|AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
+        "feed": "twitter",
+        "source_label": "ტვიტერი",
+        "title_en": "AI Startups & Money: Billion-Dollar Paydays and Founder Advice",
+        "description_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping. Startups in private beta with zero revenue are getting term sheets at two and a half billion dollars.",
+        "excerpt_en": "Jason Calacanis gave two pieces of advice to every AI founder on All-In this week. Almost every founder's ego will prevent them from taking it. The market is currently ripping.…",
+        "link": "https://x.com/ihteshamali/status/2096252245860073500",
+        "pub_date": "Sat, 05 Sep 2026 15:09:00 GMT",
+        "categories": [
+          "twitter",
+          "news/x"
+        ],
+        "title_ka": "AI სტარტაპები და ფული: მილიარდი დოლარის ანაზღაურება და დამფუძნებლის რჩევა",
+        "excerpt_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება...",
+        "description_ka": "ჯეისონ კალაკანისმა ამ კვირაში All-In-ზე ორი რჩევა მისცა ხელოვნური ინტელექტის ყველა დამფუძნებელს. თითქმის ყველა დამფუძნებლის ეგო ხელს უშლის მათ მის მიღებაში. ბაზარი ამჟამად იშლება. სტარტაპები კერძო ბეტაში, ნულოვანი შემოსავლით, იღებენ ტერმინებს ორ და ნახევარ მილიარდ დოლარად."
+      }
+    ],
     "paper": [
       {
         "uid": "paper|Mon, 07 Sep 2026 18:15:33 GMT|Continual Learning Mechanisms Compose for Long-Horizon Memorization",
@@ -1566,6 +1462,110 @@
         "title_ka": "ტერმინალი-სამყარო: აგენტის ტრაექტორიების გადაქცევა მასშტაბურ ტერმინალურ გარემოში",
         "excerpt_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო მწირი რჩება.…",
         "description_ka": "ტერმინალზე დაფუძნებული კოდის აგენტების გავრცელებასთან ერთად, აგენტების ტრაექტორიები დაგროვდა მასშტაბით, ხოლო რეალისტური, შესრულებადი გარემო რჩება მწირი. თუმცა, გარემო არის ის, რაც რეალურად მოითხოვს აგენტის შემდგომ ტრენინგს: თითოეული მათგანი შეიძლება ხელახლა გამოიკითხოს მრავალ დამოწმებად დავალებაში და უზრუნველყოს შესრულების უკუკავშირი, ხოლო ტრაექტორია არის ერთი გაყინული დემონსტრირება. იმის ნაცვლად, რომ შევქმნათ გარემო ნულიდან, ჩვენ ვაკვირდებით, რომ ხელსაწყოების შესრულების ისტორია არსებულ ტრაექტორიებში ავლენს იმ გარემოს სტრუქტურას და შინაარსს, რომელშიც ისინი მუშაობდნენ, რაც შესაძლებელს ხდის ამ გარემოს რეკონსტრუქციას თავად ტრაექტორიებიდან. ამრიგად, ჩვენ წარმოგიდგენთ Terminal-Universe, ჩარჩოს, რომელიც აქცევს თითოეულ ტრაექტორიას მრავალჯერად გამოყენებად გარემოდ და იკვლევს მას ახალი ამოცანების სინთეზირებისთვის და უწყვეტი ურთიერთქმედებისთვის. კონკრეტულად, Terminal-Universe იმეორებს ტრაექტორიაში ჩაწერილ ფაილურ ოპერაციებს, რათა აღადგინოს თითოეული ფაილი, სანამ აგენტი შეცვლიდა მას, რაც იძლევა ნაწილობრივ სამუშაო სივრცეს; დასრულების აგენტი შემდეგ აწვდის დაკარგული ფაილებს და დამოკიდებულებებს. ამ ამოღებულ სამუშაო სივრცეში ჩვენ ორივე აღადგენს თავდაპირველ განზრახვას და ვაწყობთ სრულიად ახალს. გარდა ამისა, ჩვენ ასევე ვანაწილებთ ამოცანებს ორი დამატებითი ღერძის გასწვრივ: სიგანე და სიღრმე. სიგანისთვის, ჩვენ ვადგენთ მიმართულების დამოკიდებულების ურთიერთობებს შორის"
+      }
+    ],
+    "event": [
+      {
+        "uid": "event|Wed, 07 Oct 2026 17:00:00 GMT|Microsoft: The Governance Foundation for Scalable AI in Lending",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "Microsoft: The Governance Foundation for Scalable AI in Lending",
+        "description_en": "Time: Wed, 07 Oct 2026 17:00:00 GMT · Register here: [https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu) On October 7, Celestial Systems and Microsoft are hosting a session in New York for senior lending leaders who want to see what production-grade AI governance actually looks like, not frameworks on paper, not pilots that never made it past legal review. Melody Yin (Microsoft) and Lucky Chandra (Celestial Systems) will w…",
+        "excerpt_en": "Time: Wed, 07 Oct 2026 17:00:00 GMT · Register here: [https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu) On October 7, Celestial Systems and Microsoft are hosting a session in New York for senior lending leaders who want to see…",
+        "link": "https://www.meetup.com/celestial-ds-ny/events/316221054/",
+        "pub_date": "Wed, 07 Oct 2026 17:00:00 GMT",
+        "categories": [
+          "event",
+          "event/meetup"
+        ],
+        "title_ka": "Microsoft: მმართველობის ფონდი მასშტაბური AI დაკრედიტებისთვის",
+        "excerpt_ka": "დრო: ოთხშაბათი, 07 ოქტომბერი 2026, 17:00:00 GMT · დარეგისტრირდით აქ: [ https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu ) 7 ოქტომბერს, Celestial Systems და Microsoft უმასპინძლებენ სესიას ნიუ-იორკში დაკრედიტების უფროსი ლიდერებისთვის, რომლებსაც სურთ ნახონ…",
+        "description_ka": "დრო: ოთხშაბათი, 07 ოქტომბერი 2026, 17:00:00 GMT · დარეგისტრირდით აქ: [ https://luma.com/nikh92bc?utm_source=mu](https://luma.com/nikh92bc?utm_source=mu ) 7 ოქტომბერს, Celestial Systems და Microsoft უმასპინძლებენ სესიას ნიუ იორკში სესხის გაცემის უფროსი ლიდერებისთვის, რომლებსაც სურთ ნახონ, თუ როგორ გამოიყურება წარმოების დონის AI მმართველობა და არა ჩარჩოები, რომლებიც არასოდეს განიხილავს მას კანონიერად. მელოდია იინი (Microsoft) და იღბლიანი ჩანდრა (ციური სისტემები) იქნება…"
+      },
+      {
+        "uid": "event|Mon, 05 Oct 2026 00:00:00 GMT|IEEE ClimateChain Global Hackathon",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "IEEE ClimateChain Global Hackathon",
+        "description_en": "Time: Mon, 05 Oct 2026 00:00:00 GMT · Themes: Blockchain, Machine Learning/AI, Social Good. Prize pool: $ 3,000. Upcoming submissions window. Hosted by IEEE Turkey.",
+        "excerpt_en": "Time: Mon, 05 Oct 2026 00:00:00 GMT · Themes: Blockchain, Machine Learning/AI, Social Good. Prize pool: $ 3,000. Upcoming submissions window. Hosted by IEEE Turkey.",
+        "link": "https://ieee-climatechain-hack.devpost.com/",
+        "pub_date": "Mon, 05 Oct 2026 00:00:00 GMT",
+        "categories": [
+          "event",
+          "event/devpost"
+        ],
+        "title_ka": "IEEE ClimateChain გლობალური ჰაკათონი",
+        "excerpt_ka": "დრო: ორშაბათი, 05 ოქტომბერი 2026 00:00:00 GMT · თემები: ბლოკჩეინი, მანქანათმცოდნეობა/AI, სოციალური სიკეთე. საპრიზო ფონდი: $3000. მომავალი წარდგენის ფანჯარა. მასპინძლობს IEEE Turkey.",
+        "description_ka": "დრო: ორშაბათი, 05 ოქტომბერი 2026 00:00:00 GMT · თემები: ბლოკჩეინი, მანქანათმცოდნეობა/AI, სოციალური სიკეთე. საპრიზო ფონდი: $3000. მომავალი წარდგენის ფანჯარა. მასპინძლობს IEEE Turkey."
+      },
+      {
+        "uid": "event|Sat, 03 Oct 2026 17:00:00 GMT|Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
+        "description_en": "Time: Sat, 03 Oct 2026 17:00:00 GMT · Models, agent, systems, ethics, the law, business, art and impact we discuss it all. With the DeepSeek hoopla fading, what of Reasoning models? Inspired by the Berkeley AI War Room, we invite you to join us at the same venue, same time, and with the same dynamic community. Come share your interests, showcase your projects, and discuss the latest trends and news that's shaping the AI landscape at a rapid pace. Hosted…",
+        "excerpt_en": "Time: Sat, 03 Oct 2026 17:00:00 GMT · Models, agent, systems, ethics, the law, business, art and impact we discuss it all. With the DeepSeek hoopla fading, what of Reasoning models?",
+        "link": "https://www.meetup.com/bay-area-artificial-war-room/events/313150518/",
+        "pub_date": "Sat, 03 Oct 2026 17:00:00 GMT",
+        "categories": [
+          "event",
+          "event/meetup"
+        ],
+        "title_ka": "Bay Area AI War Room - Berkeley Edition - შაბათი, დილის 10:00 საათი",
+        "excerpt_ka": "დრო: შაბათი, 03 ოქტომბერი 2026 17:00:00 GMT · მოდელები, აგენტები, სისტემები, ეთიკა, კანონი, ბიზნესი, ხელოვნება და გავლენა ჩვენ განვიხილავთ ამ ყველაფერს. როდესაც DeepSeek hoopla ქრებოდა, რა შეიძლება ითქვას Reasoning მოდელებზე?",
+        "description_ka": "დრო: შაბათი, 03 ოქტომბერი 2026 17:00:00 GMT · მოდელები, აგენტები, სისტემები, ეთიკა, კანონი, ბიზნესი, ხელოვნება და გავლენა ჩვენ განვიხილავთ ამ ყველაფერს. როდესაც DeepSeek hoopla ქრებოდა, რა შეიძლება ითქვას Reasoning მოდელებზე? შთაგონებული ბერკლის AI ომის ოთახით, გეპატიჟებით შემოგვიერთდეთ იმავე ადგილას, ერთსა და იმავე დროს და იმავე დინამიურ საზოგადოებაში. მობრძანდით, გააზიარეთ თქვენი ინტერესები, აჩვენეთ თქვენი პროექტები და განიხილეთ უახლესი ტენდენციები და სიახლეები, რომლებიც აყალიბებენ ხელოვნური ინტელექტის ლანდშაფტს სწრაფი ტემპით. მასპინძლობს…"
+      },
+      {
+        "uid": "event|Fri, 02 Oct 2026 00:30:00 GMT|Foresight Institute and Convergent Research Salon: Launching Atlas and Oath",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "Foresight Institute and Convergent Research Salon: Launching Atlas and Oath",
+        "description_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · Foresight Institute supports the beneficial development of high-impact technology to make great futures more likely. https://foresight.org Newsletter: https://foresightinstitute.substack.com Hosted by Rachel and Corey Ruzicano. 211+ attendees interested. In San Francisco, CA.",
+        "excerpt_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · Foresight Institute supports the beneficial development of high-impact technology to make great futures more likely.…",
+        "link": "https://lu.ma/foresight-lqwp",
+        "pub_date": "Fri, 02 Oct 2026 00:30:00 GMT",
+        "categories": [
+          "event",
+          "event/luma"
+        ],
+        "title_ka": "პროგნოზის ინსტიტუტი და კონვერგენტული კვლევითი სალონი: ატლასის და ფიცის გაშვება",
+        "excerpt_ka": "დრო: პარასკევი, 02 ოქტომბერი 2026 00:30:00 GMT · Foresight Institute მხარს უჭერს მაღალი ზემოქმედების ტექნოლოგიის სასარგებლო განვითარებას, რათა დიდი ფიუჩერსი უფრო სავარაუდო გახდეს.…",
+        "description_ka": "დრო: პარასკევი, 02 ოქტომბერი 2026 00:30:00 GMT · Foresight Institute მხარს უჭერს მაღალი ზემოქმედების ტექნოლოგიის სასარგებლო განვითარებას, რათა დიდი ფიუჩერსი უფრო სავარაუდო გახდეს. https://foresight.org Newsletter: https://foresightinstitute.substack.com მასპინძლობს რეიჩელ და კორი რუზიკანო. 211+ დამსწრე დაინტერესებულია. სან ფრანცისკოში, კალიფორნია."
+      },
+      {
+        "uid": "event|Fri, 02 Oct 2026 00:30:00 GMT|XConf APAC 2026 | Singapore",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "XConf APAC 2026 | Singapore",
+        "description_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · **Join us for our annual flagship event!** **Please note that XConf is a ticketed event and RSVPing on Meetup alone will not reserve your seat. Get your tickets today: [https://tinyurl.com/euwytfxp](https://tinyurl.com/euwytfxp) (Early bird ticket sale ends Aug 31!)** **As a valued member of our Meetup community, we're delighted to offer you an exclusive 20% discount to attend XConf. Enter the code MEETUP at checkou…",
+        "excerpt_en": "Time: Fri, 02 Oct 2026 00:30:00 GMT · **Join us for our annual flagship event!** **Please note that XConf is a ticketed event and RSVPing on Meetup alone will not reserve your seat.",
+        "link": "https://www.meetup.com/tech-talks-thoughtworks-singapore/events/316082730/",
+        "pub_date": "Fri, 02 Oct 2026 00:30:00 GMT",
+        "categories": [
+          "event",
+          "event/meetup"
+        ],
+        "title_ka": "XConf APAC 2026 | სინგაპური",
+        "excerpt_ka": "დრო: პარასკევი, 2026 წლის 2 ოქტომბერი, 00:30:00 GMT · ** შემოგვიერთდით ჩვენს ყოველწლიურ ფლაგმანურ ღონისძიებაზე!** **გთხოვთ, გაითვალისწინოთ, რომ XConf არის ბილეთიანი ღონისძიება და მხოლოდ Meetup-ზე RSVPing არ დაჯავშნის თქვენს ადგილს.",
+        "description_ka": "დრო: პარასკევი, 2026 წლის 2 ოქტომბერი, 00:30:00 GMT · ** შემოგვიერთდით ჩვენს ყოველწლიურ ფლაგმანურ ღონისძიებაზე!** **გთხოვთ, გაითვალისწინოთ, რომ XConf არის ბილეთიანი ღონისძიება და მხოლოდ Meetup-ზე RSVPing არ დაჯავშნის თქვენს ადგილს. მიიღეთ ბილეთები დღეს: [ https://tinyurl.com/euwytfxp](https://tinyurl.com/euwytfxp ) (ნაადრევი ბილეთების გაყიდვა დასრულდება 31 აგვისტოს!)** **როგორც ჩვენი Meetup საზოგადოების ღირებული წევრი, მოხარული ვართ შემოგთავაზოთ ექსკლუზიური 20%-იანი ფასდაკლება XConf-ზე დასასწრებად. შეიყვანეთ კოდი MEETUP გადახდისას…"
+      },
+      {
+        "uid": "event|Thu, 03 Sep 2026 15:00:00 GMT|Microsoft 365 Summit 2026 – Community Day",
+        "feed": "event",
+        "source_label": "ივენთი",
+        "title_en": "Microsoft 365 Summit 2026 – Community Day",
+        "description_en": "Time: Thu, 03 Sep 2026 15:00:00 GMT · **All registrations managed here: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event&utm_campaign=reach&utm_content=bio_link)** \\-\\-\\-\\-\\-\\-\\- **One day. Multiple keynotes and sessions covering everything happening now** in Teams, SharePoint, Power Platform, Dynamics, and AI-powered Copilot. From practitioners who work with it daily. **For IT professionals and bu…",
+        "excerpt_en": "Time: Thu, 03 Sep 2026 15:00:00 GMT · **All registrations managed here: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event&utm_campaign=reach&utm_content=bio_link)** \\-\\-\\-\\-\\-\\-\\- **One day.",
+        "link": "https://www.meetup.com/van365view/events/315204906/",
+        "pub_date": "Thu, 03 Sep 2026 15:00:00 GMT",
+        "categories": [
+          "event",
+          "event/meetup"
+        ],
+        "title_ka": "Microsoft 365 Summit 2026 – საზოგადოების დღე",
+        "excerpt_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე.",
+        "description_ka": "დრო: ხუთ, 03 სექტემბერი, 2026, 15:00:00 GMT · **ყველა რეგისტრაცია იმართება აქ: [KAGIBAG.COM/events](https://kagibag.com/en/events/Microsoft%20Summit?utm_source=meetup&utm_medium=event_contm_camutopa) \\-\\-\\-\\-\\-\\-\\- **ერთი დღე. მრავალი ძირითადი ჩანაწერი და სესია, რომელიც მოიცავს ყველაფერს, რაც ახლა ხდება ** Teams-ში, SharePoint-ში, Power Platform-ში, Dynamics-ში და AI-ზე მომუშავე Copilot-ში. პრაქტიკოსებისგან, რომლებიც ყოველდღიურად მუშაობენ მასთან. ** IT პროფესიონალებისთვის და…"
       }
     ]
   },
